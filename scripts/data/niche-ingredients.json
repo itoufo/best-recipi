@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "レアスパイス",
+      "ingredients": [
+        { "name": "サフラン", "slug": "saffron", "name_en": "Saffron", "season": "10月〜11月", "origin": "イラン、スペイン" },
+        { "name": "スマック", "slug": "sumac", "name_en": "Sumac", "season": "通年", "origin": "中東" },
+        { "name": "アジョワン", "slug": "ajwain", "name_en": "Ajwain", "season": "通年", "origin": "インド" },
+        { "name": "スターアニス", "slug": "star-anise", "name_en": "Star Anise", "season": "通年", "origin": "中国、ベトナム" },
+        { "name": "マスティック", "slug": "mastic", "name_en": "Mastic", "season": "通年", "origin": "ギリシャ" },
+        { "name": "ザアタル", "slug": "zaatar", "name_en": "Za'atar", "season": "通年", "origin": "中東" }
+      ]
+    },
+    {
+      "name": "珍しいきのこ",
+      "ingredients": [
+        { "name": "ポルチーニ", "slug": "porcini", "name_en": "Porcini", "season": "9月〜11月", "origin": "イタリア、フランス" },
+        { "name": "アミガサタケ", "slug": "morel", "name_en": "Morel", "season": "3月〜5月", "origin": "フランス、北米" },
+        { "name": "タモギタケ", "slug": "tamogitake", "name_en": "Golden Oyster Mushroom", "season": "6月〜9月", "origin": "日本" },
+        { "name": "ヤマブシタケ", "slug": "yamabushitake", "name_en": "Lion's Mane", "season": "8月〜11月", "origin": "日本、中国" },
+        { "name": "トリュフ", "slug": "truffle", "name_en": "Truffle", "season": "11月〜3月", "origin": "イタリア、フランス" }
+      ]
+    },
+    {
+      "name": "古代穀物",
+      "ingredients": [
+        { "name": "アマランサス", "slug": "amaranth", "name_en": "Amaranth", "season": "通年", "origin": "南米" },
+        { "name": "テフ", "slug": "teff", "name_en": "Teff", "season": "通年", "origin": "エチオピア" },
+        { "name": "スペルト小麦", "slug": "spelt", "name_en": "Spelt", "season": "通年", "origin": "ヨーロッパ" },
+        { "name": "キヌア", "slug": "quinoa", "name_en": "Quinoa", "season": "通年", "origin": "南米" },
+        { "name": "フリーカ", "slug": "freekeh", "name_en": "Freekeh", "season": "通年", "origin": "中東" }
+      ]
+    },
+    {
+      "name": "珍しい野菜",
+      "ingredients": [
+        { "name": "コールラビ", "slug": "kohlrabi", "name_en": "Kohlrabi", "season": "11月〜3月", "origin": "ヨーロッパ" },
+        { "name": "ロマネスコ", "slug": "romanesco", "name_en": "Romanesco", "season": "11月〜2月", "origin": "イタリア" },
+        { "name": "チョロギ", "slug": "chorogi", "name_en": "Chinese Artichoke", "season": "11月〜1月", "origin": "中国" },
+        { "name": "ビーツ", "slug": "beets", "name_en": "Beets", "season": "6月〜7月、11月〜12月", "origin": "ヨーロッパ" },
+        { "name": "ケール", "slug": "kale", "name_en": "Kale", "season": "11月〜3月", "origin": "地中海" }
+      ]
+    },
+    {
+      "name": "和の山菜・野草",
+      "ingredients": [
+        { "name": "ムカゴ", "slug": "mukago", "name_en": "Yam Bulbil", "season": "10月〜11月", "origin": "日本" },
+        { "name": "ギョウジャニンニク", "slug": "gyouja-ninniku", "name_en": "Victory Onion", "season": "4月〜5月", "origin": "日本" },
+        { "name": "アケビ", "slug": "akebi", "name_en": "Akebia", "season": "9月〜10月", "origin": "日本" },
+        { "name": "ウド", "slug": "udo", "name_en": "Japanese Spikenard", "season": "3月〜5月", "origin": "日本" },
+        { "name": "ノビル", "slug": "nobiru", "name_en": "Wild Rocambole", "season": "3月〜5月", "origin": "日本" }
+      ]
+    },
+    {
+      "name": "食用花",
+      "ingredients": [
+        { "name": "エルダーフラワー", "slug": "elderflower", "name_en": "Elderflower", "season": "5月〜6月", "origin": "ヨーロッパ" },
+        { "name": "ラベンダー", "slug": "lavender", "name_en": "Lavender", "season": "6月〜8月", "origin": "地中海" },
+        { "name": "バラ", "slug": "rose", "name_en": "Rose", "season": "5月〜6月", "origin": "ペルシャ" },
+        { "name": "食用菊", "slug": "edible-chrysanthemum", "name_en": "Edible Chrysanthemum", "season": "10月〜11月", "origin": "日本、中国" }
+      ]
+    }
+  ]
+}

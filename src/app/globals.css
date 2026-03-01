@@ -1,26 +1,147 @@
 @import "tailwindcss";
 
+/* =============================================
+   Recipi Design System — Tailwind v4
+   ============================================= */
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FAFAF8;
+  --foreground: #2C2C2C;
+  --accent: #D4845C;
+  --accent-dark: #B86E48;
+  --accent-secondary: #2D5A4E;
+  --accent-secondary-light: #3A7566;
+  --muted: #F0EFEC;
+  --muted-foreground: #737068;
+  --border: #E5E3DF;
+  --card: #FFFFFF;
+  --card-foreground: #2C2C2C;
+  --ring: #D4845C;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-accent: var(--accent);
+  --color-accent-dark: var(--accent-dark);
+  --color-accent-secondary: var(--accent-secondary);
+  --color-accent-secondary-light: var(--accent-secondary-light);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-border: var(--border);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-noto-sans), system-ui, sans-serif;
+  --font-serif: var(--font-noto-serif), Georgia, serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+/* =============================================
+   Base Styles
+   ============================================= */
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* =============================================
+   Typography
+   ============================================= */
+
+h1, h2, h3 {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+  color: var(--foreground);
+}
+
+h1 { font-size: clamp(1.75rem, 4vw, 3rem); }
+h2 { font-size: clamp(1.375rem, 3vw, 2rem); }
+h3 { font-size: clamp(1.125rem, 2.5vw, 1.5rem); }
+
+/* =============================================
+   Scrollbar
+   ============================================= */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--muted);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted-foreground);
+}
+
+/* =============================================
+   Selection
+   ============================================= */
+
+::selection {
+  background-color: #D4845C30;
+  color: var(--foreground);
+}
+
+/* =============================================
+   Recipe Prose (step content)
+   ============================================= */
+
+.recipe-prose p {
+  margin-bottom: 0.75em;
+}
+
+.recipe-prose strong {
+  font-weight: 600;
+  color: var(--foreground);
+}
+
+/* =============================================
+   Ad Slot CLS Prevention
+   ============================================= */
+
+/* =============================================
+   Scrollbar-none utility
+   ============================================= */
+
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+
+/* =============================================
+   Ad Slot CLS Prevention
+   ============================================= */
+
+.ad-slot {
+  min-height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--muted);
+  border-radius: 8px;
+}
+
+.ad-slot--rectangle {
+  min-height: 250px;
+}
+
+.ad-slot--leaderboard {
+  min-height: 90px;
 }
