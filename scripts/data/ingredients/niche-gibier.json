@@ -1,0 +1,270 @@
+{
+  "category": "ジビエ・珍しい肉",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "鹿肉（エゾシカ）",
+      "slug": "venison-ezo",
+      "name_en": "Venison (Hokkaido Sika)",
+      "name_reading": "しかにく（えぞしか）",
+      "season": "11月〜2月",
+      "origin": "北海道"
+    },
+    {
+      "name": "鹿肉（ホンシュウジカ）",
+      "slug": "venison-honshu",
+      "name_en": "Venison (Honshu Sika)",
+      "name_reading": "しかにく（ほんしゅうじか）",
+      "season": "11月〜2月",
+      "origin": "長野、岡山、兵庫"
+    },
+    {
+      "name": "猪肉",
+      "slug": "wild-boar",
+      "name_en": "Wild Boar",
+      "name_reading": "ししにく",
+      "season": "11月〜3月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "熊肉",
+      "slug": "bear-meat",
+      "name_en": "Bear Meat",
+      "name_reading": "くまにく",
+      "season": "秋〜冬",
+      "origin": "北海道、東北"
+    },
+    {
+      "name": "雉肉",
+      "slug": "pheasant",
+      "name_en": "Pheasant",
+      "name_reading": "きじにく",
+      "season": "11月〜2月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "鳩肉",
+      "slug": "pigeon",
+      "name_en": "Pigeon",
+      "name_reading": "はとにく",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "山鳩",
+      "slug": "wood-pigeon",
+      "name_en": "Wood Pigeon",
+      "name_reading": "やまはと",
+      "season": "秋〜冬",
+      "origin": "日本全国"
+    },
+    {
+      "name": "うずら肉",
+      "slug": "quail",
+      "name_en": "Quail",
+      "name_reading": "うずらにく",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "真鴨",
+      "slug": "wild-duck",
+      "name_en": "Wild Duck",
+      "name_reading": "まがも",
+      "season": "11月〜2月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "合鴨",
+      "slug": "hybrid-duck",
+      "name_en": "Hybrid Duck",
+      "name_reading": "あいがも",
+      "season": "11月〜2月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "アナグマ肉",
+      "slug": "badger-meat",
+      "name_en": "Badger Meat",
+      "name_reading": "あなぐまにく",
+      "season": "秋〜冬",
+      "origin": "日本全国"
+    },
+    {
+      "name": "タヌキ肉",
+      "slug": "raccoon-dog",
+      "name_en": "Raccoon Dog",
+      "name_reading": "たぬきにく",
+      "season": "秋〜冬",
+      "origin": "日本全国"
+    },
+    {
+      "name": "カモシカ肉",
+      "slug": "serow",
+      "name_en": "Serow",
+      "name_reading": "かもしかにく",
+      "season": "秋〜冬",
+      "origin": "中部地方"
+    },
+    {
+      "name": "ヤギ肉",
+      "slug": "goat-meat",
+      "name_en": "Goat Meat",
+      "name_reading": "やぎにく",
+      "season": "通年",
+      "origin": "沖縄、山羊飼育地"
+    },
+    {
+      "name": "ラム肉",
+      "slug": "lamb",
+      "name_en": "Lamb",
+      "name_reading": "ラムにく",
+      "season": "通年",
+      "origin": "北海道、オーストラリア輸入"
+    },
+    {
+      "name": "マトン",
+      "slug": "mutton",
+      "name_en": "Mutton",
+      "name_reading": "マトン",
+      "season": "通年",
+      "origin": "北海道、オーストラリア輸入"
+    },
+    {
+      "name": "馬肉",
+      "slug": "horse-meat",
+      "name_en": "Horse Meat",
+      "name_reading": "ばにく",
+      "season": "通年",
+      "origin": "熊本、長野、北海道"
+    },
+    {
+      "name": "兎肉",
+      "slug": "rabbit",
+      "name_en": "Rabbit",
+      "name_reading": "うさぎにく",
+      "season": "秋〜冬",
+      "origin": "日本全国"
+    },
+    {
+      "name": "カンガルー肉",
+      "slug": "kangaroo-meat",
+      "name_en": "Kangaroo Meat",
+      "name_reading": "かんがるーにく",
+      "season": "通年",
+      "origin": "オーストラリア輸入"
+    },
+    {
+      "name": "ワニ肉",
+      "slug": "crocodile-meat",
+      "name_en": "Crocodile Meat",
+      "name_reading": "わににく",
+      "season": "通年",
+      "origin": "タイ、輸入"
+    },
+    {
+      "name": "ダチョウ肉",
+      "slug": "ostrich",
+      "name_en": "Ostrich",
+      "name_reading": "だちょうにく",
+      "season": "通年",
+      "origin": "輸入、国内牧場"
+    },
+    {
+      "name": "エミュー肉",
+      "slug": "emu",
+      "name_en": "Emu",
+      "name_reading": "えみゅーにく",
+      "season": "通年",
+      "origin": "オーストラリア輸入"
+    },
+    {
+      "name": "ホロホロ鳥",
+      "slug": "guinea-fowl",
+      "name_en": "Guinea Fowl",
+      "name_reading": "ほろほろどり",
+      "season": "秋〜冬",
+      "origin": "フランス輸入"
+    },
+    {
+      "name": "鹿レバー",
+      "slug": "venison-liver",
+      "name_en": "Venison Liver",
+      "name_reading": "しかればー",
+      "season": "11月〜2月",
+      "origin": "北海道、長野"
+    },
+    {
+      "name": "猪タン",
+      "slug": "wild-boar-tongue",
+      "name_en": "Wild Boar Tongue",
+      "name_reading": "ししたん",
+      "season": "11月〜3月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "鹿ハツ",
+      "slug": "venison-heart",
+      "name_en": "Venison Heart",
+      "name_reading": "しかはつ",
+      "season": "11月〜2月",
+      "origin": "北海道、長野"
+    },
+    {
+      "name": "鹿背ロース",
+      "slug": "venison-loin",
+      "name_en": "Venison Loin",
+      "name_reading": "しかせろーす",
+      "season": "11月〜2月",
+      "origin": "北海道、長野"
+    },
+    {
+      "name": "猪バラ",
+      "slug": "wild-boar-belly",
+      "name_en": "Wild Boar Belly",
+      "name_reading": "しししばら",
+      "season": "11月〜3月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "すっぽん",
+      "slug": "soft-shell-turtle",
+      "name_en": "Soft-shell Turtle",
+      "name_reading": "すっぽん",
+      "season": "通年（夏が最盛期）",
+      "origin": "日本全国"
+    },
+    {
+      "name": "食用カエル",
+      "slug": "edible-frog",
+      "name_en": "Edible Frog",
+      "name_reading": "しょくようかえる",
+      "season": "春〜夏",
+      "origin": "日本全国、フランス輸入"
+    },
+    {
+      "name": "蜂の子",
+      "slug": "bee-larvae",
+      "name_en": "Bee Larvae",
+      "name_reading": "はちのこ",
+      "season": "春〜秋",
+      "origin": "長野、山梨"
+    },
+    {
+      "name": "イナゴ",
+      "slug": "grasshopper",
+      "name_en": "Grasshopper",
+      "name_reading": "いなご",
+      "season": "秋",
+      "origin": "長野、山梨、群馬"
+    },
+    {
+      "name": "ざざむし",
+      "slug": "dragonfly-nymph",
+      "name_en": "Dragonfly Nymph",
+      "name_reading": "ざざむし",
+      "season": "冬",
+      "origin": "長野、山梨"
+    }
+  ]
+}

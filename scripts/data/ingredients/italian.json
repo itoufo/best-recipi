@@ -1,0 +1,269 @@
+{
+  "category": "イタリア食材",
+  "ingredients": [
+    {
+      "name": "パルミジャーノ・レッジャーノ",
+      "slug": "parmigiano-reggiano",
+      "name_en": "Parmigiano Reggiano",
+      "name_reading": "ぱるみじゃーの・れっじゃーの",
+      "season": "通年",
+      "origin": "イタリア エミリア＝ロマーニャ"
+    },
+    {
+      "name": "ペコリーノ・ロマーノ",
+      "slug": "pecorino-romano",
+      "name_en": "Pecorino Romano",
+      "name_reading": "ぺこりーの・ろまーの",
+      "season": "通年",
+      "origin": "イタリア ラツィオ"
+    },
+    {
+      "name": "モッツァレラ",
+      "slug": "mozzarella",
+      "name_en": "Mozzarella",
+      "name_reading": "もっつぁれら",
+      "season": "通年",
+      "origin": "イタリア カンパーニア"
+    },
+    {
+      "name": "ブッラータ",
+      "slug": "burrata",
+      "name_en": "Burrata",
+      "name_reading": "ぶっらーた",
+      "season": "春〜秋",
+      "origin": "イタリア プーリア"
+    },
+    {
+      "name": "リコッタ",
+      "slug": "ricotta",
+      "name_en": "Ricotta",
+      "name_reading": "りこった",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    },
+    {
+      "name": "ゴルゴンゾーラ",
+      "slug": "gorgonzola",
+      "name_en": "Gorgonzola",
+      "name_reading": "ごるごんぞーら",
+      "season": "通年",
+      "origin": "イタリア ロンバルディア"
+    },
+    {
+      "name": "マスカルポーネ",
+      "slug": "mascarpone",
+      "name_en": "Mascarpone",
+      "name_reading": "ますかるぽーね",
+      "season": "通年",
+      "origin": "イタリア ロンバルディア"
+    },
+    {
+      "name": "タレッジョ",
+      "slug": "taleggio",
+      "name_en": "Taleggio",
+      "name_reading": "たれっじょ",
+      "season": "通年",
+      "origin": "イタリア ロンバルディア"
+    },
+    {
+      "name": "グアンチャーレ",
+      "slug": "guanciale",
+      "name_en": "Guanciale",
+      "name_reading": "ぐあんちゃーれ",
+      "season": "通年",
+      "origin": "イタリア ラツィオ"
+    },
+    {
+      "name": "ブレザオラ",
+      "slug": "bresaola",
+      "name_en": "Bresaola",
+      "name_reading": "ぶれざおら",
+      "season": "通年",
+      "origin": "イタリア ロンバルディア"
+    },
+    {
+      "name": "モルタデッラ",
+      "slug": "mortadella",
+      "name_en": "Mortadella",
+      "name_reading": "もるたでった",
+      "season": "通年",
+      "origin": "イタリア ボローニャ"
+    },
+    {
+      "name": "ンドゥイヤ",
+      "slug": "nduja",
+      "name_en": "Nduja",
+      "name_reading": "んどぅいや",
+      "season": "通年",
+      "origin": "イタリア カラブリア"
+    },
+    {
+      "name": "エクストラバージンオリーブオイル",
+      "slug": "extra-virgin-olive-oil-italy",
+      "name_en": "Extra Virgin Olive Oil",
+      "name_reading": "えくすとらばーじんおりーぶおいる",
+      "season": "通年",
+      "origin": "イタリア トスカーナ"
+    },
+    {
+      "name": "アンチョビ",
+      "slug": "anchovy-italy",
+      "name_en": "Anchovy",
+      "name_reading": "あんちょび",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    },
+    {
+      "name": "トマトパッサータ",
+      "slug": "tomato-passata",
+      "name_en": "Tomato Passata",
+      "name_reading": "とまとぱっさーた",
+      "season": "通年",
+      "origin": "イタリア カンパーニア"
+    },
+    {
+      "name": "ドライトマト",
+      "slug": "dried-tomato",
+      "name_en": "Dried Tomato",
+      "name_reading": "どらいとまと",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    },
+    {
+      "name": "ペスト・ジェノヴェーゼ",
+      "slug": "pesto-genovese",
+      "name_en": "Pesto Genovese",
+      "name_reading": "ぺすと・じぇのゔぇーぜ",
+      "season": "春〜夏",
+      "origin": "イタリア リグーリア"
+    },
+    {
+      "name": "パッパルデッレ",
+      "slug": "pappardelle",
+      "name_en": "Pappardelle",
+      "name_reading": "ぱっぱるでって",
+      "season": "通年",
+      "origin": "イタリア トスカーナ"
+    },
+    {
+      "name": "トロフィエ",
+      "slug": "trofie",
+      "name_en": "Trofie",
+      "name_reading": "とろふぃえ",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    },
+    {
+      "name": "ニョッキ",
+      "slug": "gnocchi",
+      "name_en": "Gnocchi",
+      "name_reading": "にょっき",
+      "season": "通年",
+      "origin": "イタリア ピエモンテ"
+    },
+    {
+      "name": "ラザニアシート",
+      "slug": "lasagna-sheets",
+      "name_en": "Lasagna Sheets",
+      "name_reading": "らざにあしーと",
+      "season": "通年",
+      "origin": "イタリア エミリア＝ロマーニャ"
+    },
+    {
+      "name": "ラディッキオ",
+      "slug": "radicchio",
+      "name_en": "Radicchio",
+      "name_reading": "らでぃっきお",
+      "season": "秋〜冬",
+      "origin": "イタリア ヴェネト"
+    },
+    {
+      "name": "トレビス",
+      "slug": "treviso",
+      "name_en": "Treviso",
+      "name_reading": "とれびす",
+      "season": "秋〜冬",
+      "origin": "イタリア ヴェネト"
+    },
+    {
+      "name": "ポルチーニ茸（乾燥）",
+      "slug": "porcini-mushroom-dried",
+      "name_en": "Dried Porcini Mushroom",
+      "name_reading": "ぽるちーにたけ",
+      "season": "通年",
+      "origin": "イタリア トスカーナ"
+    },
+    {
+      "name": "セージ",
+      "slug": "sage-italy",
+      "name_en": "Sage",
+      "name_reading": "せーじ",
+      "season": "春〜秋",
+      "origin": "イタリア トスカーナ"
+    },
+    {
+      "name": "ポレンタ粉",
+      "slug": "polenta-flour",
+      "name_en": "Polenta Flour",
+      "name_reading": "ぽれんた こ",
+      "season": "通年",
+      "origin": "イタリア ロンバルディア"
+    },
+    {
+      "name": "アマレッティ",
+      "slug": "amaretti",
+      "name_en": "Amaretti",
+      "name_reading": "あまれった",
+      "season": "通年",
+      "origin": "イタリア ロンバルディア"
+    },
+    {
+      "name": "カンノーリの皮",
+      "slug": "cannoli-shells",
+      "name_en": "Cannoli Shells",
+      "name_reading": "かんのーりのかわ",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    },
+    {
+      "name": "マルサラ酒",
+      "slug": "marsala-wine",
+      "name_en": "Marsala Wine",
+      "name_reading": "ましゅあらしゅ",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    },
+    {
+      "name": "リモンチェッロ",
+      "slug": "limoncello",
+      "name_en": "Limoncello",
+      "name_reading": "りもんちぇった",
+      "season": "通年",
+      "origin": "イタリア カンパーニア"
+    },
+    {
+      "name": "サンマルツァーノトマト",
+      "slug": "san-marzano-tomato",
+      "name_en": "San Marzano Tomato",
+      "name_reading": "さんまるつぁーのとまと",
+      "season": "夏",
+      "origin": "イタリア カンパーニア"
+    },
+    {
+      "name": "バジル",
+      "slug": "basil-italy",
+      "name_en": "Basil",
+      "name_reading": "ばじる",
+      "season": "春〜秋",
+      "origin": "イタリア リグーリア"
+    },
+    {
+      "name": "オレガノ",
+      "slug": "oregano-italy",
+      "name_en": "Oregano",
+      "name_reading": "おれがの",
+      "season": "通年",
+      "origin": "イタリア シチリア"
+    }
+  ]
+}

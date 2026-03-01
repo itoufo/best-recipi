@@ -1,0 +1,1361 @@
+[
+  {
+    "slug": "mapo-tofu",
+    "title": "麻婆豆腐",
+    "description": "花椒の痺れと豆板醤の辛さが効いた、四川の定番料理。",
+    "introduction": "豆腐を使った四川料理の代表作。花椒のしびれるような辛さと豆板醤の奥深い味わいが特徴です。ご飯が進む一品で、おもてなしにも最適です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 20,
+    "fat_g": 18,
+    "carbs_g": 12,
+    "fiber_g": 2,
+    "sodium_mg": 900,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豆腐をさいの目に切り、塩水で3分茹でて水切りする。",
+        "tip": "下茹ですると崩れにくくなります"
+      },
+      {
+        "step": 2,
+        "text": "豚ひき肉をフライパンで炒め、香りが出たら豆板醤を加えて混ぜる。",
+        "tip": "豆板醤は焦がさないように弱火で炒めます"
+      },
+      {
+        "step": 3,
+        "text": "スープを加え、豆腐を入れて5分ほど煮込む。",
+        "tip": "豆腐は優しく混ぜて煮崩れを防ぎます"
+      },
+      {
+        "step": 4,
+        "text": "塩で味を調え、花椒を振りかける。",
+        "tip": "花椒は最後に加えると香りが引き立ちます"
+      },
+      {
+        "step": 5,
+        "text": "水溶き片栗粉でとろみをつけ、ごま油を垂らして完成。",
+        "tip": "とろみで豆腐に味が絡みやすくなります"
+      }
+    ],
+    "meta_title": "麻婆豆腐の作り方 | 本格四川風レシピ",
+    "meta_description": "花椒が効いた本格麻婆豆腐のレシピ。豆腐の選び方から火加減まで、おいしく作るコツをご紹介します。",
+    "keywords": ["麻婆豆腐", "中華", "四川", "豆腐", "辛い"],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "豆腐は絹ごしを使うと崩れにくく、なめらかな食感に仕上がります。花椒はオンライン通販で購入できます。",
+    "tag_slugs": ["spicy", "umami", "stir-fry", "quick"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "silken-tofu",
+        "name": "絹ごし豆腐",
+        "quantity": "1",
+        "unit": "丁"
+      },
+      {
+        "slug": "ground-pork",
+        "name": "豚ひき肉",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "doubanjiang",
+        "name": "豆板醤",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sichuan-pepper",
+        "name": "花椒",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "chicken-broth",
+        "name": "鶏がらスープ",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "hoikoro",
+    "title": "回鍋肉",
+    "description": "豚肉とキャベツを豆板醤ベースで炒めた、中華の家庭料理。",
+    "introduction": "豚肉の香りとキャベツの甘みが調和した四川料理。豆板醤と甜面醤のバランスが絶妙で、ご飯が進む一皿です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 380,
+    "protein_g": 25,
+    "fat_g": 22,
+    "carbs_g": 15,
+    "fiber_g": 3,
+    "sodium_mg": 820,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚肉を一度茹でて火を通し、冷ましてから薄切りにする。",
+        "tip": "先に茹でることで油の量を減らせます"
+      },
+      {
+        "step": 2,
+        "text": "キャベツを食べやすいサイズに切る。長ねぎはぶつ切りにする。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンに豚肉を入れ、香りが出るまで炒める。",
+        "tip": "油は少量でも焦げ目がつきます"
+      },
+      {
+        "step": 4,
+        "text": "豆板醤と甜面醤を加え、全体に味が絡むまで炒める。",
+        "tip": "弱火で混ぜて香りを立たせます"
+      },
+      {
+        "step": 5,
+        "text": "キャベツと長ねぎを加え、2分ほど炒める。",
+        "tip": "キャベツの食感を残すため、炒めすぎないようにします"
+      }
+    ],
+    "meta_title": "回鍋肉の作り方 | 豚肉とキャベツの中華炒め",
+    "meta_description": "豚肉とキャベツを使った回鍋肉のレシピ。豆板醤の香りが引き立つ、本格的な四川炒めです。",
+    "keywords": ["回鍋肉", "中華", "豚肉", "キャベツ", "四川"],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "豚肉は塩漬けにしたものを使うのが本格的ですが、冷蔵庫の豚肉でも十分おいしく作れます。",
+    "tag_slugs": ["spicy", "stir-fry", "quick", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-belly",
+        "name": "豚バラ肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "cabbage",
+        "name": "キャベツ",
+        "quantity": "1/4",
+        "unit": "個"
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "1/2",
+        "unit": "本"
+      },
+      {
+        "slug": "doubanjiang",
+        "name": "豆板醤",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sweet-bean-sauce",
+        "name": "甜面醤",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "subuta",
+    "title": "酢豚",
+    "description": "豚肉と野菜を甘酢ソースで和えた、中華の人気料理。",
+    "introduction": "揚げた豚肉と野菜が甘酢ソースに絡み、甘辛い味わいが特徴です。子どもから大人まで人気の一品で、ご飯のおかずにぴったりです。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 40,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 420,
+    "protein_g": 22,
+    "fat_g": 24,
+    "carbs_g": 28,
+    "fiber_g": 2,
+    "sodium_mg": 750,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚肉を一口大に切り、塩こしょうして片栗粉をまぶす。",
+        "tip": "片栗粉をコーティングすることで、揚げたときに香ばしくなります"
+      },
+      {
+        "step": 2,
+        "text": "170℃の油で豚肉を揚げ、中火で約3分ほど揚げる。",
+        "tip": "二度揚げすると外がカリッとなります"
+      },
+      {
+        "step": 3,
+        "text": "別のフライパンで甜面醤と酢、砂糖を合わせた甘酢ソースを温める。",
+        "tip": "ソースが沸騰したらトマトケチャップを加えます"
+      },
+      {
+        "step": 4,
+        "text": "パイナップル、ピーマン、玉ねぎを軽く炒めてから甘酢ソースに加える。",
+        "tip": "野菜の食感を残すため、さっと炒めるだけです"
+      },
+      {
+        "step": 5,
+        "text": "揚げた豚肉をソースに入れて絡め、全体が均一になったら完成。",
+        "tip": "最後に揚げた豚肉を入れることで、衣の食感が残ります"
+      }
+    ],
+    "meta_title": "酢豚の作り方 | 本格的な甘酢ソースレシピ",
+    "meta_description": "豚肉と野菜を甘酢ソースで和えた酢豚のレシピ。揚げ方から仕上げまで、おいしく作るコツをご紹介します。",
+    "keywords": ["酢豚", "中華", "豚肉", "甘酢", "揚げ物"],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "パイナップルの缶詰を使うと、手軽に本格的な味に仕上がります。",
+    "tag_slugs": ["sweet", "deep-fry", "crispy", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-loin",
+        "name": "豚ロース肉",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "slug": "pineapple",
+        "name": "パイナップル",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "slug": "green-bell-pepper",
+        "name": "ピーマン",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1/2",
+        "unit": "個"
+      },
+      {
+        "slug": "rice-vinegar",
+        "name": "米酢",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "大さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "tomato-ketchup",
+        "name": "トマトケチャップ",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "chinjarosu",
+    "title": "青椒肉絲",
+    "description": "ピーマンと豚肉を塩辛く炒めた、四川の定番おかず。",
+    "introduction": "ピーマンのほろ苦さと豚肉の香りが絶妙に調和した一品。シンプルな味付けながら、深い味わいが特徴です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 23,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 24,
+    "fat_g": 16,
+    "carbs_g": 8,
+    "fiber_g": 2,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚肉を細切りにし、塩こしょうして薄く片栗粉をまぶす。",
+        "tip": "片栗粉で表面をコーティングするとしっとり仕上がります"
+      },
+      {
+        "step": 2,
+        "text": "ピーマンを縦向きに細切りにする。竹の子も細切りにする。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンに油を熱し、豚肉を炒めて取り出す。",
+        "tip": "強火で手早く炒めることが大切です"
+      },
+      {
+        "step": 4,
+        "text": "同じフライパンでピーマンと竹の子を炒める。",
+        "tip": "2分程度でピーマンの食感が残ります"
+      },
+      {
+        "step": 5,
+        "text": "豚肉を戻し入れ、塩と鶏がらスープで味を調える。",
+        "tip": "最後にごま油を少し垂らすと香りが引き立ちます"
+      }
+    ],
+    "meta_title": "青椒肉絲の作り方 | ピーマンと豚肉の炒めもの",
+    "meta_description": "ピーマンと豚肉を使った青椒肉絲のレシピ。シンプルな味付けで、野菜の味わいを引き出します。",
+    "keywords": ["青椒肉絲", "中華", "ピーマン", "豚肉", "炒めもの"],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "竹の子の缶詰を使うと手軽です。冷蔵庫に残ったピーマンで作るのもおすすめです。",
+    "tag_slugs": ["quick", "stir-fry", "light", "meal-prep"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-loin",
+        "name": "豚ロース肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "green-bell-pepper",
+        "name": "ピーマン",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "bamboo-shoot",
+        "name": "竹の子（水煮）",
+        "quantity": "60",
+        "unit": "g"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "少々",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "ebi-chili",
+    "title": "エビチリ",
+    "description": "プリプリのエビを豆板醤で辛く炒めた、中華の人気料理。",
+    "introduction": "エビの食感と豆板醤の辛さが相まった、ご飯が進む一品。エビの旨味が引き出される調理法で、おもてなしにもぴったりです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 240,
+    "protein_g": 26,
+    "fat_g": 12,
+    "carbs_g": 10,
+    "fiber_g": 1,
+    "sodium_mg": 820,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "エビの背ワタを取り、塩で揉み洗いして水で流す。",
+        "tip": "背ワタをしっかり取ることで、臭みが出ません"
+      },
+      {
+        "step": 2,
+        "text": "エビに塩こしょうと片栗粉をまぶす。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンに油を熱し、エビを炒めて色が変わったら取り出す。",
+        "tip": "エビは加熱しすぎるとかたくなるので注意します"
+      },
+      {
+        "step": 4,
+        "text": "同じフライパンで豆板醤とみじん切りのにんにく、生姜を炒める。",
+        "tip": "豆板醤を焦がさないように弱火で炒めます"
+      },
+      {
+        "step": 5,
+        "text": "ケチャップとスープを加え、エビを戻し入れて絡める。",
+        "tip": "最後に砂糖を少し加えるとバランスが整います"
+      }
+    ],
+    "meta_title": "エビチリの作り方 | プリプリエビの辛炒め",
+    "meta_description": "エビと豆板醤を使ったエビチリのレシピ。エビの処理から火加減まで、おいしく作るコツをご紹介します。",
+    "keywords": ["エビチリ", "中華", "エビ", "辛い", "炒めもの"],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "冷凍エビを使う場合は、事前に解凍して水気をしっかり取ることが大切です。",
+    "tag_slugs": ["spicy", "quick", "stir-fry", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "shrimp",
+        "name": "むきえび",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "doubanjiang",
+        "name": "豆板醤",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片"
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1",
+        "unit": "片"
+      },
+      {
+        "slug": "tomato-ketchup",
+        "name": "トマトケチャップ",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "chicken-broth",
+        "name": "鶏がらスープ",
+        "quantity": "100",
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "slug": "gyoza",
+    "title": "餃子",
+    "description": "豚肉とニラを詰めた、中華の人気点心。",
+    "introduction": "皮の香ばしさと具の香りが絶妙な餃子。焼きたてのアツアツを食べるのが最高です。パーティーやおつまみにもぴったり。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 40,
+    "servings": 2,
+    "servings_unit": "人前（10個）",
+    "difficulty": "medium",
+    "calories": 280,
+    "protein_g": 14,
+    "fat_g": 14,
+    "carbs_g": 22,
+    "fiber_g": 1,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚ひき肉にしょう油、塩、ごま油を混ぜておく。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "ニラをみじん切りにし、豆板醤と混ぜた豚肉に加える。",
+        "tip": "混ぜすぎると繊維が出やすくなるので注意します"
+      },
+      {
+        "step": 3,
+        "text": "餃子の皮に具を小さじ1程度のせ、折りたたんで形を整える。",
+        "tip": "具を入れすぎないことが、きれいに包むコツです"
+      },
+      {
+        "step": 4,
+        "text": "フライパンに油を引き、餃子を並べて強火で焼く。",
+        "tip": "底面が香ばしい茶色になるまで焼きます"
+      },
+      {
+        "step": 5,
+        "text": "水を注いで蓋をし、3分ほど蒸し焼きにする。",
+        "tip": "水が全てなくなったら火を止め、蓋を取ります"
+      }
+    ],
+    "meta_title": "餃子の作り方 | 本格中華点心レシピ",
+    "meta_description": "豚肉とニラを使った餃子のレシピ。包み方から焼き方まで、おいしく作るコツをご紹介します。",
+    "keywords": ["餃子", "中華", "豚肉", "ニラ", "点心"],
+    "cuisine": "中華",
+    "course": "appetizer",
+    "tips": "具を仕込んで冷凍しておくと、食べたい時に焼くだけで楽しめます。",
+    "tag_slugs": ["crispy", "entertaining", "party", "meal-prep"],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {
+        "slug": "ground-pork",
+        "name": "豚ひき肉",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "chives",
+        "name": "ニラ",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "gyoza-skin",
+        "name": "餃子の皮",
+        "quantity": "10",
+        "unit": "枚"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "しょう油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "chahan",
+    "title": "炒飯",
+    "description": "卵とハムが香るシンプルな炒飯、毎日食べたい中華の基本。",
+    "introduction": "あっさりとした塩味の炒飯は、中華料理の基本中の基本。キリッと冷えたご飯を使うことがポイントで、香ばしく仕上がります。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 8,
+    "total_time_minutes": 18,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 380,
+    "protein_g": 14,
+    "fat_g": 14,
+    "carbs_g": 48,
+    "fiber_g": 2,
+    "sodium_mg": 580,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ご飯をほぐし、卵を軽く溶いておく。",
+        "tip": "温かいご飯よりも冷えたご飯が炒めやすいです"
+      },
+      {
+        "step": 2,
+        "text": "フライパンに油を熱し、溶き卵を流し込んで軽く炒める。",
+        "tip": "火を止める直前に入れると、半熟の食感が残ります"
+      },
+      {
+        "step": 3,
+        "text": "ご飯を加えて手早く炒める。粒立たせるように力強く炒めます。",
+        "tip": "ご飯を押しつぶさないことが大切です"
+      },
+      {
+        "step": 4,
+        "text": "ハムとネギを加え、全体に味が絡むまで炒める。",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "塩と鶏がらスープで味を調え、ごま油を垂らして完成。",
+        "tip": "最後にごま油を加えることで香りが引き立ちます"
+      }
+    ],
+    "meta_title": "炒飯の作り方 | シンプルな本格中華レシピ",
+    "meta_description": "卵とハムを使ったシンプルな炒飯のレシピ。ご飯の選び方から炒め方まで、おいしく作るコツをご紹介します。",
+    "keywords": ["炒飯", "チャーハン", "中華", "ご飯", "卵"],
+    "cuisine": "中華",
+    "course": "rice",
+    "tips": "冷えたご飯を使うことで、ご飯の粒が立ちやすくなります。",
+    "tag_slugs": ["quick", "light", "meal-prep", "bento"],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "white-rice",
+        "name": "白ご飯（冷えたもの）",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "ham",
+        "name": "ハム",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "long-onion",
+        "name": "ネギ",
+        "quantity": "1/4",
+        "unit": "本"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "happousai",
+    "title": "八宝菜",
+    "description": "8種類の食材を塩辛く炒めた、栄養満点の中華料理。",
+    "introduction": "野菜とシーフードを豊かに使い、塩辛く仕上げた八宝菜。色鮮やかで、見た目も華やかな一皿です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 320,
+    "protein_g": 18,
+    "fat_g": 14,
+    "carbs_g": 28,
+    "fiber_g": 4,
+    "sodium_mg": 780,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "全ての野菜を食べやすいサイズに切る。エビは背ワタを取り塩で洗う。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "フライパンに油を熱し、硬い野菜から順に炒める。",
+        "tip": "火を通すのに時間がかかる野菜から入れます"
+      },
+      {
+        "step": 3,
+        "text": "エビを加えて炒め、色が変わったら一度取り出す。",
+        "tip": "エビは加熱しすぎるとかたくなるので注意します"
+      },
+      {
+        "step": 4,
+        "text": "塩、鶏がらスープで味を調え、水溶き片栗粉でとろみをつける。",
+        "tip": "とろみがあることで、野菜に味がよく絡みます"
+      },
+      {
+        "step": 5,
+        "text": "エビを戻し入れ、全体に熱が通るまで混ぜて完成。",
+        "tip": "最後にごま油を垂らすと風味が増します"
+      }
+    ],
+    "meta_title": "八宝菜の作り方 | 8種類の食材を使った中華炒め",
+    "meta_description": "野菜とシーフードを使った八宝菜のレシピ。色鮮やかで栄養満点の一皿をご家庭で。",
+    "keywords": ["八宝菜", "中華", "野菜炒め", "エビ", "栄養"],
+    "cuisine": "中華",
+    "course": "main",
+    "tips": "季節の野菜を組み合わせることで、いろいろな味わいを楽しめます。",
+    "tag_slugs": ["light", "stir-fry", "quick", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "shrimp",
+        "name": "むきえび",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "pork-loin",
+        "name": "豚ロース肉",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1/3",
+        "unit": "本"
+      },
+      {
+        "slug": "bamboo-shoot",
+        "name": "竹の子（水煮）",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "shiitake-mushroom",
+        "name": "干し椎茸",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "water-chestnut",
+        "name": "クワイ（または蓮根）",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "cashew",
+        "name": "カシューナッツ",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "banbanji",
+    "title": "棒棒鶏",
+    "description": "茹でた鶏肉をゴマだれで和えた、四川の冷たい一品。",
+    "introduction": "胡麻だれがさっぱりとした鶏肉に絡み、四川風の痺れる辛さが特徴。夏の食卓にぴったりな、冷たい逸品です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 28,
+    "fat_g": 18,
+    "carbs_g": 12,
+    "fiber_g": 2,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉を沸騰したお湯に入れ、15分ほど茹でる。",
+        "tip": "火が通ったら、冷たい水に入れて冷まします"
+      },
+      {
+        "step": 2,
+        "text": "冷めた鶏肉を手で食べやすくさく。キュウリも千切りにする。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "胡麻だれを用意する。練り胡麻、醤油、砂糖、酢、ごま油を混ぜる。",
+        "tip": "好みで豆板醤を加えると、より辛くなります"
+      },
+      {
+        "step": 4,
+        "text": "鶏肉とキュウリを器に盛り、胡麻だれをかける。",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "花椒と白ごま、ネギを振って完成。",
+        "tip": "冷蔵庫で1時間以上冷やすと、より一層おいしく食べられます"
+      }
+    ],
+    "meta_title": "棒棒鶏の作り方 | ゴマだれの冷たい鶏肉",
+    "meta_description": "鶏肉をゴマだれで和えた棒棒鶏のレシピ。冷やして食べるさっぱりとした一品です。",
+    "keywords": ["棒棒鶏", "中華", "鶏肉", "冷たい", "胡麻だれ"],
+    "cuisine": "中華",
+    "course": "main",
+    "tips": "あらかじめゴマだれを冷やしておくと、更に涼しく召し上がれます。",
+    "tag_slugs": ["light", "quick", "raw", "summer"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-breast",
+        "name": "鶏胸肉",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "slug": "cucumber",
+        "name": "きゅうり",
+        "quantity": "1/2",
+        "unit": "本"
+      },
+      {
+        "slug": "sesame-paste",
+        "name": "練り胡麻（白）",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "rice-vinegar",
+        "name": "米酢",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "harumaki",
+    "title": "春巻き",
+    "description": "豚肉と野菜を春巻きの皮で包んで揚げた、中華の定番点心。",
+    "introduction": "揚げたての春巻きは、外がカリカリ、中がジューシー。シンプルながらも、食べ応えのある一品です。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前（8本）",
+    "difficulty": "medium",
+    "calories": 260,
+    "protein_g": 12,
+    "fat_g": 14,
+    "carbs_g": 22,
+    "fiber_g": 1,
+    "sodium_mg": 480,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚ひき肉とみじん切りのニラ、竹の子、たけのこを塩こしょうで炒める。",
+        "tip": "味付けは濃いめにしておくと、春巻きの皮に包んだときにちょうどよくなります"
+      },
+      {
+        "step": 2,
+        "text": "具が冷めたら、春巻きの皮に小さじ2程度のせて包む。",
+        "tip": "具を入れすぎないことが、きれいに包むコツです"
+      },
+      {
+        "step": 3,
+        "text": "皮の端に水溶き片栗粉を塗り、最後にしっかり閉じる。",
+        "tip": "水溶き片栗粉が接着剤の役割をしてくれます"
+      },
+      {
+        "step": 4,
+        "text": "170℃の油で春巻きを揚げる。色が変わったら反対側も揚げる。",
+        "tip": "全体が狐色になるまで揚げましょう"
+      },
+      {
+        "step": 5,
+        "text": "油を切り、温かいうちにお皿に盛って完成。",
+        "tip": "甘酢ソースやからしをつけて食べると、より一層おいしく召し上がれます"
+      }
+    ],
+    "meta_title": "春巻きの作り方 | 揚げたての香ばしい中華点心",
+    "meta_description": "豚肉と野菜を使った春巻きのレシピ。包み方から揚げ方まで、おいしく作るコツをご紹介します。",
+    "keywords": ["春巻き", "中華", "豚肉", "揚げ物", "点心"],
+    "cuisine": "中華",
+    "course": "appetizer",
+    "tips": "春巻きの皮が乾燥しないよう、濡れ布巾をかけておくと包みやすいです。",
+    "tag_slugs": ["crispy", "deep-fry", "entertaining", "party"],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {
+        "slug": "ground-pork",
+        "name": "豚ひき肉",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "chives",
+        "name": "ニラ",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "slug": "bamboo-shoot",
+        "name": "竹の子（水煮）",
+        "quantity": "40",
+        "unit": "g"
+      },
+      {
+        "slug": "shiitake-mushroom",
+        "name": "椎茸",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "spring-roll-wrapper",
+        "name": "春巻きの皮",
+        "quantity": "8",
+        "unit": "枚"
+      }
+    ]
+  },
+  {
+    "slug": "tantanmen",
+    "title": "担々麺",
+    "description": "ゴマの香りと豆板醤の辛さが効いた、四川の辛い麺料理。",
+    "introduction": "胡麻だれと豆板醤のコンビネーションが絶妙な担々麺。辛さの中に甘みと香りが混在する、奥深い味わいです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 480,
+    "protein_g": 18,
+    "fat_g": 18,
+    "carbs_g": 58,
+    "fiber_g": 3,
+    "sodium_mg": 1200,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "スープを用意する。練り胡麻、豆板醤、醤油、砂糖、ごま油を混ぜる。",
+        "tip": "火をかけずに常温で混ぜておきます"
+      },
+      {
+        "step": 2,
+        "text": "豚ひき肉を炒めておき、ネギとミョウガを千切りにする。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "麺を沸騰したお湯で茹で、表示時間通りに火を通す。",
+        "tip": "硬めに仕上げたい場合は、表示時間より1分短めに茹でます"
+      },
+      {
+        "step": 4,
+        "text": "器に胡麻だれを入れ、沸騰したスープを加える。",
+        "tip": "塩辛さを調整しながらスープの量を加えます"
+      },
+      {
+        "step": 5,
+        "text": "麺を入れ、炒めた豚ひき肉、ネギ、ミョウガ、白ごまをのせて完成。",
+        "tip": "冷たく食べたい場合は、スープを冷やして冷麺で作るのもおすすめです"
+      }
+    ],
+    "meta_title": "担々麺の作り方 | ゴマだれと豆板醤の四川麺",
+    "meta_description": "胡麻だれと豆板醤を使った担々麺のレシピ。辛さの中に甘みと香りが混在する、奥深い味わいです。",
+    "keywords": ["担々麺", "中華", "麺類", "辛い", "胡麻"],
+    "cuisine": "中華",
+    "course": "pasta",
+    "tips": "豆板醤の辛さは、砂糖の量で調整できます。辛いのが苦手な場合は、砂糖を少し多めに加えてください。",
+    "tag_slugs": ["spicy", "quick", "umami", "creamy"],
+    "category_slug": "pasta",
+    "ingredients": [
+      {
+        "slug": "wheat-noodle",
+        "name": "中華麺",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "ground-pork",
+        "name": "豚ひき肉",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "sesame-paste",
+        "name": "練り胡麻（白）",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "doubanjiang",
+        "name": "豆板醤",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "ネギ",
+        "quantity": "1/4",
+        "unit": "本"
+      },
+      {
+        "slug": "myoga",
+        "name": "ミョウガ",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "chicken-broth",
+        "name": "鶏がらスープ",
+        "quantity": "300",
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "slug": "shoronpo",
+    "title": "小籠包",
+    "description": "豚肉を詰めた小さな蒸し餃子、中華の高級点心。",
+    "introduction": "薄い皮の中に肉汁がたっぷり詰まった小籠包。ひと口食べるとスープが飛び出す、その瞬間がたまりません。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 42,
+    "servings": 2,
+    "servings_unit": "人前（12個）",
+    "difficulty": "hard",
+    "calories": 220,
+    "protein_g": 12,
+    "fat_g": 10,
+    "carbs_g": 20,
+    "fiber_g": 1,
+    "sodium_mg": 420,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚ひき肉に塩、鶏がらスープ、ごま油を混ぜ、冷蔵庫で冷やす。",
+        "tip": "冷やすことで、肉汁が流れ出にくくなります"
+      },
+      {
+        "step": 2,
+        "text": "ゼラチンを水で戻し、温めて液状にしておく。冷めたら肉に混ぜる。",
+        "tip": "加熱すると肉汁になります"
+      },
+      {
+        "step": 3,
+        "text": "小籠包の皮に具を小さじ1程度のせ、ひだを作りながら包む。",
+        "tip": "ひだは8〜10個が目安です"
+      },
+      {
+        "step": 4,
+        "text": "蒸し器にオーチャード紙を敷き、小籠包を並べる。",
+        "tip": "くっつかないように間隔を開けます"
+      },
+      {
+        "step": 5,
+        "text": "沸騰した蒸し器で12分ほど蒸す。",
+        "tip": "黒酢とおろし生姜をつけて食べるのが本格的です"
+      }
+    ],
+    "meta_title": "小籠包の作り方 | 肉汁たっぷりの蒸し点心",
+    "meta_description": "豚肉を詰めた小籠包のレシピ。肉汁を閉じ込めるコツと、上手な包み方をご紹介します。",
+    "keywords": ["小籠包", "中華", "点心", "豚肉", "蒸し"],
+    "cuisine": "中華",
+    "course": "appetizer",
+    "tips": "ゼラチンを加えることで、蒸したときに肉汁のスープができます。これが小籠包の命です。",
+    "tag_slugs": ["steam", "umami", "chewy", "entertaining"],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {
+        "slug": "ground-pork",
+        "name": "豚ひき肉",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "gelatine",
+        "name": "ゼラチン",
+        "quantity": "3",
+        "unit": "g"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "xiaolongbao-wrapper",
+        "name": "小籠包の皮",
+        "quantity": "12",
+        "unit": "枚"
+      }
+    ]
+  },
+  {
+    "slug": "mapo-nasu",
+    "title": "麻婆茄子",
+    "description": "茄子を豆板醤で炒めた、四川の定番料理。",
+    "introduction": "柔らかい茄子が豆板醤と花椒の風味に包まれた、ご飯が進む一品。シンプルながらも奥深い味わいです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 27,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 240,
+    "protein_g": 14,
+    "fat_g": 14,
+    "carbs_g": 14,
+    "fiber_g": 3,
+    "sodium_mg": 780,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "茄子を乱切りにし、塩水に浸して5分置く。",
+        "tip": "塩水に浸すことで、焦げ色がつきやすくなります"
+      },
+      {
+        "step": 2,
+        "text": "豚ひき肉をフライパンで炒め、豆板醤を加えて香りを立たせる。",
+        "tip": "豆板醤は焦がさないように注意します"
+      },
+      {
+        "step": 3,
+        "text": "水気を切った茄子を加え、全体が色づくまで炒める。",
+        "tip": "茄子は油を吸いやすいので、油を足して対応します"
+      },
+      {
+        "step": 4,
+        "text": "スープと塩で味を調え、3分ほど煮込む。",
+        "tip": "茄子が柔らかくなったことを確認します"
+      },
+      {
+        "step": 5,
+        "text": "水溶き片栗粉でとろみをつけ、花椒とネギを振って完成。",
+        "tip": "最後にごま油を垂らすと香りが引き立ちます"
+      }
+    ],
+    "meta_title": "麻婆茄子の作り方 | 豆板醤が効いた四川炒め",
+    "meta_description": "茄子を使った麻婆茄子のレシピ。豆板醤と花椒の香りが引き立つ、四川料理の定番です。",
+    "keywords": ["麻婆茄子", "中華", "茄子", "四川", "豆板醤"],
+    "cuisine": "中華",
+    "course": "side-dish",
+    "tips": "茄子は塩水に浸すことで、えぐみが取れます。",
+    "tag_slugs": ["spicy", "stir-fry", "quick", "vegetable"],
+    "category_slug": "side-dish",
+    "ingredients": [
+      {
+        "slug": "eggplant",
+        "name": "茄子",
+        "quantity": "2",
+        "unit": "本"
+      },
+      {
+        "slug": "ground-pork",
+        "name": "豚ひき肉",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "doubanjiang",
+        "name": "豆板醤",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sichuan-pepper",
+        "name": "花椒",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "ネギ",
+        "quantity": "少量",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "yurinchi",
+    "title": "油淋鶏",
+    "description": "揚げた鶏肉に油淋ソースをかけた、広東の料理。",
+    "introduction": "カリッと揚げた鶏肉に、甘辛い油淋ソースがたっぷりかかった一品。鶏肉の香ばしさとソースの絶妙な調和が特徴です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 27,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 380,
+    "protein_g": 30,
+    "fat_g": 20,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉に塩こしょうと片栗粉をまぶす。",
+        "tip": "片栗粉で香ばしさが出ます"
+      },
+      {
+        "step": 2,
+        "text": "170℃の油で鶏肉を揚げ、中火で約8分揚げる。",
+        "tip": "中まで火が通ることが大切です"
+      },
+      {
+        "step": 3,
+        "text": "揚げた鶏肉を器に盛り、ネギを散らす。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "油淋ソースを作る。醤油、砂糖、米酢、ごま油、おろし生姜を混ぜる。",
+        "tip": "ソースは温かいままかけます"
+      },
+      {
+        "step": 5,
+        "text": "揚げたての鶏肉に、温かい油淋ソースをたっぷりかけて完成。",
+        "tip": "時間が経つと鶏肉の食感が落ちるので、食べる直前がベストです"
+      }
+    ],
+    "meta_title": "油淋鶏の作り方 | 揚げた鶏肉の甘辛ソースがけ",
+    "meta_description": "揚げた鶏肉に油淋ソースをかけた油淋鶏のレシピ。香ばしい鶏肉とソースの絶妙な調和をご堪能ください。",
+    "keywords": ["油淋鶏", "中華", "鶏肉", "揚げ物", "広東"],
+    "cuisine": "中華",
+    "course": "main",
+    "tips": "鶏肉は丸ごと揚げるのが本格的ですが、モモ肉や手羽先で作るのも良く合います。",
+    "tag_slugs": ["crispy", "deep-fry", "sweet", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-leg",
+        "name": "鶏モモ肉",
+        "quantity": "2",
+        "unit": "本"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "rice-vinegar",
+        "name": "米酢",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜（おろし）",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "ネギ",
+        "quantity": "1/4",
+        "unit": "本"
+      }
+    ]
+  },
+  {
+    "slug": "chinese-congee",
+    "title": "中華粥",
+    "description": "お米をたっぷりの水で煮込んだ、中華の優しい味わい。",
+    "introduction": "豚肉と生姜の香りが立つ中華粥は、朝食にも夜食にも最適。病みあがりの体にも優しく、栄養満点です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 50,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 260,
+    "protein_g": 12,
+    "fat_g": 8,
+    "carbs_g": 36,
+    "fiber_g": 1,
+    "sodium_mg": 580,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚肉を細かく切り、生姜をみじん切りにする。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "鍋に水を入れ、強火で沸騰させる。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "沸騰したら米を加え、かき混ぜながら煮込む。",
+        "tip": "焦げ付かないように、時々混ぜます"
+      },
+      {
+        "step": 4,
+        "text": "豚肉と生姜を加え、30分ほど弱火で煮込む。",
+        "tip": "米が十分に柔らかくなるまで煮ます"
+      },
+      {
+        "step": 5,
+        "text": "塩で味を調え、ネギと白ごまを散らして完成。",
+        "tip": "ザーサイや豆板醤をトッピングしても良く合います"
+      }
+    ],
+    "meta_title": "中華粥の作り方 | 豚肉と生姜の優しい粥",
+    "meta_description": "豚肉と生姜を使った中華粥のレシピ。朝食にも夜食にも最適な、栄養満点の一品です。",
+    "keywords": ["中華粥", "粥", "中華", "豚肉", "朝食"],
+    "cuisine": "中華",
+    "course": "soup",
+    "tips": "中華粥は水の量で食感が変わります。とろっとした粥が好きな場合は、水をやや少なめにしてください。",
+    "tag_slugs": ["light", "simmer", "quick", "comfort"],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "white-rice",
+        "name": "白米",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "slug": "pork-loin",
+        "name": "豚ロース肉",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1",
+        "unit": "片"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "900",
+        "unit": "ml"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "少々",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "ネギ",
+        "quantity": "少量",
+        "unit": ""
+      }
+    ]
+  }
+]

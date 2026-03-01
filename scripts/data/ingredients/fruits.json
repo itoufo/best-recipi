@@ -1,0 +1,381 @@
+{
+  "category": "果物",
+  "ingredients": [
+    {
+      "name": "りんご",
+      "slug": "apple",
+      "name_en": "Apple",
+      "name_reading": "りんご",
+      "season": "9月〜1月",
+      "origin": "青森、長野、山梨"
+    },
+    {
+      "name": "レモン",
+      "slug": "lemon",
+      "name_en": "Lemon",
+      "name_reading": "れもん",
+      "season": "通年",
+      "origin": "広島、愛媛"
+    },
+    {
+      "name": "みかん",
+      "slug": "mandarin",
+      "name_en": "Mandarin Orange",
+      "name_reading": "みかん",
+      "season": "10月〜2月",
+      "origin": "和歌山、愛媛、静岡"
+    },
+    {
+      "name": "オレンジ",
+      "slug": "orange",
+      "name_en": "Orange",
+      "name_reading": "おれんじ",
+      "season": "通年",
+      "origin": "スペイン、イタリア、アメリカ"
+    },
+    {
+      "name": "バナナ",
+      "slug": "banana",
+      "name_en": "Banana",
+      "name_reading": "ばなな",
+      "season": "通年",
+      "origin": "フィリピン、エクアドル"
+    },
+    {
+      "name": "いちご",
+      "slug": "strawberry",
+      "name_en": "Strawberry",
+      "name_reading": "いちご",
+      "season": "12月〜5月",
+      "origin": "栃木、福岡、佐賀"
+    },
+    {
+      "name": "ぶどう",
+      "slug": "grape",
+      "name_en": "Grape",
+      "name_reading": "ぶどう",
+      "season": "7月〜10月",
+      "origin": "山梨、長野、岡山"
+    },
+    {
+      "name": "桃",
+      "slug": "peach",
+      "name_en": "Peach",
+      "name_reading": "もも",
+      "season": "6月〜9月",
+      "origin": "山梨、福島、長野"
+    },
+    {
+      "name": "梨",
+      "slug": "pear",
+      "name_en": "Pear",
+      "name_reading": "なし",
+      "season": "8月〜11月",
+      "origin": "千葉、栃木、茨城"
+    },
+    {
+      "name": "キウイ",
+      "slug": "kiwi",
+      "name_en": "Kiwifruit",
+      "name_reading": "きうい",
+      "season": "11月〜4月",
+      "origin": "ニュージーランド、イタリア"
+    },
+    {
+      "name": "グレープフルーツ",
+      "slug": "grapefruit",
+      "name_en": "Grapefruit",
+      "name_reading": "ぐれーぷふるーつ",
+      "season": "通年",
+      "origin": "南アフリカ、フロリダ"
+    },
+    {
+      "name": "ライム",
+      "slug": "lime",
+      "name_en": "Lime",
+      "name_reading": "らいむ",
+      "season": "通年",
+      "origin": "メキシコ、ブラジル"
+    },
+    {
+      "name": "柚子",
+      "slug": "yuzu",
+      "name_en": "Yuzu",
+      "name_reading": "ゆず",
+      "season": "11月〜2月",
+      "origin": "高知、徳島、佐賀"
+    },
+    {
+      "name": "すだち",
+      "slug": "sudachi",
+      "name_en": "Sudachi",
+      "name_reading": "すだち",
+      "season": "8月〜10月",
+      "origin": "徳島"
+    },
+    {
+      "name": "かぼす",
+      "slug": "kabosu",
+      "name_en": "Kabosu",
+      "name_reading": "かぼす",
+      "season": "8月〜10月",
+      "origin": "大分"
+    },
+    {
+      "name": "梅",
+      "slug": "plum",
+      "name_en": "Plum",
+      "name_reading": "うめ",
+      "season": "5月〜6月",
+      "origin": "和歌山、群馬、長野"
+    },
+    {
+      "name": "柿",
+      "slug": "persimmon",
+      "name_en": "Persimmon",
+      "name_reading": "かき",
+      "season": "9月〜11月",
+      "origin": "奈良、福岡、山形"
+    },
+    {
+      "name": "マンゴー",
+      "slug": "mango",
+      "name_en": "Mango",
+      "name_reading": "まんごー",
+      "season": "4月〜8月",
+      "origin": "宮崎、沖縄、フィリピン"
+    },
+    {
+      "name": "パイナップル",
+      "slug": "pineapple",
+      "name_en": "Pineapple",
+      "name_reading": "ぱいなっぷる",
+      "season": "通年",
+      "origin": "沖縄、フィリピン、タイ"
+    },
+    {
+      "name": "ブルーベリー",
+      "slug": "blueberry",
+      "name_en": "Blueberry",
+      "name_reading": "ぶるーべりー",
+      "season": "6月〜8月",
+      "origin": "北海道、長野"
+    },
+    {
+      "name": "アボカド",
+      "slug": "avocado",
+      "name_en": "Avocado",
+      "name_reading": "あぼかど",
+      "season": "通年",
+      "origin": "メキシコ、ニュージーランド"
+    },
+    {
+      "name": "さくらんぼ",
+      "slug": "cherry",
+      "name_en": "Cherry",
+      "name_reading": "さくらんぼ",
+      "season": "5月〜7月",
+      "origin": "山形、北海道、長野"
+    },
+    {
+      "name": "メロン",
+      "slug": "melon",
+      "name_en": "Melon",
+      "name_reading": "めろん",
+      "season": "5月〜9月",
+      "origin": "北海道、茨城、静岡"
+    },
+    {
+      "name": "スイカ",
+      "slug": "watermelon",
+      "name_en": "Watermelon",
+      "name_reading": "すいか",
+      "season": "6月〜9月",
+      "origin": "熊本、山形、長野"
+    },
+    {
+      "name": "びわ",
+      "slug": "loquat",
+      "name_en": "Loquat",
+      "name_reading": "びわ",
+      "season": "5月〜6月",
+      "origin": "長崎、香川、千葉"
+    },
+    {
+      "name": "いちじく",
+      "slug": "fig",
+      "name_en": "Fig",
+      "name_reading": "いちじく",
+      "season": "8月〜10月",
+      "origin": "愛知、兵庫、長野"
+    },
+    {
+      "name": "ラズベリー",
+      "slug": "raspberry",
+      "name_en": "Raspberry",
+      "name_reading": "らずべりー",
+      "season": "6月〜8月",
+      "origin": "北海道、長野"
+    },
+    {
+      "name": "クランベリー",
+      "slug": "cranberry",
+      "name_en": "Cranberry",
+      "name_reading": "くらんべりー",
+      "season": "11月〜1月",
+      "origin": "アメリカ、カナダ"
+    },
+    {
+      "name": "プルーン",
+      "slug": "prune",
+      "name_en": "Prune",
+      "name_reading": "ぷるーん",
+      "season": "通年",
+      "origin": "アメリカ、フランス"
+    },
+    {
+      "name": "デーツ",
+      "slug": "dates",
+      "name_en": "Dates",
+      "name_reading": "でーつ",
+      "season": "通年",
+      "origin": "イラク、サウジアラビア"
+    },
+    {
+      "name": "シークヮーサー",
+      "slug": "shikwasa",
+      "name_en": "Shikwasa",
+      "name_reading": "しーくゎーさー",
+      "season": "8月〜10月",
+      "origin": "沖縄"
+    },
+    {
+      "name": "金柑",
+      "slug": "kumquat",
+      "name_en": "Kumquat",
+      "name_reading": "きんかん",
+      "season": "11月〜2月",
+      "origin": "宮崎、熊本"
+    },
+    {
+      "name": "文旦",
+      "slug": "pomelo",
+      "name_en": "Pomelo",
+      "name_reading": "ぶんたん",
+      "season": "11月〜3月",
+      "origin": "高知、福岡、佐賀"
+    },
+    {
+      "name": "八朔",
+      "slug": "hassaku",
+      "name_en": "Hassaku",
+      "name_reading": "はっさく",
+      "season": "1月〜3月",
+      "origin": "和歌山、広島、愛媛"
+    },
+    {
+      "name": "ネーベル",
+      "slug": "navel-orange",
+      "name_en": "Navel Orange",
+      "name_reading": "ねーべる",
+      "season": "12月〜3月",
+      "origin": "愛媛、和歌山、浜松"
+    },
+    {
+      "name": "不知火",
+      "slug": "dekopon",
+      "name_en": "Dekopon",
+      "name_reading": "しらぬい",
+      "season": "1月〜3月",
+      "origin": "熊本、和歌山"
+    },
+    {
+      "name": "紅まどんな",
+      "slug": "benimadonna",
+      "name_en": "Beni Madonna",
+      "name_reading": "べにまどんな",
+      "season": "12月〜1月",
+      "origin": "愛媛"
+    },
+    {
+      "name": "甘夏",
+      "slug": "amanatsu",
+      "name_en": "Amanatsu",
+      "name_reading": "あまなつ",
+      "season": "2月〜4月",
+      "origin": "熊本、福岡"
+    },
+    {
+      "name": "洋梨",
+      "slug": "pear-western",
+      "name_en": "Western Pear",
+      "name_reading": "ようなし",
+      "season": "8月〜12月",
+      "origin": "フランス、イタリア"
+    },
+    {
+      "name": "ラ・フランス",
+      "slug": "la-france",
+      "name_en": "La France Pear",
+      "name_reading": "らふらんす",
+      "season": "9月〜12月",
+      "origin": "山形、福岡"
+    },
+    {
+      "name": "ブラックベリー",
+      "slug": "blackberry",
+      "name_en": "Blackberry",
+      "name_reading": "ぶらっくべりー",
+      "season": "7月〜9月",
+      "origin": "北海道、長野"
+    },
+    {
+      "name": "ホワイトマルベリー",
+      "slug": "white-mulberry",
+      "name_en": "White Mulberry",
+      "name_reading": "ほわいとまるべりー",
+      "season": "5月〜7月",
+      "origin": "長野、福岡"
+    },
+    {
+      "name": "ブラッドオレンジ",
+      "slug": "blood-orange",
+      "name_en": "Blood Orange",
+      "name_reading": "ぶらっどおれんじ",
+      "season": "12月〜4月",
+      "origin": "イタリア、スペイン"
+    },
+    {
+      "name": "レッドグレープフルーツ",
+      "slug": "red-grapefruit",
+      "name_en": "Red Grapefruit",
+      "name_reading": "れっどぐれーぷふるーつ",
+      "season": "通年",
+      "origin": "南アフリカ、フロリダ"
+    },
+    {
+      "name": "スターフルーツ",
+      "slug": "star-fruit",
+      "name_en": "Star Fruit",
+      "name_reading": "すたーふるーつ",
+      "season": "8月〜12月",
+      "origin": "タイ、フィリピン"
+    },
+    {
+      "name": "バナナの花",
+      "slug": "banana-flower",
+      "name_en": "Banana Flower",
+      "name_reading": "ばななのはな",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "グリーンキウイ",
+      "slug": "green-kiwi",
+      "name_en": "Green Kiwifruit",
+      "name_reading": "ぐりーんきうい",
+      "season": "11月〜4月",
+      "origin": "ニュージーランド、イタリア"
+    }
+  ]
+}

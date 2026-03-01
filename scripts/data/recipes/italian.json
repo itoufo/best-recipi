@@ -1,0 +1,992 @@
+[
+  {
+    "slug": "carbonara",
+    "title": "カルボナーラ",
+    "description": "卵とチーズの濃厚ソースが絡む、ローマの定番パスタ。",
+    "introduction": "ペコリーノ・ロマーノとグアンチャーレで作る本格派。卵とチーズの絶妙なバランスが生み出す、クリーミーで奥深い味わいを堪能できます。イタリアの伝統を守り続ける一皿です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 650,
+    "protein_g": 24,
+    "fat_g": 32,
+    "carbs_g": 68,
+    "fiber_g": 2,
+    "sodium_mg": 890,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "大きな鍋に塩を加えた水を沸かし、スパゲッティを茹でます。",
+        "tip": "水1リットルに対して小さじ1杯の塩が目安です"
+      },
+      {
+        "step": 2,
+        "text": "グアンチャーレを短冊切りにしてフライパンで弱火で炒め、脂が出るまで加熱します。",
+        "tip": "焦がさないようにゆっくり加熱してください"
+      },
+      {
+        "step": 3,
+        "text": "ボウルに卵、黒胡椒、すりおろしたペコリーノ・ロマーノを混ぜます。",
+        "tip": "温度が高すぎるとスクランブルエッグになるので注意"
+      },
+      {
+        "step": 4,
+        "text": "パスタが茹で上がったら、茹で汁を大さじ2杯取ってから湯切りします。",
+        "tip": "デンプンが含まれた茹で汁がソースの乳化に重要です"
+      },
+      {
+        "step": 5,
+        "text": "グアンチャーレを炒めたフライパンにパスタを入れ、火を弱めます。",
+        "tip": "火加減が重要な工程です"
+      },
+      {
+        "step": 6,
+        "text": "卵とチーズの混合液を加え、素早く混ぜながら乳化させます。必要に応じて茹で汁を足します。",
+        "tip": "混ぜるスピードと温度管理で滑らかなクリーミーなソースが完成します"
+      }
+    ],
+    "meta_title": "本格カルボナーラの作り方 | ローマの伝統レシピ",
+    "meta_description": "卵とペコリーノ・ロマーノで作る本格カルボナーラ。プロのコツと失敗しない作り方を完全解説。",
+    "keywords": ["カルボナーラ", "パスタ", "イタリアン", "ローマ"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "グアンチャーレはパンチェッタで代用できます。乳化がうまくいかない場合は、パスタの温度を少し冷ましてから卵液を加えてください。黒胡椒は仕上げにも振ると香りが引き立ちます。",
+    "tag_slugs": ["rich", "creamy", "quick", "umami"],
+    "category_slug": "pasta",
+    "ingredients": [
+      {"slug": "spaghetti", "name": "スパゲッティ", "quantity": "200", "unit": "g"},
+      {"slug": "guanciale", "name": "グアンチャーレ", "quantity": "100", "unit": "g", "preparation": "短冊切り"},
+      {"slug": "egg", "name": "卵", "quantity": "3", "unit": "個"},
+      {"slug": "pecorino-romano", "name": "ペコリーノ・ロマーノ", "quantity": "50", "unit": "g", "preparation": "すりおろし"},
+      {"slug": "black-pepper", "name": "黒胡椒", "quantity": "適量", "unit": ""}
+    ]
+  },
+  {
+    "slug": "peperoncino",
+    "title": "ペペロンチーノ",
+    "description": "唐辛子とニンニクの香りが引き立つ、シンプルで奥深いパスタ。",
+    "introduction": "イタリアンの中でも最もシンプルながら、ニンニクと唐辛子の香りが織りなす深い味わいが魅力です。オリーブオイルの質感をそのまま活かした、真の職人技が光る一品。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 17,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 520,
+    "protein_g": 18,
+    "fat_g": 24,
+    "carbs_g": 62,
+    "fiber_g": 2,
+    "sodium_mg": 450,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "スパゲッティを塩水で茹でます。",
+        "tip": "アルデンテの食感を心がけてください"
+      },
+      {
+        "step": 2,
+        "text": "ニンニクを薄くスライスし、唐辛子は種を取り除いて輪切りにします。",
+        "tip": "ニンニクは焦げやすいので細かく切らないこと"
+      },
+      {
+        "step": 3,
+        "text": "フライパンにオリーブオイルを入れ、弱火でニンニクと唐辛子を炒めます。",
+        "tip": "香りが出たら、ニンニクが色づく前に次のステップへ"
+      },
+      {
+        "step": 4,
+        "text": "パスタが茹で上がったら茹で汁を大さじ2杯取り、フライパンに加えます。",
+        "tip": "デンプンが含まれた茹で汁がソースを作ります"
+      },
+      {
+        "step": 5,
+        "text": "パスタをフライパンに入れ、素早く混ぜてからめます。",
+        "tip": "パスタ自体がソースです、素早く混ぜるのがコツ"
+      }
+    ],
+    "meta_title": "ペペロンチーノの本格作り方 | シンプルイタリアン",
+    "meta_description": "ニンニクと唐辛子のみで作る本格ペペロンチーノ。失敗しない火加減とコツを完全解説。",
+    "keywords": ["ペペロンチーノ", "パスタ", "イタリアン", "簡単"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "上質なエクストラバージンオリーブオイルを使うとさらに美味しくなります。唐辛子の辛さはお好みで調整してください。できあがったら黒胡椒をかけても良いでしょう。",
+    "tag_slugs": ["spicy", "quick", "light", "umami"],
+    "category_slug": "pasta",
+    "ingredients": [
+      {"slug": "spaghetti", "name": "スパゲッティ", "quantity": "200", "unit": "g"},
+      {"slug": "garlic", "name": "ニンニク", "quantity": "3", "unit": "片", "preparation": "薄切り"},
+      {"slug": "red-chili", "name": "赤唐辛子", "quantity": "1", "unit": "本"},
+      {"slug": "olive-oil", "name": "エクストラバージンオリーブオイル", "quantity": "60", "unit": "ml"},
+      {"slug": "salt", "name": "塩", "quantity": "適量", "unit": ""}
+    ]
+  },
+  {
+    "slug": "bolognese",
+    "title": "ボロネーゼ",
+    "description": "牛ひき肉と野菜の濃厚な赤いソースが特徴のパスタ。",
+    "introduction": "ボローニャ発祥の伝統的なミートソース。牛肉、豚肉、野菜を長時間煮詰めることで、複雑で奥深い味わいが生まれます。本格的なイタリアンの代表作です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 105,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 580,
+    "protein_g": 28,
+    "fat_g": 22,
+    "carbs_g": 64,
+    "fiber_g": 3,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "玉ねぎ、人参、セロリをみじん切りにします。",
+        "tip": "細かく切ることで溶け込みやすくなります"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにオリーブオイルを入れ、野菜を弱火で炒めます。",
+        "tip": "野菜がしんなりするまで8分程度"
+      },
+      {
+        "step": 3,
+        "text": "牛ひき肉と豚ひき肉を加え、中火で色が変わるまで炒めます。",
+        "tip": "肉をほぐしながら炒めてください"
+      },
+      {
+        "step": 4,
+        "text": "トマト缶とトマトペーストを加え、塩で味を調えます。",
+        "tip": "弱火で長時間煮詰めることが重要"
+      },
+      {
+        "step": 5,
+        "text": "蓋をして弱火で45分から90分、時々かき混ぜながら煮込みます。",
+        "tip": "長く煮込むほど味わい深くなります"
+      },
+      {
+        "step": 6,
+        "text": "パスタを茹でて、ソースと絡めます。パルミジャーノ・レッジャーノをかけて完成。",
+        "tip": "ソースがパスタに絡むように手早く混ぜてください"
+      }
+    ],
+    "meta_title": "本格ボロネーゼの作り方 | イタリアン伝統レシピ",
+    "meta_description": "牛肉と豚肉で作る本格ボロネーゼソース。プロの火加減と長時間煮込みのコツを解説。",
+    "keywords": ["ボロネーゼ", "ミートソース", "パスタ", "イタリアン"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "事前に作り置きして冷凍できます。温め直すときは弱火でゆっくり加熱してください。赤ワインを少し加えると香りが深くなります。",
+    "tag_slugs": ["rich", "umami", "entertaining", "meal-prep"],
+    "category_slug": "pasta",
+    "ingredients": [
+      {"slug": "tagliatelle", "name": "タリアテッレ", "quantity": "400", "unit": "g"},
+      {"slug": "beef-mince", "name": "牛ひき肉", "quantity": "150", "unit": "g"},
+      {"slug": "pork-mince", "name": "豚ひき肉", "quantity": "150", "unit": "g"},
+      {"slug": "onion", "name": "玉ねぎ", "quantity": "1", "unit": "個", "preparation": "みじん切り"},
+      {"slug": "carrot", "name": "人参", "quantity": "1", "unit": "本", "preparation": "みじん切り"},
+      {"slug": "celery", "name": "セロリ", "quantity": "1", "unit": "本", "preparation": "みじん切り"},
+      {"slug": "tomato-can", "name": "トマト缶", "quantity": "400", "unit": "g"},
+      {"slug": "tomato-paste", "name": "トマトペースト", "quantity": "30", "unit": "g"}
+    ]
+  },
+  {
+    "slug": "margherita-pizza",
+    "title": "マルゲリータピザ",
+    "description": "新鮮なモッツァレラと爽やかなバジルが映えるシンプルなピザ。",
+    "introduction": "イタリアの国旗の色を表現した、最もシンプルで美しいピザ。新鮮なモッツァレラチーズとバジルの香りが、トマトソースの酸味と絶妙に調和します。真のイタリアンを味わう一枚です。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 45,
+    "servings": 2,
+    "servings_unit": "枚",
+    "difficulty": "medium",
+    "calories": 480,
+    "protein_g": 16,
+    "fat_g": 18,
+    "carbs_g": 62,
+    "fiber_g": 2,
+    "sodium_mg": 620,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ピザ生地を室温で30分発酵させます。（事前準備済みの場合は省略可）",
+        "tip": "生地の扱いは優しく、丁寧に"
+      },
+      {
+        "step": 2,
+        "text": "生地を伸ばして、ピザストーンまたはオーブンプレートに乗せます。",
+        "tip": "厚さは約3mm、手で丁寧に伸ばしてください"
+      },
+      {
+        "step": 3,
+        "text": "トマトソースを薄く塗ります。",
+        "tip": "ソースが多すぎるとベタベタになります"
+      },
+      {
+        "step": 4,
+        "text": "モッツァレラチーズをちぎって散らします。",
+        "tip": "均等に散らすことでムラなく焼けます"
+      },
+      {
+        "step": 5,
+        "text": "200℃のオーブンで12分焼きます。",
+        "tip": "プレートが熱いとより香ばしく焼けます"
+      },
+      {
+        "step": 6,
+        "text": "焼きあがったら新鮮なバジルを散らし、オリーブオイルを回しかけて完成。",
+        "tip": "熱い状態でバジルを加えることで、香りが活きます"
+      }
+    ],
+    "meta_title": "本格マルゲリータピザの作り方 | イタリアンレシピ",
+    "meta_description": "新鮮なモッツァレラとバジルで作る本格マルゲリータ。オーブン温度とタイミングの完全ガイド。",
+    "keywords": ["マルゲリータ", "ピザ", "イタリアン"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "モッツァレラは焼く直前に加えるとより美しく仕上がります。バジルは新鮮なものを使うことが重要です。冷凍ピザ生地でも作れます。",
+    "tag_slugs": ["quick", "entertaining", "umami", "creamy"],
+    "category_slug": "main",
+    "ingredients": [
+      {"slug": "pizza-dough", "name": "ピザ生地", "quantity": "200", "unit": "g"},
+      {"slug": "tomato-sauce", "name": "トマトソース", "quantity": "80", "unit": "g"},
+      {"slug": "mozzarella", "name": "モッツァレラチーズ", "quantity": "150", "unit": "g"},
+      {"slug": "fresh-basil", "name": "バジル", "quantity": "8", "unit": "枚"},
+      {"slug": "olive-oil", "name": "エクストラバージンオリーブオイル", "quantity": "20", "unit": "ml"},
+      {"slug": "salt", "name": "塩", "quantity": "適量", "unit": ""}
+    ]
+  },
+  {
+    "slug": "caprese",
+    "title": "カプレーゼ",
+    "description": "トマトとモッツァレラの爽やかなサラダ。",
+    "introduction": "カプリ島発祥の、見た目も美しいサラダです。新鮮なトマトとモッツァレラの対比が楽しめ、バジルの香りが爽やかに引き立ちます。夏の食卓の主役に。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 10,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 220,
+    "protein_g": 12,
+    "fat_g": 16,
+    "carbs_g": 8,
+    "fiber_g": 2,
+    "sodium_mg": 380,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "新鮮なトマトを輪切りにします。",
+        "tip": "冷たく冷やしたトマトを使うとさらに爽やか"
+      },
+      {
+        "step": 2,
+        "text": "モッツァレラチーズも同じ厚さで輪切りにします。",
+        "tip": "冷えたものを使ってください"
+      },
+      {
+        "step": 3,
+        "text": "お皿にトマトとモッツァレラを交互に並べます。",
+        "tip": "色合いのバランスを整えてください"
+      },
+      {
+        "step": 4,
+        "text": "新鮮なバジルの葉を散らします。",
+        "tip": "直前に散らすことで香りが活きます"
+      },
+      {
+        "step": 5,
+        "text": "オリーブオイル、バルサミコ酢、塩・黒胡椒をかけて完成。",
+        "tip": "良質なオリーブオイルとバルサミコを使うことがポイント"
+      }
+    ],
+    "meta_title": "カプレーゼの作り方 | 爽やかサマーサラダ",
+    "meta_description": "新鮮なトマトとモッツァレラで作る本格カプレーゼ。材料選びと盛り付けのコツを解説。",
+    "keywords": ["カプレーゼ", "サラダ", "イタリアン", "夏"],
+    "cuisine": "イタリアン",
+    "course": "appetizer",
+    "tips": "食べる直前に仕上げることが大切です。トマトは常温保存が味わい深いです。赤ワインビネガーをバルサミコの代わりに使ってもいいでしょう。",
+    "tag_slugs": ["light", "raw", "quick", "sour"],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {"slug": "tomato", "name": "トマト", "quantity": "2", "unit": "個"},
+      {"slug": "mozzarella", "name": "モッツァレラチーズ", "quantity": "200", "unit": "g"},
+      {"slug": "fresh-basil", "name": "バジル", "quantity": "10", "unit": "枚"},
+      {"slug": "olive-oil", "name": "エクストラバージンオリーブオイル", "quantity": "30", "unit": "ml"},
+      {"slug": "balsamic-vinegar", "name": "バルサミコ酢", "quantity": "15", "unit": "ml"},
+      {"slug": "salt", "name": "塩", "quantity": "適量", "unit": ""}
+    ]
+  },
+  {
+    "slug": "minestrone",
+    "title": "ミネストローネ",
+    "description": "季節の野菜がたっぷり入った、心温まる野菜スープ。",
+    "introduction": "イタリアの家庭の味を代表するスープです。季節ごとに異なる野菜を使うミネストローネは、栄養たっぷりで体を優しく温めます。豆やパスタとの組み合わせが特徴です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 65,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 180,
+    "protein_g": 8,
+    "fat_g": 6,
+    "carbs_g": 26,
+    "fiber_g": 6,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "野菜をすべてカットします。玉ねぎはみじん切り、人参とセロリはいちょう切り、ズッキーニは輪切りです。",
+        "tip": "カットの大きさを統一すると見た目が良くなります"
+      },
+      {
+        "step": 2,
+        "text": "鍋にオリーブオイルを入れ、玉ねぎを炒めてしんなりさせます。",
+        "tip": "弱火で丁寧に炒めてください"
+      },
+      {
+        "step": 3,
+        "text": "他の野菜を加え、軽く炒めます。",
+        "tip": "5分程度で十分です"
+      },
+      {
+        "step": 4,
+        "text": "野菜スープストックを加え、塩で味を調えます。",
+        "tip": "火力は弱火から中火"
+      },
+      {
+        "step": 5,
+        "text": "約30分間、野菜が柔らかくなるまで煮込みます。",
+        "tip": "途中でアクを取ってください"
+      },
+      {
+        "step": 6,
+        "text": "パスタと白いんげん豆を加え、パスタが柔らかくなるまで煮ます。",
+        "tip": "最後にバジルを少し加えるとさらに香りが引き立ちます"
+      }
+    ],
+    "meta_title": "ミネストローネの作り方 | イタリアン野菜スープ",
+    "meta_description": "季節の野菜たっぷり、イタリアンの定番スープ。簡単で栄養満点の作り方を解説。",
+    "keywords": ["ミネストローネ", "スープ", "イタリアン", "野菜"],
+    "cuisine": "イタリアン",
+    "course": "soup",
+    "tips": "余った野菜で作れるので家計にも優しいです。作り置きして冷凍保存も可能。朝食や軽い食事にぴったり。",
+    "tag_slugs": ["light", "umami", "meal-prep", "entertaining"],
+    "category_slug": "soup",
+    "ingredients": [
+      {"slug": "olive-oil", "name": "オリーブオイル", "quantity": "20", "unit": "ml"},
+      {"slug": "onion", "name": "玉ねぎ", "quantity": "1", "unit": "個"},
+      {"slug": "carrot", "name": "人参", "quantity": "1", "unit": "本"},
+      {"slug": "celery", "name": "セロリ", "quantity": "1", "unit": "本"},
+      {"slug": "zucchini", "name": "ズッキーニ", "quantity": "1", "unit": "本"},
+      {"slug": "tomato-can", "name": "トマト缶", "quantity": "200", "unit": "g"},
+      {"slug": "vegetable-stock", "name": "野菜スープストック", "quantity": "800", "unit": "ml"},
+      {"slug": "white-beans", "name": "白いんげん豆", "quantity": "100", "unit": "g"},
+      {"slug": "pasta-small", "name": "小さいパスタ", "quantity": "50", "unit": "g"}
+    ]
+  },
+  {
+    "slug": "tiramisu",
+    "title": "ティラミス",
+    "description": "マスカルポーネとココアが層をなす、イタリアンの代表デザート。",
+    "introduction": "\"私を上へ\"という意味のティラミスは、イタリアンデザートの最高峰です。マスカルポーネの濃厚さと、マスコバド糖、卵、ココアが織りなす複雑な味わいが特徴。冷やして食べると最高です。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 320,
+    "protein_g": 6,
+    "fat_g": 22,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sodium_mg": 45,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵黄にマスコバド糖を加え、白っぽくなるまでよく混ぜます。",
+        "tip": "泡立て器でしっかりと混ぜてください"
+      },
+      {
+        "step": 2,
+        "text": "マスカルポーネを加え、なめらかになるまで混ぜます。",
+        "tip": "ダマができないように丁寧に"
+      },
+      {
+        "step": 3,
+        "text": "卵白をしっかり泡立て、メレンゲを作ります。",
+        "tip": "ツノが立つまで丁寧に"
+      },
+      {
+        "step": 4,
+        "text": "メレンゲをマスカルポーネ液に2回に分けて加え、折り込むように混ぜます。",
+        "tip": "泡を潰さないようにさっくり混ぜる"
+      },
+      {
+        "step": 5,
+        "text": "容器にココアをふるい、マスカルポーネクリームを層状に敷きます。",
+        "tip": "層を何層か重ねるとより美しい"
+      },
+      {
+        "step": 6,
+        "text": "冷蔵庫で最低4時間、できれば一晩冷やします。上からココアをたっぷりふるって完成。",
+        "tip": "冷やすことで味がなじみます"
+      }
+    ],
+    "meta_title": "ティラミスの本格作り方 | イタリアンデザート",
+    "meta_description": "マスカルポーネで作る本格ティラミス。失敗しないコツと層状盛り付けの完全ガイド。",
+    "keywords": ["ティラミス", "デザート", "イタリアン", "マスカルポーネ"],
+    "cuisine": "イタリアン",
+    "course": "dessert",
+    "tips": "卵は新鮮なものを使ってください。ココアは無糖がおすすめです。ちょっぴりマルサラワインを加えるとより本格的になります。",
+    "tag_slugs": ["sweet", "rich", "creamy", "entertaining"],
+    "category_slug": "dessert",
+    "ingredients": [
+      {"slug": "egg-yolk", "name": "卵黄", "quantity": "3", "unit": "個"},
+      {"slug": "mascarpone", "name": "マスカルポーネチーズ", "quantity": "250", "unit": "g"},
+      {"slug": "brown-sugar", "name": "マスコバド糖", "quantity": "50", "unit": "g"},
+      {"slug": "egg-white", "name": "卵白", "quantity": "3", "unit": "個"},
+      {"slug": "cocoa-powder", "name": "無糖ココアパウダー", "quantity": "15", "unit": "g"},
+      {"slug": "coffee", "name": "濃いコーヒー", "quantity": "100", "unit": "ml"}
+    ]
+  },
+  {
+    "slug": "acqua-pazza",
+    "title": "アクアパッツァ",
+    "description": "水と塩とトマトで仕上げた、シンプルな魚の白ワイン煮。",
+    "introduction": "\"狂った水\"という意味のアクアパッツァは、新鮮な白身魚をトマトとオリーブの香りで仕上げた一皿。シンプルながら奥深い、南イタリアの恵みを感じられます。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 280,
+    "protein_g": 32,
+    "fat_g": 12,
+    "carbs_g": 8,
+    "fiber_g": 2,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "白身魚の塩辛い部分を少し取り除き、塩をふります。",
+        "tip": "15分置いて、軽く拭き取る"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにオリーブオイルを入れ、魚の両面をさっと焼きます。",
+        "tip": "焼きすぎないように注意"
+      },
+      {
+        "step": 3,
+        "text": "魚を取り出し、同じフライパンにニンニク、唐辛子を入れ香りを立たせます。",
+        "tip": "焦げないように弱火で"
+      },
+      {
+        "step": 4,
+        "text": "白ワインを加え、アルコールを飛ばします。",
+        "tip": "アルコール臭が消えるまで30秒程度"
+      },
+      {
+        "step": 5,
+        "text": "トマト、オリーブ、キャパー、プチトマトを加え、魚を戻します。",
+        "tip": "弱火で蓋をして8分程度"
+      },
+      {
+        "step": 6,
+        "text": "イタリアンパセリを散らして完成。スープも一緒に器に注ぎます。",
+        "tip": "白身魚の旨味がスープに出ています"
+      }
+    ],
+    "meta_title": "アクアパッツァの本格作り方 | イタリアン魚料理",
+    "meta_description": "新鮮な白身魚で作る本格アクアパッツァ。南イタリアの味を家庭で再現するコツ。",
+    "keywords": ["アクアパッツァ", "魚", "イタリアン", "白ワイン"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "新鮮な白身魚（スズキやイシダイ）を使ってください。ホイル焼きにするバージョンもあります。パンとワインとの相性が抜群。",
+    "tag_slugs": ["light", "umami", "quick", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {"slug": "white-fish", "name": "白身魚", "quantity": "400", "unit": "g"},
+      {"slug": "olive-oil", "name": "オリーブオイル", "quantity": "30", "unit": "ml"},
+      {"slug": "garlic", "name": "ニンニク", "quantity": "2", "unit": "片"},
+      {"slug": "cherry-tomato", "name": "プチトマト", "quantity": "150", "unit": "g"},
+      {"slug": "black-olives", "name": "黒オリーブ", "quantity": "50", "unit": "g"},
+      {"slug": "white-wine", "name": "白ワイン", "quantity": "100", "unit": "ml"},
+      {"slug": "parsley", "name": "イタリアンパセリ", "quantity": "10", "unit": "g"}
+    ]
+  },
+  {
+    "slug": "risotto-alla-milanese",
+    "title": "リゾット・アッラ・ミラネーゼ",
+    "description": "サフランが香る、ミラノ発祥のリゾット。",
+    "introduction": "北イタリア・ミラノの伝統的なリゾットです。サフランの高貴な香りと、ブイヨンでゆっくり炊き上げたお米の粘り感が、贅沢な味わいを生み出します。特別な日の主役に。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 420,
+    "protein_g": 14,
+    "fat_g": 14,
+    "carbs_g": 58,
+    "fiber_g": 1,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ビーフブイヨンを温めておきます。",
+        "tip": "温かいまま使うことが重要"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにバターを入れ、玉ねぎのみじん切りを柔らかくなるまで炒めます。",
+        "tip": "玉ねぎを甘くすることが味のベース"
+      },
+      {
+        "step": 3,
+        "text": "アルボリオ米を加え、透き通るまで炒めます。",
+        "tip": "1分から2分程度"
+      },
+      {
+        "step": 4,
+        "text": "白ワインを加え、アルコールが飛ぶまで炒めます。",
+        "tip": "米がワインを吸収する音に注目"
+      },
+      {
+        "step": 5,
+        "text": "ブイヨンをお玉1杯分ずつ加え、米が液を吸収するたびに新たにブイヨンを加えていきます。",
+        "tip": "約18分かけて行う。常に混ぜる必要があります"
+      },
+      {
+        "step": 6,
+        "text": "米がアルデンテになったら、バター、パルミジャーノ・レッジャーノ、サフランを加え、素早く混ぜて完成。",
+        "tip": "仕上げはマントカーレで粘りを出す"
+      }
+    ],
+    "meta_title": "リゾット・アッラ・ミラネーゼの作り方 | サフランの香り",
+    "meta_description": "サフランで香る北イタリアの伝統リゾット。火加減と米の炊き加減の完全ガイド。",
+    "keywords": ["リゾット", "ミラネーゼ", "サフラン", "イタリアン"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "ブイヨンの温度を保つことが成功の鍵。アルボリオ米は高アミロース米で、粘性が出やすいのが特徴。最後の仕上げを素早く行うのがコツ。",
+    "tag_slugs": ["rich", "creamy", "umami", "entertaining"],
+    "category_slug": "rice",
+    "ingredients": [
+      {"slug": "arborio-rice", "name": "アルボリオ米", "quantity": "200", "unit": "g"},
+      {"slug": "onion", "name": "玉ねぎ", "quantity": "1/2", "unit": "個"},
+      {"slug": "beef-broth", "name": "ビーフブイヨン", "quantity": "600", "unit": "ml"},
+      {"slug": "white-wine", "name": "白ワイン", "quantity": "100", "unit": "ml"},
+      {"slug": "butter", "name": "バター", "quantity": "30", "unit": "g"},
+      {"slug": "parmesan", "name": "パルミジャーノ・レッジャーノ", "quantity": "30", "unit": "g"},
+      {"slug": "saffron", "name": "サフラン", "quantity": "0.5", "unit": "g"}
+    ]
+  },
+  {
+    "slug": "genovese-pasta",
+    "title": "ジェノベーゼパスタ",
+    "description": "バジルペーストが香る、イタリア北西部の定番パスタ。",
+    "introduction": "ジェノバ発祥のバジルペースト「ペスト」が特徴。ジェノベーゼは松の実、ニンニク、オリーブオイルが調和した、爽やかで香り高いソースです。夏の食卓に活躍します。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 27,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 580,
+    "protein_g": 20,
+    "fat_g": 28,
+    "carbs_g": 64,
+    "fiber_g": 2,
+    "sodium_mg": 480,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "バジルの葉を洗い、水気をしっかり拭き取ります。",
+        "tip": "水が多いとペストが劣化するため注意"
+      },
+      {
+        "step": 2,
+        "text": "フードプロセッサーにバジル、松の実、ニンニク、粗塩を入れ、粗く砕きます。",
+        "tip": "余熱で温かくならないよう、短時間で"
+      },
+      {
+        "step": 3,
+        "text": "パルミジャーノ・レッジャーノを加え、再度混ぜます。",
+        "tip": "チーズは最後に加えると色が悪くなりません"
+      },
+      {
+        "step": 4,
+        "text": "オリーブオイルを加え、滑らかなペースト状にします。",
+        "tip": "好みの固さに調整"
+      },
+      {
+        "step": 5,
+        "text": "パスタを塩水で茹で、茹で汁を大さじ2杯取り、湯切りします。",
+        "tip": "アルデンテに"
+      },
+      {
+        "step": 6,
+        "text": "パスタをボウルに入れ、ペストと茹で汁を加え、素早く混ぜます。",
+        "tip": "温め過ぎるとバジルの香りが飛びます"
+      }
+    ],
+    "meta_title": "ジェノベーゼパスタの作り方 | バジルペースト",
+    "meta_description": "新鮮なバジルで作る本格ジェノベーゼペースト。フレッシュペストの作り方と保存法。",
+    "keywords": ["ジェノベーゼ", "バジル", "パスタ", "イタリアン"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "ペストは事前に作り置きし、冷凍保存できます。松の実がない場合は、くるみで代用も可。夏の時期に新鮮なバジルで作ると特に美味しい。",
+    "tag_slugs": ["light", "umami", "quick", "sour"],
+    "category_slug": "pasta",
+    "ingredients": [
+      {"slug": "spaghetti", "name": "スパゲッティ", "quantity": "200", "unit": "g"},
+      {"slug": "fresh-basil", "name": "バジル", "quantity": "50", "unit": "g"},
+      {"slug": "pine-nuts", "name": "松の実", "quantity": "30", "unit": "g"},
+      {"slug": "garlic", "name": "ニンニク", "quantity": "2", "unit": "片"},
+      {"slug": "parmesan", "name": "パルミジャーノ・レッジャーノ", "quantity": "30", "unit": "g"},
+      {"slug": "olive-oil", "name": "エクストラバージンオリーブオイル", "quantity": "80", "unit": "ml"},
+      {"slug": "salt", "name": "塩", "quantity": "適量", "unit": ""}
+    ]
+  },
+  {
+    "slug": "bruschetta",
+    "title": "ブルスケッタ",
+    "description": "カリカリのトーストにトマトとガーリックがのった、イタリアンの前菜。",
+    "introduction": "パーティーの定番、ブルスケッタ。新鮮なトマト、バジル、ニンニクをカリカリにトーストしたパンに乗せた、爽やかで香ばしい一品。作りたてを食べるのが最高です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 150,
+    "protein_g": 5,
+    "fat_g": 6,
+    "carbs_g": 18,
+    "fiber_g": 1,
+    "sodium_mg": 320,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "バゲットを斜めに薄くスライスします。",
+        "tip": "厚さ1cm程度がおすすめ"
+      },
+      {
+        "step": 2,
+        "text": "両面にオリーブオイルを軽く塗ります。",
+        "tip": "全体に均等に"
+      },
+      {
+        "step": 3,
+        "text": "200℃のオーブンで3分から5分、カリカリになるまで焼きます。",
+        "tip": "焦げないようにチェック"
+      },
+      {
+        "step": 4,
+        "text": "熱いうちにニンニクをこすりつけます。",
+        "tip": "香りが出て美味しい"
+      },
+      {
+        "step": 5,
+        "text": "トマトをみじん切りにし、塩、黒胡椒、オリーブオイルで味を調えます。",
+        "tip": "水気をよく切ること"
+      },
+      {
+        "step": 6,
+        "text": "トマトをトーストにのせ、バジルを散らして完成。",
+        "tip": "食べる直前に仕上げるのがポイント"
+      }
+    ],
+    "meta_title": "ブルスケッタの作り方 | イタリアンアペタイザー",
+    "meta_description": "新鮮なトマトで作る本格ブルスケッタ。パーティーの定番前菜のレシピ。",
+    "keywords": ["ブルスケッタ", "前菜", "イタリアン", "トマト"],
+    "cuisine": "イタリアン",
+    "course": "appetizer",
+    "tips": "トマトの水気をしっかり切ることが重要。バゲットは焼く直前に切ると新鮮です。クリームチーズを塗るバージョンもあります。",
+    "tag_slugs": ["light", "raw", "quick", "sour", "entertaining"],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {"slug": "baguette", "name": "バゲット", "quantity": "1", "unit": "本"},
+      {"slug": "tomato", "name": "トマト", "quantity": "2", "unit": "個"},
+      {"slug": "garlic", "name": "ニンニク", "quantity": "2", "unit": "片"},
+      {"slug": "fresh-basil", "name": "バジル", "quantity": "8", "unit": "枚"},
+      {"slug": "olive-oil", "name": "エクストラバージンオリーブオイル", "quantity": "40", "unit": "ml"},
+      {"slug": "salt", "name": "塩", "quantity": "適量", "unit": ""}
+    ]
+  },
+  {
+    "slug": "osso-buco",
+    "title": "オッソ・ブーコ",
+    "description": "子牛のすね肉を白ワインで煮込んだ、イタリアン格式料理。",
+    "introduction": "ミラノの代表格、オッソ・ブーコ。子牛のすね肉をトマトソースで長時間煮込み、骨髄の旨味を引き出した一皿です。格式高く、おもてなしに最適な逸品。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 150,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "hard",
+    "calories": 420,
+    "protein_g": 38,
+    "fat_g": 18,
+    "carbs_g": 12,
+    "fiber_g": 2,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "子牛のすね肉を塩、黒胡椒で味を調えます。",
+        "tip": "30分は置いてください"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにオリーブオイルを入れ、肉を焼き色がつくまで焼きます。",
+        "tip": "フライパンから取り出す"
+      },
+      {
+        "step": 3,
+        "text": "同じフライパンに玉ねぎ、人参、セロリのみじん切りを入れ、柔らかくなるまで炒めます。",
+        "tip": "強火で10分程度"
+      },
+      {
+        "step": 4,
+        "text": "白ワイン、トマト缶、肉のスープストックを加えます。",
+        "tip": "肉が半分浸かるくらいの高さまで"
+      },
+      {
+        "step": 5,
+        "text": "肉を戻し、蓋をして弱火で90分から120分、肉が柔らかくなるまで煮込みます。",
+        "tip": "途中で肉を返してください"
+      },
+      {
+        "step": 6,
+        "text": "最後に塩で味を調え、ガレモリ（レモンの皮とパセリのみじん切り）を散らして完成。",
+        "tip": "爽やかさが加わる仕上げ"
+      }
+    ],
+    "meta_title": "オッソ・ブーコの本格作り方 | ミラノの逸品",
+    "meta_description": "子牛のすね肉を使った本格オッソ・ブーコ。長時間煮込みのコツとガレモリの作り方。",
+    "keywords": ["オッソ・ブーコ", "子牛", "イタリアン", "格式"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "子牛の代わり豚肉や牛肉でも作れます。作り置きして冷凍すると味わい深くなります。リゾット・アッラ・ミラネーゼと合わせるのが伝統。",
+    "tag_slugs": ["rich", "umami", "entertaining", "meal-prep"],
+    "category_slug": "main",
+    "ingredients": [
+      {"slug": "veal-shank", "name": "子牛のすね肉", "quantity": "600", "unit": "g"},
+      {"slug": "olive-oil", "name": "オリーブオイル", "quantity": "30", "unit": "ml"},
+      {"slug": "onion", "name": "玉ねぎ", "quantity": "1", "unit": "個"},
+      {"slug": "carrot", "name": "人参", "quantity": "1", "unit": "本"},
+      {"slug": "celery", "name": "セロリ", "quantity": "1", "unit": "本"},
+      {"slug": "white-wine", "name": "白ワイン", "quantity": "150", "unit": "ml"},
+      {"slug": "tomato-can", "name": "トマト缶", "quantity": "200", "unit": "g"},
+      {"slug": "meat-stock", "name": "肉のスープストック", "quantity": "300", "unit": "ml"}
+    ]
+  },
+  {
+    "slug": "panna-cotta",
+    "title": "パンナコッタ",
+    "description": "生クリームを使った、なめらかなイタリアンデザート。",
+    "introduction": "\"煮沸した生クリーム\"という意味のパンナコッタ。ゼラチンで固めた生クリームベースのデザートで、口どけの良さとなめらかさが特徴。イタリアンレストランの定番です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 20,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 4,
+    "fat_g": 24,
+    "carbs_g": 16,
+    "fiber_g": 0,
+    "sodium_mg": 60,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "水にゼラチンを振りかけ、5分ふやかします。",
+        "tip": "冷たい水を使ってください"
+      },
+      {
+        "step": 2,
+        "text": "生クリーム、牛乳、砂糖を鍋に入れ、弱火で温めます。沸騰させないこと。",
+        "tip": "60℃程度が目安"
+      },
+      {
+        "step": 3,
+        "text": "火を止めたら、ふやけたゼラチンを加え、よく混ぜて溶かします。",
+        "tip": "ゼラチンが完全に溶けるまで混ぜる"
+      },
+      {
+        "step": 4,
+        "text": "バニラエッセンスを加え、粗熱を取るまで少し冷まします。",
+        "tip": "完全に冷めると扱いづらいので、人肌温度くらいで"
+      },
+      {
+        "step": 5,
+        "text": "グラスやカップに流し入れ、冷蔵庫で最低4時間冷やします。",
+        "tip": "一晩置くと味がなじみます"
+      },
+      {
+        "step": 6,
+        "text": "ベリーソースやフルーツをトッピングして完成。",
+        "tip": "様々なトッピングを試してみてください"
+      }
+    ],
+    "meta_title": "パンナコッタの作り方 | イタリアンデザート",
+    "meta_description": "生クリームで作る本格パンナコッタ。失敗しないゼラチンの溶かし方とコツ。",
+    "keywords": ["パンナコッタ", "デザート", "イタリアン", "生クリーム"],
+    "cuisine": "イタリアン",
+    "course": "dessert",
+    "tips": "ゼラチンは加熱しすぎないことが重要です。生クリームの脂肪分が高いほどなめらかに。ラズベリーソースやストロベリーソースをかけるとさらに美味しい。",
+    "tag_slugs": ["sweet", "creamy", "light", "entertaining"],
+    "category_slug": "dessert",
+    "ingredients": [
+      {"slug": "heavy-cream", "name": "生クリーム", "quantity": "200", "unit": "ml"},
+      {"slug": "milk", "name": "牛乳", "quantity": "100", "unit": "ml"},
+      {"slug": "sugar", "name": "砂糖", "quantity": "30", "unit": "g"},
+      {"slug": "gelatin", "name": "ゼラチン", "quantity": "3", "unit": "g"},
+      {"slug": "vanilla-extract", "name": "バニラエッセンス", "quantity": "1/2", "unit": "小さじ"}
+    ]
+  },
+  {
+    "slug": "cacciatore",
+    "title": "カチャトーラ",
+    "description": "トマトとオリーブで煮込んだ、猟人風の鶏肉料理。",
+    "introduction": "\"猟人\"という意味のカチャトーラ。鶏肉をトマトソース、オリーブ、ケーパーで煮込んだ、素朴で味わい深い一皿。赤ワインとの相性が抜群です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 50,
+    "total_time_minutes": 70,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 320,
+    "protein_g": 34,
+    "fat_g": 14,
+    "carbs_g": 12,
+    "fiber_g": 2,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉を塩、黒胡椒で下味をつけます。",
+        "tip": "30分置いてください"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにオリーブオイルを入れ、鶏肉を両面焼き色がつくまで焼きます。",
+        "tip": "弱火で丁寧に"
+      },
+      {
+        "step": 3,
+        "text": "鶏肉を取り出し、同じフライパンに玉ねぎ、人参、セロリのみじん切りを入れ、柔らかくなるまで炒めます。",
+        "tip": "10分程度"
+      },
+      {
+        "step": 4,
+        "text": "赤ワインを加え、アルコールを飛ばします。",
+        "tip": "1分から2分"
+      },
+      {
+        "step": 5,
+        "text": "トマト缶、オリーブ、ケーパーを加え、鶏肉を戻します。",
+        "tip": "蓋をして弱火で30分から40分"
+      },
+      {
+        "step": 6,
+        "text": "鶏肉が柔らかくなったら、最後に塩で味を調え、イタリアンパセリを散らして完成。",
+        "tip": "香りが引き立つ"
+      }
+    ],
+    "meta_title": "カチャトーラの本格作り方 | 猟人風鶏肉料理",
+    "meta_description": "鶏肉をトマトで煮込む本格カチャトーラ。赤ワインとの組み合わせのコツ。",
+    "keywords": ["カチャトーラ", "鶏肉", "イタリアン", "トマト"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "牛肉や豚肉でも作れます。作り置きして冷凍できます。赤ワインはボディが強いものがおすすめ。",
+    "tag_slugs": ["rich", "umami", "entertaining", "meal-prep"],
+    "category_slug": "main",
+    "ingredients": [
+      {"slug": "chicken", "name": "鶏もも肉", "quantity": "800", "unit": "g", "preparation": "一口大に切る"},
+      {"slug": "olive-oil", "name": "オリーブオイル", "quantity": "30", "unit": "ml"},
+      {"slug": "onion", "name": "玉ねぎ", "quantity": "1", "unit": "個"},
+      {"slug": "carrot", "name": "人参", "quantity": "1", "unit": "本"},
+      {"slug": "celery", "name": "セロリ", "quantity": "1", "unit": "本"},
+      {"slug": "red-wine", "name": "赤ワイン", "quantity": "150", "unit": "ml"},
+      {"slug": "tomato-can", "name": "トマト缶", "quantity": "200", "unit": "g"},
+      {"slug": "black-olives", "name": "黒オリーブ", "quantity": "50", "unit": "g"}
+    ]
+  },
+  {
+    "slug": "lasagna",
+    "title": "ラザニア",
+    "description": "層状に重ねたパスタとボロネーゼが織りなす、豪華なイタリアンメイン。",
+    "introduction": "ボロネーゼソースとベシャメルソースを層状に重ねたラザニア。焼きあげると、各層の味わいが調和して、奥深い美味しさが生まれます。おもてなしやパーティーの大役に。",
+    "prep_time_minutes": 40,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 85,
+    "servings": 6,
+    "servings_unit": "人前",
+    "difficulty": "hard",
+    "calories": 520,
+    "protein_g": 28,
+    "fat_g": 24,
+    "carbs_g": 48,
+    "fiber_g": 2,
+    "sodium_mg": 720,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ボロネーゼソースを準備します。（別レシピ参照）",
+        "tip": "事前に作っておくと調理がスムーズ"
+      },
+      {
+        "step": 2,
+        "text": "ベシャメルソースを作ります。バターで小麦粉を炒め、温めた牛乳を加えてなめらかなソースにします。",
+        "tip": "ダマができないように丁寧に混ぜる"
+      },
+      {
+        "step": 3,
+        "text": "ベシャメルソースに塩、黒胡椒、ナツメグで味を調えます。",
+        "tip": "少量のナツメグが香りを引き立たせます"
+      },
+      {
+        "step": 4,
+        "text": "グラタン皿の底にボロネーゼソースを少し敷きます。",
+        "tip": "焦げ付き防止"
+      },
+      {
+        "step": 5,
+        "text": "ラザニアシート、ボロネーゼソース、ベシャメルソースを交互に層状に重ねます。最後はベシャメルで。",
+        "tip": "3層から4層が目安"
+      },
+      {
+        "step": 6,
+        "text": "200℃のオーブンで40分から45分、表面が金色になるまで焼きます。",
+        "tip": "焦げそうならアルミホイルをかぶせる"
+      }
+    ],
+    "meta_title": "ラザニアの本格作り方 | イタリアン代表料理",
+    "meta_description": "ボロネーゼとベシャメルで作る本格ラザニア。層状盛り付けのコツと焼き加減。",
+    "keywords": ["ラザニア", "パスタ", "イタリアン", "ボロネーゼ"],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "事前に作り置きして、焼く直前に加熱できます。冷凍も可能。ベシャメルソースはダマができないよう、弱火で丁寧に作ることが重要。",
+    "tag_slugs": ["rich", "umami", "entertaining", "meal-prep"],
+    "category_slug": "main",
+    "ingredients": [
+      {"slug": "lasagna-sheet", "name": "ラザニアシート", "quantity": "250", "unit": "g"},
+      {"slug": "bolognese-sauce", "name": "ボロネーゼソース", "quantity": "800", "unit": "g", "preparation": "別レシピ"},
+      {"slug": "butter", "name": "バター", "quantity": "40", "unit": "g"},
+      {"slug": "flour", "name": "小麦粉", "quantity": "40", "unit": "g"},
+      {"slug": "milk", "name": "牛乳", "quantity": "500", "unit": "ml"},
+      {"slug": "parmesan", "name": "パルミジャーノ・レッジャーノ", "quantity": "50", "unit": "g"},
+      {"slug": "nutmeg", "name": "ナツメグ", "quantity": "少量", "unit": ""}
+    ]
+  }
+]

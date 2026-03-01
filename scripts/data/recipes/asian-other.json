@@ -1,0 +1,1749 @@
+[
+  {
+    "slug": "green-curry",
+    "title": "グリーンカレー",
+    "description": "青唐辛子とココナッツの香りが広がる、タイを代表するカレー",
+    "introduction": "タイの定番カレーであるグリーンカレーは、青唐辛子の爽やかな辛さとココナッツクリームの濃厚な味わいが特徴です。鶏肉と野菜で栄養バランスも良く、家庭でも作れる本格的な一品です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 450,
+    "protein_g": 25,
+    "fat_g": 22,
+    "carbs_g": 35,
+    "fiber_g": 3,
+    "sodium_mg": 900,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏もも肉を一口大に切り、ナスとピーマンも切っておく。",
+        "tip": "すべての材料を予め準備しておくと調理がスムーズです。"
+      },
+      {
+        "step": 2,
+        "text": "フライパンを中火で熱し、オイルを入れてグリーンカレーペーストを炒める。",
+        "tip": "香りが立つまで1分程度炒めるとペーストの香りが引き立ちます。"
+      },
+      {
+        "step": 3,
+        "text": "ココナッツミルクを少量加え、ペーストをのばす。",
+        "tip": "ペーストが焦げ付かないように注意してください。"
+      },
+      {
+        "step": 4,
+        "text": "鶏肉を加えて中火で3分炒める。",
+        "tip": "鶏肉の表面が白くなるまでしっかり炒めます。"
+      },
+      {
+        "step": 5,
+        "text": "残りのココナッツミルク、ナス、ピーマンを加えて15分煮込む。",
+        "tip": "鶏肉が中まで火が通るまで、弱火で丁寧に煮込みます。"
+      },
+      {
+        "step": 6,
+        "text": "塩とナンプラーで味を整え、バジルを加えて完成。",
+        "tip": "最後に風味豊かなバジルを加えることで、香りが引き立ちます。"
+      }
+    ],
+    "meta_title": "グリーンカレーの作り方 | 本格タイ料理レシピ",
+    "meta_description": "青唐辛子とココナッツが香る本格的なグリーンカレー。自宅で簡単に作れるタイ料理の定番レシピです。",
+    "keywords": [
+      "グリーンカレー",
+      "タイ料理",
+      "ココナッツカレー",
+      "簡単レシピ"
+    ],
+    "cuisine": "タイ料理",
+    "course": "メイン",
+    "tips": "グリーンカレーペーストは香りが命です。新鮮なものを選び、開封後は冷蔵保存で品質を保つこと。ココナッツミルクの濃厚な部分と水分を分けて使うと、より本格的な味わいになります。",
+    "tag_slugs": [
+      "spicy",
+      "rich",
+      "simmer",
+      "entertaining"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "green-curry-paste",
+        "name": "グリーンカレーペースト",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "coconut-milk",
+        "name": "ココナッツミルク",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "slug": "eggplant",
+        "name": "ナス",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "green-bell-pepper",
+        "name": "ピーマン",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "thai-basil",
+        "name": "バジル",
+        "quantity": "1掴み",
+        "unit": ""
+      },
+      {
+        "slug": "fish-sauce",
+        "name": "ナンプラー",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "tom-yum-kung",
+    "title": "トムヤムクン",
+    "description": "酸味と辛さが絶妙に調和した、タイを代表するエビのスープ",
+    "introduction": "レモングラスの爽やかな香りと唐辛子の辛さ、ライムの酸味が一つの器に集約されたトムヤムクン。タイの食卓には欠かせない、複雑で奥深い味わいのスープです。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 120,
+    "protein_g": 18,
+    "fat_g": 3,
+    "carbs_g": 8,
+    "fiber_g": 2,
+    "sodium_mg": 850,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "エビを塩水で洗い、背わたを取り除く。",
+        "tip": "新鮮なエビを選ぶことが美味しさの秘訣です。"
+      },
+      {
+        "step": 2,
+        "text": "鍋にチキンスープを入れ、レモングラスとガランガルを加えて加熱する。",
+        "tip": "香りが立つまで弱火で温めます。"
+      },
+      {
+        "step": 3,
+        "text": "唐辛子を加え、エビを入れて3分加熱する。",
+        "tip": "エビはすぐに火が通るので、加熱しすぎないようにします。"
+      },
+      {
+        "step": 4,
+        "text": "トムヤムペーストとナンプラーを加える。",
+        "tip": "ペーストはよく混ぜて、全体に馴染ませます。"
+      },
+      {
+        "step": 5,
+        "text": "ライムジュースとコチニール大根を加えて、最後の味の調整をする。",
+        "tip": "酸味のバランスが重要です。好みで調整してください。"
+      },
+      {
+        "step": 6,
+        "text": "香菜を散らして完成。熱々のうちに召し上がれ。",
+        "tip": "香菜はタイ料理の香りの決め手になります。"
+      }
+    ],
+    "meta_title": "トムヤムクンの作り方 | 本格タイスープレシピ",
+    "meta_description": "酸辛いタイスープ、トムヤムクン。エビの旨味とレモングラスの香りが特徴の本格レシピ。",
+    "keywords": [
+      "トムヤムクン",
+      "タイスープ",
+      "エビ",
+      "酸辛い"
+    ],
+    "cuisine": "タイ料理",
+    "course": "soup",
+    "tips": "レモングラスとガランガルの香りが命。生のものが手に入らない場合は冷凍品でも大丈夫です。ナンプラーとライムジュースの比率で味が大きく変わるので、自分好みに調整してください。",
+    "tag_slugs": [
+      "spicy",
+      "sour",
+      "quick",
+      "entertaining"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "shrimp",
+        "name": "エビ",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "chicken-stock",
+        "name": "チキンスープ",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "slug": "lemongrass",
+        "name": "レモングラス",
+        "quantity": "2本",
+        "unit": ""
+      },
+      {
+        "slug": "galangal",
+        "name": "ガランガル",
+        "quantity": "5スライス",
+        "unit": ""
+      },
+      {
+        "slug": "red-chili",
+        "name": "赤唐辛子",
+        "quantity": "2本",
+        "unit": ""
+      },
+      {
+        "slug": "tom-yum-paste",
+        "name": "トムヤムペースト",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "lime-juice",
+        "name": "ライムジュース",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "cilantro",
+        "name": "香菜",
+        "quantity": "1掴み",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "pad-thai",
+    "title": "パッタイ",
+    "description": "ライスヌードルを甘辛く炒めた、タイの屋台の王様",
+    "introduction": "甘辛い味わいとライスヌードルのもちもちした食感が絶妙なパッタイ。タイの街角の屋台で最も人気のある料理で、一度食べたら虜になること間違いなしです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 520,
+    "protein_g": 18,
+    "fat_g": 20,
+    "carbs_g": 65,
+    "fiber_g": 4,
+    "sodium_mg": 1200,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ライスヌードルを湯で戻し、水気を切っておく。",
+        "tip": "完全に戻さず、少し硬めの状態が炒めやすいです。"
+      },
+      {
+        "step": 2,
+        "text": "タマネギを薄くスライスし、ニンニクをみじん切りにする。",
+        "tip": "すべての具材を予め準備しておくと調理がスムーズです。"
+      },
+      {
+        "step": 3,
+        "text": "フライパンを強火で熱し、油を入れてニンニクを炒める。",
+        "tip": "香りが立つまで20秒程度炒めます。"
+      },
+      {
+        "step": 4,
+        "text": "エビとタマネギを加えて、エビに火が通るまで2分炒める。",
+        "tip": "火力を強く保つことがポイント。"
+      },
+      {
+        "step": 5,
+        "text": "ライスヌードルを加えて、タマリンドペーストと砂糖で味付けする。",
+        "tip": "全体をよく混ぜて、味が均等に広がるようにします。"
+      },
+      {
+        "step": 6,
+        "text": "もやし、豆板菜、卵を加えて1分混ぜ、最後にピーナッツとライムをかけて完成。",
+        "tip": "最後にライムを絞ることで、さっぱりとした風味が出ます。"
+      }
+    ],
+    "meta_title": "パッタイの作り方 | 本格タイ料理レシピ",
+    "meta_description": "タイの屋台の定番、パッタイ。甘辛い味わいが病みつきになる簡単レシピ。",
+    "keywords": [
+      "パッタイ",
+      "タイ料理",
+      "ライスヌードル",
+      "屋台料理"
+    ],
+    "cuisine": "タイ料理",
+    "course": "main",
+    "tips": "タマリンドペーストはタイ料理に欠かせない調味料で、独特の酸味と甘みを持っています。本格的な味わいに仕上げるポイントはタマリンドペーストの量です。好みで調整してください。",
+    "tag_slugs": [
+      "sweet",
+      "stir-fry",
+      "quick",
+      "meal-prep"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "rice-noodle",
+        "name": "ライスヌードル",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "shrimp",
+        "name": "エビ",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "タマネギ",
+        "quantity": "1/2個",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2片",
+        "unit": ""
+      },
+      {
+        "slug": "tamarind-paste",
+        "name": "タマリンドペースト",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "peanut",
+        "name": "ピーナッツ",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "lime",
+        "name": "ライム",
+        "quantity": "1/2個",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "gapao-rice",
+    "title": "ガパオライス",
+    "description": "ホーリーバジルの香りが心地よい、タイの定番丼",
+    "introduction": "豚肉とホーリーバジルを甘辛く炒めてご飯にのせたガパオライス。バジルの爽やかな香りと肉の旨味が絶妙に合致した、タイの国民食です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 580,
+    "protein_g": 22,
+    "fat_g": 18,
+    "carbs_g": 75,
+    "fiber_g": 2,
+    "sodium_mg": 950,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚肉をみじん切りにし、ニンニクと唐辛子も細かく切る。",
+        "tip": "豚肉は脂肪が適度に入った部位を選ぶと美味しいです。"
+      },
+      {
+        "step": 2,
+        "text": "フライパンを強火で熱し、油を入れてニンニクと唐辛子を炒める。",
+        "tip": "香りが立つまで約20秒炒めます。"
+      },
+      {
+        "step": 3,
+        "text": "豚肉を加えてほぐしながら炒め、色が変わるまで3分加熱する。",
+        "tip": "豚肉は火が通り過ぎないようにしましょう。"
+      },
+      {
+        "step": 4,
+        "text": "ナンプラー、砂糖、タマリンドペーストを加えて味付けする。",
+        "tip": "甘辛いバランスが重要です。好みで調整してください。"
+      },
+      {
+        "step": 5,
+        "text": "ホーリーバジルを加えて、火から下ろす。",
+        "tip": "バジルは加熱しすぎると香りが飛ぶので、最後に加えます。"
+      },
+      {
+        "step": 6,
+        "text": "白いご飯の上に盛りつけ、目玉焼きを乗せて完成。",
+        "tip": "卵の黄身を崩してご飯と混ぜながら食べるのが本式です。"
+      }
+    ],
+    "meta_title": "ガパオライスの作り方 | 本格タイ丼レシピ",
+    "meta_description": "ホーリーバジルの香りが魅力のガパオライス。豚肉の旨味と甘辛い味わいが癖になる一品。",
+    "keywords": [
+      "ガパオライス",
+      "タイ料理",
+      "豚肉",
+      "丼物"
+    ],
+    "cuisine": "タイ料理",
+    "course": "main",
+    "tips": "ホーリーバジルはタイ産のバジルで、香りが独特です。普通のバジルで代用することもできますが、味わいが異なります。豚肉は挽き肉を使っても、粗みじんにした豚肉を使ってもどちらでも構いません。",
+    "tag_slugs": [
+      "sweet",
+      "stir-fry",
+      "quick",
+      "entertaining"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "pork-ground",
+        "name": "豚肉（挽き肉）",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "holy-basil",
+        "name": "ホーリーバジル",
+        "quantity": "1束",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "3片",
+        "unit": ""
+      },
+      {
+        "slug": "red-chili",
+        "name": "赤唐辛子",
+        "quantity": "1本",
+        "unit": ""
+      },
+      {
+        "slug": "fish-sauce",
+        "name": "ナンプラー",
+        "quantity": "小さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "white-rice",
+        "name": "白いご飯",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1個",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "fresh-spring-rolls",
+    "title": "生春巻き",
+    "description": "透明なライスペーパーに詰めた、爽やかなベトナムの前菜",
+    "introduction": "ライスペーパーで野菜と海老を包んだ生春巻きは、ベトナムの定番の一品です。爽やかなヌク・チャム（ピーナッツダレ）に浸して食べれば、心身ともにリフレッシュされます。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 20,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 180,
+    "protein_g": 12,
+    "fat_g": 5,
+    "carbs_g": 22,
+    "fiber_g": 3,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "エビを塩茹でして冷まし、半分に切っておく。",
+        "tip": "エビは新鮮なものを選ぶことが大切です。"
+      },
+      {
+        "step": 2,
+        "text": "野菜を細切りにする。人参、キュウリ、レタスを細く切る。",
+        "tip": "野菜は新鮮で脆い状態が美味しく仕上がります。"
+      },
+      {
+        "step": 3,
+        "text": "ライスペーパーを水に浸して柔らかくする。",
+        "tip": "30秒程度で十分です。長く浸すと破けやすくなります。"
+      },
+      {
+        "step": 4,
+        "text": "湿ったまな板にライスペーパーを置き、野菜とエビを手前に並べる。",
+        "tip": "材料を多く詰めすぎると巻きづらくなります。"
+      },
+      {
+        "step": 5,
+        "text": "手前から奥へ優しく巻いていき、側面も折り込む。",
+        "tip": "力を入れすぎるとライスペーパーが破けます。"
+      },
+      {
+        "step": 6,
+        "text": "完成した生春巻きをピーナッツダレに浸して食べる。",
+        "tip": "すぐに食べるのが一番美味しいです。"
+      }
+    ],
+    "meta_title": "生春巻きの作り方 | ベトナム料理レシピ",
+    "meta_description": "爽やかで健康的なベトナムの生春巻き。ピーナッツダレとの相性が抜群です。",
+    "keywords": [
+      "生春巻き",
+      "ベトナム料理",
+      "前菜",
+      "ヘルシー"
+    ],
+    "cuisine": "ベトナム料理",
+    "course": "appetizer",
+    "tips": "ライスペーパーは破けやすいので、丁寧に扱いましょう。野菜は細く切ることで、食べやすく見栄えも良くなります。ピーナッツダレは市販品でも手作りでも大丈夫です。",
+    "tag_slugs": [
+      "light",
+      "raw",
+      "quick",
+      "entertaining"
+    ],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {
+        "slug": "shrimp",
+        "name": "エビ",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "rice-paper",
+        "name": "ライスペーパー",
+        "quantity": "8枚",
+        "unit": ""
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1/2本",
+        "unit": ""
+      },
+      {
+        "slug": "cucumber",
+        "name": "キュウリ",
+        "quantity": "1/2本",
+        "unit": ""
+      },
+      {
+        "slug": "lettuce",
+        "name": "レタス",
+        "quantity": "3枚",
+        "unit": ""
+      },
+      {
+        "slug": "mint-leaf",
+        "name": "ミント",
+        "quantity": "1握り",
+        "unit": ""
+      },
+      {
+        "slug": "peanut-sauce",
+        "name": "ピーナッツダレ",
+        "quantity": "100",
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "slug": "pho",
+    "title": "フォー",
+    "description": "牛骨でじっくり煮出したスープが絶品、ベトナムの国民食",
+    "introduction": "ベトナムの朝食の定番フォーは、牛骨とスパイスで長時間煮詰めたスープが命。米粉麺のツルツルとした食感とスープの深い味わいが完璧に調和した、奥深い一品です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 140,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 350,
+    "protein_g": 20,
+    "fat_g": 8,
+    "carbs_g": 45,
+    "fiber_g": 3,
+    "sodium_mg": 1100,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "牛骨を下処理し、玉ねぎを半分に切り、生姜をぶつ切りにする。",
+        "tip": "牛骨は塩水で洗い、白い汚れを落とします。"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋に牛骨と玉ねぎ、生姜を入れて、スターアニスとシナモン、クローブを加える。",
+        "tip": "スパイスがフォーの香りの決め手になります。"
+      },
+      {
+        "step": 3,
+        "text": "水を加えて、2時間かけてじっくり煮込む。",
+        "tip": "スープの濁りを時々取りながら、透き通ったスープに仕上げます。"
+      },
+      {
+        "step": 4,
+        "text": "牛肉をスライスし、フォー麺を湯で戻しておく。",
+        "tip": "牛肉は薄くスライスすることで、火が通りやすくなります。"
+      },
+      {
+        "step": 5,
+        "text": "スープを濾して器に注ぎ、牛肉とフォー麺を入れる。",
+        "tip": "牛肉は熱いスープの中に入れるだけで火が通ります。"
+      },
+      {
+        "step": 6,
+        "text": "香菜、ライム、唐辛子をトッピングして完成。",
+        "tip": "各自の好みでトッピングを調整します。"
+      }
+    ],
+    "meta_title": "フォーの作り方 | 本格ベトナムスープレシピ",
+    "meta_description": "牛骨からじっくり煮出したスープが美味しいベトナムのフォー。自宅でも簡単に作れます。",
+    "keywords": [
+      "フォー",
+      "ベトナム料理",
+      "牛肉スープ",
+      "麺料理"
+    ],
+    "cuisine": "ベトナム料理",
+    "course": "soup",
+    "tips": "本格的なフォーのスープは時間がかかりますが、その分深い味わいが出ます。牛肉の選び方とスパイスの量で味が大きく変わるので、自分好みに調整してください。",
+    "tag_slugs": [
+      "umami",
+      "simmer",
+      "entertaining",
+      "meal-prep"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "beef-bone",
+        "name": "牛骨",
+        "quantity": "500",
+        "unit": "g"
+      },
+      {
+        "slug": "pho-noodle",
+        "name": "フォー麺",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "beef-sirloin",
+        "name": "牛肉（サーロイン）",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "5cm",
+        "unit": ""
+      },
+      {
+        "slug": "star-anise",
+        "name": "スターアニス",
+        "quantity": "2個",
+        "unit": ""
+      },
+      {
+        "slug": "cinnamon",
+        "name": "シナモンスティック",
+        "quantity": "1本",
+        "unit": ""
+      },
+      {
+        "slug": "cilantro",
+        "name": "香菜",
+        "quantity": "1握り",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "banh-mi",
+    "title": "バインミー",
+    "description": "フランスの影響が香る、ベトナムの定番サンドイッチ",
+    "introduction": "ベトナムンのストリートフードの代表格バインミーは、クリスピーなバゲットにレバーペースト、ハム、野菜を詰めた一品。フレンチの洗練さとベトナムの素朴さが融合した独特の魅力があります。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 15,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 420,
+    "protein_g": 16,
+    "fat_g": 18,
+    "carbs_g": 48,
+    "fiber_g": 3,
+    "sodium_mg": 1350,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "バゲットを半分に切り、軽くトーストする。",
+        "tip": "バゲットはクリスピーになるまでトーストします。"
+      },
+      {
+        "step": 2,
+        "text": "野菜を細切りにする。人参、大根、キュウリを細く切る。",
+        "tip": "野菜は新鮮で脆い状態が美味しく仕上がります。"
+      },
+      {
+        "step": 3,
+        "text": "トーストしたバゲットにレバーペーストとマヨネーズを塗る。",
+        "tip": "ペーストとマヨネーズのバランスが大切です。"
+      },
+      {
+        "step": 4,
+        "text": "ハム、肉そぼろ、野菜の順に重ねる。",
+        "tip": "具材を均等に配置すると、食べやすくなります。"
+      },
+      {
+        "step": 5,
+        "text": "香菜と唐辛子をのせる。",
+        "tip": "香菜と唐辛子の香りが全体を引き締めます。"
+      },
+      {
+        "step": 6,
+        "text": "ナンプラーと酢をかけて完成。",
+        "tip": "最後にナンプラーと酢をかけることで、味わいに深みが出ます。"
+      }
+    ],
+    "meta_title": "バインミーの作り方 | ベトナムサンドイッチレシピ",
+    "meta_description": "フランスとベトナムの融合、バインミー。クリスピーなバゲットと具材のハーモニーが絶妙。",
+    "keywords": [
+      "バインミー",
+      "ベトナム料理",
+      "サンドイッチ",
+      "ストリートフード"
+    ],
+    "cuisine": "ベトナム料理",
+    "course": "main",
+    "tips": "バゲットの質がバインミーの美味しさを左右します。フランスパンのような硬い食感のものを選びましょう。レバーペーストは市販品でも大丈夫ですが、本格的なものを選ぶと味わいが変わります。",
+    "tag_slugs": [
+      "quick",
+      "entertaining",
+      "light",
+      "meal-prep"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "baguette",
+        "name": "バゲット",
+        "quantity": "1本",
+        "unit": ""
+      },
+      {
+        "slug": "liver-pate",
+        "name": "レバーペースト",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "ham",
+        "name": "ハム",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "pork-ground",
+        "name": "豚肉そぼろ",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1/4本",
+        "unit": ""
+      },
+      {
+        "slug": "daikon",
+        "name": "大根",
+        "quantity": "3cm",
+        "unit": ""
+      },
+      {
+        "slug": "cucumber",
+        "name": "キュウリ",
+        "quantity": "1/4本",
+        "unit": ""
+      },
+      {
+        "slug": "cilantro",
+        "name": "香菜",
+        "quantity": "1握り",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "butter-chicken",
+    "title": "バターチキンカレー",
+    "description": "濃厚なトマトクリームソースが絶品、インドの定番カレー",
+    "introduction": "インドでも特に人気が高いバターチキンカレーは、トマトとクリームで作られた濃厚でマイルドなカレーです。子どもから大人まで楽しめる、最も作られているインドカレーの一つです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 480,
+    "protein_g": 28,
+    "fat_g": 24,
+    "carbs_g": 35,
+    "fiber_g": 2,
+    "sodium_mg": 850,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉をヨーグルトとスパイスでマリネする。冷蔵庫で15分置く。",
+        "tip": "マリネ時間を長くするほど、味が深まります。"
+      },
+      {
+        "step": 2,
+        "text": "フライパンをかなり高い温度に熱し、鶏肉を焼く。焼き色がついたら取り出す。",
+        "tip": "鶏肉は完全に火を通す必要はありません。後で煮込みます。"
+      },
+      {
+        "step": 3,
+        "text": "同じフライパンにバターとニンニク、生姜を加えて香りを出す。",
+        "tip": "バターの香りが立つまで1分程度加熱します。"
+      },
+      {
+        "step": 4,
+        "text": "トマトペーストを加えて1分炒め、トマトソースを注ぐ。",
+        "tip": "トマトペーストはしっかり炒めることで、トマトの香りが引き立ちます。"
+      },
+      {
+        "step": 5,
+        "text": "焼いた鶏肉を戻して、弱火で10分煮込む。",
+        "tip": "鶏肉は完全に火が通るまで煮込みます。"
+      },
+      {
+        "step": 6,
+        "text": "生クリームを加えて、塩で味を整える。ガラムマサラを振りかけて完成。",
+        "tip": "生クリームは最後に加えることで、濃厚な味わいが出ます。"
+      }
+    ],
+    "meta_title": "バターチキンカレーの作り方 | インド料理レシピ",
+    "meta_description": "濃厚なトマトクリームソースが魅力のバターチキンカレー。自宅で簡単に作れます。",
+    "keywords": [
+      "バターチキンカレー",
+      "インド料理",
+      "鶏肉",
+      "トマトカレー"
+    ],
+    "cuisine": "インド料理",
+    "course": "main",
+    "tips": "本格的なバターチキンカレーは調理時間がかかりますが、多くの家庭では短時間で作られています。生クリームの量で濃厚さが変わるので、好みで調整してください。",
+    "tag_slugs": [
+      "rich",
+      "creamy",
+      "simmer",
+      "entertaining"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "slug": "yogurt",
+        "name": "ヨーグルト",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "tomato-paste",
+        "name": "トマトペースト",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "tomato-sauce",
+        "name": "トマトソース",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "heavy-cream",
+        "name": "生クリーム",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2片",
+        "unit": ""
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1片",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "tandoori-chicken",
+    "title": "タンドリーチキン",
+    "description": "スパイスの香りが引き立つ、インドの伝統的なグリル料理",
+    "introduction": "タンドリーオーブンで焼いたタンドリーチキンは、ヨーグルトとスパイスの香りが深く浸み込んだインドの代表的な料理。外側はカリカリ、中はジューシーな仕上がりです。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 55,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 320,
+    "protein_g": 35,
+    "fat_g": 12,
+    "carbs_g": 8,
+    "fiber_g": 1,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉に塩をして、30分置いておく。",
+        "tip": "下準備をすることで、より味が深まります。"
+      },
+      {
+        "step": 2,
+        "text": "ヨーグルト、タンドリーペースト、ニンニク、生姜を混ぜたマリネ液を作る。",
+        "tip": "タンドリーペーストはスパイスの香りが命です。"
+      },
+      {
+        "step": 3,
+        "text": "鶏肉をマリネ液に漬けて、冷蔵庫で2時間以上置く。",
+        "tip": "長く漬けるほど、スパイスの香りが深く浸み込みます。"
+      },
+      {
+        "step": 4,
+        "text": "オーブンを200℃に予熱し、焼き網に鶏肉を置く。",
+        "tip": "鶏肉は焼き網に置くことで、火が均等に通ります。"
+      },
+      {
+        "step": 5,
+        "text": "25分焼き、鶏肉が完全に火が通るまで加熱する。",
+        "tip": "途中で火が焦げすぎたら、アルミホイルをかぶせます。"
+      },
+      {
+        "step": 6,
+        "text": "焼き上がった鶏肉にライムを絞り、レモンウェッジとともに盛りつけて完成。",
+        "tip": "最後にライムを絞ることで、爽やかさが引き立ちます。"
+      }
+    ],
+    "meta_title": "タンドリーチキンの作り方 | インド料理レシピ",
+    "meta_description": "スパイスの香りが深く浸み込んだタンドリーチキン。オーブンで簡単に作れます。",
+    "keywords": [
+      "タンドリーチキン",
+      "インド料理",
+      "グリル料理",
+      "スパイス"
+    ],
+    "cuisine": "インド料理",
+    "course": "main",
+    "tips": "タンドリーペーストがなくても、スパイス（クミン、コリアンダー、ターメリック、チリパウダー）を混ぜたマリネ液で代用できます。マリネ時間が長いほど、スパイスの香りが深く浸み込みます。",
+    "tag_slugs": [
+      "spicy",
+      "grill",
+      "entertaining",
+      "diet"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "slug": "yogurt",
+        "name": "ヨーグルト",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "tandoori-paste",
+        "name": "タンドリーペースト",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2片",
+        "unit": ""
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1片",
+        "unit": ""
+      },
+      {
+        "slug": "lime",
+        "name": "ライム",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "cumin",
+        "name": "クミン",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "coriander",
+        "name": "コリアンダー",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "naan",
+    "title": "ナン",
+    "description": "ふんわりとした食感が心地よい、インドの焼きたてパン",
+    "introduction": "インドの家庭やレストランで欠かせないナンは、タンドリーオーブンで焼いた塩辛いパンです。カレーに浸して食べれば、カレーの旨味を引き出してくれる最高のパートナーです。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "servings_unit": "個",
+    "difficulty": "medium",
+    "calories": 240,
+    "protein_g": 8,
+    "fat_g": 6,
+    "carbs_g": 38,
+    "fiber_g": 1,
+    "sodium_mg": 450,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "小麦粉、塩、ドライイースト、ヨーグルト、水を混ぜて、生地をこねる。",
+        "tip": "生地がなめらかになるまで、しっかりこねます。"
+      },
+      {
+        "step": 2,
+        "text": "生地を丸めてボウルに入れ、ラップをして1時間発酵させる。",
+        "tip": "温かい場所で発酵させると、より良くふくらみます。"
+      },
+      {
+        "step": 3,
+        "text": "発酵した生地を4等分にして、ボール状に丸める。",
+        "tip": "空気を抜かないように、そっと丸めます。"
+      },
+      {
+        "step": 4,
+        "text": "生地を楕円形に広げて、フライパンやオーブンで焼く。",
+        "tip": "焼き色がついて、膨らむまで焼きます。"
+      },
+      {
+        "step": 5,
+        "text": "焼き上がったナンにバターを塗る。",
+        "tip": "焼きたてのナンは香りが最高です。"
+      }
+    ],
+    "meta_title": "ナンの作り方 | インドのパンレシピ",
+    "meta_description": "ふんわりとした食感が心地よいナン。自宅のオーブンで簡単に作れます。",
+    "keywords": [
+      "ナン",
+      "インド料理",
+      "パン",
+      "カレー"
+    ],
+    "cuisine": "インド料理",
+    "course": "main",
+    "tips": "タンドリーオーブンがなくても、フライパンやオーブンで焼くことができます。焼きたてのナンが一番美味しいので、すぐに食べるのがお勧めです。",
+    "tag_slugs": [
+      "fluffy",
+      "quick",
+      "entertaining",
+      "bento"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "all-purpose-flour",
+        "name": "小麦粉",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "dry-yeast",
+        "name": "ドライイースト",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "yogurt",
+        "name": "ヨーグルト",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "1片",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "samosa",
+    "title": "サモサ",
+    "description": "揚げたて熱々が最高、インドの定番スナック",
+    "introduction": "インドの街角の屋台で見かけるサモサは、じゃがいもとスパイスを詰めた三角形の揚げ菓子です。カリカリの食感とスパイシーな味わいが癖になる、インド人も大好きな一品です。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 45,
+    "servings": 8,
+    "servings_unit": "個",
+    "difficulty": "medium",
+    "calories": 180,
+    "protein_g": 4,
+    "fat_g": 9,
+    "carbs_g": 20,
+    "fiber_g": 2,
+    "sodium_mg": 280,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "じゃがいもを蒸して、マッシュする。玉ねぎと豆は細かく刻む。",
+        "tip": "じゃがいもは完全にマッシュすることで、詰めやすくなります。"
+      },
+      {
+        "step": 2,
+        "text": "マッシュしたじゃがいも、豆、玉ねぎ、スパイスを混ぜて、具を作る。",
+        "tip": "具は粗めのテクスチャーが最高です。"
+      },
+      {
+        "step": 3,
+        "text": "ファイロシート（春巻きの皮）を三角形に切って、1枚ずつ使う。",
+        "tip": "ファイロシートが乾かないように、時々濡れた布で覆います。"
+      },
+      {
+        "step": 4,
+        "text": "ファイロシートに具を詰めて、三角形に折り込む。",
+        "tip": "詰めすぎると、揚げるときに破けてしまいます。"
+      },
+      {
+        "step": 5,
+        "text": "190℃の油で5分程度揚げて、色が濃くなるまで加熱する。",
+        "tip": "油が熱すぎると焦げ、温すぎると油が染み込みます。"
+      },
+      {
+        "step": 6,
+        "text": "油を切って、揚げたてを盛りつけて完成。",
+        "tip": "揚げたてのサモサが一番美味しいです。"
+      }
+    ],
+    "meta_title": "サモサの作り方 | インドのスナックレシピ",
+    "meta_description": "カリカリの食感が最高のサモサ。インドの揚げ菓子を自宅で作ります。",
+    "keywords": [
+      "サモサ",
+      "インド料理",
+      "揚げ物",
+      "スナック"
+    ],
+    "cuisine": "インド料理",
+    "course": "appetizer",
+    "tips": "サモサの具はじゃがいもと豆が基本ですが、肉を使ったバージョンもあります。ファイロシートの代わりに、春巻きの皮を使っても大丈夫です。",
+    "tag_slugs": [
+      "spicy",
+      "crispy",
+      "deep-fry",
+      "party"
+    ],
+    "category_slug": "appetizer",
+    "ingredients": [
+      {
+        "slug": "potato",
+        "name": "じゃがいも",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "peas",
+        "name": "グリーンピース",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1/2個",
+        "unit": ""
+      },
+      {
+        "slug": "phyllo-sheet",
+        "name": "ファイロシート",
+        "quantity": "8枚",
+        "unit": ""
+      },
+      {
+        "slug": "cumin",
+        "name": "クミンシード",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "chili-powder",
+        "name": "チリパウダー",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "油",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "少々",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "biryani",
+    "title": "ビリヤニ",
+    "description": "スパイスの香りが詰まった、インドの御馳走ご飯",
+    "introduction": "インド発祥のビリヤニは、スパイスとお米を何層にも重ねて蒸し焼きにした豪華な料理です。香りと旨味が凝縮された一皿で、インド料理の最高峰とも言われています。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 70,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "hard",
+    "calories": 580,
+    "protein_g": 24,
+    "fat_g": 22,
+    "carbs_g": 72,
+    "fiber_g": 3,
+    "sodium_mg": 850,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉をヨーグルトとスパイスでマリネする。30分置く。",
+        "tip": "マリネ時間を長くするほど、味が深まります。"
+      },
+      {
+        "step": 2,
+        "text": "バスマティライスを洗い、塩を加えた湯で半分火を通すまで茹でる。",
+        "tip": "米は完全には火を通さず、半分火が通った状態で止めます。"
+      },
+      {
+        "step": 3,
+        "text": "鍋の底に油を敷き、マリネした鶏肉を層状に敷き詰める。",
+        "tip": "鶏肉は完全に熱す必要があります。"
+      },
+      {
+        "step": 4,
+        "text": "半分火が通ったお米を鶏肉の上に敷き詰める。",
+        "tip": "層を整えることで、最終的に混ざりやすくなります。"
+      },
+      {
+        "step": 5,
+        "text": "蓋をして、180℃のオーブンで25分蒸し焼きにする。",
+        "tip": "蓋をしっかり閉じることで、蒸気が逃げません。"
+      },
+      {
+        "step": 6,
+        "text": "オーブンから出して、全体をかき混ぜて、皿に盛りつけて完成。",
+        "tip": "かき混ぜるときは、優しく混ぜて米を潰さないようにします。"
+      }
+    ],
+    "meta_title": "ビリヤニの作り方 | インドの御馳走ご飯レシピ",
+    "meta_description": "スパイスの香りが詰まったビリヤニ。インド料理の最高峰を自宅で作ります。",
+    "keywords": [
+      "ビリヤニ",
+      "インド料理",
+      "ご飯",
+      "スパイス"
+    ],
+    "cuisine": "インド料理",
+    "course": "rice",
+    "tips": "ビリヤニは地域によって作り方が異なります。このレシピはハイデラバード・ビリヤニの簡易版です。本格的なものは調理時間がさらにかかります。",
+    "tag_slugs": [
+      "spicy",
+      "umami",
+      "entertaining",
+      "party"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "slug": "basmati-rice",
+        "name": "バスマティライス",
+        "quantity": "250",
+        "unit": "g"
+      },
+      {
+        "slug": "yogurt",
+        "name": "ヨーグルト",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "2個",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "3片",
+        "unit": ""
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1片",
+        "unit": ""
+      },
+      {
+        "slug": "biryani-masala",
+        "name": "ビリヤニマサラ",
+        "quantity": "小さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "ghee",
+        "name": "ギー（澄ましバター）",
+        "quantity": "大さじ4",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "nasi-goreng",
+    "title": "ナシゴレン",
+    "description": "炒めたご飯にスパイスが香る、インドネシアの国民食",
+    "introduction": "ナシゴレンは、インドネシアの定番ご飯料理です。サンバルペースト（唐辛子ペースト）とナンプラーで味付けした、スパイシーで香り高い一品。インドネシア人の朝食の定番です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 480,
+    "protein_g": 16,
+    "fat_g": 18,
+    "carbs_g": 65,
+    "fiber_g": 3,
+    "sodium_mg": 980,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ご飯をほぐしておく。エビとニンニク、唐辛子をみじん切りにする。",
+        "tip": "ご飯は冷や飯を使うと、より炒めやすくなります。"
+      },
+      {
+        "step": 2,
+        "text": "フライパンを強火で熱し、油を入れてニンニクと唐辛子を炒める。",
+        "tip": "香りが立つまで約20秒炒めます。"
+      },
+      {
+        "step": 3,
+        "text": "エビを加えて、エビに火が通るまで2分炒める。",
+        "tip": "エビは火が通りやすいので、加熱しすぎないようにします。"
+      },
+      {
+        "step": 4,
+        "text": "ご飯を加えて、全体をほぐしながら炒める。",
+        "tip": "米が均等に加熱されるよう、よく混ぜます。"
+      },
+      {
+        "step": 5,
+        "text": "サンバルペースト、ナンプラー、砂糖で味付けする。",
+        "tip": "本格的なナシゴレンはサンバルペーストがポイント。"
+      },
+      {
+        "step": 6,
+        "text": "卵を加えてスクランブルし、最後にネギと香菜を散らして完成。",
+        "tip": "最後に加える香菜がナシゴレンの香りを引き立てます。"
+      }
+    ],
+    "meta_title": "ナシゴレンの作り方 | インドネシア料理レシピ",
+    "meta_description": "スパイシーで香り高いインドネシアのナシゴレン。自宅で簡単に作れます。",
+    "keywords": [
+      "ナシゴレン",
+      "インドネシア料理",
+      "ご飯",
+      "スパイス"
+    ],
+    "cuisine": "インドネシア料理",
+    "course": "rice",
+    "tips": "ナシゴレンの味の決め手はサンバルペースト。本格的なサンバルペーストを選ぶことで、インドネシア本土に近い味わいになります。",
+    "tag_slugs": [
+      "spicy",
+      "stir-fry",
+      "quick",
+      "meal-prep"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "white-rice",
+        "name": "白いご飯",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "shrimp",
+        "name": "エビ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2片",
+        "unit": ""
+      },
+      {
+        "slug": "red-chili",
+        "name": "赤唐辛子",
+        "quantity": "1本",
+        "unit": ""
+      },
+      {
+        "slug": "sambal-paste",
+        "name": "サンバルペースト",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "fish-sauce",
+        "name": "ナンプラー",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "cilantro",
+        "name": "香菜",
+        "quantity": "1握り",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "satay",
+    "title": "サテ",
+    "description": "ピーナッツダレが絶品、インドネシアの焼き串料理",
+    "introduction": "サテは肉や海老を串に刺して焼き、濃厚なピーナッツダレにつけて食べるインドネシア・マレーシアの料理です。屋台の香りが立ち込める街角の定番で、一度食べたら虜になる味わいです。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30,
+    "servings": 4,
+    "servings_unit": "本",
+    "difficulty": "easy",
+    "calories": 380,
+    "protein_g": 24,
+    "fat_g": 20,
+    "carbs_g": 22,
+    "fiber_g": 3,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉を細長く切って、竹串に刺す。",
+        "tip": "竹串は水に浸しておくと、焼くときに焦げません。"
+      },
+      {
+        "step": 2,
+        "text": "鶏肉をチューリックパウダー、ココナッツミルク、ニンニクで味付けする。",
+        "tip": "マリネすることで、味が深まります。"
+      },
+      {
+        "step": 3,
+        "text": "フライパンやグリルを高温に熱し、串焼きを焼く。",
+        "tip": "火力は強めにして、焦げ目をつけます。"
+      },
+      {
+        "step": 4,
+        "text": "串焼きが色づくまで、両面3分程度焼く。",
+        "tip": "鶏肉は完全に火が通るまで焼きます。"
+      },
+      {
+        "step": 5,
+        "text": "ピーナッツペースト、ココナッツミルク、ライムジュースを混ぜてダレを作る。",
+        "tip": "ダレは好みの固さに調整してください。"
+      },
+      {
+        "step": 6,
+        "text": "焼き上がった串焼きにダレをつけて、皿に盛りつけて完成。",
+        "tip": "温かいうちに召し上がれ。"
+      }
+    ],
+    "meta_title": "サテの作り方 | インドネシア焼き串レシピ",
+    "meta_description": "ピーナッツダレが絶品のサテ。インドネシアの屋台の味を自宅で再現します。",
+    "keywords": [
+      "サテ",
+      "インドネシア料理",
+      "串焼き",
+      "ピーナッツ"
+    ],
+    "cuisine": "インドネシア料理",
+    "course": "main",
+    "tips": "サテは肉の種類によって異なります。鶏肉、豚肉、牛肉、エビなど、様々なバージョンがあります。ピーナッツダレの濃厚さで味わいが大きく変わるので、好みで調整してください。",
+    "tag_slugs": [
+      "spicy",
+      "grill",
+      "entertaining",
+      "party"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-breast",
+        "name": "鶏肉（むね）",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "slug": "turmeric-powder",
+        "name": "ターメリックパウダー",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "coconut-milk",
+        "name": "ココナッツミルク",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2片",
+        "unit": ""
+      },
+      {
+        "slug": "peanut-paste",
+        "name": "ピーナッツペースト",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "lime-juice",
+        "name": "ライムジュース",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "bamboo-skewer",
+        "name": "竹串",
+        "quantity": "4本",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "laksa",
+    "title": "ラクサ",
+    "description": "ココナッツの香りが心地よい、マレーシアの定番麺料理",
+    "introduction": "ラクサはマレーシアの定番料理で、ココナッツベースのスープに米粉麺を合わせた一品です。濃厚なスープの中に、シーフードや野菜の香りが立ち込める、複雑で奥深い味わいが特徴です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 420,
+    "protein_g": 18,
+    "fat_g": 22,
+    "carbs_g": 42,
+    "fiber_g": 3,
+    "sodium_mg": 1100,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ラクサペースト、ココナッツミルク、チキンスープを混ぜてスープベースを作る。",
+        "tip": "ラクサペーストが香りの決め手。質の良いものを選びます。"
+      },
+      {
+        "step": 2,
+        "text": "米粉麺を湯で戻し、水気を切っておく。",
+        "tip": "米粉麺は戻しすぎないようにします。"
+      },
+      {
+        "step": 3,
+        "text": "スープに豆もやし、シーフード、豆もやしを加えて加熱する。",
+        "tip": "シーフードは火が通りやすいので、最後に加えます。"
+      },
+      {
+        "step": 4,
+        "text": "スープを器に注ぎ、米粉麺を加える。",
+        "tip": "すべての材料を器で組み合わせます。"
+      },
+      {
+        "step": 5,
+        "text": "ゆで卵、豆もやし、ネギを乗せて、最後にライムを絞る。",
+        "tip": "ライムはラクサの味わいを引き立てる重要な要素です。"
+      },
+      {
+        "step": 6,
+        "text": "熱々のうちに召し上がれ。",
+        "tip": "ラクサは温度が大切な料理です。"
+      }
+    ],
+    "meta_title": "ラクサの作り方 | マレーシア麺料理レシピ",
+    "meta_description": "ココナッツの香りが心地よいマレーシアのラクサ。本格的な味わいを自宅で再現します。",
+    "keywords": [
+      "ラクサ",
+      "マレーシア料理",
+      "麺料理",
+      "ココナッツ"
+    ],
+    "cuisine": "マレーシア料理",
+    "course": "soup",
+    "tips": "ラクサはペナン・ラクサとクアラルンプール・ラクサなど、地域によって作り方が異なります。このレシピはペナン・ラクサ風です。本格的なラクサペーストを選ぶことで、より本土に近い味わいになります。",
+    "tag_slugs": [
+      "spicy",
+      "rich",
+      "simmer",
+      "entertaining"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "laksa-paste",
+        "name": "ラクサペースト",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "coconut-milk",
+        "name": "ココナッツミルク",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "slug": "chicken-stock",
+        "name": "チキンスープ",
+        "quantity": "300",
+        "unit": "ml"
+      },
+      {
+        "slug": "rice-noodle",
+        "name": "米粉麺",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "shrimp",
+        "name": "エビ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "mung-bean-sprout",
+        "name": "豆もやし",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1個",
+        "unit": ""
+      },
+      {
+        "slug": "lime",
+        "name": "ライム",
+        "quantity": "1/2個",
+        "unit": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,205 @@
+{
+  "category": "油脂類",
+  "ingredients": [
+    {
+      "name": "サラダ油",
+      "slug": "salada-yu",
+      "name_en": "Vegetable oil",
+      "name_reading": "さらだゆ",
+      "season": "通年",
+      "origin": "国内・アメリカ"
+    },
+    {
+      "name": "オリーブオイル",
+      "slug": "olive-yu",
+      "name_en": "Olive oil",
+      "name_reading": "おりーぶゆ",
+      "season": "通年",
+      "origin": "イタリア・スペイン"
+    },
+    {
+      "name": "エキストラバージンオリーブオイル",
+      "slug": "extra-virgin-olive-yu",
+      "name_en": "Extra virgin olive oil",
+      "name_reading": "えきすとらばーじんおりーぶゆ",
+      "season": "通年",
+      "origin": "イタリア・スペイン"
+    },
+    {
+      "name": "ごま油",
+      "slug": "goma-yu",
+      "name_en": "Sesame oil",
+      "name_reading": "ごまゆ",
+      "season": "通年",
+      "origin": "中国・インド"
+    },
+    {
+      "name": "ラー油",
+      "slug": "rau-yu",
+      "name_en": "Chili oil",
+      "name_reading": "らーゆ",
+      "season": "通年",
+      "origin": "中国・国内"
+    },
+    {
+      "name": "ココナッツオイル",
+      "slug": "coconut-yu",
+      "name_en": "Coconut oil",
+      "name_reading": "ここなっつゆ",
+      "season": "通年",
+      "origin": "フィリピン・インドネシア"
+    },
+    {
+      "name": "米油",
+      "slug": "kome-yu",
+      "name_en": "Rice bran oil",
+      "name_reading": "こめゆ",
+      "season": "通年",
+      "origin": "国内・タイ"
+    },
+    {
+      "name": "なたね油",
+      "slug": "natane-yu",
+      "name_en": "Canola oil",
+      "name_reading": "なたねゆ",
+      "season": "通年",
+      "origin": "カナダ・国内"
+    },
+    {
+      "name": "えごま油",
+      "slug": "egoma-yu",
+      "name_en": "Perilla oil",
+      "name_reading": "えごまゆ",
+      "season": "通年",
+      "origin": "韓国・国内"
+    },
+    {
+      "name": "アマニ油",
+      "slug": "amani-yu",
+      "name_en": "Linseed oil",
+      "name_reading": "あまにゆ",
+      "season": "通年",
+      "origin": "カナダ・リトアニア"
+    },
+    {
+      "name": "グレープシードオイル",
+      "slug": "grapeseed-yu",
+      "name_en": "Grapeseed oil",
+      "name_reading": "ぐれーぷしーどゆ",
+      "season": "通年",
+      "origin": "イタリア・フランス"
+    },
+    {
+      "name": "アボカドオイル",
+      "slug": "avocado-yu",
+      "name_en": "Avocado oil",
+      "name_reading": "あぼかどゆ",
+      "season": "通年",
+      "origin": "メキシコ・ニュージーランド"
+    },
+    {
+      "name": "ピーナッツオイル",
+      "slug": "pinattsu-yu",
+      "name_en": "Peanut oil",
+      "name_reading": "ぴーなっつゆ",
+      "season": "通年",
+      "origin": "中国・アメリカ"
+    },
+    {
+      "name": "マーガリン",
+      "slug": "magarin",
+      "name_en": "Margarine",
+      "name_reading": "まーがりん",
+      "season": "通年",
+      "origin": "国内・オランダ"
+    },
+    {
+      "name": "ショートニング",
+      "slug": "shotening",
+      "name_en": "Shortening",
+      "name_reading": "しょーてにんぐ",
+      "season": "通年",
+      "origin": "国内・アメリカ"
+    },
+    {
+      "name": "ラード",
+      "slug": "rudo",
+      "name_en": "Lard",
+      "name_reading": "らーど",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "牛脂",
+      "slug": "gyuu-shi",
+      "name_en": "Beef tallow",
+      "name_reading": "ぎゅうし",
+      "season": "通年",
+      "origin": "国内・オーストラリア"
+    },
+    {
+      "name": "太白ごま油",
+      "slug": "taihaku-goma-yu",
+      "name_en": "White sesame oil",
+      "name_reading": "たいはくごまゆ",
+      "season": "通年",
+      "origin": "中国・インド"
+    },
+    {
+      "name": "トリュフオイル",
+      "slug": "toriffu-yu",
+      "name_en": "Truffle oil",
+      "name_reading": "とりゅふゆ",
+      "season": "通年",
+      "origin": "イタリア・フランス"
+    },
+    {
+      "name": "ガーリックオイル",
+      "slug": "garlic-yu",
+      "name_en": "Garlic oil",
+      "name_reading": "がーりっくゆ",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "バター",
+      "slug": "bata",
+      "name_en": "Butter",
+      "name_reading": "ばたー",
+      "season": "通年",
+      "origin": "国内・ニュージーランド"
+    },
+    {
+      "name": "ギー",
+      "slug": "gii",
+      "name_en": "Ghee",
+      "name_reading": "ぎー",
+      "season": "通年",
+      "origin": "インド・イラン"
+    },
+    {
+      "name": "豚脂",
+      "slug": "buta-shi",
+      "name_en": "Pork lard",
+      "name_reading": "ぶたし",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "胡麻油（黒）",
+      "slug": "goma-yu-kuro",
+      "name_en": "Black sesame oil",
+      "name_reading": "ごまゆくろ",
+      "season": "通年",
+      "origin": "中国・インド"
+    },
+    {
+      "name": "アルガンオイル",
+      "slug": "aragan-yu",
+      "name_en": "Argan oil",
+      "name_reading": "あるがんゆ",
+      "season": "通年",
+      "origin": "モロッコ"
+    }
+  ]
+}

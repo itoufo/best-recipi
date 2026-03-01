@@ -1,0 +1,221 @@
+{
+  "category": "麺・パスタ",
+  "ingredients": [
+    {
+      "name": "スパゲッティ",
+      "slug": "spaghetti",
+      "name_en": "Spaghetti",
+      "name_reading": "すぱげってぃ",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "リングイネ",
+      "slug": "linguine",
+      "name_en": "Linguine",
+      "name_reading": "りんぎね",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "フェットチーネ",
+      "slug": "fettuccine",
+      "name_en": "Fettuccine",
+      "name_reading": "ふぇっとちーね",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "ペンネ",
+      "slug": "penne",
+      "name_en": "Penne",
+      "name_reading": "ぺんね",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "マカロニ",
+      "slug": "makaroni",
+      "name_en": "Macaroni",
+      "name_reading": "まかろに",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "ラザニアシート",
+      "slug": "lasagna-sheet",
+      "name_en": "Lasagna sheet",
+      "name_reading": "らざにあしーと",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "カッペリーニ",
+      "slug": "capellini",
+      "name_en": "Capellini",
+      "name_reading": "かっぺりーに",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "オレキエッテ",
+      "slug": "orecchiette",
+      "name_en": "Orecchiette",
+      "name_reading": "おれきえって",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "ニョッキ",
+      "slug": "nyokki",
+      "name_en": "Gnocchi",
+      "name_reading": "にょっき",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "うどん",
+      "slug": "udon",
+      "name_en": "Udon",
+      "name_reading": "うどん",
+      "season": "通年",
+      "origin": "全国"
+    },
+    {
+      "name": "そば",
+      "slug": "soba",
+      "name_en": "Soba",
+      "name_reading": "そば",
+      "season": "通年",
+      "origin": "全国"
+    },
+    {
+      "name": "そうめん",
+      "slug": "somen",
+      "name_en": "Somen",
+      "name_reading": "そうめん",
+      "season": "夏",
+      "origin": "兵庫県・長野県"
+    },
+    {
+      "name": "ひやむぎ",
+      "slug": "hiyamug",
+      "name_en": "Hiyamug",
+      "name_reading": "ひやむぎ",
+      "season": "夏",
+      "origin": "全国"
+    },
+    {
+      "name": "中華麺",
+      "slug": "chukaamen",
+      "name_en": "Chinese noodle",
+      "name_reading": "ちゅうかめん",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "ビーフン",
+      "slug": "beefun",
+      "name_en": "Beefun",
+      "name_reading": "びーふん",
+      "season": "通年",
+      "origin": "ベトナム・タイ"
+    },
+    {
+      "name": "春雨",
+      "slug": "harusame",
+      "name_en": "Harusame",
+      "name_reading": "はるさめ",
+      "season": "通年",
+      "origin": "中国・台湾"
+    },
+    {
+      "name": "マロニー",
+      "slug": "maroni",
+      "name_en": "Maroni",
+      "name_reading": "まろにー",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "フォー",
+      "slug": "pho",
+      "name_en": "Pho",
+      "name_reading": "ふぉー",
+      "season": "通年",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "稲庭うどん",
+      "slug": "inaniwa-udon",
+      "name_en": "Inaniwa udon",
+      "name_reading": "いなにわうどん",
+      "season": "通年",
+      "origin": "秋田県"
+    },
+    {
+      "name": "きしめん",
+      "slug": "kishimen",
+      "name_en": "Kishimen",
+      "name_reading": "きしめん",
+      "season": "通年",
+      "origin": "愛知県"
+    },
+    {
+      "name": "ほうとう",
+      "slug": "houtou",
+      "name_en": "Houtou",
+      "name_reading": "ほうとう",
+      "season": "冬",
+      "origin": "山梨県"
+    },
+    {
+      "name": "焼きそば麺",
+      "slug": "yakisoba-men",
+      "name_en": "Yakisoba noodle",
+      "name_reading": "やきそばめん",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "ラーメン麺",
+      "slug": "ramen-men",
+      "name_en": "Ramen noodle",
+      "name_reading": "らーめんめん",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "蕎麦乾麺",
+      "slug": "soba-karamen",
+      "name_en": "Dried soba",
+      "name_reading": "そばかれめん",
+      "season": "通年",
+      "origin": "全国"
+    },
+    {
+      "name": "冷麺",
+      "slug": "reimen",
+      "name_en": "Cold ramen",
+      "name_reading": "れいめん",
+      "season": "夏",
+      "origin": "国内・朝鮮半島"
+    },
+    {
+      "name": "パスタフレスカ",
+      "slug": "pasta-fresca",
+      "name_en": "Fresh pasta",
+      "name_reading": "ぱすたふれすか",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "ロティーニ",
+      "slug": "rotini",
+      "name_en": "Rotini",
+      "name_reading": "ろてぃーに",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    }
+  ]
+}

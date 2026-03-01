@@ -1,0 +1,189 @@
+{
+  "category": "中東・北アフリカ食材",
+  "ingredients": [
+    {
+      "name": "バハラート",
+      "slug": "baharat",
+      "name_en": "Baharat",
+      "name_reading": "ばはらーと",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "アドヴィエ",
+      "slug": "adviyeh",
+      "name_en": "Adviyeh",
+      "name_reading": "あどゔぃえ",
+      "season": "通年",
+      "origin": "イラン"
+    },
+    {
+      "name": "タヒニ",
+      "slug": "tahini",
+      "name_en": "Tahini",
+      "name_reading": "たひにー",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ざくろ糖蜜",
+      "slug": "pomegranate-molasses",
+      "name_en": "Pomegranate Molasses",
+      "name_reading": "ざくろとうみつ",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ローズウォーター",
+      "slug": "rose-water",
+      "name_en": "Rose Water",
+      "name_reading": "ろーずうぉーたー",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "オレンジブロッサムウォーター",
+      "slug": "orange-blossom-water",
+      "name_en": "Orange Blossom Water",
+      "name_reading": "おれんじぶろっさむうぉーたー",
+      "season": "通年",
+      "origin": "中東・北アフリカ"
+    },
+    {
+      "name": "ひよこ豆（乾燥）",
+      "slug": "chickpeas-dried",
+      "name_en": "Dried Chickpeas",
+      "name_reading": "ひよこまめかんそう",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "緑レンズ豆",
+      "slug": "green-lentils",
+      "name_en": "Green Lentils",
+      "name_reading": "みどりれんずまめ",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "赤レンズ豆",
+      "slug": "red-lentils",
+      "name_en": "Red Lentils",
+      "name_reading": "あかれんずまめ",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ラブネ",
+      "slug": "labneh",
+      "name_en": "Labneh",
+      "name_reading": "らぶね",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ハルーミチーズ",
+      "slug": "halloumi",
+      "name_en": "Halloumi",
+      "name_reading": "はるーみちーず",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ピスタチオ（中東産）",
+      "slug": "pistachios-middle-eastern",
+      "name_en": "Middle Eastern Pistachios",
+      "name_reading": "ぴすたちおちゅうとうさん",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "松の実（中東産）",
+      "slug": "pine-nuts-middle-eastern",
+      "name_en": "Middle Eastern Pine Nuts",
+      "name_reading": "まつのみちゅうとうさん",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "オリーブ（カラマタ）",
+      "slug": "kalamata-olives",
+      "name_en": "Kalamata Olives",
+      "name_reading": "からまたおりーぶ",
+      "season": "通年",
+      "origin": "地中海"
+    },
+    {
+      "name": "保存レモン",
+      "slug": "preserved-lemon",
+      "name_en": "Preserved Lemon",
+      "name_reading": "ほぞんれもん",
+      "season": "通年",
+      "origin": "北アフリカ"
+    },
+    {
+      "name": "ピタパン",
+      "slug": "pita-bread",
+      "name_en": "Pita Bread",
+      "name_reading": "ぴたぱん",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ラバシュ",
+      "slug": "lavash",
+      "name_en": "Lavash",
+      "name_reading": "らばしゅ",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "フィロ生地",
+      "slug": "phyllo-dough",
+      "name_en": "Phyllo Dough",
+      "name_reading": "ふぃろせいち",
+      "season": "通年",
+      "origin": "地中海・中東"
+    },
+    {
+      "name": "マヌーシェ",
+      "slug": "manoushe",
+      "name_en": "Manoushe",
+      "name_reading": "まぬーしぇ",
+      "season": "通年",
+      "origin": "レバノン"
+    },
+    {
+      "name": "ファラフェルミックス",
+      "slug": "falafel-mix",
+      "name_en": "Falafel Mix",
+      "name_reading": "ふぁらふぇるみっくす",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "フムスミックス",
+      "slug": "hummus-mix",
+      "name_en": "Hummus Mix",
+      "name_reading": "ふむすみっくす",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "ケバブスパイス",
+      "slug": "kebab-spice",
+      "name_en": "Kebab Spice",
+      "name_reading": "けばぶすぱいす",
+      "season": "通年",
+      "origin": "中東"
+    },
+    {
+      "name": "シナモン（セイロン）",
+      "slug": "ceylon-cinnamon",
+      "name_en": "Ceylon Cinnamon",
+      "name_reading": "しなもんせいろん",
+      "season": "通年",
+      "origin": "スリランカ（中東で常用）"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "category": "珍しい果物",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "ドラゴンフルーツ",
+      "slug": "dragon-fruit",
+      "name_en": "Dragon Fruit",
+      "name_reading": "どらごんふるーつ",
+      "season": "7月〜11月",
+      "origin": "沖縄、東南アジア"
+    },
+    {
+      "name": "ランブータン",
+      "slug": "rambutan",
+      "name_en": "Rambutan",
+      "name_reading": "らんぶーたん",
+      "season": "6月〜9月",
+      "origin": "東南アジア（マレーシア、インドネシア）"
+    },
+    {
+      "name": "マンゴスチン",
+      "slug": "mangosteen",
+      "name_en": "Mangosteen",
+      "name_reading": "まんごすちん",
+      "season": "6月〜9月",
+      "origin": "東南アジア（タイ、マレーシア）"
+    },
+    {
+      "name": "ドリアン",
+      "slug": "durian",
+      "name_en": "Durian",
+      "name_reading": "どりあん",
+      "season": "6月〜9月",
+      "origin": "東南アジア（タイ、マレーシア）"
+    },
+    {
+      "name": "ジャックフルーツ",
+      "slug": "jackfruit",
+      "name_en": "Jackfruit",
+      "name_reading": "じゃっくふるーつ",
+      "season": "5月〜9月",
+      "origin": "南アジア、東南アジア"
+    },
+    {
+      "name": "スターフルーツ",
+      "slug": "starfruit",
+      "name_en": "Starfruit",
+      "name_reading": "すたーふるーつ",
+      "season": "通年",
+      "origin": "沖縄、東南アジア"
+    },
+    {
+      "name": "チェリモヤ",
+      "slug": "cherimoya",
+      "name_en": "Cherimoya",
+      "name_reading": "ちぇりもや",
+      "season": "10月〜2月",
+      "origin": "南米（アンデス地域）"
+    },
+    {
+      "name": "グアバ",
+      "slug": "guava",
+      "name_en": "Guava",
+      "name_reading": "ぐあば",
+      "season": "8月〜11月",
+      "origin": "沖縄、中南米"
+    },
+    {
+      "name": "パッションフルーツ",
+      "slug": "passion-fruit",
+      "name_en": "Passion Fruit",
+      "name_reading": "ぱっしょんふるーつ",
+      "season": "9月〜11月",
+      "origin": "沖縄、南米"
+    },
+    {
+      "name": "タマリロ",
+      "slug": "tamarillo",
+      "name_en": "Tamarillo",
+      "name_reading": "たまりろ",
+      "season": "9月〜11月",
+      "origin": "南米（アンデス地域）"
+    },
+    {
+      "name": "ライチ",
+      "slug": "lychee",
+      "name_en": "Lychee",
+      "name_reading": "らいち",
+      "season": "6月〜7月",
+      "origin": "中国、東南アジア、沖縄"
+    },
+    {
+      "name": "ロンガン",
+      "slug": "longan",
+      "name_en": "Longan",
+      "name_reading": "ろんがん",
+      "season": "8月〜10月",
+      "origin": "東南アジア（タイ）、沖縄"
+    },
+    {
+      "name": "サポジラ",
+      "slug": "sapodilla",
+      "name_en": "Sapodilla",
+      "name_reading": "さぽじら",
+      "season": "9月〜11月",
+      "origin": "中米、沖縄"
+    },
+    {
+      "name": "ポポー",
+      "slug": "pawpaw",
+      "name_en": "Pawpaw",
+      "name_reading": "ぽぽー",
+      "season": "9月〜10月",
+      "origin": "青森県ほか国内栽培"
+    },
+    {
+      "name": "フェイジョア",
+      "slug": "feijoa",
+      "name_en": "Feijoa",
+      "name_reading": "ふぇいじょあ",
+      "season": "11月〜12月",
+      "origin": "長野県ほか国内栽培"
+    },
+    {
+      "name": "ジャボチカバ",
+      "slug": "jabuticaba",
+      "name_en": "Jabuticaba",
+      "name_reading": "じゃぼちかば",
+      "season": "5月〜7月",
+      "origin": "ブラジル、国内栽培"
+    },
+    {
+      "name": "アテモヤ",
+      "slug": "atemoya",
+      "name_en": "Atemoya",
+      "name_reading": "あてもや",
+      "season": "9月〜10月",
+      "origin": "沖縄、中南米"
+    },
+    {
+      "name": "島バナナ",
+      "slug": "shima-banana",
+      "name_en": "Island Banana",
+      "name_reading": "しまばなな",
+      "season": "通年",
+      "origin": "沖縄"
+    },
+    {
+      "name": "スナックパイン",
+      "slug": "snack-pineapple",
+      "name_en": "Snack Pineapple",
+      "name_reading": "すなっくぱいん",
+      "season": "通年",
+      "origin": "沖縄、東南アジア"
+    },
+    {
+      "name": "シークワーサー",
+      "slug": "shikuwasa",
+      "name_en": "Shikuwasa",
+      "name_reading": "しーくわーさー",
+      "season": "9月〜11月",
+      "origin": "沖縄"
+    },
+    {
+      "name": "タンカン",
+      "slug": "tankan",
+      "name_en": "Tankan",
+      "name_reading": "たんかん",
+      "season": "1月〜2月",
+      "origin": "沖縄"
+    },
+    {
+      "name": "カニステル",
+      "slug": "canistel",
+      "name_en": "Canistel",
+      "name_reading": "かにすてる",
+      "season": "8月〜9月",
+      "origin": "沖縄、中米"
+    },
+    {
+      "name": "ピタヤ",
+      "slug": "pitaya",
+      "name_en": "Pitaya",
+      "name_reading": "ぴたや",
+      "season": "7月〜11月",
+      "origin": "沖縄、中米"
+    },
+    {
+      "name": "アロニア",
+      "slug": "aronia",
+      "name_en": "Aronia",
+      "name_reading": "あろにあ",
+      "season": "8月〜9月",
+      "origin": "北欧、国内栽培"
+    },
+    {
+      "name": "ハスカップ",
+      "slug": "haskup",
+      "name_en": "Haskup",
+      "name_reading": "はすかっぷ",
+      "season": "6月〜7月",
+      "origin": "北海道"
+    },
+    {
+      "name": "グーズベリー",
+      "slug": "gooseberry",
+      "name_en": "Gooseberry",
+      "name_reading": "ぐーずべりー",
+      "season": "6月〜7月",
+      "origin": "ヨーロッパ、国内栽培"
+    },
+    {
+      "name": "ボイセンベリー",
+      "slug": "boysenberry",
+      "name_en": "Boysenberry",
+      "name_reading": "ぼいせんべりー",
+      "season": "6月〜7月",
+      "origin": "アメリカ、国内栽培"
+    },
+    {
+      "name": "サルナシ（コクワ）",
+      "slug": "sarunashi",
+      "name_en": "Sarunashi (Mini Kiwi)",
+      "name_reading": "さるなし、こくわ",
+      "season": "9月〜10月",
+      "origin": "北海道、東日本"
+    },
+    {
+      "name": "マルベリー（桑の実）",
+      "slug": "mulberry",
+      "name_en": "Mulberry",
+      "name_reading": "まるべりー、くわのみ",
+      "season": "6月〜7月",
+      "origin": "国内栽培"
+    },
+    {
+      "name": "エルダーベリー",
+      "slug": "elderberry",
+      "name_en": "Elderberry",
+      "name_reading": "えるだーべりー",
+      "season": "8月〜9月",
+      "origin": "ヨーロッパ、国内栽培"
+    },
+    {
+      "name": "カカオ（生）",
+      "slug": "cacao-raw",
+      "name_en": "Raw Cacao",
+      "name_reading": "かかお",
+      "season": "通年（輸入）",
+      "origin": "西アフリカ、中南米"
+    },
+    {
+      "name": "ザクロ",
+      "slug": "pomegranate",
+      "name_en": "Pomegranate",
+      "name_reading": "ざくろ",
+      "season": "9月〜11月",
+      "origin": "イラン、トルコ、国内栽培"
+    },
+    {
+      "name": "ナツメ（生）",
+      "slug": "jujube-fresh",
+      "name_en": "Fresh Jujube",
+      "name_reading": "なつめ",
+      "season": "9月〜10月",
+      "origin": "中国、国内栽培"
+    },
+    {
+      "name": "クコの実（生）",
+      "slug": "goji-berry-fresh",
+      "name_en": "Fresh Goji Berry",
+      "name_reading": "くこのみ",
+      "season": "8月〜9月",
+      "origin": "中国、国内栽培"
+    },
+    {
+      "name": "アサイー",
+      "slug": "acai",
+      "name_en": "Acai",
+      "name_reading": "あさいー",
+      "season": "通年（冷凍）",
+      "origin": "ブラジル"
+    }
+  ]
+}

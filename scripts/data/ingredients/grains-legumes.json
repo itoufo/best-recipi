@@ -1,0 +1,285 @@
+{
+  "category": "穀物・豆類",
+  "ingredients": [
+    {
+      "name": "米",
+      "slug": "rice",
+      "name_en": "Rice",
+      "name_reading": "こめ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "もち米",
+      "slug": "sticky-rice",
+      "name_en": "Sticky Rice",
+      "name_reading": "もちごめ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "玄米",
+      "slug": "brown-rice",
+      "name_en": "Brown Rice",
+      "name_reading": "げんまい",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "雑穀米",
+      "slug": "mixed-grain-rice",
+      "name_en": "Mixed Grain Rice",
+      "name_reading": "ざっこくまい",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "大豆",
+      "slug": "soybean",
+      "name_en": "Soybean",
+      "name_reading": "だいず",
+      "season": "通年",
+      "origin": "日本、アメリカ"
+    },
+    {
+      "name": "小豆",
+      "slug": "red-bean",
+      "name_en": "Red Bean",
+      "name_reading": "あずき",
+      "season": "通年",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "レンズ豆",
+      "slug": "lentil",
+      "name_en": "Lentil",
+      "name_reading": "れんずまめ",
+      "season": "通年",
+      "origin": "カナダ、インド"
+    },
+    {
+      "name": "ひよこ豆",
+      "slug": "chickpea",
+      "name_en": "Chickpea",
+      "name_reading": "ひよこまめ",
+      "season": "通年",
+      "origin": "インド、トルコ"
+    },
+    {
+      "name": "白いんげん豆",
+      "slug": "white-kidney-bean",
+      "name_en": "White Kidney Bean",
+      "name_reading": "しろいんげんまめ",
+      "season": "通年",
+      "origin": "アメリカ、日本"
+    },
+    {
+      "name": "金時豆",
+      "slug": "kidney-bean",
+      "name_en": "Kidney Bean",
+      "name_reading": "きんときまめ",
+      "season": "通年",
+      "origin": "日本、北米"
+    },
+    {
+      "name": "押し麦",
+      "slug": "pearled-barley",
+      "name_en": "Pearled Barley",
+      "name_reading": "おしむぎ",
+      "season": "通年",
+      "origin": "日本、カナダ"
+    },
+    {
+      "name": "オートミール",
+      "slug": "oatmeal",
+      "name_en": "Oatmeal",
+      "name_reading": "おーときみーる",
+      "season": "通年",
+      "origin": "カナダ、アメリカ"
+    },
+    {
+      "name": "黒豆",
+      "slug": "black-soybean",
+      "name_en": "Black Soybean",
+      "name_reading": "くろまめ",
+      "season": "通年",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "うずら豆",
+      "slug": "quail-bean",
+      "name_en": "Quail Bean",
+      "name_reading": "うずらまめ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "花豆",
+      "slug": "flower-bean",
+      "name_en": "Flower Bean",
+      "name_reading": "はなまめ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "とら豆",
+      "slug": "tiger-bean",
+      "name_en": "Tiger Bean",
+      "name_reading": "とらまめ",
+      "season": "通年",
+      "origin": "北米"
+    },
+    {
+      "name": "大正金時",
+      "slug": "taisho-kintoking",
+      "name_en": "Taisho Kintoking Bean",
+      "name_reading": "たいしょうきんとき",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "白花豆",
+      "slug": "white-flower-bean",
+      "name_en": "White Flower Bean",
+      "name_reading": "しろはなまめ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "グリーンピース",
+      "slug": "green-peas",
+      "name_en": "Green Peas",
+      "name_reading": "ぐりーんぴーす",
+      "season": "春",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "もち麦",
+      "slug": "mochi-barley",
+      "name_en": "Mochi Barley",
+      "name_reading": "もちむぎ",
+      "season": "通年",
+      "origin": "日本、カナダ"
+    },
+    {
+      "name": "キヌア",
+      "slug": "quinoa",
+      "name_en": "Quinoa",
+      "name_reading": "きぬあ",
+      "season": "通年",
+      "origin": "ペルー、ボリビア"
+    },
+    {
+      "name": "粟",
+      "slug": "millet",
+      "name_en": "Millet",
+      "name_reading": "あわ",
+      "season": "秋",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "はと麦",
+      "slug": "Job-tears",
+      "name_en": "Job's Tears",
+      "name_reading": "はとむぎ",
+      "season": "通年",
+      "origin": "日本、アジア"
+    },
+    {
+      "name": "ライ麦",
+      "slug": "rye",
+      "name_en": "Rye",
+      "name_reading": "らいむぎ",
+      "season": "通年",
+      "origin": "ヨーロッパ、ロシア"
+    },
+    {
+      "name": "大麦",
+      "slug": "barley",
+      "name_en": "Barley",
+      "name_reading": "おおむぎ",
+      "season": "通年",
+      "origin": "カナダ、オーストラリア"
+    },
+    {
+      "name": "クスクス",
+      "slug": "couscous",
+      "name_en": "Couscous",
+      "name_reading": "くすくす",
+      "season": "通年",
+      "origin": "モロッコ、北アフリカ"
+    },
+    {
+      "name": "ブルグル",
+      "slug": "bulgur",
+      "name_en": "Bulgur",
+      "name_reading": "ぶるぐる",
+      "season": "通年",
+      "origin": "トルコ、レバノン"
+    },
+    {
+      "name": "そば",
+      "slug": "buckwheat",
+      "name_en": "Buckwheat",
+      "name_reading": "そば",
+      "season": "秋",
+      "origin": "日本、ロシア"
+    },
+    {
+      "name": "スペルト小麦",
+      "slug": "spelt",
+      "name_en": "Spelt",
+      "name_reading": "すぺるとこむぎ",
+      "season": "通年",
+      "origin": "ヨーロッパ"
+    },
+    {
+      "name": "カモット",
+      "slug": "kamut",
+      "name_en": "Kamut",
+      "name_reading": "かもっと",
+      "season": "通年",
+      "origin": "北米"
+    },
+    {
+      "name": "そら豆",
+      "slug": "fava-bean",
+      "name_en": "Fava Bean",
+      "name_reading": "そらまめ",
+      "season": "春",
+      "origin": "日本、地中海"
+    },
+    {
+      "name": "黒目豆",
+      "slug": "black-eyed-pea",
+      "name_en": "Black-Eyed Pea",
+      "name_reading": "くろめまめ",
+      "season": "通年",
+      "origin": "アフリカ、アメリカ"
+    },
+    {
+      "name": "レッドレンズ豆",
+      "slug": "red-lentil",
+      "name_en": "Red Lentil",
+      "name_reading": "れっどれんずまめ",
+      "season": "通年",
+      "origin": "インド、トルコ"
+    },
+    {
+      "name": "グリーンレンズ豆",
+      "slug": "green-lentil",
+      "name_en": "Green Lentil",
+      "name_reading": "ぐりーんれんずまめ",
+      "season": "通年",
+      "origin": "カナダ、インド"
+    },
+    {
+      "name": "フライドビーンズ",
+      "slug": "pinto-bean",
+      "name_en": "Pinto Bean",
+      "name_reading": "ぴんと豆",
+      "season": "通年",
+      "origin": "メキシコ、アメリカ"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "category": "中華食材",
+  "ingredients": [
+    {
+      "name": "甜麺醤",
+      "slug": "tian-mian-jiang",
+      "name_en": "Sweet Bean Sauce",
+      "name_reading": "てんめんじゃん",
+      "season": "通年",
+      "origin": "中国北京"
+    },
+    {
+      "name": "豆鼓",
+      "slug": "touban-sauce",
+      "name_en": "Fermented Black Beans",
+      "name_reading": "とうこ",
+      "season": "通年",
+      "origin": "中国南部"
+    },
+    {
+      "name": "老抽",
+      "slug": "lao-chou",
+      "name_en": "Dark Soy Sauce",
+      "name_reading": "ろうちゅう",
+      "season": "通年",
+      "origin": "中国広東省"
+    },
+    {
+      "name": "生抽",
+      "slug": "sheng-chou",
+      "name_en": "Light Soy Sauce",
+      "name_reading": "せいちゅう",
+      "season": "通年",
+      "origin": "中国広東省"
+    },
+    {
+      "name": "陳醋",
+      "slug": "chen-cu",
+      "name_en": "Black Vinegar",
+      "name_reading": "ちんさく",
+      "season": "通年",
+      "origin": "中国山西省"
+    },
+    {
+      "name": "花椒油",
+      "slug": "sichuan-peppercorn-oil",
+      "name_en": "Sichuan Peppercorn Oil",
+      "name_reading": "はなしょうゆ",
+      "season": "通年",
+      "origin": "中国四川省"
+    },
+    {
+      "name": "辣油",
+      "slug": "la-you",
+      "name_en": "Chili Oil",
+      "name_reading": "らつゆ",
+      "season": "通年",
+      "origin": "中国四川省"
+    },
+    {
+      "name": "蝦醤",
+      "slug": "shrimp-sauce",
+      "name_en": "Shrimp Paste",
+      "name_reading": "えびじゃん",
+      "season": "通年",
+      "origin": "中国南部"
+    },
+    {
+      "name": "柱侯醤",
+      "slug": "chu-hou-sauce",
+      "name_en": "Chu Hou Sauce",
+      "name_reading": "ちゅうこうしょう",
+      "season": "通年",
+      "origin": "中国広東省"
+    },
+    {
+      "name": "海鮮醤",
+      "slug": "seafood-sauce",
+      "name_en": "Seafood Sauce",
+      "name_reading": "かいせんじゃん",
+      "season": "通年",
+      "origin": "中国広東省"
+    },
+    {
+      "name": "沙茶醤",
+      "slug": "sa-cha-sauce",
+      "name_en": "Satay Sauce",
+      "name_reading": "さちゃしょう",
+      "season": "通年",
+      "origin": "中国福建省"
+    },
+    {
+      "name": "腐乳",
+      "slug": "fu-ru",
+      "name_en": "Fermented Tofu",
+      "name_reading": "ふにゅう",
+      "season": "通年",
+      "origin": "中国各地"
+    },
+    {
+      "name": "干し貝柱",
+      "slug": "conpoy",
+      "name_en": "Dried Scallop",
+      "name_reading": "ほしかいばしら",
+      "season": "通年",
+      "origin": "中国沿岸地域"
+    },
+    {
+      "name": "金針菜",
+      "slug": "golden-needle-flower",
+      "name_en": "Dried Day Lily",
+      "name_reading": "きんしんさい",
+      "season": "通年",
+      "origin": "中国東北部"
+    },
+    {
+      "name": "百合根干燥",
+      "slug": "dried-lily-bulb",
+      "name_en": "Dried Lily Bulb",
+      "name_reading": "ひゃくごうこんかんそう",
+      "season": "通年",
+      "origin": "中国各地"
+    },
+    {
+      "name": "干しなつめ",
+      "slug": "dried-jujube",
+      "name_en": "Dried Red Dates",
+      "name_reading": "ほしなつめ",
+      "season": "通年",
+      "origin": "中国華北地方"
+    },
+    {
+      "name": "銀耳",
+      "slug": "white-fungus",
+      "name_en": "White Fungus",
+      "name_reading": "ぎんじ",
+      "season": "通年",
+      "origin": "中国各地"
+    },
+    {
+      "name": "蓮の実",
+      "slug": "lotus-seed",
+      "name_en": "Lotus Seed",
+      "name_reading": "はすのみ",
+      "season": "通年",
+      "origin": "中国南部"
+    },
+    {
+      "name": "拉麺",
+      "slug": "la-mian",
+      "name_en": "Hand-Pulled Noodle",
+      "name_reading": "らーめん",
+      "season": "通年",
+      "origin": "中国西部"
+    },
+    {
+      "name": "刀削麺",
+      "slug": "dao-xiao-mian",
+      "name_en": "Knife-Cut Noodle",
+      "name_reading": "とうしょくめん",
+      "season": "通年",
+      "origin": "中国山西省"
+    },
+    {
+      "name": "米粉",
+      "slug": "rice-noodle",
+      "name_en": "Rice Noodle",
+      "name_reading": "こめこ",
+      "season": "通年",
+      "origin": "中国南部"
+    },
+    {
+      "name": "餃子の皮",
+      "slug": "dumpling-wrapper",
+      "name_en": "Dumpling Wrapper",
+      "name_reading": "ぎょうざのかわ",
+      "season": "通年",
+      "origin": "中国北京"
+    },
+    {
+      "name": "花椒",
+      "slug": "sichuan-peppercorn",
+      "name_en": "Sichuan Peppercorn",
+      "name_reading": "はなしょう",
+      "season": "夏〜秋",
+      "origin": "中国四川省"
+    },
+    {
+      "name": "桂皮",
+      "slug": "cassia",
+      "name_en": "Cassia Bark",
+      "name_reading": "けいひ",
+      "season": "通年",
+      "origin": "中国広西省"
+    },
+    {
+      "name": "五香粉",
+      "slug": "five-spice",
+      "name_en": "Five Spice Powder",
+      "name_reading": "ごこうこ",
+      "season": "通年",
+      "origin": "中国南部"
+    },
+    {
+      "name": "陳皮",
+      "slug": "aged-tangerine-peel",
+      "name_en": "Aged Tangerine Peel",
+      "name_reading": "ちんぴ",
+      "season": "通年",
+      "origin": "中国広東省"
+    },
+    {
+      "name": "山椒",
+      "slug": "japanese-sichuan-pepper",
+      "name_en": "Japanese Sichuan Pepper",
+      "name_reading": "さんしょう",
+      "season": "夏〜秋",
+      "origin": "中国原産（日本栽培）"
+    }
+  ]
+}

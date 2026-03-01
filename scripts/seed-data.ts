@@ -30,7 +30,7 @@ async function seedCategories() {
   else console.log(`✓ Seeded ${categories.length} categories`)
 }
 
-async function seedIngredients() {
+async function seedNicheIngredients() {
   const dataPath = path.join(__dirname, 'data', 'niche-ingredients.json')
   const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'))
 
@@ -42,6 +42,7 @@ async function seedIngredients() {
           slug: ing.slug,
           name: ing.name,
           name_en: ing.name_en || null,
+          name_reading: ing.name_reading || null,
           category: cat.name,
           season: ing.season || null,
           origin: ing.origin || null,
@@ -54,7 +55,53 @@ async function seedIngredients() {
       else count++
     }
   }
-  console.log(`✓ Seeded ${count} ingredients`)
+  console.log(`✓ Seeded ${count} niche ingredients`)
+}
+
+async function seedAllIngredients() {
+  const ingredientsDir = path.join(__dirname, 'data', 'ingredients')
+  if (!fs.existsSync(ingredientsDir)) {
+    console.log('⚠ No ingredients directory found, skipping common ingredients')
+    return
+  }
+
+  const files = fs.readdirSync(ingredientsDir).filter(f => f.endsWith('.json'))
+  let total = 0
+
+  // Batch upsert per file for performance
+  for (const file of files) {
+    const filePath = path.join(ingredientsDir, file)
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    const categoryName = data.category
+    const ingredients = data.ingredients
+
+    if (!ingredients || !Array.isArray(ingredients)) {
+      console.error(`  ✗ Invalid format in ${file}`)
+      continue
+    }
+
+    const rows = ingredients.map((ing: { slug: string; name: string; name_en?: string; name_reading?: string; season?: string; origin?: string }) => ({
+      slug: ing.slug,
+      name: ing.name,
+      name_en: ing.name_en || null,
+      name_reading: ing.name_reading || null,
+      category: categoryName,
+      season: ing.season || null,
+      origin: ing.origin || null,
+      is_niche: data.is_niche === true,
+      description: `${ing.name}${ing.name_en ? `（${ing.name_en}）` : ''}は${categoryName}の食材です。${ing.origin ? `主な産地は${ing.origin}。` : ''}${ing.season ? `旬は${ing.season}。` : ''}`,
+    }))
+
+    // Upsert in batches of 50
+    for (let i = 0; i < rows.length; i += 50) {
+      const batch = rows.slice(i, i + 50)
+      const { error } = await supabase.from('ingredients').upsert(batch, { onConflict: 'slug' })
+      if (error) console.error(`  ✗ Batch error in ${file}: ${error.message}`)
+      else total += batch.length
+    }
+    console.log(`  ✓ ${categoryName}: ${ingredients.length} ingredients (${file})`)
+  }
+  console.log(`✓ Seeded ${total} ingredients from ${files.length} files`)
 }
 
 async function seedSampleRecipes() {
@@ -285,6 +332,19 @@ async function seedSampleRecipes() {
     }
     console.log(`✓ Recipe: ${recipe.title}`)
 
+    // Add hero image
+    const imageUrl = `https://abhrgewzglubansbyitm.supabase.co/storage/v1/object/public/recipi-images/recipes/${recipe.slug}.png`
+    await supabase.from('recipe_images').delete().eq('recipe_id', recipeRow.id)
+    const { error: imgError } = await supabase.from('recipe_images').insert({
+      recipe_id: recipeRow.id,
+      url: imageUrl,
+      alt_text: recipe.title,
+      is_hero: true,
+      display_order: 0,
+    })
+    if (imgError) console.error(`  ✗ Image: ${imgError.message}`)
+    else console.log(`  → Hero image set`)
+
     // Link ingredients
     const ingredientMap: Record<string, Array<{ name: string; slug: string; quantity: string; unit: string; preparation?: string; group_name?: string }>> = {
       'saffron-risotto': [
@@ -389,7 +449,8 @@ async function seedSampleRecipes() {
 async function main() {
   console.log('Seeding Recipi data...\n')
   await seedCategories()
-  await seedIngredients()
+  await seedNicheIngredients()
+  await seedAllIngredients()
   await seedSampleRecipes()
   console.log('\nDone!')
 }

@@ -1,0 +1,310 @@
+{
+  "category": "古代穀物・スーパーフード",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "アマランサス",
+      "slug": "amaranth",
+      "name_en": "Amaranth",
+      "name_reading": "あまらんさす",
+      "season": "通年",
+      "origin": "中南米原産"
+    },
+    {
+      "name": "テフ",
+      "slug": "teff",
+      "name_en": "Teff",
+      "name_reading": "てふ",
+      "season": "通年",
+      "origin": "エチオピア原産"
+    },
+    {
+      "name": "スペルト小麦",
+      "slug": "spelt-wheat",
+      "name_en": "Spelt Wheat",
+      "name_reading": "すぺるとこむぎ",
+      "season": "通年",
+      "origin": "ヨーロッパ原産"
+    },
+    {
+      "name": "カムット小麦",
+      "slug": "kamut-wheat",
+      "name_en": "Kamut Wheat",
+      "name_reading": "かむっとこむぎ",
+      "season": "通年",
+      "origin": "中東原産"
+    },
+    {
+      "name": "もちきび",
+      "slug": "millet-glutinous",
+      "name_en": "Glutinous Millet",
+      "name_reading": "もちきび",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "もちあわ",
+      "slug": "foxtail-millet-glutinous",
+      "name_en": "Glutinous Foxtail Millet",
+      "name_reading": "もちあわ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "たかきび",
+      "slug": "sorghum",
+      "name_en": "Sorghum",
+      "name_reading": "たかきび",
+      "season": "通年",
+      "origin": "アフリカ原産"
+    },
+    {
+      "name": "ひえ",
+      "slug": "barnyard-millet",
+      "name_en": "Barnyard Millet",
+      "name_reading": "ひえ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "はと麦",
+      "slug": "adlay",
+      "name_en": "Adlay",
+      "name_reading": "はとむぎ",
+      "season": "通年",
+      "origin": "東アジア原産"
+    },
+    {
+      "name": "押し麦",
+      "slug": "barley-rolled",
+      "name_en": "Rolled Barley",
+      "name_reading": "おしむぎ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "もち麦",
+      "slug": "barley-glutinous",
+      "name_en": "Glutinous Barley",
+      "name_reading": "もちむぎ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "黒米",
+      "slug": "black-rice",
+      "name_en": "Black Rice",
+      "name_reading": "くろこめ",
+      "season": "通年",
+      "origin": "中国原産"
+    },
+    {
+      "name": "赤米",
+      "slug": "red-rice",
+      "name_en": "Red Rice",
+      "name_reading": "あかこめ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "緑米",
+      "slug": "green-rice",
+      "name_en": "Green Rice",
+      "name_reading": "みどりこめ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "古代米",
+      "slug": "ancient-rice",
+      "name_en": "Ancient Rice",
+      "name_reading": "こだいまい",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "チアシード",
+      "slug": "chia-seeds",
+      "name_en": "Chia Seeds",
+      "name_reading": "ちあしーど",
+      "season": "通年",
+      "origin": "メキシコ原産"
+    },
+    {
+      "name": "ヘンプシード",
+      "slug": "hemp-seeds",
+      "name_en": "Hemp Seeds",
+      "name_reading": "へんぷしーど",
+      "season": "通年",
+      "origin": "カナダ・ヨーロッパ原産"
+    },
+    {
+      "name": "カカオニブ",
+      "slug": "cacao-nibs",
+      "name_en": "Cacao Nibs",
+      "name_reading": "かかおにぶ",
+      "season": "通年",
+      "origin": "ペルー・エクアドル原産"
+    },
+    {
+      "name": "マカパウダー",
+      "slug": "maca-powder",
+      "name_en": "Maca Powder",
+      "name_reading": "まかぱうだー",
+      "season": "通年",
+      "origin": "ペルー原産"
+    },
+    {
+      "name": "モリンガ",
+      "slug": "moringa",
+      "name_en": "Moringa",
+      "name_reading": "もりんが",
+      "season": "通年",
+      "origin": "インド原産"
+    },
+    {
+      "name": "スピルリナ",
+      "slug": "spirulina",
+      "name_en": "Spirulina",
+      "name_reading": "すぴるりな",
+      "season": "通年",
+      "origin": "アフリカ・南米原産"
+    },
+    {
+      "name": "ウィートグラス",
+      "slug": "wheatgrass",
+      "name_en": "Wheatgrass",
+      "name_reading": "うぃーとぐらす",
+      "season": "通年",
+      "origin": "アメリカ・ヨーロッパ"
+    },
+    {
+      "name": "ビーポーレン",
+      "slug": "bee-pollen",
+      "name_en": "Bee Pollen",
+      "name_reading": "びーぽーれん",
+      "season": "通年",
+      "origin": "各地"
+    },
+    {
+      "name": "ゴジベリー",
+      "slug": "goji-berries",
+      "name_en": "Goji Berries",
+      "name_reading": "ごじべりー",
+      "season": "通年",
+      "origin": "中国原産"
+    },
+    {
+      "name": "アサイーパウダー",
+      "slug": "acai-powder",
+      "name_en": "Acai Powder",
+      "name_reading": "あさいーぱうだー",
+      "season": "通年",
+      "origin": "ブラジル原産"
+    },
+    {
+      "name": "カムカム",
+      "slug": "camu-camu",
+      "name_en": "Camu Camu",
+      "name_reading": "かむかむ",
+      "season": "通年",
+      "origin": "ペルー原産"
+    },
+    {
+      "name": "ルクマパウダー",
+      "slug": "lucuma-powder",
+      "name_en": "Lucuma Powder",
+      "name_reading": "るくまぱうだー",
+      "season": "通年",
+      "origin": "ペルー原産"
+    },
+    {
+      "name": "十六穀",
+      "slug": "sixteen-grain",
+      "name_en": "Sixteen Grain Mix",
+      "name_reading": "じゅうろくこく",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "黒豆",
+      "slug": "black-soybeans",
+      "name_en": "Black Soybeans",
+      "name_reading": "くろまめ",
+      "season": "通年",
+      "origin": "日本（丹波産）"
+    },
+    {
+      "name": "大納言小豆",
+      "slug": "dainagon-azuki",
+      "name_en": "Dainagon Azuki Beans",
+      "name_reading": "だいなごんあずき",
+      "season": "通年",
+      "origin": "日本（兵庫県産）"
+    },
+    {
+      "name": "えごま",
+      "slug": "perilla-seeds",
+      "name_en": "Perilla Seeds",
+      "name_reading": "えごま",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "発芽玄米",
+      "slug": "sprouted-brown-rice",
+      "name_en": "Sprouted Brown Rice",
+      "name_reading": "はつがげんまい",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "もち玄米",
+      "slug": "glutinous-brown-rice",
+      "name_en": "Glutinous Brown Rice",
+      "name_reading": "もちげんまい",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "タイガーナッツ",
+      "slug": "tiger-nuts",
+      "name_en": "Tiger Nuts",
+      "name_reading": "たいがーなっつ",
+      "season": "通年",
+      "origin": "スペイン・アフリカ原産"
+    },
+    {
+      "name": "ブラックライス",
+      "slug": "black-forbidden-rice",
+      "name_en": "Black Forbidden Rice",
+      "name_reading": "ぶらっくらいす",
+      "season": "通年",
+      "origin": "中国原産"
+    },
+    {
+      "name": "フリーカ",
+      "slug": "freekeh",
+      "name_en": "Freekeh",
+      "name_reading": "ふりーか",
+      "season": "通年",
+      "origin": "中東原産"
+    },
+    {
+      "name": "ワイルドライス",
+      "slug": "wild-rice",
+      "name_en": "Wild Rice",
+      "name_reading": "わいるどらいす",
+      "season": "通年",
+      "origin": "北米原産"
+    },
+    {
+      "name": "サチャインチ",
+      "slug": "sacha-inchi",
+      "name_en": "Sacha Inchi",
+      "name_reading": "さちゃいんち",
+      "season": "通年",
+      "origin": "ペルー・アマゾン原産"
+    }
+  ]
+}

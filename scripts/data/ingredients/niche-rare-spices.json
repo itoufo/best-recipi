@@ -1,0 +1,350 @@
+{
+  "category": "レアスパイス・調味料",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "マスティック",
+      "slug": "mastic-niche",
+      "name_en": "Mastic Gum",
+      "name_reading": "ましてぃっく",
+      "season": "通年",
+      "origin": "ギリシャ・レスボス島"
+    },
+    {
+      "name": "グレインズオブパラダイス",
+      "slug": "grains-of-paradise",
+      "name_en": "Grains of Paradise",
+      "name_reading": "ぐれいんずおぶぱらだいす",
+      "season": "通年",
+      "origin": "西アフリカ・ガーナ"
+    },
+    {
+      "name": "ロングペッパー",
+      "slug": "long-pepper-niche",
+      "name_en": "Long Pepper",
+      "name_reading": "ろんぐぺっぱー",
+      "season": "通年",
+      "origin": "インド・インドネシア"
+    },
+    {
+      "name": "セロリシード",
+      "slug": "celery-seed",
+      "name_en": "Celery Seed",
+      "name_reading": "せろりしーど",
+      "season": "通年",
+      "origin": "インド・エジプト"
+    },
+    {
+      "name": "アニスシード",
+      "slug": "anise-seed",
+      "name_en": "Anise Seed",
+      "name_reading": "あにすしーど",
+      "season": "通年",
+      "origin": "インド・スペイン"
+    },
+    {
+      "name": "ニゲラシード",
+      "slug": "nigella-seed",
+      "name_en": "Nigella Seed",
+      "name_reading": "にげらしーど",
+      "season": "通年",
+      "origin": "インド・エジプト"
+    },
+    {
+      "name": "マフレブ",
+      "slug": "mahlab",
+      "name_en": "Mahlab",
+      "name_reading": "まふれぶ",
+      "season": "通年",
+      "origin": "中東・トルコ"
+    },
+    {
+      "name": "スマック",
+      "slug": "sumac-niche",
+      "name_en": "Sumac",
+      "name_reading": "すまっく",
+      "season": "通年",
+      "origin": "中東・イラン"
+    },
+    {
+      "name": "ウルシ",
+      "slug": "urushi-spice",
+      "name_en": "Urushi Pepper",
+      "name_reading": "うるしペッパー",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "カンゾウ",
+      "slug": "licorice-root",
+      "name_en": "Licorice Root",
+      "name_reading": "かんぞう",
+      "season": "通年",
+      "origin": "スペイン・イラン"
+    },
+    {
+      "name": "トンカビーンズ",
+      "slug": "tonka-beans",
+      "name_en": "Tonka Beans",
+      "name_reading": "とんかびーんず",
+      "season": "通年",
+      "origin": "ベネズエラ・トリニダード"
+    },
+    {
+      "name": "バニラビーンズ",
+      "slug": "vanilla-beans-niche",
+      "name_en": "Vanilla Beans",
+      "name_reading": "ばにらびーんず",
+      "season": "通年",
+      "origin": "マダガスカル・タヒチ"
+    },
+    {
+      "name": "朝倉山椒",
+      "slug": "asakura-sansho",
+      "name_en": "Asakura Sansho",
+      "name_reading": "あさくらさんしょう",
+      "season": "6月-7月",
+      "origin": "日本・福岡県朝倉市"
+    },
+    {
+      "name": "ぶどう山椒",
+      "slug": "budou-sansho",
+      "name_en": "Budou Sansho",
+      "name_reading": "ぶどうさんしょう",
+      "season": "9月-10月",
+      "origin": "日本・京都府"
+    },
+    {
+      "name": "煎り酒",
+      "slug": "irizake",
+      "name_en": "Irizake",
+      "name_reading": "いりざけ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "柚子胡椒",
+      "slug": "yuzu-kosho-niche",
+      "name_en": "Yuzu Kosho",
+      "name_reading": "ゆずこしょう",
+      "season": "通年",
+      "origin": "日本・大分県"
+    },
+    {
+      "name": "かんずり",
+      "slug": "kanzuri-spice",
+      "name_en": "Kanzuri",
+      "name_reading": "かんずり",
+      "season": "通年",
+      "origin": "日本・新潟県妙高市"
+    },
+    {
+      "name": "七味唐辛子手作り",
+      "slug": "shichimi-artisan",
+      "name_en": "Artisan Shichimi",
+      "name_reading": "しちみとうがらしてづくり",
+      "season": "通年",
+      "origin": "日本・京都"
+    },
+    {
+      "name": "山椒油",
+      "slug": "sansho-oil",
+      "name_en": "Sansho Oil",
+      "name_reading": "さんしょうあぶら",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "実山椒",
+      "slug": "mi-sansho",
+      "name_en": "Fresh Sansho Berry",
+      "name_reading": "みさんしょう",
+      "season": "9月-10月",
+      "origin": "日本・和歌山県"
+    },
+    {
+      "name": "青山椒",
+      "slug": "ao-sansho",
+      "name_en": "Green Sansho",
+      "name_reading": "あおさんしょう",
+      "season": "5月-6月",
+      "origin": "日本・兵庫県"
+    },
+    {
+      "name": "柚子塩",
+      "slug": "yuzu-salt",
+      "name_en": "Yuzu Salt",
+      "name_reading": "ゆずしお",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "抹茶塩",
+      "slug": "matcha-salt",
+      "name_en": "Matcha Salt",
+      "name_reading": "まっちゃしお",
+      "season": "通年",
+      "origin": "日本・京都"
+    },
+    {
+      "name": "昆布塩",
+      "slug": "konbu-salt",
+      "name_en": "Konbu Salt",
+      "name_reading": "こんぶしお",
+      "season": "通年",
+      "origin": "日本・北海道"
+    },
+    {
+      "name": "藻塩",
+      "slug": "moshio",
+      "name_en": "Seaweed Salt",
+      "name_reading": "もしお",
+      "season": "通年",
+      "origin": "日本・瀬戸内海"
+    },
+    {
+      "name": "竹塩",
+      "slug": "bamboo-salt",
+      "name_en": "Bamboo Salt",
+      "name_reading": "たけしお",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "燻製塩",
+      "slug": "smoked-salt",
+      "name_en": "Smoked Salt",
+      "name_reading": "くんせいしお",
+      "season": "通年",
+      "origin": "北欧・スコットランド"
+    },
+    {
+      "name": "岩塩",
+      "slug": "rock-salt-niche",
+      "name_en": "Rock Salt",
+      "name_reading": "がんえん",
+      "season": "通年",
+      "origin": "パキスタン・ペルー"
+    },
+    {
+      "name": "黒にんにく",
+      "slug": "black-garlic",
+      "name_en": "Black Garlic",
+      "name_reading": "くろにんにく",
+      "season": "通年",
+      "origin": "日本・青森県"
+    },
+    {
+      "name": "熟成味噌",
+      "slug": "aged-miso",
+      "name_en": "Aged Miso",
+      "name_reading": "じゅくせいみそ",
+      "season": "通年",
+      "origin": "日本・長野県"
+    },
+    {
+      "name": "白たまり",
+      "slug": "shiro-tamari",
+      "name_en": "White Tamari",
+      "name_reading": "しろたまり",
+      "season": "通年",
+      "origin": "日本・愛知県"
+    },
+    {
+      "name": "再仕込み醤油",
+      "slug": "saishikomi-shoyu",
+      "name_en": "Saishikomi Shoyu",
+      "name_reading": "さいしこみしょうゆ",
+      "season": "通年",
+      "origin": "日本・兵庫県"
+    },
+    {
+      "name": "たまり醤油",
+      "slug": "tamari-shoyu-niche",
+      "name_en": "Tamari Shoyu",
+      "name_reading": "たまりしょうゆ",
+      "season": "通年",
+      "origin": "日本・愛知県"
+    },
+    {
+      "name": "デュカ",
+      "slug": "dukkah-niche",
+      "name_en": "Dukkah",
+      "name_reading": "どぅっか",
+      "season": "通年",
+      "origin": "エジプト"
+    },
+    {
+      "name": "ベルベレ",
+      "slug": "berbere",
+      "name_en": "Berbere",
+      "name_reading": "べるべれ",
+      "season": "通年",
+      "origin": "エチオピア"
+    },
+    {
+      "name": "メース",
+      "slug": "mace-spice",
+      "name_en": "Mace",
+      "name_reading": "めーす",
+      "season": "通年",
+      "origin": "インドネシア・グレナダ"
+    },
+    {
+      "name": "フェヌグリークリーフ",
+      "slug": "fenugreek-leaf",
+      "name_en": "Fenugreek Leaf",
+      "name_reading": "ふぇぬぐりーくりーふ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "アサフェティダ",
+      "slug": "asafoetida-niche",
+      "name_en": "Asafoetida",
+      "name_reading": "あさふぇてぃだ",
+      "season": "通年",
+      "origin": "イラン・アフガニスタン"
+    },
+    {
+      "name": "スジュク",
+      "slug": "sujuk-spice",
+      "name_en": "Sujuk Spice Mix",
+      "name_reading": "すじゅく",
+      "season": "通年",
+      "origin": "中東・トルコ"
+    },
+    {
+      "name": "チミチュリ",
+      "slug": "chimichurri-mix",
+      "name_en": "Chimichurri Mix",
+      "name_reading": "ちみちゅり",
+      "season": "通年",
+      "origin": "アルゼンチン"
+    },
+    {
+      "name": "ゴマソルト",
+      "slug": "gomashio-artisan",
+      "name_en": "Artisan Gomashio",
+      "name_reading": "ごましお",
+      "season": "通年",
+      "origin": "日本・京都"
+    },
+    {
+      "name": "ゆかり",
+      "slug": "yukari-shiso",
+      "name_en": "Yukari Shiso",
+      "name_reading": "ゆかり",
+      "season": "通年",
+      "origin": "日本・福岡県"
+    },
+    {
+      "name": "ポンデケージョの素",
+      "slug": "pao-de-queijo-mix",
+      "name_en": "Pao de Queijo Mix",
+      "name_reading": "ぽんでけーじょのもと",
+      "season": "通年",
+      "origin": "ブラジル"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "category": "珍しい発酵食品",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "くさや",
+      "slug": "kusaya",
+      "name_en": "Kusaya (Fermented Fish)",
+      "name_reading": "くさや",
+      "season": "通年",
+      "origin": "東京都 伊豆諸島"
+    },
+    {
+      "name": "鮒寿司",
+      "slug": "funa-zushi",
+      "name_en": "Funa Zushi (Crucian Carp Sushi)",
+      "name_reading": "ふなずし",
+      "season": "通年",
+      "origin": "滋賀県"
+    },
+    {
+      "name": "飯寿司",
+      "slug": "ii-zushi",
+      "name_en": "Ii Zushi (Rice-fermented Fish)",
+      "name_reading": "いずし",
+      "season": "通年",
+      "origin": "北海道 道南地方"
+    },
+    {
+      "name": "かぶら寿司",
+      "slug": "kabura-zushi",
+      "name_en": "Kabura Zushi (Turnip Sushi)",
+      "name_reading": "かぶらずし",
+      "season": "通年",
+      "origin": "石川県"
+    },
+    {
+      "name": "へしこ",
+      "slug": "heshiko",
+      "name_en": "Heshiko (Salted Fish)",
+      "name_reading": "へしこ",
+      "season": "通年",
+      "origin": "福井県 若狭地方"
+    },
+    {
+      "name": "しょっつる",
+      "slug": "shottsuru",
+      "name_en": "Shottsuru (Fish Sauce)",
+      "name_reading": "しょっつる",
+      "season": "通年",
+      "origin": "秋田県 能代地方"
+    },
+    {
+      "name": "いしる",
+      "slug": "ishiru",
+      "name_en": "Ishiru (Fish Sauce)",
+      "name_reading": "いしる",
+      "season": "通年",
+      "origin": "石川県 能登地方"
+    },
+    {
+      "name": "酒盗",
+      "slug": "sakagasi",
+      "name_en": "Sakagasi (Fermented Fish Paste)",
+      "name_reading": "さかぎり",
+      "season": "通年",
+      "origin": "高知県"
+    },
+    {
+      "name": "このわた",
+      "slug": "konowata",
+      "name_en": "Konowata (Sea Cucumber Intestines)",
+      "name_reading": "このわた",
+      "season": "秋冬",
+      "origin": "北海道 青森県"
+    },
+    {
+      "name": "うるか",
+      "slug": "uruka",
+      "name_en": "Uruka (Ayu Fish Paste)",
+      "name_reading": "うるか",
+      "season": "秋",
+      "origin": "岐阜県"
+    },
+    {
+      "name": "めふん",
+      "slug": "mefun",
+      "name_en": "Mefun (Fish Roe)",
+      "name_reading": "めふん",
+      "season": "冬",
+      "origin": "北海道 石川県"
+    },
+    {
+      "name": "卵巣の粕漬け",
+      "slug": "ago-kasuzuke",
+      "name_en": "Salted Fish Roe Koji Pickle",
+      "name_reading": "たまごけいの粕漬け",
+      "season": "通年",
+      "origin": "全国"
+    },
+    {
+      "name": "守口漬",
+      "slug": "moriguchidzuke",
+      "name_en": "Moriguchidzuke (Daikon Pickle)",
+      "name_reading": "もりぐちづけ",
+      "season": "通年",
+      "origin": "愛知県 名古屋"
+    },
+    {
+      "name": "奈良漬",
+      "slug": "narazuke",
+      "name_en": "Narazuke (Sake Lees Pickle)",
+      "name_reading": "ならづけ",
+      "season": "通年",
+      "origin": "奈良県"
+    },
+    {
+      "name": "べったら漬",
+      "slug": "bettara-zuke",
+      "name_en": "Bettara Zuke (Sweet Radish Pickle)",
+      "name_reading": "べったらづけ",
+      "season": "冬",
+      "origin": "東京都"
+    },
+    {
+      "name": "すんき漬",
+      "slug": "sunki-zuke",
+      "name_en": "Sunki Zuke (Red Turnip Pickle)",
+      "name_reading": "すんきづけ",
+      "season": "冬",
+      "origin": "長野県 木曽地方"
+    },
+    {
+      "name": "碁石茶",
+      "slug": "goishi-cha",
+      "name_en": "Goishi Cha (Fermented Tea)",
+      "name_reading": "ごいしちゃ",
+      "season": "通年",
+      "origin": "高知県"
+    },
+    {
+      "name": "阿波晩茶",
+      "slug": "awa-bancha",
+      "name_en": "Awa Bancha (Fermented Tea)",
+      "name_reading": "あわばんちゃ",
+      "season": "通年",
+      "origin": "徳島県"
+    },
+    {
+      "name": "豆味噌",
+      "slug": "mame-miso",
+      "name_en": "Mame Miso (Bean Miso)",
+      "name_reading": "まめみそ",
+      "season": "通年",
+      "origin": "愛知県 八丁村"
+    },
+    {
+      "name": "八丁味噌",
+      "slug": "hatchomiso",
+      "name_en": "Hacho Miso (Traditional Dark Miso)",
+      "name_reading": "はっちょうみそ",
+      "season": "通年",
+      "origin": "愛知県 岡崎市"
+    },
+    {
+      "name": "もろみ味噌",
+      "slug": "moromi-miso",
+      "name_en": "Moromi Miso (Chunky Miso)",
+      "name_reading": "もろみみそ",
+      "season": "通年",
+      "origin": "全国"
+    },
+    {
+      "name": "金山寺味噌",
+      "slug": "kinzan-ji-miso",
+      "name_en": "Kinzanji Miso (Vegetable Miso)",
+      "name_reading": "きんざんじみそ",
+      "season": "通年",
+      "origin": "岡山県 香川県"
+    },
+    {
+      "name": "柚子味噌",
+      "slug": "yuzu-miso",
+      "name_en": "Yuzu Miso (Citrus Miso)",
+      "name_reading": "ゆずみそ",
+      "season": "冬",
+      "origin": "全国"
+    },
+    {
+      "name": "鯛味噌",
+      "slug": "tai-miso",
+      "name_en": "Tai Miso (Sea Bream Miso)",
+      "name_reading": "たいみそ",
+      "season": "通年",
+      "origin": "愛媛県"
+    },
+    {
+      "name": "たまり醤油",
+      "slug": "tamari-shoyu",
+      "name_en": "Tamari Shoyu (Thick Soy Sauce)",
+      "name_reading": "たまりしょうゆ",
+      "season": "通年",
+      "origin": "愛知県 三重県"
+    },
+    {
+      "name": "白醤油",
+      "slug": "shiro-shoyu",
+      "name_en": "Shiro Shoyu (Light Soy Sauce)",
+      "name_reading": "しろしょうゆ",
+      "season": "通年",
+      "origin": "愛知県 三重県"
+    },
+    {
+      "name": "ケフィア",
+      "slug": "kefir",
+      "name_en": "Kefir (Fermented Milk)",
+      "name_reading": "ケフィア",
+      "season": "通年",
+      "origin": "カフカス地域"
+    },
+    {
+      "name": "コンブチャ",
+      "slug": "kombucha",
+      "name_en": "Kombucha (Fermented Tea)",
+      "name_reading": "コンブチャ",
+      "season": "通年",
+      "origin": "東欧 ロシア"
+    },
+    {
+      "name": "紅茶キノコ",
+      "slug": "kocha-kinoko",
+      "name_en": "Tea Mushroom",
+      "name_reading": "こうちゃきのこ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "サワークラウト",
+      "slug": "sauerkraut",
+      "name_en": "Sauerkraut (Fermented Cabbage)",
+      "name_reading": "サワークラウト",
+      "season": "通年",
+      "origin": "ドイツ"
+    },
+    {
+      "name": "豆腐よう",
+      "slug": "tofu-yo",
+      "name_en": "Tofu Yo (Fermented Tofu)",
+      "name_reading": "とうふよう",
+      "season": "通年",
+      "origin": "沖縄県"
+    },
+    {
+      "name": "ミソ玉",
+      "slug": "miso-dama",
+      "name_en": "Miso Ball",
+      "name_reading": "みそだま",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "手作りキムチ",
+      "slug": "handmade-kimchi",
+      "name_en": "Homemade Kimchi",
+      "name_reading": "てづくりキムチ",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "塩辛",
+      "slug": "shotai",
+      "name_en": "Shotai (Salted Fish Guts)",
+      "name_reading": "しおから",
+      "season": "秋冬",
+      "origin": "北海道"
+    },
+    {
+      "name": "千筋漬",
+      "slug": "senjin-zuke",
+      "name_en": "Senjin Zuke (Radish Strip Pickle)",
+      "name_reading": "せんすじづけ",
+      "season": "冬",
+      "origin": "青森県"
+    }
+  ]
+}

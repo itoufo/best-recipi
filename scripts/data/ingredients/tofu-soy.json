@@ -1,0 +1,197 @@
+{
+  "category": "豆腐・大豆製品",
+  "ingredients": [
+    {
+      "name": "木綿豆腐",
+      "slug": "momens-tofu",
+      "name_en": "Firm Tofu",
+      "name_reading": "もめんとうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "絹ごし豆腐",
+      "slug": "silken-tofu",
+      "name_en": "Silken Tofu",
+      "name_reading": "きぬごしとうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "油揚げ",
+      "slug": "fried-tofu-pockets",
+      "name_en": "Fried Tofu Pockets",
+      "name_reading": "あぶらあげ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "厚揚げ",
+      "slug": "thick-fried-tofu",
+      "name_en": "Thick Fried Tofu",
+      "name_reading": "あつあげ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "納豆",
+      "slug": "natto",
+      "name_en": "Fermented Soybeans",
+      "name_reading": "なっとう",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "おから",
+      "slug": "okara",
+      "name_en": "Soy Pulp",
+      "name_reading": "おから",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "高野豆腐",
+      "slug": "koyatofu",
+      "name_en": "Freeze-Dried Tofu",
+      "name_reading": "こうやとうふ",
+      "season": "通年",
+      "origin": "長野県"
+    },
+    {
+      "name": "豆乳",
+      "slug": "soymilk",
+      "name_en": "Soymilk",
+      "name_reading": "とうにゅう",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "がんもどき",
+      "slug": "ganmodoki",
+      "name_en": "Mock Meatball",
+      "name_reading": "がんもどき",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "湯葉",
+      "slug": "yuba",
+      "name_en": "Tofu Skin",
+      "name_reading": "ゆば",
+      "season": "秋冬",
+      "origin": "京都"
+    },
+    {
+      "name": "焼き豆腐",
+      "slug": "grilled-tofu",
+      "name_en": "Grilled Tofu",
+      "name_reading": "やきどうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "充填豆腐",
+      "slug": "packaged-tofu",
+      "name_en": "Packaged Tofu",
+      "name_reading": "じゅうてんとうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "凍り豆腐",
+      "slug": "frozen-tofu",
+      "name_en": "Frozen Tofu",
+      "name_reading": "こおりどうふ",
+      "season": "冬",
+      "origin": "日本全国"
+    },
+    {
+      "name": "おぼろ豆腐",
+      "slug": "oboro-tofu",
+      "name_en": "Silken Tofu Curds",
+      "name_reading": "おぼろどうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "テンペ",
+      "slug": "tempeh",
+      "name_en": "Tempeh",
+      "name_reading": "てんぺ",
+      "season": "通年",
+      "origin": "インドネシア"
+    },
+    {
+      "name": "大豆ミート",
+      "slug": "soy-meat",
+      "name_en": "Soy Meat",
+      "name_reading": "だいずみーと",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "味噌漬け豆腐",
+      "slug": "miso-marinated-tofu",
+      "name_en": "Miso-Marinated Tofu",
+      "name_reading": "みそづけどうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "すくい豆腐",
+      "slug": "scooped-tofu",
+      "name_en": "Scooped Tofu",
+      "name_reading": "すくいどうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "薬膳豆腐",
+      "slug": "herbal-tofu",
+      "name_en": "Herbal Tofu",
+      "name_reading": "やくぜんどうふ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "豆腐乾",
+      "slug": "tofu-gan",
+      "name_en": "Pressed Tofu Cake",
+      "name_reading": "とうふかん",
+      "season": "通年",
+      "origin": "中国、日本"
+    },
+    {
+      "name": "豆腐竹輪",
+      "slug": "tofu-chikuwa",
+      "name_en": "Tofu Tube Fish Cake",
+      "name_reading": "とうふちくわ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "豆腐白玉",
+      "slug": "tofu-balls",
+      "name_en": "Tofu Balls",
+      "name_reading": "とうふしらたま",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "豆腐しゅうまい",
+      "slug": "tofu-shumai",
+      "name_en": "Tofu Shumai",
+      "name_reading": "とうふしゅうまい",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "すり身豆腐",
+      "slug": "minced-tofu",
+      "name_en": "Minced Tofu",
+      "name_reading": "すりみどうふ",
+      "season": "通年",
+      "origin": "日本全国"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "category": "珍しい魚介類",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "ホヤ",
+      "slug": "hoya-sea-squirt",
+      "name_en": "Sea Squirt",
+      "name_reading": "ほや",
+      "season": "5月〜8月",
+      "origin": "宮城、北海道"
+    },
+    {
+      "name": "ゴッコ",
+      "slug": "gokko-hokuto-fish",
+      "name_en": "Hokuto Fish",
+      "name_reading": "ごっこ",
+      "season": "11月〜2月",
+      "origin": "北海道、青森"
+    },
+    {
+      "name": "ハタハタ",
+      "slug": "hatahata-sandfish",
+      "name_en": "Sandfish",
+      "name_reading": "はたはた",
+      "season": "10月〜12月",
+      "origin": "秋田、青森"
+    },
+    {
+      "name": "ノドグロ",
+      "slug": "nodoguro-blackthroat",
+      "name_en": "Blackthroat Seaperch",
+      "name_reading": "のどぐろ",
+      "season": "10月〜2月",
+      "origin": "島根、福井"
+    },
+    {
+      "name": "アカムツ",
+      "slug": "akamutsu-red-seabream",
+      "name_en": "Red Seabream",
+      "name_reading": "あかむつ",
+      "season": "10月〜3月",
+      "origin": "福井、佐賀"
+    },
+    {
+      "name": "キンメダイ",
+      "slug": "kinmedai-golden-eye",
+      "name_en": "Golden Alfonsino",
+      "name_reading": "きんめだい",
+      "season": "11月〜3月",
+      "origin": "静岡、東京"
+    },
+    {
+      "name": "メヒカリ",
+      "slug": "mehikari-popeye-fish",
+      "name_en": "Popeye Fish",
+      "name_reading": "めひかり",
+      "season": "11月〜2月",
+      "origin": "静岡、駿河湾"
+    },
+    {
+      "name": "カサゴ",
+      "slug": "kasago-scorpionfish",
+      "name_en": "Scorpionfish",
+      "name_reading": "かさご",
+      "season": "11月〜3月",
+      "origin": "全国"
+    },
+    {
+      "name": "オコゼ",
+      "slug": "okoze-stonefish",
+      "name_en": "Stonefish",
+      "name_reading": "おこぜ",
+      "season": "10月〜5月",
+      "origin": "全国"
+    },
+    {
+      "name": "イトヨリダイ",
+      "slug": "itoyoridai-threadfin",
+      "name_en": "Threadfin Bream",
+      "name_reading": "いとよりだい",
+      "season": "6月〜10月",
+      "origin": "長崎、福岡"
+    },
+    {
+      "name": "マナガツオ",
+      "slug": "managatsuo-ocean-sunfish",
+      "name_en": "Ocean Sunfish",
+      "name_reading": "まながつお",
+      "season": "7月〜10月",
+      "origin": "東京、神奈川"
+    },
+    {
+      "name": "エイ",
+      "slug": "ei-ray-fin",
+      "name_en": "Ray Fin",
+      "name_reading": "えい",
+      "season": "11月〜3月",
+      "origin": "全国"
+    },
+    {
+      "name": "モウカザメ",
+      "slug": "mous-shark",
+      "name_en": "Mouths Shark",
+      "name_reading": "もうかざめ",
+      "season": "10月〜4月",
+      "origin": "宮城、福島"
+    },
+    {
+      "name": "ウツボ",
+      "slug": "utsubo-moray-eel",
+      "name_en": "Moray Eel",
+      "name_reading": "うつぼ",
+      "season": "6月〜9月",
+      "origin": "西日本全域"
+    },
+    {
+      "name": "ワカサギ",
+      "slug": "wakasagi-pond-smelt",
+      "name_en": "Pond Smelt",
+      "name_reading": "わかさぎ",
+      "season": "12月〜2月",
+      "origin": "北海道、琵琶湖"
+    },
+    {
+      "name": "シラウオ",
+      "slug": "shirauo-icefish",
+      "name_en": "Icefish",
+      "name_reading": "しらうお",
+      "season": "1月〜3月",
+      "origin": "利根川、長江川"
+    },
+    {
+      "name": "ドジョウ",
+      "slug": "dojo-loach",
+      "name_en": "Loach",
+      "name_reading": "どじょう",
+      "season": "9月〜3月",
+      "origin": "全国"
+    },
+    {
+      "name": "ナマズ",
+      "slug": "namazu-catfish",
+      "name_en": "Catfish",
+      "name_reading": "なまず",
+      "season": "9月〜2月",
+      "origin": "全国"
+    },
+    {
+      "name": "アワビ",
+      "slug": "awabi-abalone",
+      "name_en": "Abalone",
+      "name_reading": "あわび",
+      "season": "5月〜9月",
+      "origin": "北海道、三重"
+    },
+    {
+      "name": "トコブシ",
+      "slug": "tokobushi-small-abalone",
+      "name_en": "Small Abalone",
+      "name_reading": "ところぶし",
+      "season": "4月〜8月",
+      "origin": "全国"
+    },
+    {
+      "name": "ミル貝",
+      "slug": "mirugai-geoduck",
+      "name_en": "Geoduck",
+      "name_reading": "みるがい",
+      "season": "6月〜8月",
+      "origin": "北海道、東北"
+    },
+    {
+      "name": "マテ貝",
+      "slug": "mategai-mactra",
+      "name_en": "Mactra Clam",
+      "name_reading": "またえがい",
+      "season": "4月〜6月",
+      "origin": "九州、瀬戸内"
+    },
+    {
+      "name": "タイラギ",
+      "slug": "tairagi-pen-shell",
+      "name_en": "Pen Shell",
+      "name_reading": "たいらぎ",
+      "season": "3月〜5月",
+      "origin": "福岡、熊本"
+    },
+    {
+      "name": "アカガイ",
+      "slug": "akagai-ark-shell",
+      "name_en": "Ark Shell",
+      "name_reading": "あかがい",
+      "season": "4月〜8月",
+      "origin": "愛知、三重"
+    },
+    {
+      "name": "トリガイ",
+      "slug": "torigai-japanese-cockle",
+      "name_en": "Japanese Cockle",
+      "name_reading": "とりがい",
+      "season": "3月〜5月",
+      "origin": "愛知、千葉"
+    },
+    {
+      "name": "バイガイ",
+      "slug": "baigai-japanese-turban",
+      "name_en": "Japanese Turban",
+      "name_reading": "ばいがい",
+      "season": "9月〜11月",
+      "origin": "全国"
+    },
+    {
+      "name": "サザエ",
+      "slug": "sazae-turban-shell",
+      "name_en": "Turban Shell",
+      "name_reading": "さざえ",
+      "season": "4月〜9月",
+      "origin": "全国"
+    },
+    {
+      "name": "ツブ貝",
+      "slug": "tsubugai-whelk",
+      "name_en": "Whelk",
+      "name_reading": "つぶがい",
+      "season": "10月〜4月",
+      "origin": "北海道、東北"
+    },
+    {
+      "name": "ナミガイ",
+      "slug": "namigai-white-clam",
+      "name_en": "White Clam",
+      "name_reading": "なみがい",
+      "season": "5月〜9月",
+      "origin": "北海道、青森"
+    },
+    {
+      "name": "カメノテ",
+      "slug": "kamenoте-goose-barnacle",
+      "name_en": "Goose Barnacle",
+      "name_reading": "かめのて",
+      "season": "9月〜3月",
+      "origin": "高知、三重"
+    },
+    {
+      "name": "ボタンエビ",
+      "slug": "botanebii-botan-shrimp",
+      "name_en": "Botan Shrimp",
+      "name_reading": "ぼたんえび",
+      "season": "10月〜3月",
+      "origin": "富山、福岡"
+    },
+    {
+      "name": "シマエビ",
+      "slug": "shimaebii-striped-shrimp",
+      "name_en": "Striped Shrimp",
+      "name_reading": "しまえび",
+      "season": "10月〜2月",
+      "origin": "北海道、岩手"
+    },
+    {
+      "name": "テナガエビ",
+      "slug": "tenagaebii-long-armed-shrimp",
+      "name_en": "Long-armed Shrimp",
+      "name_reading": "てながえび",
+      "season": "5月〜10月",
+      "origin": "全国淡水域"
+    },
+    {
+      "name": "川エビ",
+      "slug": "kawa-ebii-river-shrimp",
+      "name_en": "River Shrimp",
+      "name_reading": "かわえび",
+      "season": "6月〜9月",
+      "origin": "全国河川"
+    },
+    {
+      "name": "ガサエビ",
+      "slug": "gasaebii-rough-shrimp",
+      "name_en": "Rough Shrimp",
+      "name_reading": "ガサエビ",
+      "season": "7月〜10月",
+      "origin": "全国淡水域"
+    },
+    {
+      "name": "花咲ガニ",
+      "slug": "hanasaki-gani-flower-crab",
+      "name_en": "Flower Crab",
+      "name_reading": "はなさきがに",
+      "season": "7月〜9月",
+      "origin": "北海道根室"
+    },
+    {
+      "name": "クリガニ",
+      "slug": "kurigani-small-crab",
+      "name_en": "Small Crab",
+      "name_reading": "くりがに",
+      "season": "10月〜1月",
+      "origin": "北海道、青森"
+    },
+    {
+      "name": "クラゲ",
+      "slug": "kurage-edible-jellyfish",
+      "name_en": "Edible Jellyfish",
+      "name_reading": "くらげ",
+      "season": "6月〜10月",
+      "origin": "全国沿岸"
+    },
+    {
+      "name": "ウミブドウ",
+      "slug": "umibudou-sea-grape",
+      "name_en": "Sea Grape",
+      "name_reading": "うみぶどう",
+      "season": "5月〜10月",
+      "origin": "沖縄、奄美"
+    },
+    {
+      "name": "シャコ",
+      "slug": "shako-mantis-shrimp",
+      "name_en": "Mantis Shrimp",
+      "name_reading": "しゃこ",
+      "season": "4月〜6月",
+      "origin": "全国沿岸"
+    },
+    {
+      "name": "タコブネ",
+      "slug": "takobone-paper-nautilus",
+      "name_en": "Paper Nautilus",
+      "name_reading": "たこぶね",
+      "season": "6月〜9月",
+      "origin": "西日本沿岸"
+    },
+    {
+      "name": "ユムシ",
+      "slug": "yumushi-spoonworm",
+      "name_en": "Spoonworm",
+      "name_reading": "ゆむし",
+      "season": "4月〜6月",
+      "origin": "鹿児島、沖縄"
+    },
+    {
+      "name": "フジツボ",
+      "slug": "fujitsubo-barnacle",
+      "name_en": "Barnacle",
+      "name_reading": "ふじつぼ",
+      "season": "3月〜5月",
+      "origin": "全国沿岸"
+    }
+  ]
+}

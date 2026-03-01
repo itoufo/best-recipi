@@ -1,0 +1,589 @@
+{
+  "category": "調味料",
+  "ingredients": [
+    {
+      "name": "醤油",
+      "slug": "soy-sauce",
+      "name_en": "Soy Sauce",
+      "name_reading": "しょうゆ",
+      "season": "通年",
+      "origin": "千葉、和歌山、兵庫"
+    },
+    {
+      "name": "薄口醤油",
+      "slug": "light-soy-sauce",
+      "name_en": "Light Soy Sauce",
+      "name_reading": "うすくちしょうゆ",
+      "season": "通年",
+      "origin": "兵庫県"
+    },
+    {
+      "name": "たまり醤油",
+      "slug": "tamari-soy-sauce",
+      "name_en": "Tamari Soy Sauce",
+      "name_reading": "たまりしょうゆ",
+      "season": "通年",
+      "origin": "愛知県"
+    },
+    {
+      "name": "白醤油",
+      "slug": "white-soy-sauce",
+      "name_en": "White Soy Sauce",
+      "name_reading": "しろしょうゆ",
+      "season": "通年",
+      "origin": "愛知県"
+    },
+    {
+      "name": "味噌",
+      "slug": "miso",
+      "name_en": "Miso Paste",
+      "name_reading": "みそ",
+      "season": "通年",
+      "origin": "長野、愛知、山形"
+    },
+    {
+      "name": "白味噌",
+      "slug": "white-miso",
+      "name_en": "White Miso",
+      "name_reading": "しろみそ",
+      "season": "通年",
+      "origin": "京都、大阪"
+    },
+    {
+      "name": "赤味噌",
+      "slug": "red-miso",
+      "name_en": "Red Miso",
+      "name_reading": "あかみそ",
+      "season": "通年",
+      "origin": "愛知県"
+    },
+    {
+      "name": "麦味噌",
+      "slug": "barley-miso",
+      "name_en": "Barley Miso",
+      "name_reading": "むぎみそ",
+      "season": "通年",
+      "origin": "大分、福岡、熊本"
+    },
+    {
+      "name": "塩",
+      "slug": "salt",
+      "name_en": "Salt",
+      "name_reading": "しお",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "粗塩",
+      "slug": "sea-salt",
+      "name_en": "Sea Salt",
+      "name_reading": "あらじお",
+      "season": "通年",
+      "origin": "瀬戸内海、日本沿岸"
+    },
+    {
+      "name": "岩塩",
+      "slug": "rock-salt",
+      "name_en": "Rock Salt",
+      "name_reading": "がんえん",
+      "season": "通年",
+      "origin": "オーストリア、ペルー"
+    },
+    {
+      "name": "砂糖",
+      "slug": "sugar",
+      "name_en": "Sugar",
+      "name_reading": "さとう",
+      "season": "通年",
+      "origin": "沖縄、北海道"
+    },
+    {
+      "name": "上白糖",
+      "slug": "light-brown-sugar",
+      "name_en": "Light Brown Sugar",
+      "name_reading": "じょうはくとう",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "グラニュー糖",
+      "slug": "granulated-sugar",
+      "name_en": "Granulated Sugar",
+      "name_reading": "ぐらにゅーとう",
+      "season": "通年",
+      "origin": "日本、キューバ"
+    },
+    {
+      "name": "きび砂糖",
+      "slug": "demerara-sugar",
+      "name_en": "Demerara Sugar",
+      "name_reading": "きびさとう",
+      "season": "通年",
+      "origin": "沖縄、南米"
+    },
+    {
+      "name": "三温糖",
+      "slug": "sanonto-sugar",
+      "name_en": "Sanonto Sugar",
+      "name_reading": "さんおんとう",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "黒糖",
+      "slug": "brown-sugar",
+      "name_en": "Brown Sugar",
+      "name_reading": "こくとう",
+      "season": "通年",
+      "origin": "沖縄、鹿児島"
+    },
+    {
+      "name": "粉糖",
+      "slug": "powdered-sugar",
+      "name_en": "Powdered Sugar",
+      "name_reading": "こなとう",
+      "season": "通年",
+      "origin": "日本、フランス"
+    },
+    {
+      "name": "酢",
+      "slug": "vinegar",
+      "name_en": "Vinegar",
+      "name_reading": "す",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "米酢",
+      "slug": "rice-vinegar",
+      "name_en": "Rice Vinegar",
+      "name_reading": "こめす",
+      "season": "通年",
+      "origin": "福岡、大分"
+    },
+    {
+      "name": "穀物酢",
+      "slug": "grain-vinegar",
+      "name_en": "Grain Vinegar",
+      "name_reading": "こくもつす",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "黒酢",
+      "slug": "black-vinegar",
+      "name_en": "Black Vinegar",
+      "name_reading": "くろす",
+      "season": "通年",
+      "origin": "福岡県"
+    },
+    {
+      "name": "りんご酢",
+      "slug": "apple-vinegar",
+      "name_en": "Apple Vinegar",
+      "name_reading": "りんごす",
+      "season": "通年",
+      "origin": "アメリカ、欧州"
+    },
+    {
+      "name": "ワインビネガー",
+      "slug": "wine-vinegar",
+      "name_en": "Wine Vinegar",
+      "name_reading": "わいんびねがー",
+      "season": "通年",
+      "origin": "フランス、スペイン"
+    },
+    {
+      "name": "バルサミコ酢",
+      "slug": "balsamic-vinegar",
+      "name_en": "Balsamic Vinegar",
+      "name_reading": "ばるさみここす",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "みりん",
+      "slug": "mirin",
+      "name_en": "Mirin",
+      "name_reading": "みりん",
+      "season": "通年",
+      "origin": "愛知、福岡"
+    },
+    {
+      "name": "本みりん",
+      "slug": "hon-mirin",
+      "name_en": "Hon Mirin",
+      "name_reading": "ほんみりん",
+      "season": "通年",
+      "origin": "愛知県"
+    },
+    {
+      "name": "料理酒",
+      "slug": "cooking-sake",
+      "name_en": "Cooking Sake",
+      "name_reading": "りょうりしゅ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "酒",
+      "slug": "sake",
+      "name_en": "Sake",
+      "name_reading": "さけ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "めんつゆ",
+      "slug": "noodle-sauce",
+      "name_en": "Noodle Sauce",
+      "name_reading": "めんつゆ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "ポン酢",
+      "slug": "ponzu",
+      "name_en": "Ponzu Sauce",
+      "name_reading": "ぽんず",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "白だし",
+      "slug": "white-dashi",
+      "name_en": "White Dashi",
+      "name_reading": "しろだし",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "八方だし",
+      "slug": "happou-dashi",
+      "name_en": "Happou Dashi",
+      "name_reading": "はっぽうだし",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "マヨネーズ",
+      "slug": "mayonnaise",
+      "name_en": "Mayonnaise",
+      "name_reading": "まよねーず",
+      "season": "通年",
+      "origin": "日本、欧米"
+    },
+    {
+      "name": "ケチャップ",
+      "slug": "ketchup",
+      "name_en": "Ketchup",
+      "name_reading": "けちゃっぷ",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "ウスターソース",
+      "slug": "worcester-sauce",
+      "name_en": "Worcester Sauce",
+      "name_reading": "うすたーそーす",
+      "season": "通年",
+      "origin": "イギリス、日本"
+    },
+    {
+      "name": "中濃ソース",
+      "slug": "chuno-sauce",
+      "name_en": "Medium Sauce",
+      "name_reading": "ちゅうのうそーす",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "お好みソース",
+      "slug": "okonomiyaki-sauce",
+      "name_en": "Okonomiyaki Sauce",
+      "name_reading": "おこのみそーす",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "オイスターソース",
+      "slug": "oyster-sauce",
+      "name_en": "Oyster Sauce",
+      "name_reading": "おいすたーそーす",
+      "season": "通年",
+      "origin": "香港、中国"
+    },
+    {
+      "name": "豆板醤",
+      "slug": "doubanjiang",
+      "name_en": "Doubanjiang",
+      "name_reading": "とうばんじゃん",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "コチュジャン",
+      "slug": "gochujang",
+      "name_en": "Gochujang",
+      "name_reading": "こちゅじゃん",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "甜麺醤",
+      "slug": "tianmianjiang",
+      "name_en": "Tianmianjiang",
+      "name_reading": "てんめんじゃん",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "XO醤",
+      "slug": "xo-sauce",
+      "name_en": "XO Sauce",
+      "name_reading": "えっくすおーしょう",
+      "season": "通年",
+      "origin": "香港"
+    },
+    {
+      "name": "鶏がらスープの素",
+      "slug": "chicken-bouillon",
+      "name_en": "Chicken Bouillon",
+      "name_reading": "とりがらすーぷのもと",
+      "season": "通年",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "和風だしの素",
+      "slug": "japanese-dashi-stock",
+      "name_en": "Japanese Dashi Stock",
+      "name_reading": "わふうだしのもと",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "コンソメ",
+      "slug": "consomme",
+      "name_en": "Consomme",
+      "name_reading": "こんそめ",
+      "season": "通年",
+      "origin": "フランス、日本"
+    },
+    {
+      "name": "白ワイン",
+      "slug": "white-wine",
+      "name_en": "White Wine",
+      "name_reading": "しろわいん",
+      "season": "通年",
+      "origin": "フランス、ドイツ、イタリア"
+    },
+    {
+      "name": "赤ワイン",
+      "slug": "red-wine",
+      "name_en": "Red Wine",
+      "name_reading": "あかわいん",
+      "season": "通年",
+      "origin": "フランス、イタリア、スペイン"
+    },
+    {
+      "name": "はちみつ",
+      "slug": "honey",
+      "name_en": "Honey",
+      "name_reading": "はちみつ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "メープルシロップ",
+      "slug": "maple-syrup",
+      "name_en": "Maple Syrup",
+      "name_reading": "めーぷるしろっぷ",
+      "season": "通年",
+      "origin": "カナダ、アメリカ"
+    },
+    {
+      "name": "トマトペースト",
+      "slug": "tomato-paste",
+      "name_en": "Tomato Paste",
+      "name_reading": "とまとぺーすと",
+      "season": "通年",
+      "origin": "イタリア、イスラエル"
+    },
+    {
+      "name": "トマトソース",
+      "slug": "tomato-sauce",
+      "name_en": "Tomato Sauce",
+      "name_reading": "とまとそーす",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "ナンプラー",
+      "slug": "nam-pla",
+      "name_en": "Fish Sauce",
+      "name_reading": "なんぷらー",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "粒マスタード",
+      "slug": "grain-mustard",
+      "name_en": "Grain Mustard",
+      "name_reading": "つぶまするど",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ディジョンマスタード",
+      "slug": "dijon-mustard",
+      "name_en": "Dijon Mustard",
+      "name_reading": "でぃじょんまするど",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "タバスコ",
+      "slug": "tabasco",
+      "name_en": "Tabasco",
+      "name_reading": "たばすこ",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "柚子胡椒",
+      "slug": "yuzu-kosho",
+      "name_en": "Yuzu Kosho",
+      "name_reading": "ゆずこしょう",
+      "season": "通年",
+      "origin": "大分県、熊本県"
+    },
+    {
+      "name": "塩麹",
+      "slug": "shio-koji",
+      "name_en": "Salt Koji",
+      "name_reading": "しおこうじ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "醤油麹",
+      "slug": "shoyu-koji",
+      "name_en": "Soy Koji",
+      "name_reading": "しょうゆこうじ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "味醂",
+      "slug": "aji-mirin",
+      "name_en": "Aji-Mirin",
+      "name_reading": "あじみりん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "アンチョビペースト",
+      "slug": "anchovy-paste",
+      "name_en": "Anchovy Paste",
+      "name_reading": "あんちょびぺーすと",
+      "season": "通年",
+      "origin": "イタリア、スペイン"
+    },
+    {
+      "name": "ウェイパー",
+      "slug": "wei-par",
+      "name_en": "Wei Par",
+      "name_reading": "うぇいぱー",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "創味シャンタン",
+      "slug": "so-mi-shantan",
+      "name_en": "So-Mi Shantan",
+      "name_reading": "そうみしゃんたん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "すし酢",
+      "slug": "sushi-vinegar",
+      "name_en": "Sushi Vinegar",
+      "name_reading": "すしす",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "ごまだれ",
+      "slug": "sesame-sauce",
+      "name_en": "Sesame Sauce",
+      "name_reading": "ごまだれ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "焼肉のたれ",
+      "slug": "yakiniku-sauce",
+      "name_en": "Yakiniku Sauce",
+      "name_reading": "やきにくのたれ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "すきやきのたれ",
+      "slug": "sukiyaki-sauce",
+      "name_en": "Sukiyaki Sauce",
+      "name_reading": "すきやきのたれ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "わさび",
+      "slug": "wasabi",
+      "name_en": "Wasabi",
+      "name_reading": "わさび",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "唐辛子",
+      "slug": "chili-pepper",
+      "name_en": "Chili Pepper",
+      "name_reading": "とうがらし",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "七味唐辛子",
+      "slug": "shichimi-togarashi",
+      "name_en": "Shichimi Togarashi",
+      "name_reading": "しちみとうがらし",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "粉わさび",
+      "slug": "powdered-wasabi",
+      "name_en": "Powdered Wasabi",
+      "name_reading": "こなわさび",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "ラー油",
+      "slug": "chili-oil",
+      "name_en": "Chili Oil",
+      "name_reading": "らーゆ",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "ごま油",
+      "slug": "sesame-oil",
+      "name_en": "Sesame Oil",
+      "name_reading": "ごまあぶら",
+      "season": "通年",
+      "origin": "日本、中国、韓国"
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "category": "加工食品・その他",
+  "ingredients": [
+    {
+      "name": "トマト缶(ホール)",
+      "slug": "canned-tomato-whole",
+      "name_en": "Canned Tomato (Whole)",
+      "name_reading": "とまとかん（ほーる）",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "トマト缶(カット)",
+      "slug": "canned-tomato-cut",
+      "name_en": "Canned Tomato (Cut)",
+      "name_reading": "とまとかん（かっと）",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "ツナ缶",
+      "slug": "canned-tuna",
+      "name_en": "Canned Tuna",
+      "name_reading": "つなかん",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "コーン缶",
+      "slug": "canned-corn",
+      "name_en": "Canned Corn",
+      "name_reading": "こーんかん",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "さば缶",
+      "slug": "canned-mackerel",
+      "name_en": "Canned Mackerel",
+      "name_reading": "さばかん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "いわし缶",
+      "slug": "canned-sardine",
+      "name_en": "Canned Sardine",
+      "name_reading": "いわしかん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "鮭缶",
+      "slug": "canned-salmon",
+      "name_en": "Canned Salmon",
+      "name_reading": "さけかん",
+      "season": "通年",
+      "origin": "ロシア"
+    },
+    {
+      "name": "大豆水煮缶",
+      "slug": "canned-boiled-soybeans",
+      "name_en": "Canned Boiled Soybeans",
+      "name_reading": "だいずみずにかん",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "ミックスビーンズ缶",
+      "slug": "canned-mixed-beans",
+      "name_en": "Canned Mixed Beans",
+      "name_reading": "みっくすびーんずかん",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "あさり缶",
+      "slug": "canned-clam",
+      "name_en": "Canned Clam",
+      "name_reading": "あさりかん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "かに缶",
+      "slug": "canned-crab",
+      "name_en": "Canned Crab",
+      "name_reading": "かにかん",
+      "season": "通年",
+      "origin": "ロシア"
+    },
+    {
+      "name": "梅干し",
+      "slug": "pickled-plum",
+      "name_en": "Pickled Plum",
+      "name_reading": "うめぼし",
+      "season": "通年",
+      "origin": "和歌山県"
+    },
+    {
+      "name": "こんにゃく",
+      "slug": "konnyaku",
+      "name_en": "Konjac",
+      "name_reading": "こんにゃく",
+      "season": "通年",
+      "origin": "群馬県"
+    },
+    {
+      "name": "しらたき",
+      "slug": "shirataki",
+      "name_en": "Shirataki Noodles",
+      "name_reading": "しらたき",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "はんぺん",
+      "slug": "hanpen",
+      "name_en": "Hanpen",
+      "name_reading": "はんぺん",
+      "season": "通年",
+      "origin": "静岡県"
+    },
+    {
+      "name": "かまぼこ",
+      "slug": "kamaboko",
+      "name_en": "Kamaboko",
+      "name_reading": "かまぼこ",
+      "season": "通年",
+      "origin": "静岡県"
+    },
+    {
+      "name": "ちくわ",
+      "slug": "chikuwa",
+      "name_en": "Chikuwa",
+      "name_reading": "ちくわ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "さつま揚げ",
+      "slug": "satsuma-age",
+      "name_en": "Satsuma-age",
+      "name_reading": "さつまあげ",
+      "season": "通年",
+      "origin": "鹿児島県"
+    },
+    {
+      "name": "餃子の皮",
+      "slug": "gyoza-wrapper",
+      "name_en": "Gyoza Wrapper",
+      "name_reading": "ぎょうざのかわ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "春巻きの皮",
+      "slug": "spring-roll-wrapper",
+      "name_en": "Spring Roll Wrapper",
+      "name_reading": "はるまきのかわ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "ワンタンの皮",
+      "slug": "wonton-wrapper",
+      "name_en": "Wonton Wrapper",
+      "name_reading": "わんたんのかわ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "食パン",
+      "slug": "sandwich-bread",
+      "name_en": "Sandwich Bread",
+      "name_reading": "しょくぱん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "フランスパン",
+      "slug": "french-bread",
+      "name_en": "French Bread",
+      "name_reading": "ふらんすぱん",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ナン",
+      "slug": "naan",
+      "name_en": "Naan",
+      "name_reading": "なん",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "クエン酸",
+      "slug": "citric-acid",
+      "name_en": "Citric Acid",
+      "name_reading": "くえんさん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "ゼラチン",
+      "slug": "gelatin",
+      "name_en": "Gelatin",
+      "name_reading": "ぜらちん",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "ココナッツミルク",
+      "slug": "coconut-milk",
+      "name_en": "Coconut Milk",
+      "name_reading": "ここなっつみるく",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "練りごま",
+      "slug": "sesame-paste",
+      "name_en": "Sesame Paste",
+      "name_reading": "ねりごま",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "かつお節",
+      "slug": "bonito-flakes",
+      "name_en": "Bonito Flakes",
+      "name_reading": "かつおぶし",
+      "season": "通年",
+      "origin": "高知県"
+    },
+    {
+      "name": "煮干し",
+      "slug": "dried-baby-sardine",
+      "name_en": "Dried Baby Sardine",
+      "name_reading": "にぼし",
+      "season": "通年",
+      "origin": "福岡県"
+    },
+    {
+      "name": "カレールー",
+      "slug": "curry-roux",
+      "name_en": "Curry Roux",
+      "name_reading": "かれーるー",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "シチュールー",
+      "slug": "stew-roux",
+      "name_en": "Stew Roux",
+      "name_reading": "しちゅーるー",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "ハヤシルー",
+      "slug": "hayashi-roux",
+      "name_en": "Hayashi Roux",
+      "name_reading": "はやしるー",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "板チョコ(ミルク)",
+      "slug": "milk-chocolate-bar",
+      "name_en": "Milk Chocolate Bar",
+      "name_reading": "いたちょこ（みるく）",
+      "season": "通年",
+      "origin": "ベルギー"
+    },
+    {
+      "name": "板チョコ(ビター)",
+      "slug": "dark-chocolate-bar",
+      "name_en": "Dark Chocolate Bar",
+      "name_reading": "いたちょこ（びたー）",
+      "season": "通年",
+      "origin": "ベルギー"
+    },
+    {
+      "name": "ホワイトチョコ",
+      "slug": "white-chocolate",
+      "name_en": "White Chocolate",
+      "name_reading": "ほわいとちょこ",
+      "season": "通年",
+      "origin": "ベルギー"
+    },
+    {
+      "name": "ココアパウダー",
+      "slug": "cocoa-powder",
+      "name_en": "Cocoa Powder",
+      "name_reading": "ここあぱうだー",
+      "season": "通年",
+      "origin": "ガーナ"
+    },
+    {
+      "name": "抹茶",
+      "slug": "matcha",
+      "name_en": "Matcha",
+      "name_reading": "まっちゃ",
+      "season": "通年",
+      "origin": "京都府"
+    },
+    {
+      "name": "つぶあん",
+      "slug": "chunky-azuki-paste",
+      "name_en": "Chunky Azuki Paste",
+      "name_reading": "つぶあん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "こしあん",
+      "slug": "smooth-azuki-paste",
+      "name_en": "Smooth Azuki Paste",
+      "name_reading": "こしあん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "アルボリオ米",
+      "slug": "arborio-rice",
+      "name_en": "Arborio Rice",
+      "name_reading": "あるぼーりおこめ",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "ベーキングパウダー",
+      "slug": "baking-powder",
+      "name_en": "Baking Powder",
+      "name_reading": "べーきんぐぱうだー",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "ドライイースト",
+      "slug": "dry-yeast",
+      "name_en": "Dry Yeast",
+      "name_reading": "どらいいーすと",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "バニラエッセンス",
+      "slug": "vanilla-essence",
+      "name_en": "Vanilla Essence",
+      "name_reading": "ばにらえっせんす",
+      "season": "通年",
+      "origin": "マダガスカル"
+    },
+    {
+      "name": "バニラオイル",
+      "slug": "vanilla-oil",
+      "name_en": "Vanilla Oil",
+      "name_reading": "ばにらおいる",
+      "season": "通年",
+      "origin": "マダガスカル"
+    },
+    {
+      "name": "ラムエッセンス",
+      "slug": "rum-essence",
+      "name_en": "Rum Essence",
+      "name_reading": "らむえっせんす",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "粉ゼラチン",
+      "slug": "powdered-gelatin",
+      "name_en": "Powdered Gelatin",
+      "name_reading": "こなぜらちん",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "板ゼラチン",
+      "slug": "sheet-gelatin",
+      "name_en": "Sheet Gelatin",
+      "name_reading": "いたぜらちん",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "アガー",
+      "slug": "agar",
+      "name_en": "Agar",
+      "name_reading": "あがー",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "切り干し大根",
+      "slug": "dried-daikon-strips",
+      "name_en": "Dried Daikon Strips",
+      "name_reading": "きりぼしだいこん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "高野豆腐",
+      "slug": "freeze-dried-tofu",
+      "name_en": "Freeze-Dried Tofu",
+      "name_reading": "こうやどうふ",
+      "season": "通年",
+      "origin": "長野県"
+    },
+    {
+      "name": "乾燥わかめ",
+      "slug": "dried-wakame",
+      "name_en": "Dried Wakame",
+      "name_reading": "かんそうわかめ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "春雨(乾)",
+      "slug": "dried-glass-noodles",
+      "name_en": "Dried Glass Noodles",
+      "name_reading": "はるさめ（かわ）",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "ビーフン(乾)",
+      "slug": "dried-rice-vermicelli",
+      "name_en": "Dried Rice Vermicelli",
+      "name_reading": "びーふん（かわ）",
+      "season": "通年",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "焼き海苔",
+      "slug": "roasted-seaweed",
+      "name_en": "Roasted Seaweed",
+      "name_reading": "やきのり",
+      "season": "通年",
+      "origin": "佐賀県"
+    },
+    {
+      "name": "味付け海苔",
+      "slug": "seasoned-seaweed",
+      "name_en": "Seasoned Seaweed",
+      "name_reading": "あじつけのり",
+      "season": "通年",
+      "origin": "佐賀県"
+    },
+    {
+      "name": "塩昆布",
+      "slug": "salted-kombu",
+      "name_en": "Salted Kombu",
+      "name_reading": "しおこんぶ",
+      "season": "通年",
+      "origin": "北海道"
+    },
+    {
+      "name": "佃煮",
+      "slug": "tsukudani",
+      "name_en": "Tsukudani",
+      "name_reading": "つくだに",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "福神漬け",
+      "slug": "fukujinzuke",
+      "name_en": "Fukujinzuke",
+      "name_reading": "ふくじんづけ",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "らっきょう",
+      "slug": "pickled-scallion",
+      "name_en": "Pickled Scallion",
+      "name_reading": "らっきょう",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "紅しょうが",
+      "slug": "pickled-ginger-red",
+      "name_en": "Pickled Ginger Red",
+      "name_reading": "べにしょうが",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "ガリ",
+      "slug": "pickled-ginger-sushi",
+      "name_en": "Pickled Ginger Sushi",
+      "name_reading": "がり",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "柴漬け",
+      "slug": "shiba-zuke",
+      "name_en": "Shiba-zuke",
+      "name_reading": "しばづけ",
+      "season": "通年",
+      "origin": "京都府"
+    },
+    {
+      "name": "たくあん",
+      "slug": "takuan",
+      "name_en": "Takuan",
+      "name_reading": "たくあん",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "奈良漬",
+      "slug": "nara-zuke",
+      "name_en": "Nara-zuke",
+      "name_reading": "ならづけ",
+      "season": "通年",
+      "origin": "奈良県"
+    },
+    {
+      "name": "キムチ",
+      "slug": "kimchi",
+      "name_en": "Kimchi",
+      "name_reading": "きむち",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "ザーサイ",
+      "slug": "zha-cai",
+      "name_en": "Zha Cai",
+      "name_reading": "ざーさい",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "メンマ",
+      "slug": "menma",
+      "name_en": "Menma",
+      "name_reading": "めんま",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "おかか(かつお節パック)",
+      "slug": "bonito-flakes-pack",
+      "name_en": "Bonito Flakes Pack",
+      "name_reading": "おかか（かつおぶしぱっく）",
+      "season": "通年",
+      "origin": "高知県"
+    },
+    {
+      "name": "粉チーズ",
+      "slug": "grated-cheese",
+      "name_en": "Grated Cheese",
+      "name_reading": "こなちーず",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "パルメザンチーズ(粉)",
+      "slug": "parmesan-cheese-powder",
+      "name_en": "Parmesan Cheese Powder",
+      "name_reading": "ぱるめざんちーず（こな）",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "マシュマロ",
+      "slug": "marshmallow",
+      "name_en": "Marshmallow",
+      "name_reading": "ましゅまろ",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "グラノーラ",
+      "slug": "granola",
+      "name_en": "Granola",
+      "name_reading": "ぐらのーら",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "コーンフレーク",
+      "slug": "cornflakes",
+      "name_en": "Cornflakes",
+      "name_reading": "こーんふれーく",
+      "season": "通年",
+      "origin": "アメリカ"
+    },
+    {
+      "name": "乾燥パスタ",
+      "slug": "dried-pasta",
+      "name_en": "Dried Pasta",
+      "name_reading": "かんそうぱすた",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "レトルトカレー",
+      "slug": "retort-curry",
+      "name_en": "Retort Curry",
+      "name_reading": "れとるとかれー",
+      "season": "通年",
+      "origin": "日本"
+    }
+  ]
+}

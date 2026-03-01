@@ -1,0 +1,469 @@
+{
+  "category": "香辛料・ハーブ",
+  "ingredients": [
+    {
+      "name": "こしょう",
+      "slug": "black-pepper",
+      "name_en": "Black Pepper",
+      "name_reading": "こしょう",
+      "season": "通年",
+      "origin": "インド、マレーシア、ベトナム"
+    },
+    {
+      "name": "白こしょう",
+      "slug": "white-pepper",
+      "name_en": "White Pepper",
+      "name_reading": "しろこしょう",
+      "season": "通年",
+      "origin": "インド、インドネシア"
+    },
+    {
+      "name": "黒こしょう",
+      "slug": "black-peppercorn",
+      "name_en": "Black Peppercorn",
+      "name_reading": "くろこしょう",
+      "season": "通年",
+      "origin": "インド、ベトナム"
+    },
+    {
+      "name": "一味唐辛子",
+      "slug": "ichimi-togarashi",
+      "name_en": "Chili Powder",
+      "name_reading": "いちみとうがらし",
+      "season": "通年",
+      "origin": "日本、タイ"
+    },
+    {
+      "name": "唐辛子",
+      "slug": "red-chili",
+      "name_en": "Red Chili Pepper",
+      "name_reading": "とうがらし",
+      "season": "通年",
+      "origin": "メキシコ、タイ、インド"
+    },
+    {
+      "name": "練りわさび",
+      "slug": "wasabi-paste",
+      "name_en": "Wasabi Paste",
+      "name_reading": "ねりわさび",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "からし",
+      "slug": "mustard-powder",
+      "name_en": "Mustard Powder",
+      "name_reading": "からし",
+      "season": "通年",
+      "origin": "カナダ、インド"
+    },
+    {
+      "name": "山椒",
+      "slug": "sichuan-pepper",
+      "name_en": "Japanese Pepper",
+      "name_reading": "さんしょう",
+      "season": "春、秋",
+      "origin": "日本（京都府、奈良県）"
+    },
+    {
+      "name": "粉山椒",
+      "slug": "sichuan-pepper-powder",
+      "name_en": "Ground Sichuan Pepper",
+      "name_reading": "こなさんしょう",
+      "season": "通年",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "花椒",
+      "slug": "hua-jiao",
+      "name_en": "Sichuan Peppercorn",
+      "name_reading": "かしょう",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "ターメリック",
+      "slug": "turmeric",
+      "name_en": "Turmeric",
+      "name_reading": "ターメリック",
+      "season": "通年",
+      "origin": "インド、インドネシア"
+    },
+    {
+      "name": "クミン",
+      "slug": "cumin",
+      "name_en": "Cumin",
+      "name_reading": "クミン",
+      "season": "通年",
+      "origin": "インド、メキシコ"
+    },
+    {
+      "name": "カレー粉",
+      "slug": "curry-powder",
+      "name_en": "Curry Powder",
+      "name_reading": "カレーこ",
+      "season": "通年",
+      "origin": "日本、インド"
+    },
+    {
+      "name": "ガラムマサラ",
+      "slug": "garam-masala",
+      "name_en": "Garam Masala",
+      "name_reading": "ガラムマサラ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "コリアンダー",
+      "slug": "coriander",
+      "name_en": "Coriander",
+      "name_reading": "コリアンダー",
+      "season": "通年",
+      "origin": "インド、モロッコ"
+    },
+    {
+      "name": "カルダモン",
+      "slug": "cardamom",
+      "name_en": "Cardamom",
+      "name_reading": "カルダモン",
+      "season": "通年",
+      "origin": "インド、グアテマラ"
+    },
+    {
+      "name": "クローブ",
+      "slug": "clove",
+      "name_en": "Clove",
+      "name_reading": "クローブ",
+      "season": "通年",
+      "origin": "インドネシア、マダガスカル"
+    },
+    {
+      "name": "シナモン",
+      "slug": "cinnamon",
+      "name_en": "Cinnamon",
+      "name_reading": "シナモン",
+      "season": "通年",
+      "origin": "スリランカ、インドネシア"
+    },
+    {
+      "name": "ナツメグ",
+      "slug": "nutmeg",
+      "name_en": "Nutmeg",
+      "name_reading": "ナツメグ",
+      "season": "通年",
+      "origin": "インドネシア、グレナダ"
+    },
+    {
+      "name": "フェンネルシード",
+      "slug": "fennel-seed",
+      "name_en": "Fennel Seed",
+      "name_reading": "フェンネルシード",
+      "season": "通年",
+      "origin": "インド、イタリア"
+    },
+    {
+      "name": "マスタードシード",
+      "slug": "mustard-seed",
+      "name_en": "Mustard Seed",
+      "name_reading": "マスタードシード",
+      "season": "通年",
+      "origin": "インド、カナダ"
+    },
+    {
+      "name": "キャラウェイ",
+      "slug": "caraway",
+      "name_en": "Caraway",
+      "name_reading": "キャラウェイ",
+      "season": "通年",
+      "origin": "インド、エジプト"
+    },
+    {
+      "name": "ジュニパーベリー",
+      "slug": "juniper-berry",
+      "name_en": "Juniper Berry",
+      "name_reading": "ジュニパーベリー",
+      "season": "通年",
+      "origin": "ハンガリー、モロッコ"
+    },
+    {
+      "name": "五香粉",
+      "slug": "five-spice-powder",
+      "name_en": "Five-Spice Powder",
+      "name_reading": "ごこうこ",
+      "season": "通年",
+      "origin": "中国"
+    },
+    {
+      "name": "バジル",
+      "slug": "basil",
+      "name_en": "Basil",
+      "name_reading": "バジル",
+      "season": "春、夏",
+      "origin": "イタリア、タイ"
+    },
+    {
+      "name": "パセリ",
+      "slug": "parsley",
+      "name_en": "Parsley",
+      "name_reading": "パセリ",
+      "season": "春、秋",
+      "origin": "地中海沿岸、日本（福岡県、長野県）"
+    },
+    {
+      "name": "ローリエ",
+      "slug": "bay-leaf",
+      "name_en": "Bay Leaf",
+      "name_reading": "ローリエ",
+      "season": "通年",
+      "origin": "トルコ、フランス"
+    },
+    {
+      "name": "ローズマリー",
+      "slug": "rosemary",
+      "name_en": "Rosemary",
+      "name_reading": "ローズマリー",
+      "season": "通年",
+      "origin": "地中海沿岸、日本"
+    },
+    {
+      "name": "タイム",
+      "slug": "thyme",
+      "name_en": "Thyme",
+      "name_reading": "タイム",
+      "season": "春、秋",
+      "origin": "地中海沿岸、日本"
+    },
+    {
+      "name": "オレガノ",
+      "slug": "oregano",
+      "name_en": "Oregano",
+      "name_reading": "オレガノ",
+      "season": "春、夏",
+      "origin": "地中海沿岸、メキシコ"
+    },
+    {
+      "name": "ディル",
+      "slug": "dill",
+      "name_en": "Dill",
+      "name_reading": "ディル",
+      "season": "春、夏",
+      "origin": "インド、北ヨーロッパ"
+    },
+    {
+      "name": "セージ",
+      "slug": "sage",
+      "name_en": "Sage",
+      "name_reading": "セージ",
+      "season": "春、秋",
+      "origin": "地中海沿岸、日本"
+    },
+    {
+      "name": "タラゴン",
+      "slug": "tarragon",
+      "name_en": "Tarragon",
+      "name_reading": "タラゴン",
+      "season": "春、夏",
+      "origin": "フランス、ロシア"
+    },
+    {
+      "name": "チャイブ",
+      "slug": "chives",
+      "name_en": "Chives",
+      "name_reading": "チャイブ",
+      "season": "春、夏",
+      "origin": "ヨーロッパ、日本"
+    },
+    {
+      "name": "マジョラム",
+      "slug": "marjoram",
+      "name_en": "Marjoram",
+      "name_reading": "マジョラム",
+      "season": "春、夏",
+      "origin": "地中海沿岸、インド"
+    },
+    {
+      "name": "パクチー",
+      "slug": "cilantro",
+      "name_en": "Cilantro",
+      "name_reading": "パクチー",
+      "season": "春、秋",
+      "origin": "タイ、ベトナム、日本"
+    },
+    {
+      "name": "ミント",
+      "slug": "mint",
+      "name_en": "Mint",
+      "name_reading": "ミント",
+      "season": "春、夏",
+      "origin": "地中海沿岸、日本（北海道）"
+    },
+    {
+      "name": "レモングラス",
+      "slug": "lemongrass",
+      "name_en": "Lemongrass",
+      "name_reading": "レモングラス",
+      "season": "春、夏",
+      "origin": "タイ、ベトナム、日本"
+    },
+    {
+      "name": "チューブ生姜",
+      "slug": "ginger-tube",
+      "name_en": "Ginger Paste",
+      "name_reading": "チューブしょうが",
+      "season": "通年",
+      "origin": "日本"
+    },
+    {
+      "name": "チューブにんにく",
+      "slug": "garlic-tube",
+      "name_en": "Garlic Paste",
+      "name_reading": "チューブにんにく",
+      "season": "通年",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "ハリッサ",
+      "slug": "harissa",
+      "name_en": "Harissa",
+      "name_reading": "ハリッサ",
+      "season": "通年",
+      "origin": "チュニジア、モロッコ"
+    },
+    {
+      "name": "ラスエルハヌート",
+      "slug": "ras-el-hanout",
+      "name_en": "Ras el Hanout",
+      "name_reading": "ラスエルハヌート",
+      "season": "通年",
+      "origin": "モロッコ、北アフリカ"
+    },
+    {
+      "name": "チリパウダー",
+      "slug": "chili-powder",
+      "name_en": "Chili Powder",
+      "name_reading": "チリパウダー",
+      "season": "通年",
+      "origin": "メキシコ、ハンガリー"
+    },
+    {
+      "name": "チリフレーク",
+      "slug": "chili-flake",
+      "name_en": "Chili Flake",
+      "name_reading": "チリフレーク",
+      "season": "通年",
+      "origin": "メキシコ、タイ"
+    },
+    {
+      "name": "ピンクペッパー",
+      "slug": "pink-peppercorn",
+      "name_en": "Pink Peppercorn",
+      "name_reading": "ピンクペッパー",
+      "season": "通年",
+      "origin": "ブラジル、ペルー"
+    },
+    {
+      "name": "ロングペッパー",
+      "slug": "long-pepper",
+      "name_en": "Long Pepper",
+      "name_reading": "ロングペッパー",
+      "season": "通年",
+      "origin": "インド、インドネシア"
+    },
+    {
+      "name": "アニス",
+      "slug": "anise",
+      "name_en": "Anise",
+      "name_reading": "アニス",
+      "season": "通年",
+      "origin": "インド、スペイン"
+    },
+    {
+      "name": "バニラビーンズ",
+      "slug": "vanilla-bean",
+      "name_en": "Vanilla Bean",
+      "name_reading": "バニラビーンズ",
+      "season": "通年",
+      "origin": "マダガスカル、メキシコ"
+    },
+    {
+      "name": "サフラン",
+      "slug": "saffron",
+      "name_en": "Saffron",
+      "name_reading": "サフラン",
+      "season": "通年",
+      "origin": "イラン、スペイン"
+    },
+    {
+      "name": "ケッパー",
+      "slug": "capers",
+      "name_en": "Capers",
+      "name_reading": "ケッパー",
+      "season": "通年",
+      "origin": "地中海沿岸、インド"
+    },
+    {
+      "name": "スターアニス",
+      "slug": "star-anise",
+      "name_en": "Star Anise",
+      "name_reading": "スターアニス",
+      "season": "通年",
+      "origin": "中国、ベトナム"
+    },
+    {
+      "name": "ガランガル",
+      "slug": "galangal",
+      "name_en": "Galangal",
+      "name_reading": "ガランガル",
+      "season": "春、夏",
+      "origin": "タイ、インドネシア"
+    },
+    {
+      "name": "青ねぎ",
+      "slug": "green-onion",
+      "name_en": "Green Onion",
+      "name_reading": "あおねぎ",
+      "season": "春、秋",
+      "origin": "日本（京都府、福岡県）"
+    },
+    {
+      "name": "エストラゴン",
+      "slug": "estragone",
+      "name_en": "Estragone",
+      "name_reading": "エストラゴン",
+      "season": "春、夏",
+      "origin": "フランス、ロシア"
+    },
+    {
+      "name": "チャントロ",
+      "slug": "cilantro-mexican",
+      "name_en": "Cilantro Mexican",
+      "name_reading": "チャントロ",
+      "season": "春、秋",
+      "origin": "メキシコ、中米"
+    },
+    {
+      "name": "スマック",
+      "slug": "sumac",
+      "name_en": "Sumac",
+      "name_reading": "スマック",
+      "season": "通年",
+      "origin": "中東、北アフリカ"
+    },
+    {
+      "name": "ザーター",
+      "slug": "zaatar",
+      "name_en": "Zaatar",
+      "name_reading": "ザーター",
+      "season": "通年",
+      "origin": "レバノン、シリア"
+    },
+    {
+      "name": "フェタ風味スパイス",
+      "slug": "dukkah",
+      "name_en": "Dukkah",
+      "name_reading": "ドゥッカ",
+      "season": "通年",
+      "origin": "エジプト"
+    }
+  ]
+}

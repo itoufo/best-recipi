@@ -1,0 +1,757 @@
+{
+  "category": "野菜",
+  "ingredients": [
+    {
+      "name": "玉ねぎ",
+      "slug": "onion",
+      "name_en": "Onion",
+      "name_reading": "たまねぎ",
+      "season": "3月～5月、9月～11月",
+      "origin": "北海道、愛知県、兵庫県"
+    },
+    {
+      "name": "にんじん",
+      "slug": "carrot",
+      "name_en": "Carrot",
+      "name_reading": "にんじん",
+      "season": "通年",
+      "origin": "北海道、長野県、徳島県"
+    },
+    {
+      "name": "じゃがいも",
+      "slug": "potato",
+      "name_en": "Potato",
+      "name_reading": "じゃがいも",
+      "season": "通年",
+      "origin": "北海道、長野県、鹿児島県"
+    },
+    {
+      "name": "キャベツ",
+      "slug": "cabbage",
+      "name_en": "Cabbage",
+      "name_reading": "きゃべつ",
+      "season": "通年",
+      "origin": "愛知県、千葉県、長野県"
+    },
+    {
+      "name": "大根",
+      "slug": "daikon",
+      "name_en": "Daikon Radish",
+      "name_reading": "だいこん",
+      "season": "通年",
+      "origin": "北海道、千葉県、愛知県"
+    },
+    {
+      "name": "白菜",
+      "slug": "napa-cabbage",
+      "name_en": "Napa Cabbage",
+      "name_reading": "はくさい",
+      "season": "9月～3月",
+      "origin": "長野県、茨城県、愛知県"
+    },
+    {
+      "name": "ほうれん草",
+      "slug": "spinach",
+      "name_en": "Spinach",
+      "name_reading": "ほうれんそう",
+      "season": "通年",
+      "origin": "北海道、埼玉県、茨城県"
+    },
+    {
+      "name": "小松菜",
+      "slug": "komatsuna",
+      "name_en": "Komatsuna",
+      "name_reading": "こまつな",
+      "season": "通年",
+      "origin": "埼玉県、東京都、茨城県"
+    },
+    {
+      "name": "ブロッコリー",
+      "slug": "broccoli",
+      "name_en": "Broccoli",
+      "name_reading": "ぶろっこりー",
+      "season": "11月～3月",
+      "origin": "北海道、愛知県、長野県"
+    },
+    {
+      "name": "トマト",
+      "slug": "tomato",
+      "name_en": "Tomato",
+      "name_reading": "とまと",
+      "season": "5月～9月",
+      "origin": "熊本県、北海道、茨城県"
+    },
+    {
+      "name": "ミニトマト",
+      "slug": "cherry-tomato",
+      "name_en": "Cherry Tomato",
+      "name_reading": "みにとまと",
+      "season": "5月～10月",
+      "origin": "愛知県、北海道、千葉県"
+    },
+    {
+      "name": "きゅうり",
+      "slug": "cucumber",
+      "name_en": "Cucumber",
+      "name_reading": "きゅうり",
+      "season": "5月～9月",
+      "origin": "埼玉県、茨城県、愛知県"
+    },
+    {
+      "name": "なす",
+      "slug": "eggplant",
+      "name_en": "Eggplant",
+      "name_reading": "なす",
+      "season": "6月～10月",
+      "origin": "熊本県、茨城県、栃木県"
+    },
+    {
+      "name": "ピーマン",
+      "slug": "bell-pepper",
+      "name_en": "Bell Pepper",
+      "name_reading": "ぴーまん",
+      "season": "6月～10月",
+      "origin": "茨城県、宮崎県、千葉県"
+    },
+    {
+      "name": "パプリカ",
+      "slug": "paprika",
+      "name_en": "Paprika",
+      "name_reading": "ぱぷりか",
+      "season": "6月～10月",
+      "origin": "宮崎県、茨城県、オランダ"
+    },
+    {
+      "name": "もやし",
+      "slug": "bean-sprouts",
+      "name_en": "Bean Sprouts",
+      "name_reading": "もやし",
+      "season": "通年",
+      "origin": "栃木県、群馬県、北海道"
+    },
+    {
+      "name": "レタス",
+      "slug": "lettuce",
+      "name_en": "Lettuce",
+      "name_reading": "れたす",
+      "season": "通年",
+      "origin": "長野県、埼玉県、茨城県"
+    },
+    {
+      "name": "サニーレタス",
+      "slug": "red-leaf-lettuce",
+      "name_en": "Red Leaf Lettuce",
+      "name_reading": "さにーれたす",
+      "season": "通年",
+      "origin": "茨城県、千葉県、長野県"
+    },
+    {
+      "name": "長ねぎ",
+      "slug": "naga-negi",
+      "name_en": "Japanese Long Onion",
+      "name_reading": "ながねぎ",
+      "season": "通年",
+      "origin": "埼玉県、千葉県、北海道"
+    },
+    {
+      "name": "春菊",
+      "slug": "garland-chrysanthemum",
+      "name_en": "Garland Chrysanthemum",
+      "name_reading": "しゅんぎく",
+      "season": "10月～2月",
+      "origin": "千葉県、福岡県、愛知県"
+    },
+    {
+      "name": "水菜",
+      "slug": "mizuna",
+      "name_en": "Mizuna",
+      "name_reading": "みずな",
+      "season": "通年",
+      "origin": "京都府、茨城県、滋賀県"
+    },
+    {
+      "name": "ごぼう",
+      "slug": "burdock",
+      "name_en": "Burdock Root",
+      "name_reading": "ごぼう",
+      "season": "11月～2月",
+      "origin": "青森県、北海道、茨城県"
+    },
+    {
+      "name": "れんこん",
+      "slug": "lotus-root",
+      "name_en": "Lotus Root",
+      "name_reading": "れんこん",
+      "season": "9月～3月",
+      "origin": "茨城県、佐賀県、愛知県"
+    },
+    {
+      "name": "里芋",
+      "slug": "taro",
+      "name_en": "Taro",
+      "name_reading": "さといも",
+      "season": "8月～11月",
+      "origin": "埼玉県、宮崎県、愛媛県"
+    },
+    {
+      "name": "さつまいも",
+      "slug": "sweet-potato",
+      "name_en": "Sweet Potato",
+      "name_reading": "さつまいも",
+      "season": "9月～12月",
+      "origin": "鹿児島県、茨城県、千葉県"
+    },
+    {
+      "name": "かぼちゃ",
+      "slug": "pumpkin",
+      "name_en": "Pumpkin",
+      "name_reading": "かぼちゃ",
+      "season": "7月～11月",
+      "origin": "北海道、長野県、神奈川県"
+    },
+    {
+      "name": "ズッキーニ",
+      "slug": "zucchini",
+      "name_en": "Zucchini",
+      "name_reading": "ずっきーに",
+      "season": "6月～9月",
+      "origin": "長野県、愛知県、北海道"
+    },
+    {
+      "name": "アスパラガス",
+      "slug": "asparagus",
+      "name_en": "Asparagus",
+      "name_reading": "あすぱらがす",
+      "season": "4月～6月",
+      "origin": "長野県、北海道、山梨県"
+    },
+    {
+      "name": "セロリ",
+      "slug": "celery",
+      "name_en": "Celery",
+      "name_reading": "せろり",
+      "season": "通年",
+      "origin": "長野県、愛知県、北海道"
+    },
+    {
+      "name": "とうもろこし",
+      "slug": "corn",
+      "name_en": "Corn",
+      "name_reading": "とうもろこし",
+      "season": "6月～9月",
+      "origin": "北海道、長野県、山梨県"
+    },
+    {
+      "name": "オクラ",
+      "slug": "okra",
+      "name_en": "Okra",
+      "name_reading": "おくら",
+      "season": "6月～9月",
+      "origin": "沖縄県、山梨県、愛知県"
+    },
+    {
+      "name": "にら",
+      "slug": "chinese-chives",
+      "name_en": "Chinese Chives",
+      "name_reading": "にら",
+      "season": "3月～11月",
+      "origin": "高知県、栃木県、福岡県"
+    },
+    {
+      "name": "しそ",
+      "slug": "shiso",
+      "name_en": "Shiso",
+      "name_reading": "しそ",
+      "season": "6月～9月",
+      "origin": "大分県、愛知県、栃木県"
+    },
+    {
+      "name": "みょうが",
+      "slug": "myoga",
+      "name_en": "Myoga",
+      "name_reading": "みょうが",
+      "season": "6月～10月",
+      "origin": "高知県、愛媛県、北海道"
+    },
+    {
+      "name": "生姜",
+      "slug": "ginger",
+      "name_en": "Ginger",
+      "name_reading": "しょうが",
+      "season": "通年",
+      "origin": "高知県、熊本県、宮崎県"
+    },
+    {
+      "name": "にんにく",
+      "slug": "garlic",
+      "name_en": "Garlic",
+      "name_reading": "にんにく",
+      "season": "5月～7月",
+      "origin": "青森県、北海道、香川県"
+    },
+    {
+      "name": "長芋",
+      "slug": "nagaimo",
+      "name_en": "Japanese Mountain Yam",
+      "name_reading": "ながいも",
+      "season": "9月～1月",
+      "origin": "北海道、青森県、茨城県"
+    },
+    {
+      "name": "かぶ",
+      "slug": "turnip",
+      "name_en": "Turnip",
+      "name_reading": "かぶ",
+      "season": "9月～3月",
+      "origin": "千葉県、茨城県、群馬県"
+    },
+    {
+      "name": "カリフラワー",
+      "slug": "cauliflower",
+      "name_en": "Cauliflower",
+      "name_reading": "かりふらわー",
+      "season": "11月～3月",
+      "origin": "北海道、愛知県、長野県"
+    },
+    {
+      "name": "たけのこ",
+      "slug": "bamboo-shoot",
+      "name_en": "Bamboo Shoot",
+      "name_reading": "たけのこ",
+      "season": "3月～5月",
+      "origin": "福岡県、熊本県、京都府"
+    },
+    {
+      "name": "枝豆",
+      "slug": "edamame",
+      "name_en": "Edamame",
+      "name_reading": "えだまめ",
+      "season": "6月～9月",
+      "origin": "北海道、長野県、山形県"
+    },
+    {
+      "name": "そら豆",
+      "slug": "broad-bean",
+      "name_en": "Broad Bean",
+      "name_reading": "そらまめ",
+      "season": "4月～6月",
+      "origin": "千葉県、愛知県、北海道"
+    },
+    {
+      "name": "さやいんげん",
+      "slug": "string-bean",
+      "name_en": "String Bean",
+      "name_reading": "さやいんげん",
+      "season": "5月～10月",
+      "origin": "北海道、埼玉県、鹿児島県"
+    },
+    {
+      "name": "スナップえんどう",
+      "slug": "snap-pea",
+      "name_en": "Snap Pea",
+      "name_reading": "すなっぷえんどう",
+      "season": "4月～6月",
+      "origin": "北海道、長野県、鹿児島県"
+    },
+    {
+      "name": "貝割れ大根",
+      "slug": "daikon-sprouts",
+      "name_en": "Daikon Sprouts",
+      "name_reading": "かいわれだいこん",
+      "season": "通年",
+      "origin": "栃木県、福島県、北海道"
+    },
+    {
+      "name": "豆苗",
+      "slug": "pea-shoots",
+      "name_en": "Pea Shoots",
+      "name_reading": "とうみょう",
+      "season": "通年",
+      "origin": "栃木県、茨城県、北海道"
+    },
+    {
+      "name": "チンゲン菜",
+      "slug": "bok-choy",
+      "name_en": "Bok Choy",
+      "name_reading": "ちんげんさい",
+      "season": "通年",
+      "origin": "香川県、福岡県、千葉県"
+    },
+    {
+      "name": "空芯菜",
+      "slug": "morning-glory",
+      "name_en": "Morning Glory",
+      "name_reading": "くうしんさい",
+      "season": "5月～10月",
+      "origin": "沖縄県、宮崎県、鹿児島県"
+    },
+    {
+      "name": "ゴーヤ",
+      "slug": "bitter-melon",
+      "name_en": "Bitter Melon",
+      "name_reading": "ごーや",
+      "season": "6月～9月",
+      "origin": "沖縄県、宮崎県、群馬県"
+    },
+    {
+      "name": "山芋",
+      "slug": "yamaimo",
+      "name_en": "Mountain Yam",
+      "name_reading": "やまいも",
+      "season": "9月～12月",
+      "origin": "北海道、長野県、滋賀県"
+    },
+    {
+      "name": "新玉ねぎ",
+      "slug": "new-onion",
+      "name_en": "New Onion",
+      "name_reading": "しんたまねぎ",
+      "season": "3月～5月",
+      "origin": "北海道、愛知県、佐賀県"
+    },
+    {
+      "name": "紫キャベツ",
+      "slug": "red-cabbage",
+      "name_en": "Red Cabbage",
+      "name_reading": "むらさききゃべつ",
+      "season": "通年",
+      "origin": "愛知県、千葉県、長野県"
+    },
+    {
+      "name": "芽キャベツ",
+      "slug": "brussels-sprout",
+      "name_en": "Brussels Sprout",
+      "name_reading": "めきゃべつ",
+      "season": "11月～2月",
+      "origin": "北海道、長野県、愛知県"
+    },
+    {
+      "name": "つるむらさき",
+      "slug": "water-spinach",
+      "name_en": "Water Spinach",
+      "name_reading": "つるむらさき",
+      "season": "6月～10月",
+      "origin": "熊本県、福岡県、沖縄県"
+    },
+    {
+      "name": "モロヘイヤ",
+      "slug": "moroheiya",
+      "name_en": "Moroheiya",
+      "name_reading": "もろへいや",
+      "season": "6月～10月",
+      "origin": "沖縄県、福岡県、鹿児島県"
+    },
+    {
+      "name": "からし菜",
+      "slug": "mustard-greens",
+      "name_en": "Mustard Greens",
+      "name_reading": "からしな",
+      "season": "11月～3月",
+      "origin": "九州各県、愛知県"
+    },
+    {
+      "name": "菜の花",
+      "slug": "canola-flower",
+      "name_en": "Canola Flower",
+      "name_reading": "なのはな",
+      "season": "2月～4月",
+      "origin": "千葉県、福岡県、熊本県"
+    },
+    {
+      "name": "ルッコラ",
+      "slug": "arugula",
+      "name_en": "Arugula",
+      "name_reading": "るっこら",
+      "season": "通年",
+      "origin": "山梨県、茨城県、長野県"
+    },
+    {
+      "name": "クレソン",
+      "slug": "watercress",
+      "name_en": "Watercress",
+      "name_reading": "くれそん",
+      "season": "12月～4月",
+      "origin": "徳島県、高知県、静岡県"
+    },
+    {
+      "name": "ラディッシュ",
+      "slug": "radish",
+      "name_en": "Radish",
+      "name_reading": "らでぃっしゅ",
+      "season": "通年",
+      "origin": "長野県、神奈川県、千葉県"
+    },
+    {
+      "name": "ふき",
+      "slug": "butterbur",
+      "name_en": "Butterbur",
+      "name_reading": "ふき",
+      "season": "3月～6月",
+      "origin": "北海道、福岡県、熊本県"
+    },
+    {
+      "name": "わらび",
+      "slug": "bracken",
+      "name_en": "Bracken",
+      "name_reading": "わらび",
+      "season": "4月～6月",
+      "origin": "北海道、秋田県、山形県"
+    },
+    {
+      "name": "ぜんまい",
+      "slug": "zenmai",
+      "name_en": "Zenmai Fern",
+      "name_reading": "ぜんまい",
+      "season": "4月～5月",
+      "origin": "北海道、秋田県、岡山県"
+    },
+    {
+      "name": "こごみ",
+      "slug": "ostrich-fern",
+      "name_en": "Ostrich Fern",
+      "name_reading": "こごみ",
+      "season": "4月～5月",
+      "origin": "北海道、秋田県、岩手県"
+    },
+    {
+      "name": "たらの芽",
+      "slug": "aralia-shoot",
+      "name_en": "Aralia Shoot",
+      "name_reading": "たらのめ",
+      "season": "4月～5月",
+      "origin": "北海道、岩手県、秋田県"
+    },
+    {
+      "name": "ふきのとう",
+      "slug": "butterbur-sprout",
+      "name_en": "Butterbur Sprout",
+      "name_reading": "ふきのとう",
+      "season": "2月～3月",
+      "origin": "北海道、東北地方"
+    },
+    {
+      "name": "行者にんにく",
+      "slug": "ramp",
+      "name_en": "Ramp",
+      "name_reading": "ぎょうじゃにんにく",
+      "season": "4月～5月",
+      "origin": "北海道、岩手県、青森県"
+    },
+    {
+      "name": "よもぎ",
+      "slug": "mugwort",
+      "name_en": "Mugwort",
+      "name_reading": "よもぎ",
+      "season": "3月～5月",
+      "origin": "北海道、新潟県、長野県"
+    },
+    {
+      "name": "セリ",
+      "slug": "japanese-parsley",
+      "name_en": "Japanese Parsley",
+      "name_reading": "せり",
+      "season": "12月～3月",
+      "origin": "茨城県、宮城県、栃木県"
+    },
+    {
+      "name": "パースニップ",
+      "slug": "parsnip",
+      "name_en": "Parsnip",
+      "name_reading": "ぱーすにっぷ",
+      "season": "11月～2月",
+      "origin": "北海道、長野県、茨城県"
+    },
+    {
+      "name": "ルバーブ",
+      "slug": "rhubarb",
+      "name_en": "Rhubarb",
+      "name_reading": "るばーぶ",
+      "season": "4月～6月",
+      "origin": "北海道、山梨県、長野県"
+    },
+    {
+      "name": "アーティチョーク",
+      "slug": "artichoke",
+      "name_en": "Artichoke",
+      "name_reading": "あーてぃちょーく",
+      "season": "4月～6月",
+      "origin": "愛知県、岡山県、長野県"
+    },
+    {
+      "name": "フェンネル",
+      "slug": "fennel",
+      "name_en": "Fennel",
+      "name_reading": "ふぇんねる",
+      "season": "11月～3月",
+      "origin": "北海道、愛知県、長野県"
+    },
+    {
+      "name": "とうがん",
+      "slug": "winter-melon",
+      "name_en": "Winter Melon",
+      "name_reading": "とうがん",
+      "season": "7月～9月",
+      "origin": "愛知県、福岡県、熊本県"
+    },
+    {
+      "name": "へちま",
+      "slug": "luffa",
+      "name_en": "Luffa",
+      "name_reading": "へちま",
+      "season": "7月～9月",
+      "origin": "沖縄県、宮崎県、鹿児島県"
+    },
+    {
+      "name": "ハヤトウリ",
+      "slug": "chayote",
+      "name_en": "Chayote",
+      "name_reading": "はやとうり",
+      "season": "8月～11月",
+      "origin": "沖縄県、福岡県、熊本県"
+    },
+    {
+      "name": "新ごぼう",
+      "slug": "young-burdock",
+      "name_en": "Young Burdock",
+      "name_reading": "しんごぼう",
+      "season": "5月～7月",
+      "origin": "千葉県、茨城県、群馬県"
+    },
+    {
+      "name": "新じゃが",
+      "slug": "new-potato",
+      "name_en": "New Potato",
+      "name_reading": "しんじゃが",
+      "season": "4月～6月",
+      "origin": "鹿児島県、長崎県、北海道"
+    },
+    {
+      "name": "紫芋",
+      "slug": "purple-potato",
+      "name_en": "Purple Potato",
+      "name_reading": "むらさきいも",
+      "season": "9月～12月",
+      "origin": "鹿児島県、長崎県、宮崎県"
+    },
+    {
+      "name": "自然薯",
+      "slug": "wild-yam",
+      "name_en": "Wild Yam",
+      "name_reading": "じねんじょ",
+      "season": "10月～1月",
+      "origin": "北海道、青森県、秋田県"
+    },
+    {
+      "name": "むかご",
+      "slug": "yam-bulbil",
+      "name_en": "Yam Bulbil",
+      "name_reading": "むかご",
+      "season": "9月～11月",
+      "origin": "北海道、東北地方、関東地方"
+    },
+    {
+      "name": "メキャベツ",
+      "slug": "mini-cabbage",
+      "name_en": "Mini Cabbage",
+      "name_reading": "めきゃべつ",
+      "season": "11月～2月",
+      "origin": "北海道、愛知県、長野県"
+    },
+    {
+      "name": "プチヴェール",
+      "slug": "petit-vert",
+      "name_en": "Petit Vert",
+      "name_reading": "ぷちゔぇーる",
+      "season": "11月～2月",
+      "origin": "北海道、愛知県、長野県"
+    },
+    {
+      "name": "コールラビ",
+      "slug": "kohlrabi",
+      "name_en": "Kohlrabi",
+      "name_reading": "こーるらび",
+      "season": "10月～2月",
+      "origin": "北海道、長野県、愛知県"
+    },
+    {
+      "name": "ロマネスコ",
+      "slug": "romanesco",
+      "name_en": "Romanesco",
+      "name_reading": "ろまねすこ",
+      "season": "11月～2月",
+      "origin": "北海道、愛知県、長野県"
+    },
+    {
+      "name": "アイスプラント",
+      "slug": "ice-plant",
+      "name_en": "Ice Plant",
+      "name_reading": "あいすぷらんと",
+      "season": "11月～2月",
+      "origin": "愛知県、長野県、山梨県"
+    },
+    {
+      "name": "ビーツ",
+      "slug": "beet",
+      "name_en": "Beet",
+      "name_reading": "びーつ",
+      "season": "10月～2月",
+      "origin": "北海道、長野県、愛知県"
+    },
+    {
+      "name": "ヤーコン",
+      "slug": "yacon",
+      "name_en": "Yacon",
+      "name_reading": "やーこん",
+      "season": "9月～11月",
+      "origin": "北海道、長野県、群馬県"
+    },
+    {
+      "name": "アピオス",
+      "slug": "apios",
+      "name_en": "Apios",
+      "name_reading": "あぴおす",
+      "season": "9月～11月",
+      "origin": "北海道、青森県、長野県"
+    },
+    {
+      "name": "セイヨウワサビ",
+      "slug": "horseradish",
+      "name_en": "Horseradish",
+      "name_reading": "せいようわさび",
+      "season": "10月～3月",
+      "origin": "北海道、長野県、山梨県"
+    },
+    {
+      "name": "グラパラリーフ",
+      "slug": "grape-leaf",
+      "name_en": "Grape Leaf Cactus",
+      "name_reading": "ぐらぱらりーふ",
+      "season": "5月～10月",
+      "origin": "沖縄県、宮崎県、鹿児島県"
+    },
+    {
+      "name": "チコリ",
+      "slug": "chicory",
+      "name_en": "Chicory",
+      "name_reading": "ちこり",
+      "season": "11月～3月",
+      "origin": "兵庫県、福岡県、京都府"
+    },
+    {
+      "name": "エンダイブ",
+      "slug": "endive",
+      "name_en": "Endive",
+      "name_reading": "えんだいぶ",
+      "season": "11月～3月",
+      "origin": "長野県、愛知県、兵庫県"
+    },
+    {
+      "name": "レーズン・ペッパー",
+      "slug": "pepper-leaf",
+      "name_en": "Pepper Leaf",
+      "name_reading": "れーずん・ぺっぱー",
+      "season": "6月～10月",
+      "origin": "愛知県、滋賀県、京都府"
+    }
+  ]
+}

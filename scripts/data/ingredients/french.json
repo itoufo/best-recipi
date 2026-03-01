@@ -1,0 +1,277 @@
+{
+  "category": "フランス食材",
+  "ingredients": [
+    {
+      "name": "カマンベール",
+      "slug": "camembert",
+      "name_en": "Camembert",
+      "name_reading": "かまんべーる",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ロックフォール",
+      "slug": "roquefort",
+      "name_en": "Roquefort",
+      "name_reading": "ろっくふぉーる",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "コンテ",
+      "slug": "comté",
+      "name_en": "Comté",
+      "name_reading": "こんて",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "グリュイエール",
+      "slug": "gruyère",
+      "name_en": "Gruyère",
+      "name_reading": "ぐりゅいえーる",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "エポワス",
+      "slug": "epoisses",
+      "name_en": "Époisses",
+      "name_reading": "えぽわす",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "シェーブル",
+      "slug": "chèvre-cheese",
+      "name_en": "Chèvre",
+      "name_reading": "しぇーぶる",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "フォアグラ",
+      "slug": "foie-gras",
+      "name_en": "Foie Gras",
+      "name_reading": "ふぉあぐら",
+      "season": "冬",
+      "origin": "フランス"
+    },
+    {
+      "name": "コンフィ用鴨脂",
+      "slug": "duck-fat-confit",
+      "name_en": "Duck Fat for Confit",
+      "name_reading": "こんふぃようがものし",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "リエット",
+      "slug": "rillettes",
+      "name_en": "Rillettes",
+      "name_reading": "りえっと",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "テリーヌ",
+      "slug": "terrine",
+      "name_en": "Terrine",
+      "name_reading": "てりーぬ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "パテ・ド・カンパーニュ",
+      "slug": "pâté-de-campagne",
+      "name_en": "Pâté de Campagne",
+      "name_reading": "ぱてどかんぱーにゅ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ラルドン",
+      "slug": "lardons",
+      "name_en": "Lardons",
+      "name_reading": "らるどん",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "エルブ・ド・プロヴァンス",
+      "slug": "herbes-de-provence",
+      "name_en": "Herbes de Provence",
+      "name_reading": "えるぶどぷろゔぁんす",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "フルール・ド・セル",
+      "slug": "fleur-de-sel",
+      "name_en": "Fleur de Sel",
+      "name_reading": "ふるーるどせる",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ブイヨン・ド・ヴォライユ",
+      "slug": "bouillon-de-volaille",
+      "name_en": "Bouillon de Volaille",
+      "name_reading": "ぶいよんどゔぉらいゆ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "タラゴン",
+      "slug": "tarragon-french",
+      "name_en": "Tarragon",
+      "name_reading": "たらごん",
+      "season": "春〜秋",
+      "origin": "フランス"
+    },
+    {
+      "name": "シブレット",
+      "slug": "ciboulette",
+      "name_en": "Ciboulette",
+      "name_reading": "しぶれっと",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "セルフィーユ",
+      "slug": "cerfeuil",
+      "name_en": "Cerfeuil",
+      "name_reading": "せるふぃーゆ",
+      "season": "春〜秋",
+      "origin": "フランス"
+    },
+    {
+      "name": "エストラゴン",
+      "slug": "estragon",
+      "name_en": "Estragon",
+      "name_reading": "えすとらごん",
+      "season": "春〜秋",
+      "origin": "フランス"
+    },
+    {
+      "name": "フィーヌゼルブ",
+      "slug": "fines-herbes",
+      "name_en": "Fines Herbes",
+      "name_reading": "ふぃーぬぜるぶ",
+      "season": "春〜秋",
+      "origin": "フランス"
+    },
+    {
+      "name": "エシャロット",
+      "slug": "shallot-french",
+      "name_en": "Shallot",
+      "name_reading": "えしゃろっと",
+      "season": "春〜秋",
+      "origin": "フランス"
+    },
+    {
+      "name": "ポワロー",
+      "slug": "poireau",
+      "name_en": "Leek",
+      "name_reading": "ぽわろー",
+      "season": "秋〜冬",
+      "origin": "フランス"
+    },
+    {
+      "name": "セロリラブ",
+      "slug": "celeriac",
+      "name_en": "Celeriac",
+      "name_reading": "せろりらぶ",
+      "season": "秋〜冬",
+      "origin": "フランス"
+    },
+    {
+      "name": "トピナンブール",
+      "slug": "topinambour",
+      "name_en": "Jerusalem Artichoke",
+      "name_reading": "ときなんぶーる",
+      "season": "秋〜冬",
+      "origin": "フランス"
+    },
+    {
+      "name": "クレープ生地粉",
+      "slug": "crêpe-flour",
+      "name_en": "Crêpe Flour",
+      "name_reading": "くれーぷきじこ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "パート・フィユテ",
+      "slug": "pâte-feuilletée",
+      "name_en": "Puff Pastry",
+      "name_reading": "ぱーとふぃゆてぃ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ブリオッシュ用粉",
+      "slug": "brioche-flour",
+      "name_en": "Brioche Flour",
+      "name_reading": "ぶりおっしゅようこ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "コニャック",
+      "slug": "cognac",
+      "name_en": "Cognac",
+      "name_reading": "こにゃっく",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "グラン・マルニエ",
+      "slug": "grand-marnier",
+      "name_en": "Grand Marnier",
+      "name_reading": "ぐらんまるにえ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "クレーム・フレッシュ",
+      "slug": "crème-fraîche",
+      "name_en": "Crème Fraîche",
+      "name_reading": "くれーむふれっしゅ",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "トリュフ塩",
+      "slug": "truffle-salt",
+      "name_en": "Truffle Salt",
+      "name_reading": "とりゅふしお",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "コルニッション",
+      "slug": "cornichons",
+      "name_en": "Cornichons",
+      "name_reading": "こるにっしょん",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "ペルノー",
+      "slug": "pernod",
+      "name_en": "Pernod",
+      "name_reading": "ぺるのー",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "バター",
+      "slug": "beurre-french",
+      "name_en": "Butter",
+      "name_reading": "ばたー",
+      "season": "通年",
+      "origin": "フランス"
+    }
+  ]
+}

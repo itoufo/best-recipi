@@ -1,0 +1,285 @@
+{
+  "category": "東南アジア食材",
+  "ingredients": [
+    {
+      "name": "シーユーダム",
+      "slug": "see-yew-dam",
+      "name_en": "Thai Dark Soy Sauce",
+      "name_reading": "しーゆーだむ",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "シーユーカオ",
+      "slug": "see-yew-kao",
+      "name_en": "Thai Light Soy Sauce",
+      "name_reading": "しーゆーかお",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "タイバジル",
+      "slug": "thai-basil",
+      "name_en": "Thai Basil (Horapha)",
+      "name_reading": "たいばじる",
+      "season": "5月～10月",
+      "origin": "タイ"
+    },
+    {
+      "name": "こぶみかんの葉",
+      "slug": "kaffir-lime-leaves",
+      "name_en": "Kaffir Lime Leaves (Bai Makrut)",
+      "name_reading": "こぶみかんのは",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "プリッキーヌ",
+      "slug": "prik-kee-noo",
+      "name_en": "Thai Bird's Eye Chili",
+      "name_reading": "ぷりっきーぬ",
+      "season": "6月～10月",
+      "origin": "タイ"
+    },
+    {
+      "name": "赤カレーペースト",
+      "slug": "thai-red-curry-paste",
+      "name_en": "Thai Red Curry Paste",
+      "name_reading": "あかかれーぺーすと",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "緑カレーペースト",
+      "slug": "thai-green-curry-paste",
+      "name_en": "Thai Green Curry Paste",
+      "name_reading": "みどりかれーぺーすと",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "黄カレーペースト",
+      "slug": "thai-yellow-curry-paste",
+      "name_en": "Thai Yellow Curry Paste",
+      "name_reading": "きいろかれーぺーすと",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "ココナッツシュガー",
+      "slug": "coconut-sugar",
+      "name_en": "Coconut Sugar",
+      "name_reading": "ここなっつしゅがー",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "パームシュガー",
+      "slug": "palm-sugar",
+      "name_en": "Palm Sugar",
+      "name_reading": "ぱーむしゅがー",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "タマリンドペースト",
+      "slug": "tamarind-paste",
+      "name_en": "Tamarind Paste",
+      "name_reading": "たまりんどぺーすと",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "ヌクマム",
+      "slug": "nuoc-mam",
+      "name_en": "Vietnamese Fish Sauce",
+      "name_reading": "ぬくまむ",
+      "season": "通年",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "ライスペーパー",
+      "slug": "rice-paper",
+      "name_en": "Rice Paper",
+      "name_reading": "らいすぺーぱー",
+      "season": "通年",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "フォー用麺",
+      "slug": "pho-noodles",
+      "name_en": "Pho Noodles",
+      "name_reading": "ふぉーようめん",
+      "season": "通年",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "ブンチャー用麺",
+      "slug": "bun-cha-noodles",
+      "name_en": "Bun Cha Noodles",
+      "name_reading": "ぶんちゃーようめん",
+      "season": "通年",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "ベトナムコリアンダー",
+      "slug": "vietnamese-coriander",
+      "name_en": "Vietnamese Coriander (Rau Ram)",
+      "name_reading": "べとなむこりあんだー",
+      "season": "4月～11月",
+      "origin": "ベトナム"
+    },
+    {
+      "name": "ケチャップマニス",
+      "slug": "kecap-manis",
+      "name_en": "Indonesian Sweet Soy Sauce",
+      "name_reading": "けちゃっぷまにす",
+      "season": "通年",
+      "origin": "インドネシア"
+    },
+    {
+      "name": "サンバルソース",
+      "slug": "sambal-sauce",
+      "name_en": "Sambal Sauce",
+      "name_reading": "さんばるそーす",
+      "season": "通年",
+      "origin": "インドネシア"
+    },
+    {
+      "name": "ブラチャン",
+      "slug": "blachan-shrimp",
+      "name_en": "Shrimp Paste (Indonesian)",
+      "name_reading": "ぶらちゃん",
+      "season": "通年",
+      "origin": "インドネシア"
+    },
+    {
+      "name": "クルプック",
+      "slug": "krupuk",
+      "name_en": "Shrimp Crackers",
+      "name_reading": "くるぷっく",
+      "season": "通年",
+      "origin": "インドネシア"
+    },
+    {
+      "name": "トラシ",
+      "slug": "terasi",
+      "name_en": "Terasi (Shrimp Paste)",
+      "name_reading": "とらし",
+      "season": "通年",
+      "origin": "インドネシア"
+    },
+    {
+      "name": "ブラチャン（マレーシア）",
+      "slug": "blachan-malaysian",
+      "name_en": "Shrimp Paste (Malaysian)",
+      "name_reading": "ぶらちゃんまれーしあ",
+      "season": "通年",
+      "origin": "マレーシア"
+    },
+    {
+      "name": "パンダンリーフ",
+      "slug": "pandan-leaf",
+      "name_en": "Pandan Leaf",
+      "name_reading": "ぱんだんりーふ",
+      "season": "通年",
+      "origin": "マレーシア"
+    },
+    {
+      "name": "ニョニャスパイスペースト",
+      "slug": "nyonya-spice-paste",
+      "name_en": "Nyonya Spice Paste",
+      "name_reading": "にょにゃすぱいすぺーすと",
+      "season": "通年",
+      "origin": "マレーシア"
+    },
+    {
+      "name": "カラマンシー",
+      "slug": "calamansi",
+      "name_en": "Calamansi Lime",
+      "name_reading": "からまんしー",
+      "season": "通年",
+      "origin": "フィリピン"
+    },
+    {
+      "name": "バゴオン",
+      "slug": "bagoong",
+      "name_en": "Bagoong (Philippine Shrimp Paste)",
+      "name_reading": "ばごおん",
+      "season": "通年",
+      "origin": "フィリピン"
+    },
+    {
+      "name": "ウベ",
+      "slug": "ube",
+      "name_en": "Ube (Purple Yam)",
+      "name_reading": "うべ",
+      "season": "通年",
+      "origin": "フィリピン"
+    },
+    {
+      "name": "タピオカ粉",
+      "slug": "tapioca-starch",
+      "name_en": "Tapioca Starch",
+      "name_reading": "たぴおかこ",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "もち米（東南アジア）",
+      "slug": "sticky-rice-southeast-asian",
+      "name_en": "Sticky Rice (Sweet Rice)",
+      "name_reading": "もちこめ",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "ビーフン",
+      "slug": "beehoon",
+      "name_en": "Rice Vermicelli",
+      "name_reading": "びーふん",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "バナナの葉",
+      "slug": "banana-leaves",
+      "name_en": "Banana Leaves",
+      "name_reading": "ばななのは",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "ライム（タイ）",
+      "slug": "thai-lime",
+      "name_en": "Thai Lime",
+      "name_reading": "らいむ",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "ピーナッツペースト",
+      "slug": "peanut-paste-southeast",
+      "name_en": "Peanut Paste",
+      "name_reading": "ぴーなっつぺーすと",
+      "season": "通年",
+      "origin": "東南アジア"
+    },
+    {
+      "name": "シーソー（タイ醤油）",
+      "slug": "see-seo-thai",
+      "name_en": "Thai Seasoning Soy Sauce",
+      "name_reading": "しーそー",
+      "season": "通年",
+      "origin": "タイ"
+    },
+    {
+      "name": "ウスターソース（東南アジア版）",
+      "slug": "worcestershire-southeast",
+      "name_en": "Southeast Asian Worcestershire Sauce",
+      "name_reading": "ぅすたーそーす",
+      "season": "通年",
+      "origin": "東南アジア"
+    }
+  ]
+}

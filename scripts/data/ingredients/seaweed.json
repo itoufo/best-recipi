@@ -1,0 +1,165 @@
+{
+  "category": "海藻類",
+  "ingredients": [
+    {
+      "name": "昆布",
+      "slug": "kombu",
+      "name_en": "Kelp",
+      "name_reading": "こんぶ",
+      "season": "通年",
+      "origin": "北海道"
+    },
+    {
+      "name": "わかめ",
+      "slug": "wakame",
+      "name_en": "Wakame",
+      "name_reading": "わかめ",
+      "season": "春〜初夏",
+      "origin": "岩手県・宮城県"
+    },
+    {
+      "name": "のり",
+      "slug": "nori",
+      "name_en": "Nori seaweed",
+      "name_reading": "のり",
+      "season": "通年",
+      "origin": "佐賀県・福岡県"
+    },
+    {
+      "name": "焼きのり",
+      "slug": "yaki-nori",
+      "name_en": "Toasted nori",
+      "name_reading": "やきのり",
+      "season": "通年",
+      "origin": "佐賀県・福岡県"
+    },
+    {
+      "name": "味付けのり",
+      "slug": "ajitsuke-nori",
+      "name_en": "Flavored nori",
+      "name_reading": "あじつけのり",
+      "season": "通年",
+      "origin": "佐賀県・福岡県"
+    },
+    {
+      "name": "ひじき",
+      "slug": "hijiki",
+      "name_en": "Hijiki",
+      "name_reading": "ひじき",
+      "season": "春〜初夏",
+      "origin": "徳島県・長野県"
+    },
+    {
+      "name": "もずく",
+      "slug": "mozuku",
+      "name_en": "Mozuku",
+      "name_reading": "もずく",
+      "season": "通年",
+      "origin": "沖縄県"
+    },
+    {
+      "name": "寒天",
+      "slug": "kanten",
+      "name_en": "Agar",
+      "name_reading": "かんてん",
+      "season": "通年",
+      "origin": "長野県・岐阜県"
+    },
+    {
+      "name": "とろろ昆布",
+      "slug": "tororo-kombu",
+      "name_en": "Shredded kelp",
+      "name_reading": "とろろこんぶ",
+      "season": "通年",
+      "origin": "北海道"
+    },
+    {
+      "name": "青のり",
+      "slug": "aonori",
+      "name_en": "Green seaweed powder",
+      "name_reading": "あおのり",
+      "season": "通年",
+      "origin": "徳島県・長野県"
+    },
+    {
+      "name": "あおさ",
+      "slug": "aosa",
+      "name_en": "Green seaweed",
+      "name_reading": "あおさ",
+      "season": "春",
+      "origin": "三重県・愛知県"
+    },
+    {
+      "name": "めかぶ",
+      "slug": "mekabu",
+      "name_en": "Mekabu",
+      "name_reading": "めかぶ",
+      "season": "春",
+      "origin": "岩手県・宮城県"
+    },
+    {
+      "name": "刻み昆布",
+      "slug": "kizami-kombu",
+      "name_en": "Chopped kelp",
+      "name_reading": "きざみこんぶ",
+      "season": "通年",
+      "origin": "北海道"
+    },
+    {
+      "name": "塩昆布",
+      "slug": "shio-kombu",
+      "name_en": "Salted kelp",
+      "name_reading": "しおこんぶ",
+      "season": "通年",
+      "origin": "北海道"
+    },
+    {
+      "name": "佃煮昆布",
+      "slug": "tsukudani-kombu",
+      "name_en": "Kombu tsukudani",
+      "name_reading": "つくだにこんぶ",
+      "season": "通年",
+      "origin": "北海道"
+    },
+    {
+      "name": "ところてん",
+      "slug": "tokoro-ten",
+      "name_en": "Tokoro-ten",
+      "name_reading": "ところてん",
+      "season": "夏",
+      "origin": "全国"
+    },
+    {
+      "name": "テングサ",
+      "slug": "tengusa",
+      "name_en": "Tengusa seaweed",
+      "name_reading": "てんぐさ",
+      "season": "通年",
+      "origin": "三重県・千葉県"
+    },
+    {
+      "name": "アカモク",
+      "slug": "akamoku",
+      "name_en": "Akamoku",
+      "name_reading": "あかもく",
+      "season": "冬〜春",
+      "origin": "山形県・秋田県"
+    },
+    {
+      "name": "フノリ",
+      "slug": "funori",
+      "name_en": "Funori",
+      "name_reading": "ふのり",
+      "season": "春",
+      "origin": "千葉県・岩手県"
+    },
+    {
+      "name": "海苔つくだ煮",
+      "slug": "nori-tsukudani",
+      "name_en": "Nori tsukudani",
+      "name_reading": "のりつくだに",
+      "season": "通年",
+      "origin": "佐賀県"
+    }
+  ]
+}

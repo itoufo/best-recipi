@@ -1,0 +1,1303 @@
+[
+  {
+    "slug": "quiche-lorraine",
+    "title": "キッシュ・ロレーヌ",
+    "description": "卵とクリーム、ベーコンを詰めたフランスの郷土料理",
+    "introduction": "ロレーヌ地方発祥の、黄金色に焼き上がるキッシュ。香ばしいベーコンと濃厚なクリームが織りなす、フランスの代表的なタルト料理です。温かいままでも冷やしても美味しく召し上がれます。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 60,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 420,
+    "protein_g": 16,
+    "fat_g": 30,
+    "carbs_g": 22,
+    "fiber_g": 1,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "パイ生地を常温に戻し、タルト型に敷き詰める。フォークで穴を開け、15分冷蔵する。",
+        "tip": "冷蔵させることでパイがふんわりと焼き上がります"
+      },
+      {
+        "step": 2,
+        "text": "ベーコンを短冊切りにし、フライパンで軽くカリカリになるまで炒める。",
+        "tip": "ベーコンの油がキッシュに風味を与えます"
+      },
+      {
+        "step": 3,
+        "text": "卵3個、生クリーム200ml、塩小さじ1/3、黒コショウ少々をボウルで混ぜ合わせる。",
+        "tip": "卵をよく混ぜることで、なめらかな食感になります"
+      },
+      {
+        "step": 4,
+        "text": "冷やしたタルト生地にベーコンを敷き、卵液を流す。",
+        "tip": "卵液は8分目まで注ぎます"
+      },
+      {
+        "step": 5,
+        "text": "200度のオーブンで40分、表面が軽く焦げ色がつくまで焼く。",
+        "tip": "途中で焦げすぎそうなら、アルミホイルで覆います"
+      },
+      {
+        "step": 6,
+        "text": "焼きあがったら10分冷ましてから取り出す。温かいままでも冷やしても食べられます。",
+        "tip": null
+      }
+    ],
+    "meta_title": "キッシュ・ロレーヌの作り方 | 本格フランス料理レシピ",
+    "meta_description": "ロレーヌ発祥の伝統的なキッシュ・ロレーヌのレシピ。ベーコンと卵クリームが最高の組み合わせ。",
+    "keywords": ["キッシュ", "フランス料理", "ロレーヌ"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "作り置きして翌日食べるとより一層美味しくなります。冷蔵庫で3日間保存できます。温め直す場合は、150度のオーブンで10分程度温めると風味が戻ります。",
+    "tag_slugs": ["rich", "entertaining", "crispy"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pie-crust",
+        "name": "パイ生地",
+        "quantity": "1",
+        "unit": "枚",
+        "preparation": "冷蔵庫冷却後"
+      },
+      {
+        "slug": "bacon",
+        "name": "ベーコン",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "短冊切り"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "3",
+        "unit": "個",
+        "preparation": null
+      },
+      {
+        "slug": "heavy-cream",
+        "name": "生クリーム",
+        "quantity": "200",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "0.3",
+        "unit": "小さじ",
+        "preparation": null
+      },
+      {
+        "slug": "black-pepper",
+        "name": "黒コショウ",
+        "quantity": "少々",
+        "unit": "g",
+        "preparation": null
+      }
+    ]
+  },
+  {
+    "slug": "ratatouille",
+    "title": "ラタトゥイユ",
+    "description": "南仏の野菜煮込み料理。ナス、ズッキーニ、トマトが彩り鮮やか",
+    "introduction": "プロヴァンス地方の伝統料理であるラタトゥイユは、夏野菜の美しさと豊かな風味が特徴です。時間をかけてじっくり煮込まれた野菜は、トマトの酸味とオリーブオイルの香りが引き立つ、心も体も満たされる一品です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 65,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 8,
+    "fat_g": 18,
+    "carbs_g": 25,
+    "fiber_g": 6,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ナス、ズッキーニ、トマト、タマネギ、ピーマンを1cm角に切る。",
+        "tip": "野菜を揃えたサイズに切ることで、火の通りが均等になります"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋にオリーブオイル大さじ3を熱し、タマネギを透き通るまで炒める。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "ナスとズッキーニを加えて3分炒め、その後トマトとピーマンを加える。",
+        "tip": "先に加える野菜と後から加える野菜を分けることで、食感が活きます"
+      },
+      {
+        "step": 4,
+        "text": "トマトペースト大さじ1、ニンニク2片みじん切り、塩小さじ1、黒コショウ少々を加えて混ぜ合わせる。",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "弱火で45分、野菜が柔らかくなるまで煮込む。途中、混ぜながら水分を飛ばす。",
+        "tip": "蓋をせず煮込むことで、余分な水分が飛んで味が濃くなります"
+      },
+      {
+        "step": 6,
+        "text": "火を止め、フレッシュバジル大さじ2を加える。温かいままでも冷やしても美味しく召し上がれます。",
+        "tip": "バジルは最後に加えることで、香りが活きます"
+      }
+    ],
+    "meta_title": "ラタトゥイユの作り方 | プロヴァンス発祥のフランス家庭料理",
+    "meta_description": "南仏の夏野菜をたっぷり使ったラタトゥイユ。時間をかけて煮込むことで、野菜の甘さが引き出されます。",
+    "keywords": ["ラタトゥイユ", "フランス料理", "野菜料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "一晩置くと更に味わい深くなります。冷蔵庫で4日間、冷凍庫で1ヶ月保存できます。パンやライスと一緒に召し上がってください。",
+    "tag_slugs": ["light", "simmer", "vegetarian"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "eggplant",
+        "name": "ナス",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": "1cm角切り"
+      },
+      {
+        "slug": "zucchini",
+        "name": "ズッキーニ",
+        "quantity": "150",
+        "unit": "g",
+        "preparation": "1cm角切り"
+      },
+      {
+        "slug": "tomato",
+        "name": "トマト",
+        "quantity": "250",
+        "unit": "g",
+        "preparation": "1cm角切り"
+      },
+      {
+        "slug": "onion",
+        "name": "タマネギ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "1cm角切り"
+      },
+      {
+        "slug": "bell-pepper",
+        "name": "ピーマン",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "1cm角切り"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "3",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "tomato-paste",
+        "name": "トマトペースト",
+        "quantity": "1",
+        "unit": "大さじ",
+        "preparation": null
+      }
+    ]
+  },
+  {
+    "slug": "beef-bourguignon",
+    "title": "ビーフ・ブルギニョン",
+    "description": "赤ワイン煮込みのフランスの代表格。牛肉が柔らかく、深い味わい",
+    "introduction": "ブルゴーニュ地方の伝統料理であるビーフ・ブルギニョンは、赤ワインとビーフストックで時間をかけて煮込まれた牛肉の逸品。小玉ねぎやマッシュルーム、ベーコンが加わり、複雑で奥深い風味が特徴です。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 120,
+    "total_time_minutes": 150,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "hard",
+    "calories": 520,
+    "protein_g": 42,
+    "fat_g": 28,
+    "carbs_g": 18,
+    "fiber_g": 2,
+    "sodium_mg": 780,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "牛肉を4cm角に切る。塩コショウで下味をつけ、小麦粉をまぶす。",
+        "tip": "小麦粉をまぶすことで、焼いた時に香ばしく、仕上がりがとろっとします"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋にベーコン脂大さじ2を熱し、牛肉を全面がきつね色になるまで焼く。一旦取り出す。",
+        "tip": "全ての肉を一度に焼かず、何度かに分けて焼くことで、均等に焼き色がつきます"
+      },
+      {
+        "step": 3,
+        "text": "同じ鍋に小玉ねぎ8個、にんじん100gを加えて軽く炒める。牛肉を戻す。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "赤ワイン300ml、ビーフストック300ml、トマトペースト大さじ1、ニンニク2片、ローリエ1枚、タイム大さじ1を加えて混ぜ合わせる。",
+        "tip": "赤ワインは常温で良いですが、良質なものを選ぶと味が美味しくなります"
+      },
+      {
+        "step": 5,
+        "text": "蓋をして160度のオーブンで2時間、牛肉が非常に柔らかくなるまで煮込む。",
+        "tip": "途中1時間ごとに一度、全体を混ぜます"
+      },
+      {
+        "step": 6,
+        "text": "オーブンから出し、マッシュルーム100g（半分に切ったもの）を加える。さらに15分煮込む。",
+        "tip": "火を止める直前にマッシュルームを加えることで、香りが活きます"
+      },
+      {
+        "step": 7,
+        "text": "塩コショウで味を調整し、サーブする。パンやライス、マッシュポテトと一緒に召し上がってください。",
+        "tip": null
+      }
+    ],
+    "meta_title": "ビーフ・ブルギニョンの作り方 | フランスの代表的赤ワイン煮込み",
+    "meta_description": "赤ワインで柔らかく煮込まれたビーフ・ブルギニョン。本格的なフランス家庭料理を家で再現。",
+    "keywords": ["ビーフ・ブルギニョン", "赤ワイン煮込み", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "事前に1日冷蔵庫に置くと、味が一層深くなります。冷蔵庫で4日間、冷凍庫で2ヶ月保存できます。温め直す場合は、弱火でゆっくり温めてください。",
+    "tag_slugs": ["rich", "simmer", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "beef-chuck",
+        "name": "牛肉（チャック）",
+        "quantity": "800",
+        "unit": "g",
+        "preparation": "4cm角切り"
+      },
+      {
+        "slug": "red-wine",
+        "name": "赤ワイン",
+        "quantity": "300",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "beef-stock",
+        "name": "ビーフストック",
+        "quantity": "300",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "pearl-onion",
+        "name": "小玉ねぎ",
+        "quantity": "8",
+        "unit": "個",
+        "preparation": "皮を剥く"
+      },
+      {
+        "slug": "carrot",
+        "name": "にんじん",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "乱切り"
+      },
+      {
+        "slug": "mushroom",
+        "name": "マッシュルーム",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "半分に切る"
+      },
+      {
+        "slug": "bacon-fat",
+        "name": "ベーコン脂",
+        "quantity": "2",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片",
+        "preparation": "つぶす"
+      }
+    ]
+  },
+  {
+    "slug": "croque-monsieur",
+    "title": "クロックムッシュ",
+    "description": "ハムとチーズのホットサンド。パリジャンの定番ランチ",
+    "introduction": "パリの街角で親しまれるクロックムッシュは、シンプルながら奥深い美味しさのサンドウィッチ。香ばしく焼き上げたパンに、とろけるチーズとハムが絡む。白ワインやアップルサイダーと合わせるのが本格的です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 480,
+    "protein_g": 24,
+    "fat_g": 32,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sodium_mg": 1020,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "食パンの片面にディジョンマスタード小さじ1/2を塗る。",
+        "tip": "マスタードはほんの少し、香り付け程度で十分です"
+      },
+      {
+        "step": 2,
+        "text": "4枚の食パンの片面にそれぞれハムとチーズを重ねる。ハム、チーズ、ハムの順に2層にする。",
+        "tip": "チーズは細かく裂いて、全体に広げると焼きやすいです"
+      },
+      {
+        "step": 3,
+        "text": "別の食パン2枚でサンドウィッチを作り、全体に塩コショウをふる。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "フライパンにバター大さじ1を熱し、サンドウィッチを入れて中火で3分焼く。",
+        "tip": "バターが泡立つ程度の熱さで焼くと、香ばしく焼けます"
+      },
+      {
+        "step": 5,
+        "text": "返して、もう片面も3分焼く。チーズがとろけて、パンが軽くきつね色になったら完成。",
+        "tip": "弱めの中火で、ゆっくり焼くことでチーズがしっかりとろけます"
+      }
+    ],
+    "meta_title": "クロックムッシュの作り方 | パリジャンの定番ホットサンド",
+    "meta_description": "ハムとチーズのホットサンド、クロックムッシュ。シンプルだけど奥深い美味しさ。",
+    "keywords": ["クロックムッシュ", "サンドウィッチ", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "昼食に最適です。焼き立てが一番美味しいので、食べる直前に焼くことをお勧めします。チーズはグリュイエールチーズを使うと、より本格的になります。",
+    "tag_slugs": ["quick", "crispy", "cheesy"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "bread",
+        "name": "食パン",
+        "quantity": "4",
+        "unit": "枚",
+        "preparation": null
+      },
+      {
+        "slug": "ham",
+        "name": "ハム",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "薄切り"
+      },
+      {
+        "slug": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "quantity": "80",
+        "unit": "g",
+        "preparation": "細かく裂く"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "1",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "dijon-mustard",
+        "name": "ディジョンマスタード",
+        "quantity": "0.5",
+        "unit": "小さじ",
+        "preparation": null
+      },
+      {
+        "slug": "salt-pepper",
+        "name": "塩コショウ",
+        "quantity": "少々",
+        "unit": "g",
+        "preparation": null
+      }
+    ]
+  },
+  {
+    "slug": "salade-nicoise",
+    "title": "ニース風サラダ",
+    "description": "マグロ、卵、野菜が彩り鮮やか。南仏の伝統サラダ",
+    "introduction": "ニース発祥のこのサラダは、新鮮な野菜とマグロを組み合わせた、栄養満点で美しい一皿。アンチョビとオリーブオイルの香りが、南仏の太陽の光を思わせます。温かい季節のランチにぴったりです。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 360,
+    "protein_g": 28,
+    "fat_g": 22,
+    "carbs_g": 18,
+    "fiber_g": 4,
+    "sodium_mg": 640,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵を沸騰したお湯に10分入れ、冷水で冷ます。殻を剥いて半分に切る。",
+        "tip": "冷水に浸すことで、卵がきれいに剥けます"
+      },
+      {
+        "step": 2,
+        "text": "新鮮なマグロ缶（油漬け）200gの油を軽く切る。トマト2個は4等分にカット。",
+        "tip": "マグロは大きなミンチ状に崩す"
+      },
+      {
+        "step": 3,
+        "text": "レタス150gを食べやすくちぎり、ボウルに入れる。その上にトマト、インゲン（加熱済み）100g、新玉ねぎ50gをのせる。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "オリーブ50g、アンチョビフィレ3本、マグロを上に散らす。卵の半分をのせる。",
+        "tip": "見た目が美しくなるよう、彩り良く配置してください"
+      },
+      {
+        "step": 5,
+        "text": "別のボウルでオリーブオイル大さじ3、赤ワインビネガー大さじ1、ディジョンマスタード小さじ1/2、ニンニク1片（みじん切り）を混ぜ、塩コショウで味を調整する。",
+        "tip": null
+      },
+      {
+        "step": 6,
+        "text": "サラダに食べる直前にドレッシングをかけ、軽くトスして召し上がってください。",
+        "tip": "事前にドレッシングをかけるとしなしなになるので、食べる直前に"
+      }
+    ],
+    "meta_title": "ニース風サラダの作り方 | 南仏の伝統サラダレシピ",
+    "meta_description": "マグロ、卵、野菜を使ったニース風サラダ。見た目も美しく、栄養満点。",
+    "keywords": ["ニース風サラダ", "サラダ", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "新鮮な野菜を選ぶことが最も重要です。夏の温かい季節に、冷やして召し上がるのが本格的です。ドレッシングは直前に作ると、風味が活きます。",
+    "tag_slugs": ["light", "raw", "healthy"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "lettuce",
+        "name": "レタス",
+        "quantity": "150",
+        "unit": "g",
+        "preparation": "食べやすくちぎる"
+      },
+      {
+        "slug": "tuna-can",
+        "name": "マグロ缶（油漬け）",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": "油を切る"
+      },
+      {
+        "slug": "tomato",
+        "name": "トマト",
+        "quantity": "2",
+        "unit": "個",
+        "preparation": "4等分"
+      },
+      {
+        "slug": "green-beans",
+        "name": "インゲン（加熱済み）",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "slug": "red-onion",
+        "name": "新玉ねぎ",
+        "quantity": "50",
+        "unit": "g",
+        "preparation": "薄切り"
+      },
+      {
+        "slug": "olive",
+        "name": "オリーブ",
+        "quantity": "50",
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "slug": "anchovy",
+        "name": "アンチョビフィレ",
+        "quantity": "3",
+        "unit": "本",
+        "preparation": null
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個",
+        "preparation": "ゆで卵、半分に切る"
+      }
+    ]
+  },
+  {
+    "slug": "creme-brulee",
+    "title": "クレームブリュレ",
+    "description": "焦がしたシュガートップ。なめらかなカスタードクリーム",
+    "introduction": "フランスの王道デザートであるクレームブリュレは、なめらかで濃厚なカスタードの上に、パリッとした焦がしシュガーがのった逸品。スプーンで割った時の快感が何とも言えず、至福のひと時をお約束します。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 50,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 320,
+    "protein_g": 8,
+    "fat_g": 22,
+    "carbs_g": 28,
+    "fiber_g": 0,
+    "sodium_mg": 120,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵黄4個と砂糖大さじ4をボウルで混ぜ、白くなるまで泡立てる。",
+        "tip": "泡立てることで、クレームが滑らかになります"
+      },
+      {
+        "step": 2,
+        "text": "生クリーム200ml、牛乳100mlを小鍋で温め、バニラエッセンス小さじ1/2を加える。",
+        "tip": "生クリームは沸騰させず、温かくなるくらいで十分です"
+      },
+      {
+        "step": 3,
+        "text": "温めたクリーム混合液を卵黄に少しずつ加えながら、常に混ぜ合わせる。",
+        "tip": "急に全部を加えるとスクランブルエッグになるので、ゆっくり加えます"
+      },
+      {
+        "step": 4,
+        "text": "混ぜ合わせたクリームをこし器でこし、耐熱容器4つに平らに注ぐ。",
+        "tip": "こすことで、滑らかな食感になります"
+      },
+      {
+        "step": 5,
+        "text": "バット（または天板）に耐熱容器を並べ、熱湯を容器の1/2の高さまで注ぐ（湯煎）。160度のオーブンで25分焼く。",
+        "tip": "湯煎することで、均等に、なめらかに加熱されます"
+      },
+      {
+        "step": 6,
+        "text": "焼きあがったら冷蔵庫で最低3時間冷やす。食べる直前に、砂糖小さじ1を表面に敷き、バーナーで焦がす。",
+        "tip": "バーナーで焦がす際は、砂糖が黒くなりすぎないよう注意。きつね色が目安です"
+      }
+    ],
+    "meta_title": "クレームブリュレの作り方 | フランスの王道デザートレシピ",
+    "meta_description": "焦がしたシュガートップとなめらかなカスタードが特徴のクレームブリュレ。",
+    "keywords": ["クレームブリュレ", "デザート", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "デザート",
+    "tips": "冷蔵庫で3日間保存できます。食べる直前に焦がすことで、シュガートップのパリッとした食感が活きます。バーナーがない場合は、グリルで焦がすこともできます。",
+    "tag_slugs": ["sweet", "creamy", "entertaining"],
+    "category_slug": "dessert",
+    "ingredients": [
+      {
+        "slug": "egg-yolk",
+        "name": "卵黄",
+        "quantity": "4",
+        "unit": "個",
+        "preparation": null
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "5",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "heavy-cream",
+        "name": "生クリーム",
+        "quantity": "200",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "milk",
+        "name": "牛乳",
+        "quantity": "100",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "vanilla-essence",
+        "name": "バニラエッセンス",
+        "quantity": "0.5",
+        "unit": "小さじ",
+        "preparation": null
+      }
+    ]
+  },
+  {
+    "slug": "galette-complete",
+    "title": "ガレット・コンプレット",
+    "description": "そば粉のクレープにハム、チーズ、卵を詰めたブルターニュの郷土食",
+    "introduction": "フランス北西部のブルターニュ地方発祥のガレットは、そば粉の淡泊さにハムとチーズの塩辛さが絶妙にマッチする軽食です。焼き立てのそば粉クレープが香ばしく、ランチにぴったりです。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 400,
+    "protein_g": 18,
+    "fat_g": 20,
+    "carbs_g": 38,
+    "fiber_g": 3,
+    "sodium_mg": 720,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "そば粉150gに塩小さじ1/4、水300mlを加えてよく混ぜ、30分置く。",
+        "tip": "生地は少しゆるめのポーリッジ程度の固さが目安です"
+      },
+      {
+        "step": 2,
+        "text": "熱したクレープパンまたはフライパン（25cmが理想）に、バター小さじ1/2を薄く引く。",
+        "tip": "パンが十分に熱くなっていることが重要です"
+      },
+      {
+        "step": 3,
+        "text": "生地をお玉に半量すくい、パンの中央に注ぎながら、すぐに左手で回転させながら、薄く広げる。",
+        "tip": "最初は戸惑うかもしれませんが、何度か練習すればコツがつかめます"
+      },
+      {
+        "step": 4,
+        "text": "ガレットが焦げ始めたら、端にハム50g、グリュイエールチーズ50gをのせ、卵1個を割り入れ、塩コショウをふる。",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "卵の白身が固まるまで焼き続け（約2分）、四方を折ってまとめる。",
+        "tip": "チーズがとろけるまで焼くことが重要です"
+      },
+      {
+        "step": 6,
+        "text": "皿に盛り付け、フレッシュな野菜サラダと一緒に召し上がってください。",
+        "tip": null
+      }
+    ],
+    "meta_title": "ガレット・コンプレットの作り方 | ブルターニュの郷土食",
+    "meta_description": "そば粉のクレープにハムとチーズを詰めたガレット・コンプレット。本格的なブルターニュ料理。",
+    "keywords": ["ガレット", "クレープ", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "そば粉は傷みやすいので、冷蔵庫で保管してください。フレッシュなサイダーと組み合わせるのが本格的です。クレープパンがない場合は、フライパンで作ることもできます。",
+    "tag_slugs": ["quick", "crispy", "umami"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "buckwheat-flour",
+        "name": "そば粉",
+        "quantity": "150",
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "300",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "ham",
+        "name": "ハム",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "薄切り"
+      },
+      {
+        "slug": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "細かく裂く"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個",
+        "preparation": null
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "1",
+        "unit": "小さじ",
+        "preparation": null
+      },
+      {
+        "slug": "salt-pepper",
+        "name": "塩コショウ",
+        "quantity": "少々",
+        "unit": "g",
+        "preparation": null
+      }
+    ]
+  },
+  {
+    "slug": "pot-au-feu",
+    "title": "ポトフ",
+    "description": "野菜と牛肉を優しく煮込んだ、フランスの家庭料理",
+    "introduction": "フランスの食卓に欠かせないポトフは、野菜と牛肉をブイヨンで長時間かけてゆっくり煮込んだ、素朴で優しい味わいの一品。各家庭で愛され続ける、まさにフランスの味です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 180,
+    "total_time_minutes": 200,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 380,
+    "protein_g": 36,
+    "fat_g": 18,
+    "carbs_g": 22,
+    "fiber_g": 4,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "牛肉（ほほ肉またはスネ肉）800gを沸騰したお湯に通し、冷水で洗ってきれいにする。",
+        "tip": "アク抜きすることで、きれいなスープができます"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋に牛肉、牛骨スープ1.5L、水500mlを入れ、強火で沸騰させる。アクを丁寧に取り除く。",
+        "tip": "アクを丁寧に取ることが、清く美しいスープの秘訣"
+      },
+      {
+        "step": 3,
+        "text": "ニンジン3本、セロリ1本、リーク（ポロネギ）2本、玉ねぎ1個を大きめに切り、鍋に加える。",
+        "tip": "野菜は大きめに切ることで、煮込む中で形が崩れにくくなります"
+      },
+      {
+        "step": 4,
+        "text": "ローリエ2枚、タイム1枝、塩小さじ2、黒コショウ少々を加え、弱火で3時間ゆっくり煮込む。",
+        "tip": "弱火でゆっくり煮込むことが、優しい味わいの秘訣"
+      },
+      {
+        "step": 5,
+        "text": "煮込む途中で、じゃがいも4個（大きめに切った）と小玉ねぎ4個を加える。さらに30分煮込む。",
+        "tip": "じゃがいもは後から加えることで、食感が活きます"
+      },
+      {
+        "step": 6,
+        "text": "塩コショウで味を調整し、サーブする。粗塩とディジョンマスタードを添えて食べるのが本格的です。",
+        "tip": null
+      }
+    ],
+    "meta_title": "ポトフの作り方 | フランスの家庭料理レシピ",
+    "meta_description": "野菜と牛肉をゆっくり煮込んだポトフ。フランスの家庭の味。",
+    "keywords": ["ポトフ", "スープ", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "スープ",
+    "tips": "事前に1日冷蔵庫に置くと、味が一層深くなります。冷蔵庫で4日間保存できます。温め直す場合は、弱火でゆっくり温めてください。余ったスープはパンのスープ漬けなどに使えます。",
+    "tag_slugs": ["light", "simmer", "healthy"],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "beef-brisket",
+        "name": "牛肉（ほほ肉またはスネ肉）",
+        "quantity": "800",
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "slug": "beef-stock",
+        "name": "牛骨スープ",
+        "quantity": "1.5",
+        "unit": "L",
+        "preparation": null
+      },
+      {
+        "slug": "carrot",
+        "name": "ニンジン",
+        "quantity": "3",
+        "unit": "本",
+        "preparation": "大きめに切る"
+      },
+      {
+        "slug": "celery",
+        "name": "セロリ",
+        "quantity": "1",
+        "unit": "本",
+        "preparation": "大きめに切る"
+      },
+      {
+        "slug": "leek",
+        "name": "リーク（ポロネギ）",
+        "quantity": "2",
+        "unit": "本",
+        "preparation": "大きめに切る"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "大きめに切る"
+      },
+      {
+        "slug": "potato",
+        "name": "じゃがいも",
+        "quantity": "4",
+        "unit": "個",
+        "preparation": "大きめに切る"
+      },
+      {
+        "slug": "pearl-onion",
+        "name": "小玉ねぎ",
+        "quantity": "4",
+        "unit": "個",
+        "preparation": "皮を剥く"
+      }
+    ]
+  },
+  {
+    "slug": "moules-mariniere",
+    "title": "ムール貝の白ワイン蒸し",
+    "description": "白ワインで蒸したムール貝。フランスの海の幸を堪能",
+    "introduction": "ムール貝を白ワインでシンプルに蒸し上げたこの料理は、貝の自然な甘さと白ワインの香りが完璧に調和した、フランス海岸地方の代表的な一品。新鮮なムール貝の味わいをそのまま引き出す、素晴らしい調理法です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 32,
+    "fat_g": 12,
+    "carbs_g": 12,
+    "fiber_g": 0,
+    "sodium_mg": 540,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ムール貝1kg を流水でブラシでこすり、汚れを落とし、髭（足糸）を取り除く。",
+        "tip": "新鮮なムール貝を選ぶことが最も重要です。割れているものは使わないでください"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋にバター大さじ2を熱し、みじん切りにしたタマネギ1/2個とニンニク2片を加えて、香りが出るまで炒める。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "白ワイン200mlを加えて沸騰させ、ムール貝を加える。",
+        "tip": "白ワインは辛口が良いです"
+      },
+      {
+        "step": 4,
+        "text": "蓋をして、強火で5分加熱する。ムール貝の殻が開いたら、火を止める。",
+        "tip": "開いたら一度に全部火を止めるのではなく、少し待つと全て開きやすくなります"
+      },
+      {
+        "step": 5,
+        "text": "ムール貝を皿に盛り付け、鍋に残っているスープをこし器でこして、塩コショウで味を調整する。",
+        "tip": null
+      },
+      {
+        "step": 6,
+        "text": "スープをムール貝にかけ、パセリをちりばめ、温かいフランスパンと一緒に召し上がってください。",
+        "tip": "スープに浸しながら食べるのが本格的です"
+      }
+    ],
+    "meta_title": "ムール貝の白ワイン蒸しの作り方 | フランス海岸料理",
+    "meta_description": "白ワインで蒸したムール貝。フランス海岸地方の代表的な料理。",
+    "keywords": ["ムール貝", "白ワイン蒸し", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "ムール貝は生きているものを選び、できるだけ当日中に調理してください。冷蔵庫で1日保存できます。白ワインは調理用の安いものでも大丈夫です。",
+    "tag_slugs": ["light", "steam", "quick"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "mussels",
+        "name": "ムール貝",
+        "quantity": "1000",
+        "unit": "g",
+        "preparation": "汚れを落とし、髭を取る"
+      },
+      {
+        "slug": "white-wine",
+        "name": "白ワイン",
+        "quantity": "200",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "2",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "onion",
+        "name": "タマネギ",
+        "quantity": "0.5",
+        "unit": "個",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "parsley",
+        "name": "パセリ",
+        "quantity": "大さじ1",
+        "unit": "g",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "salt-pepper",
+        "name": "塩コショウ",
+        "quantity": "少々",
+        "unit": "g",
+        "preparation": null
+      }
+    ]
+  },
+  {
+    "slug": "tarte-tatin",
+    "title": "タルトタタン",
+    "description": "焦がしたりんごが美しいフランスの逆さまタルト",
+    "introduction": "タルトタタンは、キャラメル化したりんごの上にパイ生地をのせて焼き、食べる時に返す、フランスの美しいデザート。焦がしたりんごの香りと、パイ生地のサクサクした食感が絶妙に調和した逸品です。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 60,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 380,
+    "protein_g": 4,
+    "fat_g": 22,
+    "carbs_g": 44,
+    "fiber_g": 2,
+    "sodium_mg": 240,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "りんご4個を芯を取り除き、8等分にカット。",
+        "tip": "大きなりんごを選ぶと調理しやすいです"
+      },
+      {
+        "step": 2,
+        "text": "フライパン（20cm）にバター60gを熱し、砂糖大さじ6を加えて、きつね色になるまで加熱する（約3分）。",
+        "tip": "砂糖がバターと一緒にキャラメル状になるのが目安"
+      },
+      {
+        "step": 3,
+        "text": "りんごをフライパンに隙間なく敷き詰め、中火で10分加熱する。",
+        "tip": "りんごがしなしなになるまで加熱します"
+      },
+      {
+        "step": 4,
+        "text": "冷蔵庫から冷やしたパイ生地を取り出し、フライパンのサイズに合わせてカットする。",
+        "tip": "パイ生地は常温に戻さず、冷えたまま使用します"
+      },
+      {
+        "step": 5,
+        "text": "りんごの上にパイ生地をのせ、200度のオーブンで25分焼く。パイが軽く焦げ色になったら完成。",
+        "tip": "焼く際、パイ生地の端がフライパンからはみ出すようにすると、返しやすくなります"
+      },
+      {
+        "step": 6,
+        "text": "焼きあがったら、大きなお皿をのせて、素早く返す。温かいままで召し上がってください。",
+        "tip": "返す際は、勢いをつけて一気に返すと、失敗しません"
+      }
+    ],
+    "meta_title": "タルトタタンの作り方 | フランスの逆さまタルトレシピ",
+    "meta_description": "焦がしたりんごとパイ生地が美しいタルトタタン。フランスの代表的なデザート。",
+    "keywords": ["タルトタタン", "デザート", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "デザート",
+    "tips": "焼きたてが最も美しく、美味しいです。返す際には勢いが重要。ボウルの底ではなく、平らなお皿で返すと成功しやすいです。バニラアイスクリームと一緒に召し上がるのが本格的です。",
+    "tag_slugs": ["sweet", "crispy", "entertaining"],
+    "category_slug": "dessert",
+    "ingredients": [
+      {
+        "slug": "apple",
+        "name": "りんご",
+        "quantity": "4",
+        "unit": "個",
+        "preparation": "芯を取り除き、8等分"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "60",
+        "unit": "g",
+        "preparation": null
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "6",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "puff-pastry",
+        "name": "パイ生地",
+        "quantity": "1",
+        "unit": "シート",
+        "preparation": "常温に戻す"
+      }
+    ]
+  },
+  {
+    "slug": "french-onion-soup",
+    "title": "フレンチオニオンスープ",
+    "description": "じっくり煮込んだ玉ねぎとチーズがとろけるスープ",
+    "introduction": "フランスの労働者階級の食事として生まれたフレンチオニオンスープは、玉ねぎを長時間かけてじっくり加熱してカラメル化させ、深い甘さと香ばしさを引き出した、まさに玉ねぎの美味しさを追求した一品です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 45,
+    "total_time_minutes": 60,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 14,
+    "fat_g": 16,
+    "carbs_g": 28,
+    "fiber_g": 2,
+    "sodium_mg": 1080,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "玉ねぎ8個を薄くスライスする。",
+        "tip": "玉ねぎは均一に切ることで、火の通りが均等になります"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋にバター大さじ3を熱し、玉ねぎを加えて、時々混ぜながら30分加熱する。",
+        "tip": "最初は中火、玉ねぎが柔らかくなったら弱火に落としましょう"
+      },
+      {
+        "step": 3,
+        "text": "玉ねぎが飴色になったら、小麦粉大さじ2を振りかけ、よく混ぜ合わせる。",
+        "tip": "小麦粉をしっかり混ぜることで、とろみが出ます"
+      },
+      {
+        "step": 4,
+        "text": "白ワイン100ml、牛骨スープ1L、塩小さじ1、黒コショウ少々を加え、よく混ぜ合わせる。",
+        "tip": "よく混ぜることで、小麦粉のダマができません"
+      },
+      {
+        "step": 5,
+        "text": "15分煮込み、塩コショウで味を調整する。",
+        "tip": null
+      },
+      {
+        "step": 6,
+        "text": "スープをボウルに盛り、フランスパン4枚、グリュイエールチーズ100g、パルメザンチーズ大さじ4をトッピングする。150度のオーブンで15分焼き、チーズがとろけて焦げ色がついたら完成。",
+        "tip": "高温のオーブンでは焦げやすいので、低めの温度で焼きます"
+      }
+    ],
+    "meta_title": "フレンチオニオンスープの作り方 | フランスの伝統スープ",
+    "meta_description": "玉ねぎをじっくり煮込んだフレンチオニオンスープ。チーズがとろけるスープ。",
+    "keywords": ["フレンチオニオンスープ", "スープ", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "スープ",
+    "tips": "玉ねぎの加熱時間が最も重要。十分に時間をかけることで、甘さと香ばしさが引き出されます。冷蔵庫で3日間保存できます。温め直す場合は、弱火でゆっくり温めてください。",
+    "tag_slugs": ["rich", "simmer", "comfort"],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "8",
+        "unit": "個",
+        "preparation": "薄くスライス"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "3",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "flour",
+        "name": "小麦粉",
+        "quantity": "2",
+        "unit": "大さじ",
+        "preparation": null
+      },
+      {
+        "slug": "white-wine",
+        "name": "白ワイン",
+        "quantity": "100",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "beef-stock",
+        "name": "牛骨スープ",
+        "quantity": "1",
+        "unit": "L",
+        "preparation": null
+      },
+      {
+        "slug": "bread",
+        "name": "フランスパン",
+        "quantity": "4",
+        "unit": "枚",
+        "preparation": "スライス"
+      },
+      {
+        "slug": "gruyere-cheese",
+        "name": "グリュイエールチーズ",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "細かく裂く"
+      },
+      {
+        "slug": "parmesan-cheese",
+        "name": "パルメザンチーズ",
+        "quantity": "4",
+        "unit": "大さじ",
+        "preparation": "すりおろし"
+      }
+    ]
+  },
+  {
+    "slug": "coq-au-vin",
+    "title": "コック・オー・ヴァン",
+    "description": "赤ワインで煮込んだ鶏肉。フランスの田舎料理の傑作",
+    "introduction": "フランスの田舎で生まれたコック・オー・ヴァンは、鶏肉を赤ワインで長時間かけてじっくり煮込んだ、素朴ながら奥深い美味しさの一品。赤ワインの香りと鶏肉の旨味が完璧に調和した、フランス家庭料理の傑作です。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 115,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 480,
+    "protein_g": 40,
+    "fat_g": 24,
+    "carbs_g": 16,
+    "fiber_g": 1,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉（もも肉）800gを一口大に切る。塩コショウで下味をつけ、小麦粉をまぶす。",
+        "tip": "鶏肉は大きめに切ることで、煮込む中で崩れにくくなります"
+      },
+      {
+        "step": 2,
+        "text": "大きな鍋にオリーブオイル大さじ2を熱し、鶏肉を全面が軽くきつね色になるまで焼く。一旦取り出す。",
+        "tip": "全ての鶏肉を一度に焼かず、何度かに分けて焼くことで、均等に焼き色がつきます"
+      },
+      {
+        "step": 3,
+        "text": "同じ鍋にベーコン100g（ブロック）、小玉ねぎ8個、マッシュルーム150gを加えて軽く炒める。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "赤ワイン400ml、鶏スープ200ml、トマトペースト大さじ1、ニンニク3片（つぶす）、ローリエ1枚、タイム1枝を加えて混ぜ、鶏肉を戻す。",
+        "tip": "赤ワインは良質なものを選ぶと、より美味しく仕上がります"
+      },
+      {
+        "step": 5,
+        "text": "蓋をして160度のオーブンで90分、鶏肉が非常に柔らかくなるまで煮込む。",
+        "tip": "途中30分ごとに一度、全体を混ぜます"
+      },
+      {
+        "step": 6,
+        "text": "塩コショウで味を調整し、ローリエとタイムを取り除いてから、サーブする。パンやマッシュポテト、ライスと一緒に召し上がってください。",
+        "tip": null
+      }
+    ],
+    "meta_title": "コック・オー・ヴァンの作り方 | フランスの田舎料理レシピ",
+    "meta_description": "赤ワインで煮込んだ鶏肉、コック・オー・ヴァン。フランス家庭料理の傑作。",
+    "keywords": ["コック・オー・ヴァン", "赤ワイン煮込み", "フランス料理"],
+    "cuisine": "フランス料理",
+    "course": "メイン",
+    "tips": "事前に1日冷蔵庫に置くと、味が一層深くなります。冷蔵庫で4日間、冷凍庫で2ヶ月保存できます。温め直す場合は、弱火でゆっくり温めてください。",
+    "tag_slugs": ["rich", "simmer", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏肉（もも肉）",
+        "quantity": "800",
+        "unit": "g",
+        "preparation": "一口大に切る"
+      },
+      {
+        "slug": "red-wine",
+        "name": "赤ワイン",
+        "quantity": "400",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "chicken-stock",
+        "name": "鶏スープ",
+        "quantity": "200",
+        "unit": "ml",
+        "preparation": null
+      },
+      {
+        "slug": "bacon-block",
+        "name": "ベーコン（ブロック）",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "切る"
+      },
+      {
+        "slug": "pearl-onion",
+        "name": "小玉ねぎ",
+        "quantity": "8",
+        "unit": "個",
+        "preparation": "皮を剥く"
+      },
+      {
+        "slug": "mushroom",
+        "name": "マッシュルーム",
+        "quantity": "150",
+        "unit": "g",
+        "preparation": "半分に切る"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "3",
+        "unit": "片",
+        "preparation": "つぶす"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "2",
+        "unit": "大さじ",
+        "preparation": null
+      }
+    ]
+  }
+]

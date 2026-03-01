@@ -1,0 +1,213 @@
+{
+  "category": "きのこ類",
+  "ingredients": [
+    {
+      "name": "しいたけ",
+      "slug": "shiitake",
+      "name_en": "Shiitake Mushroom",
+      "name_reading": "しいたけ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "しめじ",
+      "slug": "shimeji",
+      "name_en": "Shimeji Mushroom",
+      "name_reading": "しめじ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "えのき",
+      "slug": "enoki",
+      "name_en": "Enoki Mushroom",
+      "name_reading": "えのき",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "エリンギ",
+      "slug": "eringi",
+      "name_en": "King Trumpet Mushroom",
+      "name_reading": "えりんぎ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "まいたけ",
+      "slug": "maitake",
+      "name_en": "Maitake Mushroom",
+      "name_reading": "まいたけ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "なめこ",
+      "slug": "nameko",
+      "name_en": "Nameko Mushroom",
+      "name_reading": "なめこ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "きくらげ",
+      "slug": "kikurage",
+      "name_en": "Wood Ear Mushroom",
+      "name_reading": "きくらげ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "マッシュルーム",
+      "slug": "mushroom-white",
+      "name_en": "White Button Mushroom",
+      "name_reading": "ますしゅるーむ",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "干ししいたけ",
+      "slug": "dried-shiitake",
+      "name_en": "Dried Shiitake Mushroom",
+      "name_reading": "ほししいたけ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "白きくらげ",
+      "slug": "white-kikurage",
+      "name_en": "White Wood Ear Mushroom",
+      "name_reading": "しろきくらげ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "ひらたけ",
+      "slug": "hiratake",
+      "name_en": "Oyster Mushroom",
+      "name_reading": "ひらたけ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "ぶなしめじ",
+      "slug": "bunaimeji",
+      "name_en": "Buna Shimeji Mushroom",
+      "name_reading": "ぶなしめじ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "本しめじ",
+      "slug": "hon-shimeji",
+      "name_en": "True Shimeji Mushroom",
+      "name_reading": "ほんしめじ",
+      "season": "秋",
+      "origin": "日本"
+    },
+    {
+      "name": "はなびらたけ",
+      "slug": "hanabiratake",
+      "name_en": "Sparassis Mushroom",
+      "name_reading": "はなびらたけ",
+      "season": "秋冬",
+      "origin": "日本全国"
+    },
+    {
+      "name": "あわび茸",
+      "slug": "awabi-take",
+      "name_en": "Abalone Mushroom",
+      "name_reading": "あわびたけ",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "たもぎたけ",
+      "slug": "tamogitake",
+      "name_en": "Tamogi Mushroom",
+      "name_reading": "たもぎたけ",
+      "season": "秋冬",
+      "origin": "日本"
+    },
+    {
+      "name": "トリュフ黒",
+      "slug": "truffle-black",
+      "name_en": "Black Truffle",
+      "name_reading": "とりゅふくろ",
+      "season": "冬",
+      "origin": "フランス、イタリア"
+    },
+    {
+      "name": "トリュフ白",
+      "slug": "truffle-white",
+      "name_en": "White Truffle",
+      "name_reading": "とりゅふしろ",
+      "season": "秋冬",
+      "origin": "イタリア"
+    },
+    {
+      "name": "ポルチーニ",
+      "slug": "porcini",
+      "name_en": "Porcini Mushroom",
+      "name_reading": "ぽるちーに",
+      "season": "秋冬",
+      "origin": "イタリア、ヨーロッパ"
+    },
+    {
+      "name": "シャンピニオン",
+      "slug": "champignon",
+      "name_en": "Champignon Mushroom",
+      "name_reading": "しゃんぴにおん",
+      "season": "通年",
+      "origin": "ヨーロッパ、日本"
+    },
+    {
+      "name": "ブラウンマッシュルーム",
+      "slug": "mushroom-brown",
+      "name_en": "Brown Button Mushroom",
+      "name_reading": "ぶらうんますしゅるーむ",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "ヤマブシタケ",
+      "slug": "yamabushitake",
+      "name_en": "Lion's Mane Mushroom",
+      "name_reading": "やまぶしたけ",
+      "season": "秋冬",
+      "origin": "日本、中国"
+    },
+    {
+      "name": "アミガサタケ",
+      "slug": "amigasatake",
+      "name_en": "Morel Mushroom",
+      "name_reading": "あみがさたけ",
+      "season": "春",
+      "origin": "ヨーロッパ、北米"
+    },
+    {
+      "name": "サンゴタケ",
+      "slug": "sangotake",
+      "name_en": "Coral Mushroom",
+      "name_reading": "さんごたけ",
+      "season": "秋冬",
+      "origin": "日本、北欧"
+    },
+    {
+      "name": "カブトムシタケ",
+      "slug": "kabutomushi-take",
+      "name_en": "Cordyceps",
+      "name_reading": "かぶとむしたけ",
+      "season": "秋冬",
+      "origin": "中国、チベット"
+    },
+    {
+      "name": "石づきしめじ",
+      "slug": "ishizuki-shimeji",
+      "name_en": "Stone-Root Shimeji",
+      "name_reading": "いしづきしめじ",
+      "season": "秋冬",
+      "origin": "日本"
+    }
+  ]
+}

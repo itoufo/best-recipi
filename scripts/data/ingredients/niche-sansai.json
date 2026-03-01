@@ -1,0 +1,358 @@
+{
+  "category": "山菜・野草",
+  "is_niche": true,
+  "ingredients": [
+    {
+      "name": "タラの芽",
+      "slug": "tara-no-me",
+      "name_en": "Aralia Sprout",
+      "name_reading": "たらのめ",
+      "season": "3月〜5月",
+      "origin": "日本各地の山間部"
+    },
+    {
+      "name": "こごみ",
+      "slug": "kogomi",
+      "name_en": "Ostrich Fern Fiddlehead",
+      "name_reading": "こごみ",
+      "season": "4月〜5月",
+      "origin": "北日本の山林"
+    },
+    {
+      "name": "ふきのとう",
+      "slug": "fukinotou",
+      "name_en": "Butterbur Sprout",
+      "name_reading": "ふきのとう",
+      "season": "2月〜3月",
+      "origin": "日本全国の湿地"
+    },
+    {
+      "name": "わらび",
+      "slug": "warabi",
+      "name_en": "Bracken",
+      "name_reading": "わらび",
+      "season": "4月〜5月",
+      "origin": "日本全国の山野"
+    },
+    {
+      "name": "ぜんまい",
+      "slug": "zenmmai",
+      "name_en": "Ostrich Fern",
+      "name_reading": "ぜんまい",
+      "season": "4月〜5月",
+      "origin": "東北・北陸地方"
+    },
+    {
+      "name": "つくし",
+      "slug": "tsukushi",
+      "name_en": "Horsetail Shoots",
+      "name_reading": "つくし",
+      "season": "3月〜4月",
+      "origin": "日本全国の野原"
+    },
+    {
+      "name": "行者にんにく",
+      "slug": "gyoujaninniku",
+      "name_en": "Japanese Wild Chive",
+      "name_reading": "ぎょうじゃにんにく",
+      "season": "4月〜5月",
+      "origin": "北日本の冷温帯林"
+    },
+    {
+      "name": "うるい",
+      "slug": "urui",
+      "name_en": "Maianthemum dilatatum",
+      "name_reading": "うるい",
+      "season": "4月〜5月",
+      "origin": "北日本の山林"
+    },
+    {
+      "name": "こしあぶら",
+      "slug": "koshiabura",
+      "name_en": "Fatsia Shoots",
+      "name_reading": "こしあぶら",
+      "season": "4月〜5月",
+      "origin": "東北・信越地方"
+    },
+    {
+      "name": "孟宗竹のたけのこ",
+      "slug": "mousouc-takenoko",
+      "name_en": "Moso Bamboo Shoot",
+      "name_reading": "もうそうちく",
+      "season": "3月〜4月",
+      "origin": "西日本"
+    },
+    {
+      "name": "真竹のたけのこ",
+      "slug": "madake-takenoko",
+      "name_en": "True Bamboo Shoot",
+      "name_reading": "まだけ",
+      "season": "5月〜6月",
+      "origin": "全国"
+    },
+    {
+      "name": "淡竹のたけのこ",
+      "slug": "hachiku-takenoko",
+      "name_en": "Hachiku Bamboo Shoot",
+      "name_reading": "はちく",
+      "season": "5月〜6月",
+      "origin": "中部・西日本"
+    },
+    {
+      "name": "山うど",
+      "slug": "yamaudo",
+      "name_en": "Mountain Udo",
+      "name_reading": "やまうど",
+      "season": "4月〜5月",
+      "origin": "日本各地の山野"
+    },
+    {
+      "name": "野蒜",
+      "slug": "nobiru",
+      "name_en": "Wild Garlic Chive",
+      "name_reading": "のびる",
+      "season": "3月〜4月",
+      "origin": "日本全国の野原"
+    },
+    {
+      "name": "よもぎ",
+      "slug": "yomogi",
+      "name_en": "Japanese Mugwort",
+      "name_reading": "よもぎ",
+      "season": "3月〜5月",
+      "origin": "日本全国"
+    },
+    {
+      "name": "せり",
+      "slug": "seri",
+      "name_en": "Japanese Parsley",
+      "name_reading": "せり",
+      "season": "1月〜3月",
+      "origin": "日本全国の湿地"
+    },
+    {
+      "name": "みつば",
+      "slug": "mitsuba",
+      "name_en": "Japanese Honeywort",
+      "name_reading": "みつば",
+      "season": "3月〜5月",
+      "origin": "日本各地の湿った林"
+    },
+    {
+      "name": "木の芽",
+      "slug": "kinome",
+      "name_en": "Japanese Pepper Leaf",
+      "name_reading": "きのめ",
+      "season": "3月〜4月",
+      "origin": "日本全国の山林"
+    },
+    {
+      "name": "みょうが",
+      "slug": "myouga",
+      "name_en": "Japanese Ginger Bud",
+      "name_reading": "みょうが",
+      "season": "7月〜9月",
+      "origin": "西日本の林床"
+    },
+    {
+      "name": "じゅんさい",
+      "slug": "junsai",
+      "name_en": "Water Shield",
+      "name_reading": "じゅんさい",
+      "season": "6月〜8月",
+      "origin": "北日本の湖沼"
+    },
+    {
+      "name": "あけびの実",
+      "slug": "akebi-mi",
+      "name_en": "Akebia Fruit",
+      "name_reading": "あけびのみ",
+      "season": "9月〜10月",
+      "origin": "日本各地の山野"
+    },
+    {
+      "name": "あけびの蔓",
+      "slug": "akebi-tsuru",
+      "name_en": "Akebia Stem",
+      "name_reading": "あけびのつる",
+      "season": "8月〜10月",
+      "origin": "日本各地の山野"
+    },
+    {
+      "name": "むかご",
+      "slug": "mukago",
+      "name_en": "Yam Bulbil",
+      "name_reading": "むかご",
+      "season": "9月〜10月",
+      "origin": "日本各地の雑木林"
+    },
+    {
+      "name": "自然薯",
+      "slug": "shizenyamo",
+      "name_en": "Wild Yam",
+      "name_reading": "しぜんいも",
+      "season": "9月〜11月",
+      "origin": "日本各地の山林"
+    },
+    {
+      "name": "山ぶどう",
+      "slug": "yamabudo",
+      "name_en": "Wild Grape",
+      "name_reading": "やまぶどう",
+      "season": "8月〜9月",
+      "origin": "東北・北陸地方"
+    },
+    {
+      "name": "あざみ",
+      "slug": "azami",
+      "name_en": "Japanese Thistle",
+      "name_reading": "あざみ",
+      "season": "4月〜7月",
+      "origin": "日本全国の野原"
+    },
+    {
+      "name": "イタドリ",
+      "slug": "itadori",
+      "name_en": "Japanese Bistorta",
+      "name_reading": "いたどり",
+      "season": "4月〜5月",
+      "origin": "日本各地の山野"
+    },
+    {
+      "name": "松茸",
+      "slug": "matsutake",
+      "name_en": "Japanese Matsutake Mushroom",
+      "name_reading": "まつたけ",
+      "season": "8月〜10月",
+      "origin": "日本全国の赤松林"
+    },
+    {
+      "name": "はなびらたけ",
+      "slug": "hanabira-take",
+      "name_en": "Wood Ear Mushroom",
+      "name_reading": "はなびらたけ",
+      "season": "9月〜10月",
+      "origin": "日本各地の雑木林"
+    },
+    {
+      "name": "ちちたけ",
+      "slug": "chichitake",
+      "name_en": "Milk Cap Mushroom",
+      "name_reading": "ちちたけ",
+      "season": "8月〜9月",
+      "origin": "日本各地の松林"
+    },
+    {
+      "name": "あみたけ",
+      "slug": "amitake",
+      "name_en": "Amianthus Mushroom",
+      "name_reading": "あみたけ",
+      "season": "8月〜9月",
+      "origin": "北日本の雑木林"
+    },
+    {
+      "name": "天然なめこ",
+      "slug": "tennen-nameko",
+      "name_en": "Wild Nameko Mushroom",
+      "name_reading": "てんねんなめこ",
+      "season": "9月〜10月",
+      "origin": "北日本のブナ林"
+    },
+    {
+      "name": "天然舞茸",
+      "slug": "tennen-maitake",
+      "name_en": "Wild Maitake Mushroom",
+      "name_reading": "てんねんまいたけ",
+      "season": "9月〜11月",
+      "origin": "日本全国のクヌギ林"
+    },
+    {
+      "name": "ヤマドリタケ",
+      "slug": "yamadoritake",
+      "name_en": "Cep Mushroom",
+      "name_reading": "やまどりたけ",
+      "season": "8月〜9月",
+      "origin": "日本各地の雑木林"
+    },
+    {
+      "name": "カラスノエンドウ",
+      "slug": "karasunoendou",
+      "name_en": "Wild Vetchling",
+      "name_reading": "からすのえんどう",
+      "season": "4月〜5月",
+      "origin": "日本全国の野原"
+    },
+    {
+      "name": "スベリヒユ",
+      "slug": "suberihiyu",
+      "name_en": "Common Purslane",
+      "name_reading": "すべりひゆ",
+      "season": "6月〜8月",
+      "origin": "日本全国の野原"
+    },
+    {
+      "name": "タンポポ",
+      "slug": "tanpopo",
+      "name_en": "Japanese Dandelion",
+      "name_reading": "たんぽぽ",
+      "season": "3月〜5月",
+      "origin": "日本全国の野原"
+    },
+    {
+      "name": "クレソン野生種",
+      "slug": "cresonne-yaseiShu",
+      "name_en": "Wild Watercress",
+      "name_reading": "クレソン",
+      "season": "通年",
+      "origin": "日本全国の湧き水地"
+    },
+    {
+      "name": "ドクダミ",
+      "slug": "dokudami",
+      "name_en": "Lizard's Tail",
+      "name_reading": "どくだみ",
+      "season": "5月〜7月",
+      "origin": "日本全国の湿地"
+    },
+    {
+      "name": "明日葉",
+      "slug": "ashitaba",
+      "name_en": "Angelica Plant",
+      "name_reading": "あしたば",
+      "season": "3月〜11月",
+      "origin": "伊豆諸島・南房総"
+    },
+    {
+      "name": "山栗",
+      "slug": "yama-kuri",
+      "name_en": "Wild Chestnut",
+      "name_reading": "やまくり",
+      "season": "9月〜10月",
+      "origin": "日本全国の雑木林"
+    },
+    {
+      "name": "銀杏",
+      "slug": "ginnan",
+      "name_en": "Ginkgo Nut",
+      "name_reading": "ぎんなん",
+      "season": "10月〜11月",
+      "origin": "日本全国の神社・寺院周辺"
+    },
+    {
+      "name": "トチの実",
+      "slug": "tochino-mi",
+      "name_en": "Horse Chestnut",
+      "name_reading": "とちのみ",
+      "season": "9月〜10月",
+      "origin": "日本各地の山林"
+    },
+    {
+      "name": "どんぐり",
+      "slug": "donguri",
+      "name_en": "Acorn",
+      "name_reading": "どんぐり",
+      "season": "9月〜10月",
+      "origin": "日本全国の雑木林"
+    }
+  ]
+}

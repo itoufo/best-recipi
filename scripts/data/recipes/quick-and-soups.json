@@ -1,0 +1,1803 @@
+[
+  {
+    "slug": "tuna-avocado-don",
+    "title": "ツナアボカド丼",
+    "description": "缶詰のツナとアボカドを合わせた栄養満点の丼",
+    "introduction": "5分で完成する贅沢な丼。ツナの塩辛さとアボカドのクリーミーな食感が相性抜群。忙しい日の強い味方です。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 5,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 450,
+    "protein_g": 22,
+    "fat_g": 18,
+    "carbs_g": 52,
+    "fiber_g": 5,
+    "sodium_mg": 580,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ツナ缶の油を軽く切り、ボウルに入れる",
+        "tip": "ツナの水分は栄養が詰まっているので全部は切らなくてもOK"
+      },
+      {
+        "step": 2,
+        "text": "アボカドを半分に切り、種を取り除いてスプーンで一口大に切る",
+        "tip": "変色を防ぐためレモン汁を少しかけるのがおすすめ"
+      },
+      {
+        "step": 3,
+        "text": "ボウルにツナとアボカドを入れ、マヨネーズ小さじ1を加える",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "塩・こしょう少々で味を調える",
+        "tip": "ツナ缶自体に塩分があるので少なめがポイント"
+      },
+      {
+        "step": 5,
+        "text": "温かいご飯を茶碗に盛り、作った混ぜ物を乗せる",
+        "tip": null
+      },
+      {
+        "step": 6,
+        "text": "刻みのり、白ごまをトッピングして完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "ツナアボカド丼 | 5分で完成！時短レシピ",
+    "meta_description": "忙しい日の時短レシピ。5分でできるツナアボカド丼の作り方。栄養満点で美味しい。",
+    "keywords": [
+      "ツナ",
+      "アボカド",
+      "丼",
+      "時短レシピ",
+      "簡単料理"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "アボカドは完熟のものを選ぶと美味しく仕上がります。ツナ缶はオイル漬けを使うことでコクが出ます。作り置きするなら、アボカドは食べる直前に加えて変色を防ぎましょう。",
+    "tag_slugs": [
+      "quick",
+      "light",
+      "raw",
+      "rich"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "canned-tuna",
+        "name": "ツナ缶（油漬け）",
+        "quantity": "1",
+        "unit": "缶"
+      },
+      {
+        "slug": "avocado",
+        "name": "アボカド",
+        "quantity": "0.5",
+        "unit": "個"
+      },
+      {
+        "slug": "rice-cooked",
+        "name": "ご飯",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "mayonnaise",
+        "name": "マヨネーズ",
+        "quantity": "1",
+        "unit": "小さじ"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "少々",
+        "unit": "ml"
+      },
+      {
+        "slug": "nori-seaweed",
+        "name": "のり（刻み）",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "aglio-olio",
+    "title": "ペペロンチーノ",
+    "description": "にんにくと唐辛子で香る、シンプルで奥深いパスタ",
+    "introduction": "イタリアンの定番、ペペロンチーノ。最小限の材料で最大の味わい。15分でレストランの味が再現できます。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 480,
+    "protein_g": 16,
+    "fat_g": 22,
+    "carbs_g": 58,
+    "fiber_g": 3,
+    "sodium_mg": 420,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "パスタを塩を入れた沸騰したお湯で、袋の指定時間より1分早く引き上げる",
+        "tip": "アルデンテに仕上げることが大事"
+      },
+      {
+        "step": 2,
+        "text": "にんにくを薄くスライスし、唐辛子は種を取り除く",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンにオリーブオイルを入れ、弱火でにんにくをゆっくり炒める",
+        "tip": "焦がさないこと。香りが立つまで1分程度"
+      },
+      {
+        "step": 4,
+        "text": "唐辛子を加えてさらに30秒炒める",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "パスタの茹で汁を少し取り、パスタをフライパンに加える",
+        "tip": "パスタをアルデンテで引き上げたので、ここで茹で汁でほどよく加熱する"
+      },
+      {
+        "step": 6,
+        "text": "パスタと油をよく混ぜ、塩・こしょうで味を調える",
+        "tip": "パスタの茹で汁を少しずつ加えてつなぎにする"
+      },
+      {
+        "step": 7,
+        "text": "器に盛り、黒こしょうと刻みパセリをかけて完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "ペペロンチーノ | 15分の時短イタリアンレシピ",
+    "meta_description": "シンプルで奥深い味わい。ペペロンチーノの本格的な作り方。15分で完成する時短レシピ。",
+    "keywords": [
+      "ペペロンチーノ",
+      "パスタ",
+      "時短",
+      "イタリアン",
+      "簡単"
+    ],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "オリーブオイルの質がこの料理を左右します。良質のエクストラバージンオリーブオイルを使うことをおすすめします。にんにくは焦がさないこと、パスタは必ずアルデンテに仕上げることが重要です。",
+    "tag_slugs": [
+      "quick",
+      "spicy",
+      "light"
+    ],
+    "category_slug": "pasta",
+    "ingredients": [
+      {
+        "slug": "spaghetti",
+        "name": "スパゲッティ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "2",
+        "unit": "片"
+      },
+      {
+        "slug": "red-chili",
+        "name": "唐辛子（鷹の爪）",
+        "quantity": "1",
+        "unit": "本"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "黒こしょう",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "parsley",
+        "name": "パセリ（刻み）",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "tamago-kake-gohan",
+    "title": "卵かけご飯",
+    "description": "シンプルながら極めて奥深い、日本の最高の時短メシ",
+    "introduction": "3分で完成する最強の時短ご飯。新鮮な卵とご飯があれば、これ以上に美味しい朝食は存在しません。",
+    "prep_time_minutes": 1,
+    "cook_time_minutes": 2,
+    "total_time_minutes": 3,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 10,
+    "fat_g": 12,
+    "carbs_g": 42,
+    "fiber_g": 1,
+    "sodium_mg": 580,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "温かいご飯を茶碗に盛る",
+        "tip": "ご飯は温かいほうが卵が優しく加熱される"
+      },
+      {
+        "step": 2,
+        "text": "卵を割り、白身と黄身をご飯の上に乗せる",
+        "tip": "新鮮な卵を選ぶことが最重要。必ず新しい卵を使うこと"
+      },
+      {
+        "step": 3,
+        "text": "醤油を回しかける",
+        "tip": "量は好みで調整。一般的には小さじ1程度"
+      },
+      {
+        "step": 4,
+        "text": "白ごま、刻み海苔をトッピングする",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "全体を混ぜて完成",
+        "tip": "黄身をつぶすようにしっかり混ぜるのが美味しさのコツ"
+      }
+    ],
+    "meta_title": "卵かけご飯 | 3分で完成！日本の最高の時短レシピ",
+    "meta_description": "新鮮な卵があれば3分で完成。シンプルながら奥深い卵かけご飯の作り方。",
+    "keywords": [
+      "卵かけご飯",
+      "卵",
+      "ご飯",
+      "時短",
+      "簡単朝食"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "最も重要なのは卵の新鮮さです。必ず新しい卵を使うこと。できれば卵かけご飯専用の醤油を用意するとより美味しく食べられます。温かいご飯を使うことで、半生の卵の状態が完成します。",
+    "tag_slugs": [
+      "quick",
+      "light",
+      "raw"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "rice-cooked",
+        "name": "ご飯",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "1",
+        "unit": "小さじ"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "nori-seaweed",
+        "name": "刻み海苔",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "hiyashi-chuka",
+    "title": "冷やし中華",
+    "description": "夏の定番。冷たいスープと様々なトッピングが涼しさをもたらす",
+    "introduction": "暑い日の最高のご飯。冷たい中華麺に豊富なトッピングと爽やかなタレ。栄養バランスも抜群の時短メニューです。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 5,
+    "total_time_minutes": 15,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 420,
+    "protein_g": 14,
+    "fat_g": 8,
+    "carbs_g": 72,
+    "fiber_g": 3,
+    "sodium_mg": 1200,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "中華麺を沸騰したお湯で2分程度茹でる",
+        "tip": "冷やし中華用の少し硬めの麺を選ぶとより美味しい"
+      },
+      {
+        "step": 2,
+        "text": "茹で上がった麺を冷水で冷やし、水切りかごで水をしっかり切る",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "冷やし中華のタレ（市販でも自作でも可）を器に入れ、冷水を混ぜる",
+        "tip": "自作する場合は醤油2、酢1、砂糖1の比率"
+      },
+      {
+        "step": 4,
+        "text": "麺をタレの入った器に移す",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "ハム、きゅうり、トマト、卵などのトッピングを麺の上に整列させる",
+        "tip": "彩りよく配置するのが見た目を良くするコツ"
+      },
+      {
+        "step": 6,
+        "text": "最後に白ごまと刻みのりをかけて完成",
+        "tip": "食べる直前に白ごまをかけると香りが活きる"
+      }
+    ],
+    "meta_title": "冷やし中華 | 15分で完成！夏の時短レシピ",
+    "meta_description": "暑い日の最高のご飯。冷やし中華の本格的な作り方。市販タレでも手作りタレでも美味しく。",
+    "keywords": [
+      "冷やし中華",
+      "中華麺",
+      "夏のレシピ",
+      "時短",
+      "簡単"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "麺はしっかり冷やすことが大事。温かい状態だと美味しさが半減します。タレも事前に冷やしておくと、より涼しさが引き立ちます。トッピングは彩りよく、好きなものを選んで大丈夫。",
+    "tag_slugs": [
+      "quick",
+      "light",
+      "sour"
+    ],
+    "category_slug": "noodles",
+    "ingredients": [
+      {
+        "slug": "chinese-noodles",
+        "name": "中華麺",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "hiyashi-chuka-sauce",
+        "name": "冷やし中華のタレ",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "slug": "ham",
+        "name": "ハム（スライス）",
+        "quantity": "2",
+        "unit": "枚"
+      },
+      {
+        "slug": "cucumber",
+        "name": "きゅうり",
+        "quantity": "0.5",
+        "unit": "本"
+      },
+      {
+        "slug": "egg-boiled",
+        "name": "卵（ゆで卵）",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "tomato",
+        "name": "トマト",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "nori-seaweed",
+        "name": "刻みのり",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "shirasu-don",
+    "title": "しらす丼",
+    "description": "生しらすの甘辛な味わい。春の風物詩的ご飯",
+    "introduction": "5分で完成する春の美味しさ。生しらすの独特の風味とご飯の相性は最高。栄養も抜群の時短メニュー。",
+    "prep_time_minutes": 3,
+    "cook_time_minutes": 2,
+    "total_time_minutes": 5,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 380,
+    "protein_g": 18,
+    "fat_g": 6,
+    "carbs_g": 62,
+    "fiber_g": 2,
+    "sodium_mg": 720,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "温かいご飯を茶碗に盛る",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "生しらすを軽く塩水で洗い、水気を切る",
+        "tip": "塩漬けのしらすを使う場合は軽く洗って塩を落とす"
+      },
+      {
+        "step": 3,
+        "text": "醤油、砂糖、みりんを小鍋で軽く温め、甘辛いタレを作る",
+        "tip": "甘辛い比率は醤油1、砂糖0.5、みりん0.5程度"
+      },
+      {
+        "step": 4,
+        "text": "ご飯の上にしらすを盛る",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "作ったタレをしらスの上からかける",
+        "tip": "タレが温かいままかけることで香りが立つ"
+      },
+      {
+        "step": 6,
+        "text": "卵黄、刻みのり、白ごまをトッピングして完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "しらす丼 | 5分で完成！春の時短レシピ",
+    "meta_description": "生しらすを使った春の定番丼。5分で完成する簡単レシピ。栄養満点で美味しい。",
+    "keywords": [
+      "しらス",
+      "丼",
+      "春",
+      "時短レシピ",
+      "簡単料理"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "生しらすは新鮮なものを選ぶことが最重要。冷蔵庫で保存し、その日のうちに食べることをおすすめします。塩漬けのしらすの場合は塩加減を調整してください。卵黄は全卵でもOK。",
+    "tag_slugs": [
+      "quick",
+      "umami",
+      "light"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "rice-cooked",
+        "name": "ご飯",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "shirasu-fresh",
+        "name": "生しらす",
+        "quantity": "60",
+        "unit": "g"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "1",
+        "unit": "小さじ"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "0.5",
+        "unit": "小さじ"
+      },
+      {
+        "slug": "mirin",
+        "name": "みりん",
+        "quantity": "0.5",
+        "unit": "小さじ"
+      },
+      {
+        "slug": "egg-yolk",
+        "name": "卵黄",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "nori-seaweed",
+        "name": "刻みのり",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "chicken-ham",
+    "title": "鶏ハム",
+    "description": "鶏むね肉を塩漬けにして加熱した、作り置きに最高なタンパク質",
+    "introduction": "作り置きの定番。低脂肪高タンパクな鶏ハム。冷蔵庫に常備しておくだけで、色々な料理に活躍します。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 3,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 120,
+    "protein_g": 24,
+    "fat_g": 3,
+    "carbs_g": 0,
+    "fiber_g": 0,
+    "sodium_mg": 600,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏むね肉の水気をキッチンペーパーでしっかり拭く",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "鶏むね肉全体に塩とこしょうをまんべんなくすり込む",
+        "tip": "塩は鶏肉の重さの1%程度が目安"
+      },
+      {
+        "step": 3,
+        "text": "ラップに包んで、冷蔵庫で2-4時間寝かせる",
+        "tip": "一晩寝かせるとより味が染み込みやすい"
+      },
+      {
+        "step": 4,
+        "text": "鍋にお湯を沸かし、70度程度に温度を下げて鶏肉を入れる",
+        "tip": "温度計で管理するのがベスト。沸騰させないこと"
+      },
+      {
+        "step": 5,
+        "text": "15-20分加熱したら、そのまま冷ます",
+        "tip": "余熱で火が入るので、中心までしっかり加熱される"
+      },
+      {
+        "step": 6,
+        "text": "冷めたら薄くスライスして、冷蔵保存する",
+        "tip": "4-5日冷蔵保存可能"
+      }
+    ],
+    "meta_title": "鶏ハム | 作り置きに最高！低脂肪高タンパクレシピ",
+    "meta_description": "作り置きの定番。低脂肪高タンパクな鶏ハムの作り方。4-5日保存できます。",
+    "keywords": [
+      "鶏ハム",
+      "作り置き",
+      "タンパク質",
+      "低脂肪",
+      "保存食"
+    ],
+    "cuisine": "洋食",
+    "course": "メイン",
+    "tips": "温度管理が成功の鍵。60-70度の低温調理で、しっとりとした食感が実現します。沸騰させると硬くなるので注意。作り置きなら、スライスしてから冷蔵保存するより、塊のまま保存してから使う時にスライスする方が、日持ちが長くなります。",
+    "tag_slugs": [
+      "meal-prep",
+      "light",
+      "diet"
+    ],
+    "category_slug": "protein",
+    "ingredients": [
+      {
+        "slug": "chicken-breast",
+        "name": "鶏むね肉",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "3",
+        "unit": "g"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "黒こしょう",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "1",
+        "unit": "L"
+      }
+    ]
+  },
+  {
+    "slug": "ratatouille-joubisai",
+    "title": "ラタトゥイユ風常備菜",
+    "description": "夏野菜をたっぷり使った南仏の煮込み。作り置きで毎日美味しく",
+    "introduction": "夏野菜の美味しさを引き出す南仏の煮込み。作り置きなら3-4日保存できて、毎日の食卓が彩ります。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40,
+    "servings": 3,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 120,
+    "protein_g": 3,
+    "fat_g": 8,
+    "carbs_g": 11,
+    "fiber_g": 3,
+    "sodium_mg": 420,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ナスはダイス状に、ズッキーニはスライス、パプリカは細切り、トマトは粗くカットする",
+        "tip": "すべて1cm程度の大きさに揃えると食べやすい"
+      },
+      {
+        "step": 2,
+        "text": "玉ねぎとにんにくをみじん切りにしておく",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンにオリーブオイルを入れ、玉ねぎとにんにくを炒める",
+        "tip": "香りが立つまで2-3分"
+      },
+      {
+        "step": 4,
+        "text": "ナス、ズッキーニ、パプリカを加えて全体を混ぜる",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "トマト缶とトマトペーストを加え、塩・こしょう・ハーブで味を調える",
+        "tip": "バジルやオレガノなどのイタリアンハーブを使うと香りが良い"
+      },
+      {
+        "step": 6,
+        "text": "弱火で15-20分煮込む",
+        "tip": "蓋をして煮込むと時間短縮できる"
+      },
+      {
+        "step": 7,
+        "text": "冷めたら、冷蔵容器に入れて保存",
+        "tip": "3-4日保存可能。温めても冷やしても美味しい"
+      }
+    ],
+    "meta_title": "ラタトゥイユ風常備菜 | 作り置きに最高！南仏料理",
+    "meta_description": "夏野菜をたっぷり使った南仏の煮込み。3-4日保存できる作り置きレシピ。",
+    "keywords": [
+      "ラタトゥイユ",
+      "常備菜",
+      "作り置き",
+      "南仏料理",
+      "夏野菜"
+    ],
+    "cuisine": "フランス",
+    "course": "副菜",
+    "tips": "作り置きなら、温めても冷やしても美味しく食べられます。パンに乗せたり、パスタのソースにしたり、カレーのトッピングにしたり、色々な活躍の場があります。野菜の大きさは揃えることで、見た目と食べやすさが向上します。",
+    "tag_slugs": [
+      "meal-prep",
+      "light",
+      "vegetarian"
+    ],
+    "category_slug": "vegetable",
+    "ingredients": [
+      {
+        "slug": "eggplant",
+        "name": "ナス",
+        "quantity": "1",
+        "unit": "本"
+      },
+      {
+        "slug": "zucchini",
+        "name": "ズッキーニ",
+        "quantity": "1",
+        "unit": "本"
+      },
+      {
+        "slug": "bell-pepper",
+        "name": "パプリカ（赤）",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "tomato-fresh",
+        "name": "トマト",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "tomato-can",
+        "name": "トマト缶",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "tomato-paste",
+        "name": "トマトペースト",
+        "quantity": "1",
+        "unit": "大さじ"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "0.5",
+        "unit": "個"
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "2",
+        "unit": "片"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "slug": "basil",
+        "name": "バジル",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "nitamago",
+    "title": "煮卵",
+    "description": "半熟のゆで卵を甘辛いタレに漬けた、作り置きの最高の副菜",
+    "introduction": "ラーメンのトッピングとしても、そのままおかずとしても。甘辛い味わいがご飯にぴったり。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 4,
+    "servings_unit": "個",
+    "difficulty": "easy",
+    "calories": 90,
+    "protein_g": 7,
+    "fat_g": 6,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sodium_mg": 480,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵を室温に戻しておく（入れやすくするため）",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "沸騰したお湯に卵を入れ、6分半加熱する（半熟にするため）",
+        "tip": "時間を守ることが重要。黄身が完全に固まらずに半熟になる"
+      },
+      {
+        "step": 3,
+        "text": "加熱終了後、冷水に入れてしっかり冷やす",
+        "tip": "余熱で火が入るのを止めるため、しっかり冷やすこと"
+      },
+      {
+        "step": 4,
+        "text": "卵の殻をむく",
+        "tip": "水の中でむくと剥きやすい"
+      },
+      {
+        "step": 5,
+        "text": "小鍋で醤油、砂糖、みりん、酢を合わせてタレを作る",
+        "tip": "比率は醤油2、砂糖1、みりん1、酢0.5程度"
+      },
+      {
+        "step": 6,
+        "text": "タレを少し冷ましてから、ジップロックの中に卵を入れ、タレを注ぐ",
+        "tip": "タレが冷めると味が染み込みやすい"
+      },
+      {
+        "step": 7,
+        "text": "冷蔵庫で一晩漬けて完成。5-6日保存可能",
+        "tip": "時間が経つほど味が染み込む"
+      }
+    ],
+    "meta_title": "煮卵 | 作り置きに最高！甘辛いタレが美味しい",
+    "meta_description": "半熟のゆで卵を甘辛いタレに漬けた煮卵。5-6日保存できる作り置きレシピ。",
+    "keywords": [
+      "煮卵",
+      "作り置き",
+      "ゆで卵",
+      "甘辛い",
+      "保存食"
+    ],
+    "cuisine": "和食",
+    "course": "副菜",
+    "tips": "ゆで卵の時間を守ることが成功の鍵。6分半で黄身が半熟になります。すぐに冷水に入れることで、余熱で火が入るのを止めます。タレの配合は甘辛い比率で調整できるので、好みに合わせてアレンジしてください。",
+    "tag_slugs": [
+      "meal-prep",
+      "umami",
+      "rich"
+    ],
+    "category_slug": "egg",
+    "ingredients": [
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "4",
+        "unit": "個"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "25",
+        "unit": "g"
+      },
+      {
+        "slug": "mirin",
+        "name": "みりん",
+        "quantity": "25",
+        "unit": "ml"
+      },
+      {
+        "slug": "rice-vinegar",
+        "name": "米酢",
+        "quantity": "12",
+        "unit": "ml"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "50",
+        "unit": "ml"
+      }
+    ]
+  },
+  {
+    "slug": "mushroom-marinade",
+    "title": "きのこのマリネ",
+    "description": "様々なきのこを酢漬けにした、爽やかな作り置き副菜",
+    "introduction": "きのこの旨味が引き出される酢漬け。冷蔵庫に常備しておけば、毎日の食卓が彩ります。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 3,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 60,
+    "protein_g": 2,
+    "fat_g": 4,
+    "carbs_g": 5,
+    "fiber_g": 1,
+    "sodium_mg": 360,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "シメジ、エリンギ、しいたけなどのきのこを食べやすい大きさに切る",
+        "tip": "大きさを揃えることで、見た目と味のなじみが良くなる"
+      },
+      {
+        "step": 2,
+        "text": "玉ねぎとにんにくを薄くスライスする",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンにオリーブオイルを入れ、玉ねぎとにんにくを炒める",
+        "tip": "香りが立つまで2分程度"
+      },
+      {
+        "step": 4,
+        "text": "すべてのきのこを加えて、全体をサッと炒める",
+        "tip": "きのこから水が出るので、長く炒めないこと"
+      },
+      {
+        "step": 5,
+        "text": "酢、砂糖、塩を加え、全体を混ぜる",
+        "tip": "比率は酢1、砂糖0.5、塩適量"
+      },
+      {
+        "step": 6,
+        "text": "1-2分煮詰めたら、火を止めて完全に冷ます",
+        "tip": null
+      },
+      {
+        "step": 7,
+        "text": "冷蔵容器に移して保存。3-4日保存可能",
+        "tip": "時間が経つほど味が染み込む"
+      }
+    ],
+    "meta_title": "きのこのマリネ | 作り置きに最高！爽やかな副菜",
+    "meta_description": "様々なきのこを酢漬けにしたマリネ。3-4日保存できる作り置きレシピ。",
+    "keywords": [
+      "きのこ",
+      "マリネ",
+      "作り置き",
+      "酢漬け",
+      "常備菜"
+    ],
+    "cuisine": "イタリアン",
+    "course": "副菜",
+    "tips": "きのこの種類はお好みで。シメジ、エリンギ、しいたけ、マッシュルームなど、色々な種類を混ぜるとより美味しい。きのこから水が出るので、長く炒めないことがポイント。酸味が強いが好みなので、酢の量は調整できます。",
+    "tag_slugs": [
+      "meal-prep",
+      "sour",
+      "light",
+      "vegetarian"
+    ],
+    "category_slug": "vegetable",
+    "ingredients": [
+      {
+        "slug": "shimejis-mushroom",
+        "name": "シメジ",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "eryngii",
+        "name": "エリンギ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "shiitake",
+        "name": "生しいたけ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "0.25",
+        "unit": "個"
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "20",
+        "unit": "ml"
+      },
+      {
+        "slug": "rice-vinegar",
+        "name": "米酢",
+        "quantity": "40",
+        "unit": "ml"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "shio-kombu-cabbage",
+    "title": "塩昆布キャベツ",
+    "description": "シンプルながら奥深い味わい。塩昆布とキャベツの組み合わせ",
+    "introduction": "塩昆布の旨味がキャベツに染み込む。ご飯の友としても、酒の肴としても最高。作り置きで毎日美味しく。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 0,
+    "total_time_minutes": 5,
+    "servings": 3,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 40,
+    "protein_g": 2,
+    "fat_g": 0,
+    "carbs_g": 8,
+    "fiber_g": 2,
+    "sodium_mg": 520,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "キャベツを千切りにする",
+        "tip": "細く切ることで、より味が染み込みやすい"
+      },
+      {
+        "step": 2,
+        "text": "切ったキャベツをボウルに入れ、塩昆布を加える",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "全体を混ぜ、10分程度置いて味を馴染ませる",
+        "tip": "塩昆布の塩分でキャベツから水が出るので、置き時間は大事"
+      },
+      {
+        "step": 4,
+        "text": "かつおぶしと白ごまを加えて、再度混ぜる",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "冷蔵保存。3-4日保存可能",
+        "tip": "時間が経つほど味が染み込む"
+      }
+    ],
+    "meta_title": "塩昆布キャベツ | 作り置きに最高！5分で完成副菜",
+    "meta_description": "塩昆布の旨味がキャベツに染み込む。5分で完成する作り置きレシピ。3-4日保存可能。",
+    "keywords": [
+      "塩昆布",
+      "キャベツ",
+      "作り置き",
+      "5分料理",
+      "常備菜"
+    ],
+    "cuisine": "和食",
+    "course": "副菜",
+    "tips": "加熱しない簡単副菜。塩昆布の塩分がキャベツから水を引き出すので、時間をおくことが大事。塩昆布の量は好みで調整できます。辛すぎる場合は、水で軽く洗ってから混ぜるといいでしょう。",
+    "tag_slugs": [
+      "meal-prep",
+      "umami",
+      "light",
+      "vegetarian"
+    ],
+    "category_slug": "vegetable",
+    "ingredients": [
+      {
+        "slug": "cabbage",
+        "name": "キャベツ",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "slug": "shio-kombu",
+        "name": "塩昆布",
+        "quantity": "20",
+        "unit": "g"
+      },
+      {
+        "slug": "bonito-flakes",
+        "name": "かつおぶし",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "clam-chowder",
+    "title": "クラムチャウダー",
+    "description": "あさりの旨味が詰まったクリーム色のスープ。洋風で優雅",
+    "introduction": "あさりの豊かな旨味とじゃがいもの優しい甘さ。クリーム色が美しいスープ。冷たくしても温かくしても美味しい。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 180,
+    "protein_g": 8,
+    "fat_g": 8,
+    "carbs_g": 18,
+    "fiber_g": 2,
+    "sodium_mg": 640,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "あさりを塩水で砂抜きしておく（2-3時間が目安）",
+        "tip": "砂抜きは調理の前に準備しておくこと"
+      },
+      {
+        "step": 2,
+        "text": "じゃがいも、玉ねぎ、ベーコンを1cm角に切る",
+        "tip": "大きさを揃えることで、食べやすく見た目も良い"
+      },
+      {
+        "step": 3,
+        "text": "フライパンにバターを入れ、玉ねぎとベーコンを炒める",
+        "tip": "ベーコンの脂が出るまで2-3分"
+      },
+      {
+        "step": 4,
+        "text": "じゃがいもを加えてさらに炒める",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "スープストックとあさりを加え、あさりが開くまで煮込む",
+        "tip": "あさりが開いたら、身を取り出しておく"
+      },
+      {
+        "step": 6,
+        "text": "牛乳と生クリームを加え、塩・こしょうで味を調える",
+        "tip": "沸騰させないことがコツ。生クリームが分離しないように"
+      },
+      {
+        "step": 7,
+        "text": "あさりを戻し、パセリを散らして完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "クラムチャウダー | 洋風スープ。あさりの旨味が美味しい",
+    "meta_description": "あさりの旨味が詰まったクリーム色のスープ。クラムチャウダーの本格的な作り方。",
+    "keywords": [
+      "クラムチャウダー",
+      "あさり",
+      "スープ",
+      "洋風",
+      "クリームスープ"
+    ],
+    "cuisine": "洋食",
+    "course": "スープ",
+    "tips": "あさりの砂抜きは調理の前に準備しておくこと。牛乳と生クリームを加えた後は沸騰させないこと。生クリームが分離する可能性があります。あさりの旨味を最大限に引き出すため、スープストックはあさりのゆで汁を使うのがおすすめです。",
+    "tag_slugs": [
+      "creamy",
+      "umami",
+      "rich",
+      "soup"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "clam",
+        "name": "あさり",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "potato",
+        "name": "じゃがいも",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "0.5",
+        "unit": "個"
+      },
+      {
+        "slug": "bacon",
+        "name": "ベーコン",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "15",
+        "unit": "g"
+      },
+      {
+        "slug": "stock-soup",
+        "name": "スープストック",
+        "quantity": "300",
+        "unit": "ml"
+      },
+      {
+        "slug": "milk",
+        "name": "牛乳",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "heavy-cream",
+        "name": "生クリーム",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "slug": "parsley",
+        "name": "パセリ（刻み）",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "hot-and-sour-soup",
+    "title": "酸辣湯",
+    "description": "豆板醤と酢の辛酸っぱさが食欲をそそる中華スープ",
+    "introduction": "辛さと酸っぱさが同居する中華の経典的スープ。体が温まり、食欲が出てくる。寒い日の強い味方です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 100,
+    "protein_g": 6,
+    "fat_g": 3,
+    "carbs_g": 12,
+    "fiber_g": 2,
+    "sodium_mg": 720,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "きのこを千切りに、豆腐を1cm角に、たけのこを千切りにする",
+        "tip": "豆腐は水切りしておくと、スープに水っぽくならない"
+      },
+      {
+        "step": 2,
+        "text": "ねぎとしょうがを千切りにし、にんにくはみじん切りにする",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "鍋に鶏がらスープを入れて沸騰させ、豆板醤とみりんを加える",
+        "tip": "豆板醤がしっかり溶けるまで混ぜること"
+      },
+      {
+        "step": 4,
+        "text": "きのこ、豆腐、たけのこ、ねぎを加えて煮込む",
+        "tip": "5分程度で十分"
+      },
+      {
+        "step": 5,
+        "text": "酢と醤油で味を調える",
+        "tip": "辛酸っぱいバランスが決まったら、次のステップへ"
+      },
+      {
+        "step": 6,
+        "text": "片栗粉を水で溶いて、スープに加えてとろみをつける",
+        "tip": "火を弱めて、混ぜながら加えること"
+      },
+      {
+        "step": 7,
+        "text": "溶き卵を糸状に流し込んで、ラー油をかけて完成",
+        "tip": "ラー油の辛さで味の深みが出る"
+      }
+    ],
+    "meta_title": "酸辣湯 | 中華スープ。辛酸っぱい味わいが美味しい",
+    "meta_description": "豆板醤と酢の辛酸っぱさが食欲をそそる中華スープ。20分で完成します。",
+    "keywords": [
+      "酸辣湯",
+      "中華スープ",
+      "辛い",
+      "酸っぱい",
+      "中華料理"
+    ],
+    "cuisine": "中華",
+    "course": "スープ",
+    "tips": "豆板醤の辛さと酢の酸っぱさのバランスが大事。好みに合わせて調整してください。豆腐は絹ごし豆腐を使うと、よりなめらかなスープになります。溶き卵は火を弱めて糸状に流し込むことで、きれいに仕上がります。",
+    "tag_slugs": [
+      "spicy",
+      "sour",
+      "soup",
+      "umami"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "stock-chicken",
+        "name": "鶏がらスープ",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "slug": "tofu-silken",
+        "name": "絹ごし豆腐",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "mushroom-button",
+        "name": "しめじ",
+        "quantity": "80",
+        "unit": "g"
+      },
+      {
+        "slug": "bamboo-shoot",
+        "name": "たけのこ（水煮）",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "doubanjiang",
+        "name": "豆板醤",
+        "quantity": "1",
+        "unit": "大さじ"
+      },
+      {
+        "slug": "mirin",
+        "name": "みりん",
+        "quantity": "0.5",
+        "unit": "大さじ"
+      },
+      {
+        "slug": "rice-vinegar",
+        "name": "米酢",
+        "quantity": "2",
+        "unit": "大さじ"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "1",
+        "unit": "大さじ"
+      },
+      {
+        "slug": "cornstarch",
+        "name": "片栗粉",
+        "quantity": "1",
+        "unit": "大さじ"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "rayu-chili-oil",
+        "name": "ラー油",
+        "quantity": "小さじ",
+        "unit": "1"
+      }
+    ]
+  },
+  {
+    "slug": "minestrone-soup",
+    "title": "ミネストローネ",
+    "description": "野菜たっぷり、トマト味のイタリアンスープ。栄養満点",
+    "introduction": "野菜をたっぷり使ったイタリアンスープ。トマトの爽やかさと野菜の甘さが溶け込む。毎日食べたい栄養満点スープ。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 140,
+    "protein_g": 5,
+    "fat_g": 6,
+    "carbs_g": 16,
+    "fiber_g": 3,
+    "sodium_mg": 580,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "玉ねぎ、セロリ、ニンジンをダイス状に切る",
+        "tip": "大きさを揃えることで、見た目と食べやすさが向上"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにオリーブオイルを入れ、玉ねぎから炒め始める",
+        "tip": "香りが立つまで2-3分"
+      },
+      {
+        "step": 3,
+        "text": "セロリとニンジンを加えてさらに炒める",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "水とコンソメキューブを加え、沸騰させる",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "ズッキーニ、インゲン、ほうれん草、トマト缶を加えて煮込む",
+        "tip": "10分程度煮込めば十分"
+      },
+      {
+        "step": 6,
+        "text": "塩・こしょうで味を調え、パスタを加える（パスタ入りにする場合）",
+        "tip": "パスタは別ゆでしてから加えるほうが、スープが濁らない"
+      },
+      {
+        "step": 7,
+        "text": "パセリとオリーブオイルをかけて完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "ミネストローネ | イタリアンスープ。野菜たっぷり栄養満点",
+    "meta_description": "野菜をたっぷり使ったイタリアンスープ。トマト味で爽やか。30分で完成します。",
+    "keywords": [
+      "ミネストローネ",
+      "イタリアンスープ",
+      "野菜",
+      "トマト",
+      "栄養満点"
+    ],
+    "cuisine": "イタリアン",
+    "course": "スープ",
+    "tips": "野菜は季節に応じて、好きなものを入れて大丈夫。大事なのは玉ねぎ、セロリ、ニンジンの香味野菜と、トマト。パスタを入れる場合は、別ゆでしてからスープに加えることで、スープの濁りを防げます。",
+    "tag_slugs": [
+      "vegetarian",
+      "light",
+      "soup",
+      "sour"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "carrot",
+        "name": "ニンジン",
+        "quantity": "0.5",
+        "unit": "本"
+      },
+      {
+        "slug": "celery",
+        "name": "セロリ",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "zucchini",
+        "name": "ズッキーニ",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "green-beans",
+        "name": "インゲン豆",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "spinach",
+        "name": "ほうれん草",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "tomato-can",
+        "name": "トマト缶",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "slug": "consomme",
+        "name": "コンソメキューブ",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "30",
+        "unit": "ml"
+      },
+      {
+        "slug": "parsley",
+        "name": "パセリ（刻み）",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "samgyetang-style-soup",
+    "title": "参鶏湯風スープ",
+    "description": "鶏肉と高麗人参が入った、栄養満点で温まるスープ",
+    "introduction": "韓国の伝統的スープを日本人向けにアレンジ。鶏の旨味と高麗人参の香りが体を温めます。滋養強壮に最高。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 200,
+    "protein_g": 22,
+    "fat_g": 8,
+    "carbs_g": 10,
+    "fiber_g": 1,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏手羽先を塩水で軽く洗い、水気を切る",
+        "tip": "血合いを取り除くと、よりクリアなスープになる"
+      },
+      {
+        "step": 2,
+        "text": "人参、栗、ナツメを用意しておく（ナツメと栗は皮を剥いておくと食べやすい）",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "鍋にお湯を沸かし、鶏手羽先を入れて5分加熱し、あく取りする",
+        "tip": "余分な脂と汚れが取れる"
+      },
+      {
+        "step": 4,
+        "text": "水を足して、新しく鍋を作る（あく取り後の水は捨てる）",
+        "tip": null
+      },
+      {
+        "step": 5,
+        "text": "高麗人参、ナツメ、栗、人参、しょうがを加えて15分煮込む",
+        "tip": "高麗人参の香りが出るまでしっかり煮込むこと"
+      },
+      {
+        "step": 6,
+        "text": "塩と白ごまで味を調える",
+        "tip": "白ごまが香りを引き立てる"
+      },
+      {
+        "step": 7,
+        "text": "器に盛り、ねぎを散らして完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "参鶏湯風スープ | 韓国風スープ。滋養強壮に最高",
+    "meta_description": "鶏肉と高麗人参が入った、栄養満点で温まるスープ。35分で完成する韓国風レシピ。",
+    "keywords": [
+      "参鶏湯",
+      "韓国スープ",
+      "滋養強壮",
+      "鶏肉",
+      "温かいスープ"
+    ],
+    "cuisine": "韓国",
+    "course": "スープ",
+    "tips": "高麗人参は手に入りやすい形のもので大丈夫。ナツメと栗は缶詰でも構いません。鶏を一度あく取りすることで、クリアで美味しいスープになります。高麗人参の香りが好みでない場合は、量を減らすか、人参を入れずに作っても大丈夫です。",
+    "tag_slugs": [
+      "soup",
+      "umami",
+      "rich",
+      "sweet"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "chicken-wing",
+        "name": "鶏手羽先",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "korean-ginseng",
+        "name": "高麗人参",
+        "quantity": "3",
+        "unit": "g"
+      },
+      {
+        "slug": "jujube",
+        "name": "ナツメ",
+        "quantity": "3",
+        "unit": "個"
+      },
+      {
+        "slug": "chestnut",
+        "name": "栗",
+        "quantity": "4",
+        "unit": "個"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "ginger",
+        "name": "しょうが（スライス）",
+        "quantity": "3",
+        "unit": "枚"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "500",
+        "unit": "ml"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "scallion",
+        "name": "ねぎ（刻み）",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "slug": "kabocha-potage",
+    "title": "かぼちゃのポタージュ",
+    "description": "かぼちゃの甘さが引き出される、濃厚でクリーミーなポタージュ",
+    "introduction": "秋冬の最高のスープ。かぼちゃの甘さとコンソメの香りが絶妙に調和。温かいままでも冷やしても美味しい。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 150,
+    "protein_g": 3,
+    "fat_g": 7,
+    "carbs_g": 19,
+    "fiber_g": 2,
+    "sodium_mg": 420,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "かぼちゃを種とわたを取り除き、1cm角に切る",
+        "tip": "大きさを揃えることで、加熱時間が一定になる"
+      },
+      {
+        "step": 2,
+        "text": "玉ねぎをみじん切りにする",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "鍋にバターを入れ、玉ねぎをしんなりするまで炒める",
+        "tip": "2-3分程度"
+      },
+      {
+        "step": 4,
+        "text": "かぼちゃとスープストックを加え、かぼちゃが柔らかくなるまで煮込む",
+        "tip": "15分程度が目安"
+      },
+      {
+        "step": 5,
+        "text": "完全に冷ましてから、ミキサーにかけてペースト状にする",
+        "tip": "温かいまま混ぜるより、冷ましてから混ぜた方が安全"
+      },
+      {
+        "step": 6,
+        "text": "再び鍋に戻し、牛乳を加えて温める",
+        "tip": "沸騰させないこと"
+      },
+      {
+        "step": 7,
+        "text": "塩・こしょうで味を調え、白ごあたはクルトンでトッピングして完成",
+        "tip": null
+      }
+    ],
+    "meta_title": "かぼちゃのポタージュ | 秋冬のスープ。かぼちゃの甘さが美味しい",
+    "meta_description": "かぼちゃの甘さが引き出される、濃厚でクリーミーなポタージュ。30分で完成します。",
+    "keywords": [
+      "かぼちゃ",
+      "ポタージュ",
+      "スープ",
+      "秋冬",
+      "クリームスープ"
+    ],
+    "cuisine": "洋食",
+    "course": "スープ",
+    "tips": "かぼちゃは電子レンジで加熱してから使うと、調理時間が短縮できます。ミキサーがない場合は、フォークで潰してから、ざるでこすと滑らかなペースト状になります。冷ましてからミキサーにかけることで、やけど防止になります。温かいままでも冷やしても美味しい。",
+    "tag_slugs": [
+      "creamy",
+      "sweet",
+      "soup",
+      "vegetarian"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "kabocha-squash",
+        "name": "かぼちゃ",
+        "quantity": "300",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "0.5",
+        "unit": "個"
+      },
+      {
+        "slug": "butter",
+        "name": "バター",
+        "quantity": "15",
+        "unit": "g"
+      },
+      {
+        "slug": "stock-soup",
+        "name": "スープストック",
+        "quantity": "300",
+        "unit": "ml"
+      },
+      {
+        "slug": "milk",
+        "name": "牛乳",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "black-pepper",
+        "name": "黒こしょう",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "white-sesame",
+        "name": "白ごま",
+        "quantity": "適量",
+        "unit": "g"
+      },
+      {
+        "slug": "crouton",
+        "name": "クルトン",
+        "quantity": "適量",
+        "unit": "g"
+      }
+    ]
+  }
+]

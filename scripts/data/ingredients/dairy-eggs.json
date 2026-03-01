@@ -1,0 +1,253 @@
+{
+  "category": "乳製品・卵",
+  "ingredients": [
+    {
+      "name": "卵",
+      "slug": "egg",
+      "name_en": "Chicken Egg",
+      "name_reading": "たまご",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "うずらの卵",
+      "slug": "quail-egg",
+      "name_en": "Quail Egg",
+      "name_reading": "うずらのたまご",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "牛乳",
+      "slug": "milk",
+      "name_en": "Cow's Milk",
+      "name_reading": "ぎゅうにゅう",
+      "season": "通年",
+      "origin": "日本全国"
+    },
+    {
+      "name": "バター",
+      "slug": "butter",
+      "name_en": "Butter",
+      "name_reading": "ばたー",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "無塩バター",
+      "slug": "unsalted-butter",
+      "name_en": "Unsalted Butter",
+      "name_reading": "むえんばたー",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "有塩バター",
+      "slug": "salted-butter",
+      "name_en": "Salted Butter",
+      "name_reading": "ゆうえんばたー",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "生クリーム",
+      "slug": "heavy-cream",
+      "name_en": "Heavy Cream",
+      "name_reading": "なまくりーむ",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "パルメザンチーズ",
+      "slug": "parmesan-cheese",
+      "name_en": "Parmesan Cheese",
+      "name_reading": "ぱるめざんちーず",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "モッツァレラチーズ",
+      "slug": "mozzarella-cheese",
+      "name_en": "Mozzarella Cheese",
+      "name_reading": "もっつぁれらちーず",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "クリームチーズ",
+      "slug": "cream-cheese",
+      "name_en": "Cream Cheese",
+      "name_reading": "くりーむちーず",
+      "season": "通年",
+      "origin": "アメリカ、日本"
+    },
+    {
+      "name": "ピザ用チーズ",
+      "slug": "pizza-cheese",
+      "name_en": "Pizza Cheese",
+      "name_reading": "ぴざようちーず",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "ヨーグルト",
+      "slug": "yogurt",
+      "name_en": "Yogurt",
+      "name_reading": "よーぐると",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "サワークリーム",
+      "slug": "sour-cream",
+      "name_en": "Sour Cream",
+      "name_reading": "さわーくりーむ",
+      "season": "通年",
+      "origin": "海外"
+    },
+    {
+      "name": "粉チーズ",
+      "slug": "powdered-cheese",
+      "name_en": "Powdered Cheese",
+      "name_reading": "こなちーず",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "チェダーチーズ",
+      "slug": "cheddar-cheese",
+      "name_en": "Cheddar Cheese",
+      "name_reading": "ちぇだーちーず",
+      "season": "通年",
+      "origin": "イギリス、海外"
+    },
+    {
+      "name": "ゴルゴンゾーラ",
+      "slug": "gorgonzola-cheese",
+      "name_en": "Gorgonzola Cheese",
+      "name_reading": "ごるごんぞーら",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "カマンベール",
+      "slug": "camembert-cheese",
+      "name_en": "Camembert Cheese",
+      "name_reading": "かまんべーる",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "マスカルポーネ",
+      "slug": "mascarpone-cheese",
+      "name_en": "Mascarpone Cheese",
+      "name_reading": "ますかるぽーね",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "リコッタ",
+      "slug": "ricotta-cheese",
+      "name_en": "Ricotta Cheese",
+      "name_reading": "りこった",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "ゴーダチーズ",
+      "slug": "gouda-cheese",
+      "name_en": "Gouda Cheese",
+      "name_reading": "ごーだちーず",
+      "season": "通年",
+      "origin": "オランダ"
+    },
+    {
+      "name": "ブリーチーズ",
+      "slug": "brie-cheese",
+      "name_en": "Brie Cheese",
+      "name_reading": "ぶりーちーず",
+      "season": "通年",
+      "origin": "フランス"
+    },
+    {
+      "name": "プロセスチーズ",
+      "slug": "processed-cheese",
+      "name_en": "Processed Cheese",
+      "name_reading": "ぷろせすちーず",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "スライスチーズ",
+      "slug": "sliced-cheese",
+      "name_en": "Sliced Cheese",
+      "name_reading": "すらいすちーず",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "練乳",
+      "slug": "condensed-milk",
+      "name_en": "Condensed Milk",
+      "name_reading": "れんにゅう",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "脱脂粉乳",
+      "slug": "skim-milk-powder",
+      "name_en": "Skim Milk Powder",
+      "name_reading": "だっしふんにゅう",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "ホイップクリーム",
+      "slug": "whipped-cream",
+      "name_en": "Whipped Cream",
+      "name_reading": "ほいっぷくりーむ",
+      "season": "通年",
+      "origin": "日本、海外"
+    },
+    {
+      "name": "エバミルク",
+      "slug": "evaporated-milk",
+      "name_en": "Evaporated Milk",
+      "name_reading": "えばみるく",
+      "season": "通年",
+      "origin": "海外"
+    },
+    {
+      "name": "フェタチーズ",
+      "slug": "feta-cheese",
+      "name_en": "Feta Cheese",
+      "name_reading": "ふぇたちーず",
+      "season": "通年",
+      "origin": "ギリシャ"
+    },
+    {
+      "name": "スイスチーズ",
+      "slug": "swiss-cheese",
+      "name_en": "Swiss Cheese",
+      "name_reading": "すいすちーず",
+      "season": "通年",
+      "origin": "スイス"
+    },
+    {
+      "name": "モッツァレラ・ディ・ブッファラ",
+      "slug": "buffalo-mozzarella",
+      "name_en": "Buffalo Mozzarella",
+      "name_reading": "もっつぁれらでぃぶっふぁら",
+      "season": "春夏",
+      "origin": "イタリア"
+    },
+    {
+      "name": "ロックフォール",
+      "slug": "roquefort-cheese",
+      "name_en": "Roquefort Cheese",
+      "name_reading": "ろっくふぉーる",
+      "season": "通年",
+      "origin": "フランス"
+    }
+  ]
+}

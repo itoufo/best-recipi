@@ -1,0 +1,453 @@
+{
+  "category": "肉類",
+  "ingredients": [
+    {
+      "name": "鶏もも肉",
+      "slug": "chicken-thigh",
+      "name_en": "Chicken Thigh",
+      "name_reading": "とりももにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏むね肉",
+      "slug": "chicken-breast",
+      "name_en": "Chicken Breast",
+      "name_reading": "とりむねにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏ささみ",
+      "slug": "chicken-tenderloin",
+      "name_en": "Chicken Tenderloin",
+      "name_reading": "とりささみ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏手羽先",
+      "slug": "chicken-drumette",
+      "name_en": "Chicken Drumette",
+      "name_reading": "とりてばさき",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏手羽元",
+      "slug": "chicken-wing-butt",
+      "name_en": "Chicken Wing Butt",
+      "name_reading": "とりてばもと",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏手羽中",
+      "slug": "chicken-wing-middle",
+      "name_en": "Chicken Wing Middle",
+      "name_reading": "とりてばなか",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏ひき肉",
+      "slug": "chicken-ground",
+      "name_en": "Ground Chicken",
+      "name_reading": "とりひきにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏皮",
+      "slug": "chicken-skin",
+      "name_en": "Chicken Skin",
+      "name_reading": "とりかわ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏レバー",
+      "slug": "chicken-liver",
+      "name_en": "Chicken Liver",
+      "name_reading": "とりればー",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏もつ",
+      "slug": "chicken-giblets",
+      "name_en": "Chicken Giblets",
+      "name_reading": "とりもつ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏ガラ",
+      "slug": "chicken-carcass",
+      "name_en": "Chicken Carcass",
+      "name_reading": "とりがら",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "砂肝",
+      "slug": "chicken-gizzard",
+      "name_en": "Chicken Gizzard",
+      "name_reading": "すなぎも",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚バラ肉",
+      "slug": "pork-belly",
+      "name_en": "Pork Belly",
+      "name_reading": "ぶたばらにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚ロース",
+      "slug": "pork-loin",
+      "name_en": "Pork Loin",
+      "name_reading": "ぶたろーす",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚こま切れ肉",
+      "slug": "pork-small-cuts",
+      "name_en": "Pork Small Cuts",
+      "name_reading": "ぶたこまぎれにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚ひき肉",
+      "slug": "pork-ground",
+      "name_en": "Ground Pork",
+      "name_reading": "ぶたひきにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚肩ロース",
+      "slug": "pork-shoulder-loin",
+      "name_en": "Pork Shoulder Loin",
+      "name_reading": "ぶたかたろーす",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚もも肉",
+      "slug": "pork-leg",
+      "name_en": "Pork Leg",
+      "name_reading": "ぶたももにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚ヒレ肉",
+      "slug": "pork-tenderloin",
+      "name_en": "Pork Tenderloin",
+      "name_reading": "ぶたひれにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚足",
+      "slug": "pork-trotters",
+      "name_en": "Pork Trotters",
+      "name_reading": "ぶたあし",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚タン",
+      "slug": "pork-tongue",
+      "name_en": "Pork Tongue",
+      "name_reading": "ぶたたん",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚レバー",
+      "slug": "pork-liver",
+      "name_en": "Pork Liver",
+      "name_reading": "ぶたればー",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚ハラミ",
+      "slug": "pork-skirt",
+      "name_en": "Pork Skirt",
+      "name_reading": "ぶたはらみ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "スペアリブ",
+      "slug": "pork-spare-ribs",
+      "name_en": "Pork Spare Ribs",
+      "name_reading": "すぺありぶ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛薄切り肉",
+      "slug": "beef-thin-slices",
+      "name_en": "Beef Thin Slices",
+      "name_reading": "うしうすぎりにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛切り落とし",
+      "slug": "beef-rough-cuts",
+      "name_en": "Beef Rough Cuts",
+      "name_reading": "うしきりおとし",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛すね肉",
+      "slug": "beef-shank",
+      "name_en": "Beef Shank",
+      "name_reading": "うしすねにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ひき肉",
+      "slug": "beef-ground",
+      "name_en": "Ground Beef",
+      "name_reading": "うしひきにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛すじ",
+      "slug": "beef-tendon",
+      "name_en": "Beef Tendon",
+      "name_reading": "うしすじ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ステーキ肉",
+      "slug": "beef-steak",
+      "name_en": "Beef Steak",
+      "name_reading": "うしすてーきにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛タン",
+      "slug": "beef-tongue",
+      "name_en": "Beef Tongue",
+      "name_reading": "うしたん",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛カルビ",
+      "slug": "beef-galbi",
+      "name_en": "Beef Galbi",
+      "name_reading": "うしかるび",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ハラミ",
+      "slug": "beef-skirt",
+      "name_en": "Beef Skirt",
+      "name_reading": "うしはらみ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ロース",
+      "slug": "beef-loin",
+      "name_en": "Beef Loin",
+      "name_reading": "うしろーす",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛もも肉",
+      "slug": "beef-leg",
+      "name_en": "Beef Leg",
+      "name_reading": "うしももにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛レバー",
+      "slug": "beef-liver",
+      "name_en": "Beef Liver",
+      "name_reading": "うしればー",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ホルモン",
+      "slug": "beef-offal",
+      "name_en": "Beef Offal",
+      "name_reading": "うしほるもん",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "合いびき肉",
+      "slug": "mixed-ground-meat",
+      "name_en": "Mixed Ground Meat",
+      "name_reading": "あいびきにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "ベーコン",
+      "slug": "bacon",
+      "name_en": "Bacon",
+      "name_reading": "べーこん",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "ハム",
+      "slug": "ham",
+      "name_en": "Ham",
+      "name_reading": "はむ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "ソーセージ",
+      "slug": "sausage",
+      "name_en": "Sausage",
+      "name_reading": "そーせーじ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "ウインナー",
+      "slug": "wiener",
+      "name_en": "Wiener",
+      "name_reading": "うぃんなー",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "生ハム",
+      "slug": "prosciutto",
+      "name_en": "Prosciutto",
+      "name_reading": "なまはむ",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "パンチェッタ",
+      "slug": "pancetta",
+      "name_en": "Pancetta",
+      "name_reading": "ぱんちぇった",
+      "season": "通年",
+      "origin": "イタリア"
+    },
+    {
+      "name": "サラミ",
+      "slug": "salami",
+      "name_en": "Salami",
+      "name_reading": "さらみ",
+      "season": "通年",
+      "origin": "ヨーロッパ"
+    },
+    {
+      "name": "コンビーフ",
+      "slug": "corned-beef",
+      "name_en": "Corned Beef",
+      "name_reading": "こんびーふ",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "焼き豚",
+      "slug": "roasted-pork",
+      "name_en": "Roasted Pork",
+      "name_reading": "やきぶた",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "ラムチョップ",
+      "slug": "lamb-chop",
+      "name_en": "Lamb Chop",
+      "name_reading": "らむちょっぷ",
+      "season": "通年",
+      "origin": "オーストラリア、ニュージーランド"
+    },
+    {
+      "name": "鹿肉",
+      "slug": "venison",
+      "name_en": "Venison",
+      "name_reading": "しかにく",
+      "season": "秋-冬",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鴨肉",
+      "slug": "duck-meat",
+      "name_en": "Duck Meat",
+      "name_reading": "かもにく",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ミノ",
+      "slug": "beef-tripe",
+      "name_en": "Beef Tripe",
+      "name_reading": "うしみの",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ハチノス",
+      "slug": "beef-honeycomb-tripe",
+      "name_en": "Beef Honeycomb Tripe",
+      "name_reading": "うしはちのす",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛ギアラ",
+      "slug": "beef-abomasum",
+      "name_en": "Beef Abomasum",
+      "name_reading": "うしぎあら",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "牛センマイ",
+      "slug": "beef-omasum",
+      "name_en": "Beef Omasum",
+      "name_reading": "うしせんまい",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "豚内臓",
+      "slug": "pork-intestines",
+      "name_en": "Pork Intestines",
+      "name_reading": "ぶたないぞう",
+      "season": "通年",
+      "origin": "日本各地"
+    },
+    {
+      "name": "鶏ハツ",
+      "slug": "chicken-heart",
+      "name_en": "Chicken Heart",
+      "name_reading": "とりはつ",
+      "season": "通年",
+      "origin": "日本各地"
+    }
+  ]
+}

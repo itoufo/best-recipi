@@ -1,0 +1,213 @@
+{
+  "category": "粉類",
+  "ingredients": [
+    {
+      "name": "薄力粉",
+      "slug": "hakurikikou",
+      "name_en": "Cake flour",
+      "name_reading": "はくりょくこ",
+      "season": "通年",
+      "origin": "国内・オーストラリア"
+    },
+    {
+      "name": "強力粉",
+      "slug": "kyouryokukou",
+      "name_en": "Bread flour",
+      "name_reading": "きょうりょくこ",
+      "season": "通年",
+      "origin": "国内・カナダ"
+    },
+    {
+      "name": "中力粉",
+      "slug": "churyokukou",
+      "name_en": "All-purpose flour",
+      "name_reading": "ちゅうりょくこ",
+      "season": "通年",
+      "origin": "国内・オーストラリア"
+    },
+    {
+      "name": "片栗粉",
+      "slug": "katakuriko",
+      "name_en": "Potato starch",
+      "name_reading": "かたくりこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "パン粉",
+      "slug": "panko",
+      "name_en": "Panko breadcrumb",
+      "name_reading": "ぱんこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "天ぷら粉",
+      "slug": "tempura-ko",
+      "name_en": "Tempura flour",
+      "name_reading": "てんぷらこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "コーンスターチ",
+      "slug": "corn-starchi",
+      "name_en": "Cornstarch",
+      "name_reading": "こーんすたーち",
+      "season": "通年",
+      "origin": "アメリカ・中国"
+    },
+    {
+      "name": "上新粉",
+      "slug": "joushinko",
+      "name_en": "Rice flour",
+      "name_reading": "じょうしんこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "白玉粉",
+      "slug": "shiratamako",
+      "name_en": "Shiratama flour",
+      "name_reading": "しらたまこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "もち粉",
+      "slug": "mochiko",
+      "name_en": "Mochiko",
+      "name_reading": "もちこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "ホットケーキミックス",
+      "slug": "hotcake-mix",
+      "name_en": "Hotcake mix",
+      "name_reading": "ほっとけーきみっくす",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "そば粉",
+      "slug": "sobaako",
+      "name_en": "Buckwheat flour",
+      "name_reading": "そばこ",
+      "season": "通年",
+      "origin": "国内・中国"
+    },
+    {
+      "name": "米粉",
+      "slug": "komeko",
+      "name_en": "Rice flour",
+      "name_reading": "こめこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "タピオカ粉",
+      "slug": "tapioka-ko",
+      "name_en": "Tapioca flour",
+      "name_reading": "たぴおかこ",
+      "season": "通年",
+      "origin": "タイ・インドネシア"
+    },
+    {
+      "name": "全粒粉",
+      "slug": "zenryuukou",
+      "name_en": "Whole wheat flour",
+      "name_reading": "ぜんりゅうこ",
+      "season": "通年",
+      "origin": "国内・カナダ"
+    },
+    {
+      "name": "ライ麦粉",
+      "slug": "raimugi-ko",
+      "name_en": "Rye flour",
+      "name_reading": "らいむぎこ",
+      "season": "通年",
+      "origin": "ドイツ・ロシア"
+    },
+    {
+      "name": "セモリナ粉",
+      "slug": "semorina-ko",
+      "name_en": "Semolina flour",
+      "name_reading": "せもりなこ",
+      "season": "通年",
+      "origin": "イタリア・国内"
+    },
+    {
+      "name": "アーモンドプードル",
+      "slug": "almondo-pudoru",
+      "name_en": "Almond flour",
+      "name_reading": "あーもんどぷーどる",
+      "season": "通年",
+      "origin": "アメリカ・スペイン"
+    },
+    {
+      "name": "きな粉",
+      "slug": "kinako",
+      "name_en": "Roasted soybean flour",
+      "name_reading": "きなこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "抹茶粉",
+      "slug": "matcha-ko",
+      "name_en": "Matcha powder",
+      "name_reading": "まっちゃこ",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "ココアパウダー",
+      "slug": "cocoa-paudaa",
+      "name_en": "Cocoa powder",
+      "name_reading": "ここあぱうだー",
+      "season": "通年",
+      "origin": "ガーナ・コートジボワール"
+    },
+    {
+      "name": "ベーキングパウダー",
+      "slug": "baking-paudaa",
+      "name_en": "Baking powder",
+      "name_reading": "べーきんぐぱうだー",
+      "season": "通年",
+      "origin": "国内・ドイツ"
+    },
+    {
+      "name": "重曹",
+      "slug": "juusou",
+      "name_en": "Baking soda",
+      "name_reading": "じゅうそう",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "ドライイースト",
+      "slug": "dorai-ist",
+      "name_en": "Dry yeast",
+      "name_reading": "どらいいーすと",
+      "season": "通年",
+      "origin": "国内・ベルギー"
+    },
+    {
+      "name": "片栗粉代用品",
+      "slug": "katakuriko-daiyo",
+      "name_en": "Starch substitute",
+      "name_reading": "かたくりこだいようひん",
+      "season": "通年",
+      "origin": "国内"
+    },
+    {
+      "name": "グルテンフリー粉",
+      "slug": "gluten-free-ko",
+      "name_en": "Gluten-free flour",
+      "name_reading": "ぐるてんふりーこ",
+      "season": "通年",
+      "origin": "国内・オーストラリア"
+    }
+  ]
+}

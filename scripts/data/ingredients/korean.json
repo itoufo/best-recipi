@@ -1,0 +1,285 @@
+{
+  "category": "韓国食材",
+  "ingredients": [
+    {
+      "name": "コチュカル",
+      "slug": "gochugaru",
+      "name_en": "Gochugaru",
+      "name_reading": "こちゅかる",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "テンジャン",
+      "slug": "doenjang",
+      "name_en": "Doenjang",
+      "name_reading": "てんじゃん",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "カンジャン",
+      "slug": "kanjang",
+      "name_en": "Kanjang",
+      "name_reading": "かんじゃん",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "サムジャン",
+      "slug": "ssamjang",
+      "name_en": "Ssamjang",
+      "name_reading": "さむじゃん",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "チョコチュジャン",
+      "slug": "choco-gochujang",
+      "name_en": "Choco Gochujang",
+      "name_reading": "ちょこちゅじゃん",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "ミョルチエキス",
+      "slug": "myolchi-extract",
+      "name_en": "Myolchi Extract",
+      "name_reading": "みょるちえきす",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "セウジョッ",
+      "slug": "saeujeot",
+      "name_en": "Saeujeot",
+      "name_reading": "せうじょっ",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "エゴマ油",
+      "slug": "perilla-oil",
+      "name_en": "Perilla Oil",
+      "name_reading": "えごまあぶら",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "ゴマ油（韓国）",
+      "slug": "sesame-oil-korean",
+      "name_en": "Korean Sesame Oil",
+      "name_reading": "ごまあぶらかんこく",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "カクテキ",
+      "slug": "kakuteki",
+      "name_en": "Kakuteki",
+      "name_reading": "かくてき",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "チョンガクキムチ",
+      "slug": "chongak-kimchi",
+      "name_en": "Chongak Kimchi",
+      "name_reading": "ちょんがくきむち",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "ムルキムチ",
+      "slug": "mul-kimchi",
+      "name_en": "Mul Kimchi",
+      "name_reading": "むるきむち",
+      "season": "夏秋",
+      "origin": "韓国"
+    },
+    {
+      "name": "チャンアチ",
+      "slug": "chan-achi",
+      "name_en": "Chan Achi",
+      "name_reading": "ちゃんあち",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "エゴマの葉",
+      "slug": "perilla-leaf",
+      "name_en": "Perilla Leaf",
+      "name_reading": "えごまのは",
+      "season": "夏秋",
+      "origin": "韓国"
+    },
+    {
+      "name": "コッチュ",
+      "slug": "kkochu",
+      "name_en": "Kkochu",
+      "name_reading": "こっちゅ",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "もやし（韓国産）",
+      "slug": "moyashi-korean",
+      "name_en": "Korean Soybean Sprouts",
+      "name_reading": "もやしかんこくさん",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "韓国春雨",
+      "slug": "tanmyeon",
+      "name_en": "Tanmyeon",
+      "name_reading": "かんこくはるさめ",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "トック",
+      "slug": "tteok",
+      "name_en": "Tteok",
+      "name_reading": "とっく",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "トッポギ用餅",
+      "slug": "tteokbokki-rice-cake",
+      "name_en": "Tteokbokki Rice Cake",
+      "name_reading": "とっぽぎようもち",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "干しダラ",
+      "slug": "bugeo",
+      "name_en": "Bugeo",
+      "name_reading": "ほしだら",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "キンパ用海苔",
+      "slug": "kimbap-nori",
+      "name_en": "Kimbap Nori",
+      "name_reading": "きんぱようのり",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "チヂミ粉",
+      "slug": "jjeon-powder",
+      "name_en": "Jjeon Powder",
+      "name_reading": "ちぢみこ",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "唐辛子糸",
+      "slug": "gochugaru-thread",
+      "name_en": "Gochugaru Thread",
+      "name_reading": "とうがらしいと",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "ダシダ",
+      "slug": "dashida",
+      "name_en": "Dashida",
+      "name_reading": "だしだ",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "イカの塩辛",
+      "slug": "ojingeochae",
+      "name_en": "Ojingeochae",
+      "name_reading": "いかのしおから",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "ナマコの塩辛",
+      "slug": "sea-cucumber-salt",
+      "name_en": "Sea Cucumber Salted",
+      "name_reading": "なまこのしおから",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "ホタテの塩辛",
+      "slug": "scallop-jeotgal",
+      "name_en": "Scallop Jeotgal",
+      "name_reading": "ほたてのしおから",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "韓国味噌汁の素",
+      "slug": "miso-soup-base",
+      "name_en": "Korean Miso Soup Base",
+      "name_reading": "かんこくみそじるのもと",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "煮干しだし",
+      "slug": "myolchi-daishi",
+      "name_en": "Anchovy Broth",
+      "name_reading": "にぼしだし",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "昆布だし",
+      "slug": "kombu-daishi",
+      "name_en": "Kelp Broth",
+      "name_reading": "こんぶだし",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "唐辛子ペースト（甘口）",
+      "slug": "gochujang-mild",
+      "name_en": "Mild Gochujang",
+      "name_reading": "とうがらしぺーすとあまくち",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "きのこ（乾燥）",
+      "slug": "dried-mushroom-korean",
+      "name_en": "Dried Mushroom",
+      "name_reading": "きのこかんそう",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "ニンニク漬け",
+      "slug": "garlic-pickle",
+      "name_en": "Garlic Pickle",
+      "name_reading": "にんにくづけ",
+      "season": "秋冬",
+      "origin": "韓国"
+    },
+    {
+      "name": "韓国海苔ふりかけ",
+      "slug": "gim-furikake",
+      "name_en": "Gim Furikake",
+      "name_reading": "かんこくのりふりかけ",
+      "season": "通年",
+      "origin": "韓国"
+    },
+    {
+      "name": "プルコギ用調味料",
+      "slug": "bulgogi-marinade",
+      "name_en": "Bulgogi Marinade",
+      "name_reading": "ぷるこぎようちょうみりょう",
+      "season": "通年",
+      "origin": "韓国"
+    }
+  ]
+}

@@ -1,0 +1,1245 @@
+[
+  {
+    "slug": "bibimbap",
+    "title": "ビビンバ",
+    "description": "色とりどりの野菜と卵、牛肉を混ぜて食べる韓国の代表的なご飯料理",
+    "introduction": "様々な野菜、卵、牛肉をコチュジャンで味付けしたご飯に乗せて混ぜて食べます。栄養バランスに優れ、見た目も鮮やかな韓国を代表する料理です。ボリュームがあり、一皿で十分な満足感が得られます。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 45,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 580,
+    "protein_g": 24,
+    "fat_g": 18,
+    "carbs_g": 78,
+    "fiber_g": 5,
+    "sodium_mg": 920,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "牛肉を薄くスライスし、醤油、砂糖、ニンニク、ゴマ油で下味をつけます。",
+        "tip": "牛肉は冷蔵庫で冷やすとスライスしやすいです"
+      },
+      {
+        "step": 2,
+        "text": "ほうれん草、もやし、人参をそれぞれ塩ゆでして、醤油とゴマ油で和えます。",
+        "tip": "野菜は冷ましてから和えると色がきれいに保たれます"
+      },
+      {
+        "step": 3,
+        "text": "フライパンで牛肉を炒め、火が通ったら取り出します。",
+        "tip": "強火でさっと炒めることで、肉の食感が良くなります"
+      },
+      {
+        "step": 4,
+        "text": "同じフライパンで目玉焼きを焼きます。黄身がとろりと残る程度が目安です。",
+        "tip": "焼く前にフライパンに油をひくと焦げつきません"
+      },
+      {
+        "step": 5,
+        "text": "温かいご飯を器に盛り、中央に目玉焼きを乗せ、その周りに炒めた牛肉と和えた野菜を放射状に並べます。",
+        "tip": "具材を放射状に配置することで見た目が美しくなります"
+      },
+      {
+        "step": 6,
+        "text": "コチュジャン、砂糖、ニンニク、ゴマ油を混ぜたタレを上からかけて完成です。",
+        "tip": "タレは好みの辛さに調整してください"
+      }
+    ],
+    "meta_title": "ビビンバの作り方 | 本格韓国料理レシピ",
+    "meta_description": "色彩豊かな野菜と牛肉、卵を混ぜて食べる韓国の代表料理ビビンバ。栄養バランスに優れ、家庭でも簡単に作れるレシピを紹介します。",
+    "keywords": ["ビビンバ", "韓国料理", "ご飯", "牛肉"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "野菜はそれぞれ別々に炒めることで、色と食感が生かされます。コチュジャンの量は辛さの好みで調整してください。ご飯はできるだけ温かいものを使うことが大切です。",
+    "tag_slugs": ["spicy", "umami", "entertaining", "meal-prep"],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳"
+      },
+      {
+        "slug": "beef-sliced",
+        "name": "牛肉（薄切り）",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "spinach",
+        "name": "ほうれん草",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "mung-bean-sprouts",
+        "name": "もやし",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "cheese-dakgalbi",
+    "title": "チーズタッカルビ",
+    "description": "鶏肉とチーズを混ぜた辛いタッカルビ。SNSで話題の韓国料理",
+    "introduction": "コチュジャンで味付けした鶏肉とたっぷりのチーズが絡み合う、濃厚で満足度の高い一品です。見た目も華やかで、パーティーやおもてなし料理としても人気があります。チーズの塩辛さとコチュジャンの辛さが絶妙にマッチします。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 45,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 620,
+    "protein_g": 32,
+    "fat_g": 28,
+    "carbs_g": 58,
+    "fiber_g": 2,
+    "sodium_mg": 1050,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉を一口大に切ります。",
+        "tip": "均一なサイズに切ると火が通りやすくなります"
+      },
+      {
+        "step": 2,
+        "text": "コチュジャン、砂糖、ニンニク、醤油、ゴマ油を混ぜてタレを作ります。",
+        "tip": "砂糖はコチュジャンの辛さをまろやかにします"
+      },
+      {
+        "step": 3,
+        "text": "鶏肉をタレに漬けて15分間冷蔵庫で寝かせます。",
+        "tip": "寝かせることで味が染み込み、より美味しくなります"
+      },
+      {
+        "step": 4,
+        "text": "フライパンに油を敷き、漬けた鶏肉を強火で炒めます。",
+        "tip": "表面に焼き色がつくまで炒めることで香ばしさが出ます"
+      },
+      {
+        "step": 5,
+        "text": "火が通ったら、スライスチーズを乗せて弱火で加熱します。",
+        "tip": "チーズが全体に広がるまで少し待ちます"
+      },
+      {
+        "step": 6,
+        "text": "チーズが溶けたら、トウモロコシとジャガイモを加えて完成です。",
+        "tip": "タバスコで辛さを加えることもできます"
+      }
+    ],
+    "meta_title": "チーズタッカルビの作り方 | 濃厚な韓国料理レシピ",
+    "meta_description": "チーズがとろけた濃厚なタッカルビ。鶏肉とチーズの相性は抜群で、ご飯にも酒のつまみにも最適です。簡単に作れるレシピをご紹介。",
+    "keywords": ["チーズタッカルビ", "韓国料理", "鶏肉"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "チーズは好みの量に調整できます。シュレッドチーズを使う場合は、熱した鶏肉の上にかけると均一に溶けます。焦げやすいので火加減に注意してください。",
+    "tag_slugs": ["spicy", "rich", "creamy", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "melting-cheese",
+        "name": "スライスチーズ",
+        "quantity": "6",
+        "unit": "枚"
+      },
+      {
+        "slug": "corn",
+        "name": "トウモロコシ",
+        "quantity": "60",
+        "unit": "g"
+      },
+      {
+        "slug": "potato",
+        "name": "ジャガイモ",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "samgyeopsal",
+    "title": "サムギョプサル",
+    "description": "豚バラ肉をグリルで焼き、野菜で包んで食べる韓国の焼肉料理",
+    "introduction": "塩辛い豚バラ肉を熱したグリルで焼き、レタスやサンチュなどの野菜に包んで、コチュジャンダレをつけて食べます。肉の甘さと野菜の爽やかさが相まって、何度でも食べたくなる美味しさです。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 510,
+    "protein_g": 28,
+    "fat_g": 42,
+    "carbs_g": 8,
+    "fiber_g": 1,
+    "sodium_mg": 780,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚バラ肉に塩とこしょうで下味をつけます。",
+        "tip": "塩は表面に軽くふりかけるだけで十分です"
+      },
+      {
+        "step": 2,
+        "text": "レタスとサンチュを洗い、水気を拭き取ります。",
+        "tip": "水気があるとタレが流れやすくなるので、しっかり拭き取ります"
+      },
+      {
+        "step": 3,
+        "text": "グリルを高温に熱し、豚バラ肉を焼きます。",
+        "tip": "肉の両面に焼き色がつくまで焼きます。約3分程度が目安です"
+      },
+      {
+        "step": 4,
+        "text": "焼けた肉を取り出し、食べやすい大きさにカットします。",
+        "tip": "熱いうちに食べるのが最も美味しいです"
+      },
+      {
+        "step": 5,
+        "text": "レタスに焼いた豚肉を乗せ、ニンニクのスライスとコチュジャンダレをのせます。",
+        "tip": "ニンニクは薄くスライスすると食べやすいです"
+      }
+    ],
+    "meta_title": "サムギョプサルの作り方 | 韓国焼肉レシピ",
+    "meta_description": "豚バラ肉を野菜で包んで食べるサムギョプサル。家庭でも簡単に作れる本格韓国焼肉です。パーティーにもぴったり。",
+    "keywords": ["サムギョプサル", "韓国料理", "焼肉"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "豚バラ肉は新鮮なものを選んでください。グリルがない場合はホットプレートやフライパンでも調理できます。ニンニクの量はお好みで調整できます。",
+    "tag_slugs": ["rich", "grill", "entertaining", "umami"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-belly",
+        "name": "豚バラ肉",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "slug": "lettuce",
+        "name": "レタス",
+        "quantity": "1/4",
+        "unit": "個"
+      },
+      {
+        "slug": "korean-lettuce",
+        "name": "サンチュ",
+        "quantity": "8",
+        "unit": "枚"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "4",
+        "unit": "片"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "kimchi-jjigae",
+    "title": "キムチチゲ",
+    "description": "キムチと豚肉の旨味が引き出された、辛い韓国の鍋料理",
+    "introduction": "酸っぱいキムチと豚肉、豆腐が一緒に煮込まれた、濃厚で辛い韓国の代表的な鍋料理です。豆板醤や唐辛子で追加の辛さを加えることもできます。冷える季節の温かい一品として、最高のコンフォートフードです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 380,
+    "protein_g": 26,
+    "fat_g": 16,
+    "carbs_g": 35,
+    "fiber_g": 3,
+    "sodium_mg": 1200,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚肉を薄くスライスし、キムチを一口大に切ります。",
+        "tip": "豚肉は冷蔵庫で冷やすとスライスしやすいです"
+      },
+      {
+        "step": 2,
+        "text": "昆布と煮干しで出汁を取ります。",
+        "tip": "10分程度の出汁で十分です"
+      },
+      {
+        "step": 3,
+        "text": "鍋に油を敷き、豚肉を炒めて取り出します。",
+        "tip": "表面に焼き色がつくまで炒めます"
+      },
+      {
+        "step": 4,
+        "text": "同じ鍋にキムチを入れて炒め、キムチの香りが出るまで加熱します。",
+        "tip": "キムチの汁も一緒に加えると味が深くなります"
+      },
+      {
+        "step": 5,
+        "text": "出汁を加えて沸騰させ、豚肉と豆腐を戻し入れて煮込みます。",
+        "tip": "豆腐は崩れやすいので、優しく扱います"
+      },
+      {
+        "step": 6,
+        "text": "10分程度煮込み、好みの辛さになるまで調整して完成です。",
+        "tip": "ニンニクの芽やネギを最後に加えると香りが引き立ちます"
+      }
+    ],
+    "meta_title": "キムチチゲの作り方 | 辛い韓国鍋レシピ",
+    "meta_description": "キムチの酸っぱさと豚肉の旨味が融合したキムチチゲ。家庭でも簡単に作れる本格韓国鍋です。",
+    "keywords": ["キムチチゲ", "韓国料理", "鍋"],
+    "cuisine": "韓国料理",
+    "course": "soup",
+    "tips": "キムチは古いものほど酸味が出て、味わい深くなります。豆腐を入れるタイミングは最後が良く、煮込み過ぎないようにしましょう。玉ねぎやしいたけなどを加えてもおいしいです。",
+    "tag_slugs": ["spicy", "rich", "simmer", "comforting"],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "pork-belly",
+        "name": "豚バラ肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "kimchi",
+        "name": "キムチ",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "tofu",
+        "name": "絹ごし豆腐",
+        "quantity": "1",
+        "unit": "丁"
+      },
+      {
+        "slug": "dashi-stock",
+        "name": "出汁（昆布・煮干し）",
+        "quantity": "2",
+        "unit": "カップ"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片"
+      },
+      {
+        "slug": "green-onion",
+        "name": "ネギ",
+        "quantity": "1/2",
+        "unit": "本"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "japchae",
+    "title": "チャプチェ",
+    "description": "春雨と野菜を甘辛く炒めた、彩りの美しい韓国の炒め物",
+    "introduction": "透明な春雨と色彩豊かな野菜、牛肉を醤油ベースの甘辛いタレで炒めた一品です。ゴマ油の香りが食欲をそそり、お弁当のおかずからパーティー料理まで、様々なシーンで活躍します。冷めても美味しく食べられます。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 420,
+    "protein_g": 18,
+    "fat_g": 14,
+    "carbs_g": 56,
+    "fiber_g": 3,
+    "sodium_mg": 680,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "春雨をお湯で戻します。5分程度で十分です。",
+        "tip": "戻した春雨はザルで水気をしっかり切ります"
+      },
+      {
+        "step": 2,
+        "text": "牛肉を薄くスライスし、醤油、砂糖、ニンニク、ゴマ油で下味をつけます。",
+        "tip": "牛肉は冷蔵庫で冷やすとスライスしやすいです"
+      },
+      {
+        "step": 3,
+        "text": "人参、玉ねぎ、ピーマンを細切りにします。",
+        "tip": "野菜の大きさを揃えることで、火の通りが均一になります"
+      },
+      {
+        "step": 4,
+        "text": "フライパンに油を敷き、下味をつけた牛肉を炒めます。",
+        "tip": "肉の色が変わるまで炒めたら一度取り出します"
+      },
+      {
+        "step": 5,
+        "text": "同じフライパンで野菜を炒め、火が通ったら春雨と牛肉を戻し入れます。",
+        "tip": "野菜を炒めてから春雨を加えることで、春雨に適度な硬さが残ります"
+      },
+      {
+        "step": 6,
+        "text": "醤油、砂糖、ゴマ油を加えて全体を混ぜ、火が通ったら完成です。",
+        "tip": "ゴマをふりかけると香りが引き立ちます"
+      }
+    ],
+    "meta_title": "チャプチェの作り方 | 韓国の炒め物レシピ",
+    "meta_description": "春雨と野菜を甘辛く炒めた韓国料理チャプチェ。お弁当やおもてなし料理にぴったり。作り置きにも最適です。",
+    "keywords": ["チャプチェ", "韓国料理", "春雨"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "春雨の食感を生かすため、炒める時間は短めにしましょう。冷ましてからラップに包んで冷蔵すれば、翌日まで美味しく食べられます。白ゴマと黒ゴマの両方をふりかけると見た目も華やかです。",
+    "tag_slugs": ["sweet", "stir-fry", "meal-prep", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "glass-noodle",
+        "name": "春雨",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "beef-sliced",
+        "name": "牛肉（薄切り）",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1",
+        "unit": "本"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1/2",
+        "unit": "個"
+      },
+      {
+        "slug": "green-bell-pepper",
+        "name": "ピーマン",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-seed",
+        "name": "ゴマ",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "bulgogi",
+    "title": "プルコギ",
+    "description": "甘辛く味付けした牛肉を焼く、韓国の代表的な焼肉料理",
+    "introduction": "砂糖と醤油、梨などで甘辛く下味をつけた牛肉を、グリルやホットプレートで焼いた料理です。肉の甘さとゴマの香りが絶妙にマッチし、ご飯が進みます。特別な日のおもてなし料理として最適です。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 45,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 480,
+    "protein_g": 32,
+    "fat_g": 24,
+    "carbs_g": 32,
+    "fiber_g": 1,
+    "sodium_mg": 720,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "牛肉を薄くスライスします。冷蔵庫で冷やすとスライスしやすいです。",
+        "tip": "厚さ5mm程度が目安です"
+      },
+      {
+        "step": 2,
+        "text": "梨をすりおろし、醤油、砂糖、ニンニク、ゴマ油、こしょうを混ぜてタレを作ります。",
+        "tip": "梨の甘さでコクが出ます"
+      },
+      {
+        "step": 3,
+        "text": "牛肉をタレに漬けて、冷蔵庫で最低2時間、できれば一晩寝かせます。",
+        "tip": "寝かせることで肉が柔らかくなり、味が染み込みます"
+      },
+      {
+        "step": 4,
+        "text": "グリルやホットプレートを高温に熱します。",
+        "tip": "煙が出るくらいの温度が目安です"
+      },
+      {
+        "step": 5,
+        "text": "漬けた牛肉を焼きます。両面に焼き色がつくまで焼きます。",
+        "tip": "焼く時間は両面合わせて3分程度が目安です"
+      },
+      {
+        "step": 6,
+        "text": "焼けた肉を取り出し、ネギやゴマを振りかけて完成です。",
+        "tip": "白ゴマと黒ゴマの両方を使うと見た目が華やかです"
+      }
+    ],
+    "meta_title": "プルコギの作り方 | 韓国焼肉レシピ",
+    "meta_description": "甘辛く味付けした牛肉を焼いたプルコギ。梨を使った本格タレで、柔らかく仕上がります。特別な日のおもてなしにぴったり。",
+    "keywords": ["プルコギ", "韓国料理", "焼肉"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "梨がない場合は、キウイやリンゴでも代用できます。タレに漬ける時間が長いほど味が深くなります。焼きすぎると肉が硬くなるので注意してください。",
+    "tag_slugs": ["sweet", "grill", "umami", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "beef-ribeye",
+        "name": "牛肉（リブロース）",
+        "quantity": "400",
+        "unit": "g"
+      },
+      {
+        "slug": "pear",
+        "name": "梨",
+        "quantity": "1/4",
+        "unit": "個"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "3",
+        "unit": "片"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "green-onion",
+        "name": "ネギ",
+        "quantity": "1/2",
+        "unit": "本"
+      },
+      {
+        "slug": "sesame-seed",
+        "name": "ゴマ",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "sundubu-jjigae",
+    "title": "スンドゥブチゲ",
+    "description": "柔らかいスンドゥブ豆腐と辛いスープの韓国鍋料理",
+    "introduction": "絹ごし豆腐よりもさらに柔らかいスンドゥブ豆腐を、辛いスープで煮込んだ料理です。最後に卵を落として、まったりとした食感を楽しめます。辛さの中に豆腐の優しい味わいが引き立つ、奥深い一品です。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 22,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 16,
+    "fat_g": 12,
+    "carbs_g": 28,
+    "fiber_g": 2,
+    "sodium_mg": 1100,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "昆布と煮干しで出汁を取ります。",
+        "tip": "10分程度で十分な出汁が出ます"
+      },
+      {
+        "step": 2,
+        "text": "豚肉を細切りにし、ニンニクをみじん切りにします。",
+        "tip": "豚肉は加熱時間が短いので、細めに切ります"
+      },
+      {
+        "step": 3,
+        "text": "鍋に出汁を入れ、豚肉とニンニク、唐辛子を加えて煮立たせます。",
+        "tip": "豚肉の色が変わるまで加熱します"
+      },
+      {
+        "step": 4,
+        "text": "スンドゥブ豆腐を丸ごと入れ、大きな泡が出るまで加熱します。",
+        "tip": "スンドゥブは完全に火を通す必要がありません"
+      },
+      {
+        "step": 5,
+        "text": "豆腐が温まったら、卵を落とし、白身が固まるまで加熱します。",
+        "tip": "卵は落とすと自然に拡がります"
+      }
+    ],
+    "meta_title": "スンドゥブチゲの作り方 | 辛い韓国鍋レシピ",
+    "meta_description": "スンドゥブ豆腐を使った辛い韓国鍋。柔らかい豆腐と濃いスープが絶妙な組み合わせ。簡単に作れます。",
+    "keywords": ["スンドゥブチゲ", "韓国料理", "豆腐"],
+    "cuisine": "韓国料理",
+    "course": "soup",
+    "tips": "スンドゥブは容器ごと鍋に入れることもできます。辛さはコチュジャンの量で調整してください。アサリやえびを加えるとさらに奥深い味わいになります。",
+    "tag_slugs": ["spicy", "simmer", "quick", "creamy"],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "sundubu-tofu",
+        "name": "スンドゥブ豆腐",
+        "quantity": "1",
+        "unit": "丁"
+      },
+      {
+        "slug": "pork-belly",
+        "name": "豚バラ肉",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "dashi-stock",
+        "name": "出汁（昆布・煮干し）",
+        "quantity": "1.5",
+        "unit": "カップ"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片"
+      }
+    ]
+  },
+  {
+    "slug": "tteokbokki",
+    "title": "トッポギ",
+    "description": "辛いタレで絡めた韓国のもち粉の筒状ケーキ",
+    "introduction": "白く柔らかいトッポギを、甘辛いコチュジャンタレで絡めた料理です。もちもちとした食感と、甘辛さが相まって、一度食べたら止められない美味しさです。屋台の定番料理として、韓国では非常に人気があります。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 12,
+    "total_time_minutes": 17,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 8,
+    "fat_g": 10,
+    "carbs_g": 48,
+    "fiber_g": 2,
+    "sodium_mg": 850,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鍋にお湯を沸かし、トッポギを入れて加熱します。",
+        "tip": "トッポギが浮き上がったら、さらに2分加熱します"
+      },
+      {
+        "step": 2,
+        "text": "コチュジャン、砂糖、水を混ぜてタレを作ります。",
+        "tip": "砂糖の量で甘さを調整できます"
+      },
+      {
+        "step": 3,
+        "text": "フライパンにゴマ油を敷き、ニンニクをみじん切りにして炒めます。",
+        "tip": "ニンニクの香りが出るまで炒めます"
+      },
+      {
+        "step": 4,
+        "text": "加熱したトッポギを水気を切ってフライパンに入れます。",
+        "tip": "水気が多いとタレが薄くなるので、しっかり切ります"
+      },
+      {
+        "step": 5,
+        "text": "タレを加えて、全体を混ぜながら加熱します。",
+        "tip": "タレがトッポギに絡むまで炒めます"
+      },
+      {
+        "step": 6,
+        "text": "ゴマを振りかけて完成です。",
+        "tip": "ネギを加えるとさらに香りが引き立ちます"
+      }
+    ],
+    "meta_title": "トッポギの作り方 | 韓国屋台レシピ",
+    "meta_description": "甘辛いコチュジャンタレで絡めた韓国のトッポギ。もちもちした食感が特徴。簡単に作れるレシピです。",
+    "keywords": ["トッポギ", "韓国料理", "屋台"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "トッポギはあらかじめ冷凍食品として売られているものを使うと簡単です。辛さはコチュジャンの量で調整できます。チーズをトッピングするのもおすすめです。",
+    "tag_slugs": ["spicy", "sweet", "chewy", "quick"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "tteokbokki",
+        "name": "トッポギ",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "1/4",
+        "unit": "カップ"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "2",
+        "unit": "片"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-seed",
+        "name": "ゴマ",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "jeon",
+    "title": "チヂミ",
+    "description": "野菜やシーフードを生地に混ぜて焼いた、韓国のパンケーキ",
+    "introduction": "小麦粉と卵を水で溶いた生地に、野菜やシーフードを混ぜて焼いた料理です。焼き立ての表面はカリカリ、中はもちっとした食感が特徴です。タレをつけて食べるのが一般的で、おつまみから軽食まで、様々なシーンで活躍します。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 360,
+    "protein_g": 12,
+    "fat_g": 16,
+    "carbs_g": 42,
+    "fiber_g": 2,
+    "sodium_mg": 420,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "小麦粉を水と塩で溶かし、生地を作ります。",
+        "tip": "少し固めの生地が焼きやすいです"
+      },
+      {
+        "step": 2,
+        "text": "ニラ、玉ねぎ、人参を細かく刻みます。",
+        "tip": "野菜の大きさを揃えることで焼き上がりが均一になります"
+      },
+      {
+        "step": 3,
+        "text": "生地に野菜を混ぜます。卵を加えるとより焼きやすくなります。",
+        "tip": "卵が生地をつなぎやすくします"
+      },
+      {
+        "step": 4,
+        "text": "フライパンに油を敷き、生地を広げて焼きます。",
+        "tip": "中火で焼くと中まで火が通りやすいです"
+      },
+      {
+        "step": 5,
+        "text": "片面に焼き色がついたらひっくり返し、もう片面も焼きます。",
+        "tip": "両面がカリカリになるまで焼きます"
+      },
+      {
+        "step": 6,
+        "text": "食べやすい大きさに切って、醤油ベースのタレをつけて完成です。",
+        "tip": "焼き立てが最も美味しいです"
+      }
+    ],
+    "meta_title": "チヂミの作り方 | 韓国のパンケーキレシピ",
+    "meta_description": "野菜たっぷりのチヂミ。カリッと焼けた表面と、もちもちの食感が特徴。おつまみに最適です。",
+    "keywords": ["チヂミ", "韓国料理", "パンケーキ"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "シーフードを使う場合は、えびやイカを刻んで加えてください。タレは醤油、砂糖、酢、唐辛子を混ぜて作ります。チーズを加えると洋風な味わいになります。",
+    "tag_slugs": ["crispy", "light", "entertaining", "quick"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "wheat-flour",
+        "name": "小麦粉",
+        "quantity": "1",
+        "unit": "カップ"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "3/4",
+        "unit": "カップ"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "chinese-chives",
+        "name": "ニラ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1/4",
+        "unit": "個"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "植物油",
+        "quantity": "大さじ2",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "samgyetang",
+    "title": "サムゲタン",
+    "description": "丸鶏を滋養の高いスープで煮込んだ、韓国の栄養食",
+    "introduction": "鶏肉を高麗人参、ナツメ、栗、くるみなどの滋養のある食材と一緒にスープで煮込んだ、韓国の伝統的な栄養食です。夏バテの時期に食べることで知られており、身体が温まり、疲れが取れる効果があるとされています。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 90,
+    "total_time_minutes": 120,
+    "servings": 1,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 520,
+    "protein_g": 38,
+    "fat_g": 24,
+    "carbs_g": 38,
+    "fiber_g": 3,
+    "sodium_mg": 950,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏肉をきれいに洗い、水気を拭き取ります。",
+        "tip": "新鮮な鶏肉を選ぶことが大切です"
+      },
+      {
+        "step": 2,
+        "text": "鶏の腹の中に、高麗人参、ナツメ、栗、くるみを詰めます。",
+        "tip": "詰め過ぎないようにしましょう"
+      },
+      {
+        "step": 3,
+        "text": "鶏が浸る程度の水を鍋に入れ、強火で沸騰させます。",
+        "tip": "沸騰したら弱火に落とします"
+      },
+      {
+        "step": 4,
+        "text": "弱火で90分程度煮込みます。途中でアク取りをします。",
+        "tip": "途中で蓋をすることで煮込み時間が短縮されます"
+      },
+      {
+        "step": 5,
+        "text": "鶏肉が柔らかくなったら、塩とこしょうで味を整えます。",
+        "tip": "味は好みに応じて調整してください"
+      },
+      {
+        "step": 6,
+        "text": "器に盛り、スープを注ぎ、ゴマと細ネギを振りかけて完成です。",
+        "tip": "白ゴマと黒ゴマの両方を使うと見た目が華やかです"
+      }
+    ],
+    "meta_title": "サムゲタンの作り方 | 滋養高い韓国スープレシピ",
+    "meta_description": "高麗人参とナツメを使った、滋養高い韓国スープサムゲタン。身体が温まる栄養食です。",
+    "keywords": ["サムゲタン", "韓国料理", "スープ"],
+    "cuisine": "韓国料理",
+    "course": "soup",
+    "tips": "高麗人参がない場合は、人参でも代用できます。ナツメは水で戻してから使うと調理しやすいです。煮込み時間が長いため、圧力鍋を使うと時間が短縮されます。",
+    "tag_slugs": ["rich", "simmer", "comforting", "umami"],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "whole-chicken",
+        "name": "若鶏（一羽）",
+        "quantity": "1",
+        "unit": "羽"
+      },
+      {
+        "slug": "ginseng",
+        "name": "高麗人参",
+        "quantity": "1",
+        "unit": "本"
+      },
+      {
+        "slug": "jujube",
+        "name": "ナツメ",
+        "quantity": "5",
+        "unit": "個"
+      },
+      {
+        "slug": "chestnut",
+        "name": "栗",
+        "quantity": "5",
+        "unit": "個"
+      },
+      {
+        "slug": "walnut",
+        "name": "くるみ",
+        "quantity": "10",
+        "unit": "g"
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "3",
+        "unit": "片"
+      },
+      {
+        "slug": "water",
+        "name": "水",
+        "quantity": "1.5",
+        "unit": "リットル"
+      },
+      {
+        "slug": "sesame-seed",
+        "name": "ゴマ",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "namul-3-kinds",
+    "title": "ナムル3種盛り",
+    "description": "色彩豊かな野菜を塩辛く味付けした韓国の常備菜",
+    "introduction": "3種類の異なる野菜を、ゴマ油と塩で味付けしたナムル。ほうれん草、人参、もやしなど、季節の野菜で作ることができます。栄養価が高く、ご飯との相性も抜群。作り置きができるため、毎日のおかずとして活躍します。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 30,
+    "servings": 3,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 140,
+    "protein_g": 8,
+    "fat_g": 8,
+    "carbs_g": 12,
+    "fiber_g": 3,
+    "sodium_mg": 480,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ほうれん草、もやし、人参をそれぞれ別の鍋で塩ゆでします。",
+        "tip": "各野菜に合わせた加熱時間が大切です"
+      },
+      {
+        "step": 2,
+        "text": "加熱した野菜をザルに上げて、冷まします。",
+        "tip": "完全に冷めてから味付けします"
+      },
+      {
+        "step": 3,
+        "text": "ほうれん草を水気をしぼって、ゴマ油、塩、ニンニクで和えます。",
+        "tip": "ゴマ油が香りを引き出します"
+      },
+      {
+        "step": 4,
+        "text": "もやしを同様に、ゴマ油、塩、ニンニクで和えます。",
+        "tip": "もやしは水気をしっかりしぼることが大切です"
+      },
+      {
+        "step": 5,
+        "text": "人参を同様に、ゴマ油、塩、ニンニクで和えます。",
+        "tip": "人参は食感が残るように和えます"
+      },
+      {
+        "step": 6,
+        "text": "3種類のナムルを器に盛り、ゴマを振りかけて完成です。",
+        "tip": "冷蔵庫で最大3日間保存できます"
+      }
+    ],
+    "meta_title": "ナムル3種盛りの作り方 | 韓国の常備菜レシピ",
+    "meta_description": "色彩豊かな3種類のナムル。栄養価が高く、毎日のおかずとして活躍します。作り置きにも最適。",
+    "keywords": ["ナムル", "韓国料理", "常備菜"],
+    "cuisine": "韓国料理",
+    "course": "side-dish",
+    "tips": "ナムルは冷蔵庫で最大3日間保存できます。野菜の種類は季節に応じて変更できます。ゴマ油の量はお好みで調整してください。",
+    "tag_slugs": ["light", "meal-prep", "crispy", "fresh"],
+    "category_slug": "side-dish",
+    "ingredients": [
+      {
+        "slug": "spinach",
+        "name": "ほうれん草",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "mung-bean-sprouts",
+        "name": "もやし",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ2.5",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "ニンニク",
+        "quantity": "3",
+        "unit": "片"
+      },
+      {
+        "slug": "sesame-seed",
+        "name": "ゴマ",
+        "quantity": "小さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "kimbap",
+    "title": "韓国風海苔巻き（キンパ）",
+    "description": "色彩豊かな野菜と卵焼きを海苔で巻いた韓国の弁当料理",
+    "introduction": "温かいご飯に、火を通した野菜と卵焼きを混ぜて、海苔で巻いた料理です。日本の巻き寿司とは異なり、具材を炒めてから使うため、濃厚な味わいが特徴です。お弁当の定番であり、ピクニックやお祝いの場面で食べられています。",
+    "prep_time_minutes": 35,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 50,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 420,
+    "protein_g": 14,
+    "fat_g": 12,
+    "carbs_g": 64,
+    "fiber_g": 3,
+    "sodium_mg": 620,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵焼きを作ります。卵を溶いて、塩とゴマ油を加えて焼きます。",
+        "tip": "厚さ1cm程度の卵焼きが目安です"
+      },
+      {
+        "step": 2,
+        "text": "ほうれん草、人参、えのき茸をそれぞれ塩ゆでします。",
+        "tip": "各野菜に合わせた加熱時間が大切です"
+      },
+      {
+        "step": 3,
+        "text": "ゆでた野菜を冷ましてから、ゴマ油と塩で味付けします。",
+        "tip": "完全に冷ましてから味付けします"
+      },
+      {
+        "step": 4,
+        "text": "ご飯にゴマ油と塩を混ぜて、下味をつけます。",
+        "tip": "ご飯がホカホカの状態が目安です"
+      },
+      {
+        "step": 5,
+        "text": "海苔の上にご飯を広げ、具材を横一列に乗せます。",
+        "tip": "具材は中央に寄せて乗せます"
+      },
+      {
+        "step": 6,
+        "text": "海苔でご飯と具材をぴっちり巻きます。巻き終わりを下にして置きます。",
+        "tip": "巻き終わりに少し水をつけると固定しやすいです"
+      },
+      {
+        "step": 7,
+        "text": "包丁で食べやすい大きさに切って、ゴマ油を塗って完成です。",
+        "tip": "濡れた包丁で切るときれいに切れます"
+      }
+    ],
+    "meta_title": "キンパ（韓国風海苔巻き）の作り方 | お弁当レシピ",
+    "meta_description": "色彩豊かな野菜と卵焼きを巻いた韓国のキンパ。お弁当にぴったりで、冷めても美味しい料理です。",
+    "keywords": ["キンパ", "韓国料理", "海苔巻き"],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "キンパは作り置きができ、冷蔵庫で3日間保存できます。具材は季節に応じて変更できます。ゴマ油をたっぷり塗ることで、風味が引き立ちます。",
+    "tag_slugs": ["light", "meal-prep", "bento", "entertaining"],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "cooked-rice",
+        "name": "温かいご飯",
+        "quantity": "2",
+        "unit": "膳"
+      },
+      {
+        "slug": "nori",
+        "name": "海苔",
+        "quantity": "2",
+        "unit": "枚"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "spinach",
+        "name": "ほうれん草",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "enoki-mushroom",
+        "name": "えのき茸",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ゴマ油",
+        "quantity": "大さじ1.5",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-seed",
+        "name": "ゴマ",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ0.5",
+        "unit": ""
+      }
+    ]
+  }
+]

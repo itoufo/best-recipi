@@ -1,0 +1,605 @@
+{
+  "category": "魚介類",
+  "ingredients": [
+    {
+      "name": "鮭",
+      "slug": "salmon",
+      "name_en": "Salmon",
+      "name_reading": "さけ",
+      "season": "9月〜11月",
+      "origin": "北海道、三陸"
+    },
+    {
+      "name": "まぐろ",
+      "slug": "tuna",
+      "name_en": "Tuna",
+      "name_reading": "まぐろ",
+      "season": "通年",
+      "origin": "静岡、宮城、青森"
+    },
+    {
+      "name": "サバ",
+      "slug": "mackerel",
+      "name_en": "Mackerel",
+      "name_reading": "さば",
+      "season": "9月〜12月",
+      "origin": "北海道、三陸、長崎"
+    },
+    {
+      "name": "アジ",
+      "slug": "horse-mackerel",
+      "name_en": "Horse Mackerel",
+      "name_reading": "あじ",
+      "season": "5月〜7月",
+      "origin": "青森、長崎、瀬戸内海"
+    },
+    {
+      "name": "イワシ",
+      "slug": "sardine",
+      "name_en": "Sardine",
+      "name_reading": "いわし",
+      "season": "5月〜8月",
+      "origin": "千葉、茨城、北海道"
+    },
+    {
+      "name": "タラ",
+      "slug": "cod",
+      "name_en": "Cod",
+      "name_reading": "たら",
+      "season": "11月〜3月",
+      "origin": "北海道、青森、岩手"
+    },
+    {
+      "name": "鯛",
+      "slug": "sea-bream",
+      "name_en": "Sea Bream",
+      "name_reading": "たい",
+      "season": "3月〜5月",
+      "origin": "瀬戸内海、愛媛、兵庫"
+    },
+    {
+      "name": "ブリ",
+      "slug": "yellowtail",
+      "name_en": "Yellowtail",
+      "name_reading": "ぶり",
+      "season": "11月〜2月",
+      "origin": "北海道、富山、長崎"
+    },
+    {
+      "name": "カツオ",
+      "slug": "bonito",
+      "name_en": "Bonito",
+      "name_reading": "かつお",
+      "season": "4月〜6月",
+      "origin": "高知、静岡、宮城"
+    },
+    {
+      "name": "サンマ",
+      "slug": "pacific-saury",
+      "name_en": "Pacific Saury",
+      "name_reading": "さんま",
+      "season": "9月〜11月",
+      "origin": "北海道、茨城、千葉"
+    },
+    {
+      "name": "サワラ",
+      "slug": "spanish-mackerel",
+      "name_en": "Spanish Mackerel",
+      "name_reading": "さわら",
+      "season": "3月〜5月",
+      "origin": "瀬戸内海、広島、兵庫"
+    },
+    {
+      "name": "カレイ",
+      "slug": "flounder",
+      "name_en": "Flounder",
+      "name_reading": "かれい",
+      "season": "11月〜3月",
+      "origin": "北海道、新潟、青森"
+    },
+    {
+      "name": "ヒラメ",
+      "slug": "halibut",
+      "name_en": "Halibut",
+      "name_reading": "ひらめ",
+      "season": "11月〜3月",
+      "origin": "北海道、青森、岩手"
+    },
+    {
+      "name": "メカジキ",
+      "slug": "swordfish",
+      "name_en": "Swordfish",
+      "name_reading": "めかじき",
+      "season": "4月〜9月",
+      "origin": "神奈川、静岡、宮城"
+    },
+    {
+      "name": "フグ",
+      "slug": "pufferfish",
+      "name_en": "Pufferfish",
+      "name_reading": "ふぐ",
+      "season": "11月〜3月",
+      "origin": "山口、大分、福岡"
+    },
+    {
+      "name": "ウナギ",
+      "slug": "eel",
+      "name_en": "Eel",
+      "name_reading": "うなぎ",
+      "season": "通年",
+      "origin": "静岡、愛知、兵庫"
+    },
+    {
+      "name": "アナゴ",
+      "slug": "conger-eel",
+      "name_en": "Conger Eel",
+      "name_reading": "あなご",
+      "season": "5月〜10月",
+      "origin": "兵庫、広島、瀬戸内海"
+    },
+    {
+      "name": "ハモ",
+      "slug": "pike-conger",
+      "name_en": "Pike Conger",
+      "name_reading": "はも",
+      "season": "6月〜10月",
+      "origin": "瀬戸内海、京都、兵庫"
+    },
+    {
+      "name": "カマス",
+      "slug": "barracouta",
+      "name_en": "Barracouta",
+      "name_reading": "かまず",
+      "season": "5月〜7月",
+      "origin": "長崎、福岡、瀬戸内海"
+    },
+    {
+      "name": "ホッケ",
+      "slug": "arabesque-greenling",
+      "name_en": "Arabesque Greenling",
+      "name_reading": "ほっけ",
+      "season": "10月〜4月",
+      "origin": "北海道"
+    },
+    {
+      "name": "キンメダイ",
+      "slug": "golden-eye-snapper",
+      "name_en": "Golden Eye Snapper",
+      "name_reading": "きんめだい",
+      "season": "10月〜5月",
+      "origin": "静岡、東京、伊豆諸島"
+    },
+    {
+      "name": "メバル",
+      "slug": "black-seabream",
+      "name_en": "Black Seabream",
+      "name_reading": "めばる",
+      "season": "3月〜5月",
+      "origin": "北海道、青森、新潟"
+    },
+    {
+      "name": "カサゴ",
+      "slug": "rockfish",
+      "name_en": "Rockfish",
+      "name_reading": "かさご",
+      "season": "11月〜3月",
+      "origin": "北海道、青森、新潟"
+    },
+    {
+      "name": "アイナメ",
+      "slug": "fat-greenling",
+      "name_en": "Fat Greenling",
+      "name_reading": "あいなめ",
+      "season": "11月〜2月",
+      "origin": "北海道、青森"
+    },
+    {
+      "name": "イサキ",
+      "slug": "grunt",
+      "name_en": "Grunt",
+      "name_reading": "いさき",
+      "season": "6月〜9月",
+      "origin": "静岡、千葉、瀬戸内海"
+    },
+    {
+      "name": "アユ",
+      "slug": "sweetfish",
+      "name_en": "Sweetfish",
+      "name_reading": "あゆ",
+      "season": "6月〜9月",
+      "origin": "吉野川、狩野川、四国"
+    },
+    {
+      "name": "ヤマメ",
+      "slug": "yamame",
+      "name_en": "Yamame Trout",
+      "name_reading": "やまめ",
+      "season": "5月〜8月",
+      "origin": "各地の清流"
+    },
+    {
+      "name": "イワナ",
+      "slug": "iwana",
+      "name_en": "Iwana Char",
+      "name_reading": "いわな",
+      "season": "5月〜10月",
+      "origin": "各地の清流、北海道"
+    },
+    {
+      "name": "ニシン",
+      "slug": "herring",
+      "name_en": "Herring",
+      "name_reading": "にしん",
+      "season": "2月〜4月",
+      "origin": "北海道、福岡"
+    },
+    {
+      "name": "シシャモ",
+      "slug": "shishamo",
+      "name_en": "Shishamo",
+      "name_reading": "ししゃも",
+      "season": "9月〜11月",
+      "origin": "北海道"
+    },
+    {
+      "name": "ワカサギ",
+      "slug": "wakasagi",
+      "name_en": "Wakasagi Smelt",
+      "name_reading": "わかさぎ",
+      "season": "12月〜3月",
+      "origin": "北海道、茨城、山梨"
+    },
+    {
+      "name": "キス",
+      "slug": "japanese-smelt",
+      "name_en": "Japanese Smelt",
+      "name_reading": "きす",
+      "season": "6月〜9月",
+      "origin": "東京湾、瀬戸内海、大阪湾"
+    },
+    {
+      "name": "ハタハタ",
+      "slug": "capelin",
+      "name_en": "Capelin",
+      "name_reading": "はたはた",
+      "season": "11月〜12月",
+      "origin": "秋田、青森"
+    },
+    {
+      "name": "ノドグロ",
+      "slug": "blackthroat-seaperch",
+      "name_en": "Blackthroat Seaperch",
+      "name_reading": "のどぐろ",
+      "season": "11月〜1月",
+      "origin": "島根、新潟、山口"
+    },
+    {
+      "name": "エビ",
+      "slug": "shrimp",
+      "name_en": "Shrimp",
+      "name_reading": "えび",
+      "season": "通年",
+      "origin": "北海道、東南アジア"
+    },
+    {
+      "name": "車エビ",
+      "slug": "tiger-prawn",
+      "name_en": "Tiger Prawn",
+      "name_reading": "くるまえび",
+      "season": "5月〜10月",
+      "origin": "瀬戸内海、愛知、三重"
+    },
+    {
+      "name": "甘エビ",
+      "slug": "sweet-shrimp",
+      "name_en": "Sweet Shrimp",
+      "name_reading": "あまえび",
+      "season": "3月〜11月",
+      "origin": "北海道、富山、新潟"
+    },
+    {
+      "name": "伊勢エビ",
+      "slug": "japanese-spiny-lobster",
+      "name_en": "Japanese Spiny Lobster",
+      "name_reading": "いせえび",
+      "season": "10月〜4月",
+      "origin": "三重、静岡、千葉"
+    },
+    {
+      "name": "ブラックタイガー",
+      "slug": "black-tiger-prawn",
+      "name_en": "Black Tiger Prawn",
+      "name_reading": "ぶらっくたいがー",
+      "season": "通年",
+      "origin": "タイ、ベトナム、インドネシア"
+    },
+    {
+      "name": "イカ",
+      "slug": "squid",
+      "name_en": "Squid",
+      "name_reading": "いか",
+      "season": "3月〜12月",
+      "origin": "北海道、新潟、長野"
+    },
+    {
+      "name": "スルメイカ",
+      "slug": "japanese-common-squid",
+      "name_en": "Japanese Common Squid",
+      "name_reading": "するめいか",
+      "season": "6月〜10月",
+      "origin": "新潟、福岡、長野"
+    },
+    {
+      "name": "ヤリイカ",
+      "slug": "spear-squid",
+      "name_en": "Spear Squid",
+      "name_reading": "やりいか",
+      "season": "12月〜3月",
+      "origin": "新潟、福岡、千葉"
+    },
+    {
+      "name": "タコ",
+      "slug": "octopus",
+      "name_en": "Octopus",
+      "name_reading": "たこ",
+      "season": "3月〜10月",
+      "origin": "兵庫、福岡、広島"
+    },
+    {
+      "name": "タコ（ゆで）",
+      "slug": "boiled-octopus",
+      "name_en": "Boiled Octopus",
+      "name_reading": "たこゆで",
+      "season": "通年",
+      "origin": "兵庫、福岡、広島"
+    },
+    {
+      "name": "あさり",
+      "slug": "littleneck-clam",
+      "name_en": "Littleneck Clam",
+      "name_reading": "あさり",
+      "season": "3月〜5月",
+      "origin": "茨城、千葉、朝鮮半島"
+    },
+    {
+      "name": "しじみ",
+      "slug": "short-necked-clam",
+      "name_en": "Short Necked Clam",
+      "name_reading": "しじみ",
+      "season": "10月〜4月",
+      "origin": "島根、愛知、岡山"
+    },
+    {
+      "name": "はまぐり",
+      "slug": "hard-clam",
+      "name_en": "Hard Clam",
+      "name_reading": "はまぐり",
+      "season": "2月〜4月",
+      "origin": "愛知、三重、静岡"
+    },
+    {
+      "name": "サザエ",
+      "slug": "turban-shell",
+      "name_en": "Turban Shell",
+      "name_reading": "さざえ",
+      "season": "5月〜8月",
+      "origin": "北海道、静岡、岩手"
+    },
+    {
+      "name": "ホタテ",
+      "slug": "scallop",
+      "name_en": "Scallop",
+      "name_reading": "ほたて",
+      "season": "11月〜3月",
+      "origin": "北海道、青森、岩手"
+    },
+    {
+      "name": "牡蠣",
+      "slug": "oyster",
+      "name_en": "Oyster",
+      "name_reading": "かき",
+      "season": "11月〜3月",
+      "origin": "広島、兵庫、岡山"
+    },
+    {
+      "name": "ムール貝",
+      "slug": "mussel",
+      "name_en": "Mussel",
+      "name_reading": "むーるがい",
+      "season": "通年",
+      "origin": "フランス、チリ、ニュージーランド"
+    },
+    {
+      "name": "アワビ",
+      "slug": "abalone",
+      "name_en": "Abalone",
+      "name_reading": "あわび",
+      "season": "4月〜9月",
+      "origin": "長野、静岡、岩手"
+    },
+    {
+      "name": "ウニ",
+      "slug": "sea-urchin",
+      "name_en": "Sea Urchin",
+      "name_reading": "うに",
+      "season": "5月〜8月",
+      "origin": "北海道、岩手、長野"
+    },
+    {
+      "name": "ナマコ",
+      "slug": "sea-cucumber",
+      "name_en": "Sea Cucumber",
+      "name_reading": "なまこ",
+      "season": "11月〜3月",
+      "origin": "北海道、青森、長野"
+    },
+    {
+      "name": "ホヤ",
+      "slug": "sea-squirt",
+      "name_en": "Sea Squirt",
+      "name_reading": "ほや",
+      "season": "3月〜9月",
+      "origin": "宮城、岩手、青森"
+    },
+    {
+      "name": "カニ",
+      "slug": "crab",
+      "name_en": "Crab",
+      "name_reading": "かに",
+      "season": "11月〜3月",
+      "origin": "北海道、福島、新潟"
+    },
+    {
+      "name": "毛ガニ",
+      "slug": "horsehair-crab",
+      "name_en": "Horsehair Crab",
+      "name_reading": "けがに",
+      "season": "12月〜5月",
+      "origin": "北海道"
+    },
+    {
+      "name": "ズワイガニ",
+      "slug": "snow-crab",
+      "name_en": "Snow Crab",
+      "name_reading": "ずわいがに",
+      "season": "11月〜3月",
+      "origin": "鳥取、兵庫、福井"
+    },
+    {
+      "name": "タラバガニ",
+      "slug": "red-king-crab",
+      "name_en": "Red King Crab",
+      "name_reading": "たらばがに",
+      "season": "11月〜3月",
+      "origin": "北海道、ロシア"
+    },
+    {
+      "name": "ちりめんじゃこ",
+      "slug": "shirasu",
+      "name_en": "Shirasu Dried Sardine",
+      "name_reading": "ちりめんじゃこ",
+      "season": "通年",
+      "origin": "静岡、広島、兵庫"
+    },
+    {
+      "name": "桜エビ",
+      "slug": "sakura-ebi",
+      "name_en": "Sakura Shrimp",
+      "name_reading": "さくらえび",
+      "season": "3月〜6月",
+      "origin": "静岡、愛知"
+    },
+    {
+      "name": "しらす",
+      "slug": "whitebait",
+      "name_en": "Whitebait",
+      "name_reading": "しらす",
+      "season": "3月〜6月",
+      "origin": "静岡、広島、兵庫"
+    },
+    {
+      "name": "たらこ",
+      "slug": "cod-roe",
+      "name_en": "Cod Roe",
+      "name_reading": "たらこ",
+      "season": "10月〜3月",
+      "origin": "北海道、ロシア、アメリカ"
+    },
+    {
+      "name": "明太子",
+      "slug": "mentaiko",
+      "name_en": "Spicy Cod Roe",
+      "name_reading": "めんたいこ",
+      "season": "10月〜3月",
+      "origin": "北海道、福岡"
+    },
+    {
+      "name": "イクラ",
+      "slug": "salmon-roe",
+      "name_en": "Salmon Roe",
+      "name_reading": "いくら",
+      "season": "9月〜11月",
+      "origin": "北海道、ロシア"
+    },
+    {
+      "name": "筋子",
+      "slug": "ikura-sac",
+      "name_en": "Ikura Sac",
+      "name_reading": "すじこ",
+      "season": "9月〜11月",
+      "origin": "北海道、ロシア"
+    },
+    {
+      "name": "数の子",
+      "slug": "herring-roe",
+      "name_en": "Herring Roe",
+      "name_reading": "かずのこ",
+      "season": "12月〜1月",
+      "origin": "北海道、カナダ、ロシア"
+    },
+    {
+      "name": "白子",
+      "slug": "milt",
+      "name_en": "Milt",
+      "name_reading": "しらこ",
+      "season": "12月〜2月",
+      "origin": "北海道、新潟、福岡"
+    },
+    {
+      "name": "海参",
+      "slug": "sea-cucumber-dried",
+      "name_en": "Dried Sea Cucumber",
+      "name_reading": "かいしん",
+      "season": "通年",
+      "origin": "北海道、中国"
+    },
+    {
+      "name": "干しエビ",
+      "slug": "dried-shrimp",
+      "name_en": "Dried Shrimp",
+      "name_reading": "ほしえび",
+      "season": "通年",
+      "origin": "タイ、ベトナム、中国"
+    },
+    {
+      "name": "煮干し",
+      "slug": "niboshi",
+      "name_en": "Dried Sardine",
+      "name_reading": "にぼし",
+      "season": "通年",
+      "origin": "長崎、福岡、瀬戸内海"
+    },
+    {
+      "name": "削り節",
+      "slug": "katsuobushi-shavings",
+      "name_en": "Bonito Shavings",
+      "name_reading": "けずりぶし",
+      "season": "通年",
+      "origin": "高知、静岡、鹿児島"
+    },
+    {
+      "name": "干し貝柱",
+      "slug": "dried-scallop",
+      "name_en": "Dried Scallop",
+      "name_reading": "ほしかいばしら",
+      "season": "通年",
+      "origin": "北海道、青森、中国"
+    },
+    {
+      "name": "スルメ",
+      "slug": "dried-squid",
+      "name_en": "Dried Squid",
+      "name_reading": "するめ",
+      "season": "通年",
+      "origin": "新潟、福岡、北海道"
+    },
+    {
+      "name": "昆布",
+      "slug": "kelp",
+      "name_en": "Kelp",
+      "name_reading": "こんぶ",
+      "season": "通年",
+      "origin": "北海道、長野"
+    }
+  ]
+}

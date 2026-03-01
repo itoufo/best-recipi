@@ -1,0 +1,285 @@
+{
+  "category": "メキシコ・中南米食材",
+  "ingredients": [
+    {
+      "name": "トルティーヤ（コーン）",
+      "slug": "tortilla-corn",
+      "name_en": "Corn Tortilla",
+      "name_reading": "とるてぃーやこーん",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "トルティーヤ（フラワー）",
+      "slug": "tortilla-flour",
+      "name_en": "Flour Tortilla",
+      "name_reading": "とるてぃーやふらわー",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "チポトレ",
+      "slug": "chipotle",
+      "name_en": "Chipotle",
+      "name_reading": "ちぽとれ",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "アンチョチリ",
+      "slug": "ancho-chili",
+      "name_en": "Ancho Chili",
+      "name_reading": "あんちょちり",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "グアヒーヨチリ",
+      "slug": "guajillo-chili",
+      "name_en": "Guajillo Chili",
+      "name_reading": "ぐあひーよちり",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "パシーヤチリ",
+      "slug": "pasilla-chili",
+      "name_en": "Pasilla Chili",
+      "name_reading": "ぱしーやちり",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "アドボソース",
+      "slug": "adobo-sauce",
+      "name_en": "Adobo Sauce",
+      "name_reading": "あどぼそーす",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "モーレペースト",
+      "slug": "mole-paste",
+      "name_en": "Mole Paste",
+      "name_reading": "もーれぺーすと",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "エパソーテ",
+      "slug": "epazote",
+      "name_en": "Epazote",
+      "name_reading": "えぱそーて",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "マサ粉",
+      "slug": "masa-flour",
+      "name_en": "Masa Flour",
+      "name_reading": "ますあこ",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "タコシーズニング",
+      "slug": "taco-seasoning",
+      "name_en": "Taco Seasoning",
+      "name_reading": "たこしーずにんぐ",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "ワカモレ用アボカド",
+      "slug": "avocado-guacamole",
+      "name_en": "Avocado",
+      "name_reading": "わかもれようあぼかど",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "ハラペーニョ酢漬",
+      "slug": "jalapeno-pickled",
+      "name_en": "Pickled Jalapeño",
+      "name_reading": "はらぺーにょすづけ",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "サルサベルデ",
+      "slug": "salsa-verde",
+      "name_en": "Salsa Verde",
+      "name_reading": "さるさべるで",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "トマティーヨ",
+      "slug": "tomatillo",
+      "name_en": "Tomatillo",
+      "name_reading": "とまてぃーよ",
+      "season": "春～秋",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "ノパル（ウチワサボテン）",
+      "slug": "nopales-cactus",
+      "name_en": "Nopales",
+      "name_reading": "のぱるうちわさぼてん",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "デンデ油",
+      "slug": "dendê-oil",
+      "name_en": "Dendê Oil",
+      "name_reading": "でんで油",
+      "season": "通年",
+      "origin": "ブラジル"
+    },
+    {
+      "name": "マンジョッカ粉",
+      "slug": "manioc-flour",
+      "name_en": "Manioc Flour",
+      "name_reading": "まんじょっかこ",
+      "season": "通年",
+      "origin": "ブラジル"
+    },
+    {
+      "name": "フェイジョアーダ用黒豆",
+      "slug": "black-beans-feijoada",
+      "name_en": "Black Beans",
+      "name_reading": "ふぇいじょあーだようくろまめ",
+      "season": "通年",
+      "origin": "ブラジル"
+    },
+    {
+      "name": "ファロッファ",
+      "slug": "farofa",
+      "name_en": "Farofa",
+      "name_reading": "ふぁろっふぁ",
+      "season": "通年",
+      "origin": "ブラジル"
+    },
+    {
+      "name": "マラゲタ唐辛子",
+      "slug": "malagueta-pepper",
+      "name_en": "Malagueta Pepper",
+      "name_reading": "まらげたとうがらし",
+      "season": "通年",
+      "origin": "ブラジル"
+    },
+    {
+      "name": "アヒ・アマリーヨ",
+      "slug": "aji-amarillo",
+      "name_en": "Ají Amarillo",
+      "name_reading": "あひあまりーよ",
+      "season": "通年",
+      "origin": "ペルー"
+    },
+    {
+      "name": "ワカタイ",
+      "slug": "huacatay",
+      "name_en": "Huacatay",
+      "name_reading": "わかたい",
+      "season": "通年",
+      "origin": "ペルー"
+    },
+    {
+      "name": "キヌア（ペルー産）",
+      "slug": "quinoa-peru",
+      "name_en": "Quinoa",
+      "name_reading": "きぬあぺるーさん",
+      "season": "通年",
+      "origin": "ペルー"
+    },
+    {
+      "name": "ルクマ",
+      "slug": "lucuma",
+      "name_en": "Lucuma",
+      "name_reading": "るくま",
+      "season": "通年",
+      "origin": "ペルー"
+    },
+    {
+      "name": "チミチュリソース",
+      "slug": "chimichurri-sauce",
+      "name_en": "Chimichurri Sauce",
+      "name_reading": "ちみちゅりそーす",
+      "season": "通年",
+      "origin": "アルゼンチン"
+    },
+    {
+      "name": "ドゥルセ・デ・レチェ",
+      "slug": "dulce-de-leche",
+      "name_en": "Dulce de Leche",
+      "name_reading": "どぅるせでれちぇ",
+      "season": "通年",
+      "origin": "アルゼンチン"
+    },
+    {
+      "name": "ブラックビーンズ",
+      "slug": "black-beans",
+      "name_en": "Black Beans",
+      "name_reading": "ぶらっくびーんず",
+      "season": "通年",
+      "origin": "中南米"
+    },
+    {
+      "name": "ピントビーンズ",
+      "slug": "pinto-beans",
+      "name_en": "Pinto Beans",
+      "name_reading": "ぴんとびーんず",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "コリアンダーシード",
+      "slug": "coriander-seed",
+      "name_en": "Coriander Seed",
+      "name_reading": "こりあんだーしーど",
+      "season": "通年",
+      "origin": "中南米"
+    },
+    {
+      "name": "青唐辛子（セラーノ）",
+      "slug": "serrano-pepper",
+      "name_en": "Serrano Pepper",
+      "name_reading": "あおとうがらしせらーの",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "コティハチーズ",
+      "slug": "cotija-cheese",
+      "name_en": "Cotija Cheese",
+      "name_reading": "こてぃはちーず",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "トマティーヨペースト",
+      "slug": "tomatillo-paste",
+      "name_en": "Tomatillo Paste",
+      "name_reading": "とまてぃーよぺーすと",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "ハバネロチリ",
+      "slug": "habanero-chili",
+      "name_en": "Habanero Chili",
+      "name_reading": "はばねろちり",
+      "season": "通年",
+      "origin": "メキシコ"
+    },
+    {
+      "name": "ホマコアコロナド（プエブラチリ）",
+      "slug": "poblano-chili",
+      "name_en": "Poblano Chili",
+      "name_reading": "ぽぶらのちり",
+      "season": "通年",
+      "origin": "メキシコ"
+    }
+  ]
+}

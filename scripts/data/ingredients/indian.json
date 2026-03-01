@@ -1,0 +1,373 @@
+{
+  "category": "インド食材",
+  "ingredients": [
+    {
+      "name": "チャートマサラ",
+      "slug": "chaat-masala",
+      "name_en": "Chaat Masala",
+      "name_reading": "ちゃーとまさら",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "タンドリーマサラ",
+      "slug": "tandoori-masala",
+      "name_en": "Tandoori Masala",
+      "name_reading": "たんどりーまさら",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ビリヤニマサラ",
+      "slug": "biryani-masala",
+      "name_en": "Biryani Masala",
+      "name_reading": "びりやにまさら",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "サンバルパウダー",
+      "slug": "sambar-powder",
+      "name_en": "Sambar Powder",
+      "name_reading": "さんばるぱうだー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ラッサムパウダー",
+      "slug": "rasam-powder",
+      "name_en": "Rasam Powder",
+      "name_reading": "らっさむぱうだー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "パニプリマサラ",
+      "slug": "panipuri-masala",
+      "name_en": "Panipuri Masala",
+      "name_reading": "ぱにぷりまさら",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "アジョワン",
+      "slug": "ajwain",
+      "name_en": "Ajwain (Carom Seeds)",
+      "name_reading": "あじょわん",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ヒング",
+      "slug": "hing",
+      "name_en": "Hing (Asafoetida)",
+      "name_reading": "ひんぐ",
+      "season": "通年",
+      "origin": "インド・イラン"
+    },
+    {
+      "name": "カレーリーフ",
+      "slug": "curry-leaves",
+      "name_en": "Curry Leaves",
+      "name_reading": "かれーりーふ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "カロンジ",
+      "slug": "kalonji",
+      "name_en": "Kalonji (Nigella Seeds)",
+      "name_reading": "かろんじ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "フェヌグリーク",
+      "slug": "fenugreek",
+      "name_en": "Fenugreek (Methi Seeds)",
+      "name_reading": "ふぇぬぐりーく",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "アムチュール",
+      "slug": "amchur",
+      "name_en": "Amchur (Dried Mango Powder)",
+      "name_reading": "あむちゅーる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "カスリメティ",
+      "slug": "kasuri-methi",
+      "name_en": "Kasuri Methi (Dried Fenugreek)",
+      "name_reading": "かすりめてぃ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ブラッククミン",
+      "slug": "black-cumin",
+      "name_en": "Black Cumin (Shahi Jeera)",
+      "name_reading": "ぶらっくくみん",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "チャナダル",
+      "slug": "chana-dal",
+      "name_en": "Chana Dal",
+      "name_reading": "ちゃなだる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ムングダル",
+      "slug": "moong-dal",
+      "name_en": "Moong Dal (Mung Bean)",
+      "name_reading": "むんぐだる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "トゥールダル",
+      "slug": "toor-dal",
+      "name_en": "Toor Dal (Pigeon Pea)",
+      "name_reading": "とぅーるだる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ウラドダル",
+      "slug": "urad-dal",
+      "name_en": "Urad Dal (Black Gram)",
+      "name_reading": "うらどだる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "マスールダル",
+      "slug": "masoor-dal",
+      "name_en": "Masoor Dal (Red Lentil)",
+      "name_reading": "ますーるだる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ラジマ",
+      "slug": "rajma",
+      "name_en": "Rajma (Red Kidney Bean)",
+      "name_reading": "らじま",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "バスマティライス",
+      "slug": "basmati-rice",
+      "name_en": "Basmati Rice",
+      "name_reading": "ばすまてぃらいす",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "チャパティ粉",
+      "slug": "chapati-flour",
+      "name_en": "Chapati Flour (Atta)",
+      "name_reading": "ちゃぱてぃこ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ベサン粉",
+      "slug": "besan-flour",
+      "name_en": "Besan Flour (Chickpea Flour)",
+      "name_reading": "べさんこ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "セモリナ",
+      "slug": "semolina",
+      "name_en": "Semolina (Suji)",
+      "name_reading": "せもりな",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "イドリー用米粉",
+      "slug": "idli-rice-flour",
+      "name_en": "Idli Rice Flour",
+      "name_reading": "いどりーようこめこ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ギー",
+      "slug": "ghee",
+      "name_en": "Ghee (Clarified Butter)",
+      "name_reading": "ぎー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "パニール",
+      "slug": "paneer",
+      "name_en": "Paneer (Fresh Cheese)",
+      "name_reading": "ぱにーる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ダヒ",
+      "slug": "dahi",
+      "name_en": "Dahi (Yogurt)",
+      "name_reading": "だひ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "タマリンド",
+      "slug": "tamarind",
+      "name_en": "Tamarind",
+      "name_reading": "たまりんど",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ジャガリー",
+      "slug": "jaggery",
+      "name_en": "Jaggery (Unrefined Sugar)",
+      "name_reading": "じゃがりー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ココナッツミルクパウダー",
+      "slug": "coconut-milk-powder",
+      "name_en": "Coconut Milk Powder",
+      "name_reading": "ここなっつみるくぱうだー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "パパド",
+      "slug": "papad",
+      "name_en": "Papad (Lentil Wafer)",
+      "name_reading": "ぱぱど",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "コリアンダーシード",
+      "slug": "coriander-seeds",
+      "name_en": "Coriander Seeds",
+      "name_reading": "こりあんだーしーど",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "クミンシード",
+      "slug": "cumin-seeds",
+      "name_en": "Cumin Seeds",
+      "name_reading": "くみんしーど",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "マスタードシード",
+      "slug": "mustard-seeds",
+      "name_en": "Mustard Seeds",
+      "name_reading": "ますたーどしーど",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "レッドチリパウダー",
+      "slug": "red-chili-powder",
+      "name_en": "Red Chili Powder",
+      "name_reading": "れっどちりぱうだー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "マッタルガバル",
+      "slug": "matta-rice",
+      "name_en": "Matta Rice",
+      "name_reading": "まったるがばる",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "パーボイルドライス",
+      "slug": "parboiled-rice",
+      "name_en": "Parboiled Rice",
+      "name_reading": "ぱーぼいるどらいす",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "シナモンスティック",
+      "slug": "cinnamon-stick",
+      "name_en": "Cinnamon Stick",
+      "name_reading": "しなもんすてぃっく",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "クローブ",
+      "slug": "cloves",
+      "name_en": "Cloves",
+      "name_reading": "くろーぶ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "グリーンカルダモン",
+      "slug": "green-cardamom",
+      "name_en": "Green Cardamom",
+      "name_reading": "ぐりーんかるだもん",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ブラックカルダモン",
+      "slug": "black-cardamom",
+      "name_en": "Black Cardamom",
+      "name_reading": "ぶらっくかるだもん",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "コリアンダーリーフ",
+      "slug": "coriander-leaves",
+      "name_en": "Coriander Leaves (Cilantro)",
+      "name_reading": "こりあんだーりーふ",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "アニシード",
+      "slug": "anise-seeds",
+      "name_en": "Anise Seeds (Saunf)",
+      "name_reading": "あにしーど",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "ニームリーフパウダー",
+      "slug": "neem-leaf-powder",
+      "name_en": "Neem Leaf Powder",
+      "name_reading": "にーむりーふぱうだー",
+      "season": "通年",
+      "origin": "インド"
+    },
+    {
+      "name": "アマチュールレモン",
+      "slug": "amchur-lemon",
+      "name_en": "Amchur (Dried Lemon)",
+      "name_reading": "あまちゅーるれもん",
+      "season": "通年",
+      "origin": "インド"
+    }
+  ]
+}

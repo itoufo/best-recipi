@@ -1,0 +1,205 @@
+{
+  "category": "ナッツ・種子",
+  "ingredients": [
+    {
+      "name": "白ごま",
+      "slug": "shiro-goma",
+      "name_en": "White sesame seeds",
+      "name_reading": "しろごま",
+      "season": "通年",
+      "origin": "ボリビア・インド"
+    },
+    {
+      "name": "黒ごま",
+      "slug": "kuro-goma",
+      "name_en": "Black sesame seeds",
+      "name_reading": "くろごま",
+      "season": "通年",
+      "origin": "中国・インド"
+    },
+    {
+      "name": "すりごま",
+      "slug": "suri-goma",
+      "name_en": "Ground sesame seeds",
+      "name_reading": "すりごま",
+      "season": "通年",
+      "origin": "ボリビア・インド"
+    },
+    {
+      "name": "いりごま",
+      "slug": "iri-goma",
+      "name_en": "Roasted sesame seeds",
+      "name_reading": "いりごま",
+      "season": "通年",
+      "origin": "ボリビア・インド"
+    },
+    {
+      "name": "練りごま",
+      "slug": "neri-goma",
+      "name_en": "Sesame paste",
+      "name_reading": "ねりごま",
+      "season": "通年",
+      "origin": "ボリビア・インド"
+    },
+    {
+      "name": "アーモンド",
+      "slug": "almondo",
+      "name_en": "Almond",
+      "name_reading": "あーもんど",
+      "season": "通年",
+      "origin": "アメリカ・オーストラリア"
+    },
+    {
+      "name": "くるみ",
+      "slug": "kurumi",
+      "name_en": "Walnut",
+      "name_reading": "くるみ",
+      "season": "通年",
+      "origin": "カリフォルニア・長野県"
+    },
+    {
+      "name": "ピーナッツ",
+      "slug": "pinattsu",
+      "name_en": "Peanut",
+      "name_reading": "ぴーなっつ",
+      "season": "通年",
+      "origin": "中国・アメリカ"
+    },
+    {
+      "name": "カシューナッツ",
+      "slug": "kashyu-nattu",
+      "name_en": "Cashew nut",
+      "name_reading": "かしゅーなっつ",
+      "season": "通年",
+      "origin": "ベトナム・インド"
+    },
+    {
+      "name": "松の実",
+      "slug": "matsu-no-mi",
+      "name_en": "Pine nut",
+      "name_reading": "まつのみ",
+      "season": "通年",
+      "origin": "中国・シベリア"
+    },
+    {
+      "name": "ピスタチオ",
+      "slug": "pisutakio",
+      "name_en": "Pistachio",
+      "name_reading": "ぴすたちお",
+      "season": "通年",
+      "origin": "イラン・アメリカ"
+    },
+    {
+      "name": "栗",
+      "slug": "kuri",
+      "name_en": "Chestnut",
+      "name_reading": "くり",
+      "season": "秋",
+      "origin": "茨城県・熊本県"
+    },
+    {
+      "name": "マカダミアナッツ",
+      "slug": "makadamia-nattu",
+      "name_en": "Macadamia nut",
+      "name_reading": "まかだみあなっつ",
+      "season": "通年",
+      "origin": "オーストラリア・ハワイ"
+    },
+    {
+      "name": "ヘーゼルナッツ",
+      "slug": "heazeru-nattu",
+      "name_en": "Hazelnut",
+      "name_reading": "へーぜるなっつ",
+      "season": "通年",
+      "origin": "トルコ・オレゴン州"
+    },
+    {
+      "name": "ペカンナッツ",
+      "slug": "pekan-nattu",
+      "name_en": "Pecan nut",
+      "name_reading": "ぺかんなっつ",
+      "season": "通年",
+      "origin": "アメリカ・テキサス州"
+    },
+    {
+      "name": "ブラジルナッツ",
+      "slug": "braziru-nattu",
+      "name_en": "Brazil nut",
+      "name_reading": "ぶらじるなっつ",
+      "season": "通年",
+      "origin": "ブラジル・ペルー"
+    },
+    {
+      "name": "ひまわりの種",
+      "slug": "himawari-no-tane",
+      "name_en": "Sunflower seed",
+      "name_reading": "ひまわりのたね",
+      "season": "通年",
+      "origin": "ロシア・ウクライナ"
+    },
+    {
+      "name": "かぼちゃの種",
+      "slug": "kabocha-no-tane",
+      "name_en": "Pumpkin seed",
+      "name_reading": "かぼちゃのたね",
+      "season": "通年",
+      "origin": "中国・アルゼンチン"
+    },
+    {
+      "name": "チアシード",
+      "slug": "chia-shido",
+      "name_en": "Chia seed",
+      "name_reading": "ちあしーど",
+      "season": "通年",
+      "origin": "メキシコ・ボリビア"
+    },
+    {
+      "name": "亜麻仁",
+      "slug": "amani",
+      "name_en": "Flax seed",
+      "name_reading": "あまに",
+      "season": "通年",
+      "origin": "カナダ・インド"
+    },
+    {
+      "name": "麻の実",
+      "slug": "asa-no-mi",
+      "name_en": "Hemp seed",
+      "name_reading": "あさのみ",
+      "season": "通年",
+      "origin": "カナダ・中国"
+    },
+    {
+      "name": "ココナッツフレーク",
+      "slug": "coconut-furekku",
+      "name_en": "Coconut flakes",
+      "name_reading": "ここなっつふれーく",
+      "season": "通年",
+      "origin": "フィリピン・インドネシア"
+    },
+    {
+      "name": "銀杏",
+      "slug": "ginko",
+      "name_en": "Ginkgo nut",
+      "name_reading": "ぎんこう",
+      "season": "秋",
+      "origin": "愛知県・長野県"
+    },
+    {
+      "name": "スイートアーモンド",
+      "slug": "suit-almondo",
+      "name_en": "Sweet almond",
+      "name_reading": "すいーとあーもんど",
+      "season": "通年",
+      "origin": "アメリカ・スペイン"
+    },
+    {
+      "name": "ベルナッツ",
+      "slug": "berunattsu",
+      "name_en": "Betel nut",
+      "name_reading": "べるなっつ",
+      "season": "通年",
+      "origin": "フィリピン・インドネシア"
+    }
+  ]
+}
