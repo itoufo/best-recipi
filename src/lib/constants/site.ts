@@ -11,6 +11,7 @@ export const SITE = {
 
 export const NAV_ITEMS = [
   { label: 'レシピ', href: '/recipes' },
+  { label: '食材で探す', href: '/search/ingredients' },
   { label: 'タグで探す', href: '/tags' },
   { label: 'カテゴリ', href: '/categories' },
 ] as const

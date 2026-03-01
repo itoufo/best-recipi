@@ -97,6 +97,19 @@ export default async function HomePage() {
         </section>
       )}
 
+      {/* Ingredient Search CTA */}
+      <section className="mx-auto max-w-6xl px-4 py-8">
+        <div className="rounded-2xl border border-border bg-card p-8 text-center">
+          <h2 className="font-serif text-2xl font-bold mb-2">食材の組み合わせで探す</h2>
+          <p className="text-muted-foreground mb-6 max-w-lg mx-auto">
+            冷蔵庫にある食材を入力して、今すぐ作れるレシピを見つけましょう
+          </p>
+          <Button href="/search/ingredients" size="lg">
+            食材で探す
+          </Button>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="mx-auto max-w-6xl px-4 py-16 text-center">
         <h2 className="font-serif text-3xl font-bold mb-4">{SITE.tagline}</h2>

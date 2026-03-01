@@ -102,3 +102,8 @@ export interface RecipeCardData {
 export interface SearchRecipeResult extends RecipeCardData {
   score: number
 }
+
+export interface CombinationSearchResult extends RecipeCardData {
+  match_count: number
+  total_ingredients: number
+}

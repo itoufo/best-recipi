@@ -41,3 +41,12 @@ export interface SearchIngredientResult {
   image_url: string | null
   score: number
 }
+
+export interface IngredientAutocompleteResult {
+  id: number
+  slug: string
+  name: string
+  name_reading: string | null
+  category: string | null
+  image_url: string | null
+}
