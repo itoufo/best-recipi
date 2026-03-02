@@ -172,14 +172,11 @@ export default async function RecipeDetailPage({ params }: PageProps) {
           </div>
         </div>
 
-        {/* Different Taste Recipes */}
-        {tags && tags.length > 0 && (
-          <DifferentTasteRecipes
-            currentRecipeId={recipe.id}
-            tags={tags}
-            course={recipe.course}
-          />
-        )}
+        {/* Different Taste Recipes (same base dish, different flavor) */}
+        <DifferentTasteRecipes
+          currentRecipeId={recipe.id}
+          baseDish={recipe.base_dish}
+        />
 
         {/* Related Recipes */}
         <RelatedRecipes recipes={relatedFiltered} />

@@ -48,6 +48,7 @@ interface RecipeJSON {
   cuisine: string
   course: string
   tips: string
+  base_dish?: string       // e.g. "nikujaga" — groups variants of the same dish
   tag_slugs: string[]     // e.g. ["umami", "simmer", "rich"]
   category_slug: string   // e.g. "main"
   ingredients: Array<{
@@ -89,6 +90,7 @@ async function insertRecipe(recipe: RecipeJSON): Promise<boolean> {
       cuisine: recipe.cuisine,
       course: recipe.course,
       tips: recipe.tips,
+      base_dish: recipe.base_dish || null,
       status: 'published',
       published_at: new Date().toISOString(),
     }, { onConflict: 'slug' })

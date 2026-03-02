@@ -26,6 +26,7 @@ export interface Recipe {
   status: 'draft' | 'published' | 'archived'
   published_at: string | null
   featured: boolean
+  base_dish: string | null
   created_at: string
   updated_at: string
 }

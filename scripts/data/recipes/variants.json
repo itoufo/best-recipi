@@ -1,0 +1,2925 @@
+[
+  {
+    "slug": "nikujaga-shio",
+    "title": "肉じゃが（さっぱり塩味）",
+    "base_dish": "nikujaga",
+    "description": "塩ベースであっさり仕上げた肉じゃが。素材の味を活かしたシンプルな味わい。",
+    "introduction": "醤油を使わず、塩とだしで仕上げるさっぱり系の肉じゃがです。素材そのものの旨みを楽しめるので、夏場や脂っこいものが苦手な方にもおすすめ。白ワインとの相性も良いです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 25,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 240,
+    "protein_g": 15,
+    "fat_g": 8,
+    "carbs_g": 30,
+    "fiber_g": 3,
+    "sodium_mg": 600,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "じゃがいもは一口大に切り水にさらす。玉ねぎはくし切り、人参は乱切りにする。",
+        "tip": "じゃがいもはメークインがおすすめ。煮崩れしにくい"
+      },
+      {
+        "step": 2,
+        "text": "鍋にだし汁300mlを沸かし、人参、じゃがいもを入れて中火で煮る。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "5分ほど煮たら豚肉と玉ねぎを加え、塩小さじ1、酒大さじ2を加える。",
+        "tip": "塩は少なめに入れて最後に調整するのがコツ"
+      },
+      {
+        "step": 4,
+        "text": "落し蓋をして弱火で15分煮込む。仕上げに黒こしょうを振る。",
+        "tip": "レモンを絞ると一層さっぱりする"
+      }
+    ],
+    "meta_title": "塩肉じゃがの作り方 | さっぱり味のアレンジレシピ",
+    "meta_description": "塩とだしで仕上げるさっぱり系の肉じゃが。素材の味を活かしたシンプルなおいしさ。",
+    "keywords": [
+      "肉じゃが",
+      "塩味",
+      "さっぱり",
+      "アレンジ",
+      "和食"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "だし汁はかつおと昆布の合わせだしがベスト。塩は自然塩を使うと味に深みが出ます。",
+    "tag_slugs": [
+      "light",
+      "simmer",
+      "umami"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-thin-sliced",
+        "name": "豚薄切り肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "potato",
+        "name": "じゃがいも",
+        "quantity": "3",
+        "unit": "個",
+        "preparation": "一口大に切る"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "くし切り"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1",
+        "unit": "本",
+        "preparation": "乱切り"
+      },
+      {
+        "slug": "dashi-stock",
+        "name": "だし汁",
+        "quantity": "300",
+        "unit": "ml"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sake",
+        "name": "酒",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "black-pepper",
+        "name": "黒こしょう",
+        "quantity": "少々",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "nikujaga-curry",
+    "title": "肉じゃが（カレー風味）",
+    "base_dish": "nikujaga",
+    "description": "カレー粉を加えたスパイシーな肉じゃが。子供にも大人にも人気のアレンジ。",
+    "introduction": "定番の肉じゃがにカレー粉を加えるだけで、一気にスパイシーで食欲をそそる一品に変身。いつもの味に飽きた時のマンネリ解消に最適です。ご飯が止まらなくなるおいしさです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 30,
+    "total_time_minutes": 45,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 300,
+    "protein_g": 17,
+    "fat_g": 12,
+    "carbs_g": 33,
+    "fiber_g": 4,
+    "sodium_mg": 700,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "じゃがいもは一口大に切り水にさらす。玉ねぎはくし切り、人参は乱切りにする。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "フライパンに油を熱し、牛肉を炒める。色が変わったらカレー粉大さじ1を加え、香りが立つまで炒める。",
+        "tip": "カレー粉は先に炒めることで香りが格段に良くなる"
+      },
+      {
+        "step": 3,
+        "text": "野菜を全て加えて軽く炒め、水150ml、醤油大さじ2、みりん大さじ1、砂糖大さじ1/2を加える。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "落し蓋をして中火で20〜25分煮込む。",
+        "tip": "ガラムマサラを仕上げに振るとより本格的になる"
+      }
+    ],
+    "meta_title": "カレー風味の肉じゃが | スパイシーアレンジレシピ",
+    "meta_description": "カレー粉を加えたスパイシーな肉じゃが。いつもの味に飽きた時のアレンジレシピ。",
+    "keywords": [
+      "肉じゃが",
+      "カレー",
+      "アレンジ",
+      "和食",
+      "スパイシー"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "カレー粉の量はお好みで調整してください。辛いのが苦手な方は小さじ2程度に抑えても十分香りを楽しめます。",
+    "tag_slugs": [
+      "spicy",
+      "simmer",
+      "rich"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "beef-thin-sliced",
+        "name": "牛薄切り肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "potato",
+        "name": "じゃがいも",
+        "quantity": "3",
+        "unit": "個",
+        "preparation": "一口大に切る"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "くし切り"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1",
+        "unit": "本",
+        "preparation": "乱切り"
+      },
+      {
+        "slug": "curry-powder",
+        "name": "カレー粉",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "mirin",
+        "name": "みりん",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "大さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "karaage-shio-lemon",
+    "title": "唐揚げ（塩レモン）",
+    "base_dish": "karaage",
+    "description": "塩とレモンで仕上げたさっぱり唐揚げ。ビールにも最高のおつまみ。",
+    "introduction": "いつもの醤油味ではなく、塩とレモンの爽やかな風味で仕上げた唐揚げ。衣はカリッと、中はジューシー。暑い季節にぴったりの一品です。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 25,
+    "fat_g": 18,
+    "carbs_g": 15,
+    "fiber_g": 0,
+    "sodium_mg": 550,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏もも肉を一口大に切り、塩小さじ1、レモン汁大さじ2、にんにくすりおろし、酒大さじ1で30分以上漬ける。",
+        "tip": "漬け時間が長いほどレモンの風味が染み込む"
+      },
+      {
+        "step": 2,
+        "text": "片栗粉をまぶし、余分な粉を落とす。",
+        "tip": "片栗粉は薄めにまぶすとカリッと仕上がる"
+      },
+      {
+        "step": 3,
+        "text": "170度の油で3〜4分揚げ、一度取り出す。油を180度に上げて二度揚げする。",
+        "tip": "二度揚げがカリカリの秘訣"
+      },
+      {
+        "step": 4,
+        "text": "器に盛り、レモンのくし切りを添える。お好みで黒こしょうを振る。",
+        "tip": null
+      }
+    ],
+    "meta_title": "塩レモン唐揚げの作り方 | さっぱり味のアレンジ",
+    "meta_description": "塩とレモンで仕上げた爽やかな唐揚げ。カリッとジューシーな衣との相性抜群。",
+    "keywords": [
+      "唐揚げ",
+      "塩レモン",
+      "さっぱり",
+      "おつまみ",
+      "鶏肉"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "レモンの皮をすりおろして加えると、さらに香り高くなります。揚げたては最高のおいしさです。",
+    "tag_slugs": [
+      "light",
+      "sour",
+      "deep-fry",
+      "crispy"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "400",
+        "unit": "g",
+        "preparation": "一口大に切る"
+      },
+      {
+        "slug": "lemon",
+        "name": "レモン",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "すりおろし"
+      },
+      {
+        "slug": "sake",
+        "name": "酒",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "potato-starch",
+        "name": "片栗粉",
+        "quantity": "適量",
+        "unit": ""
+      },
+      {
+        "slug": "frying-oil",
+        "name": "揚げ油",
+        "quantity": "適量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "karaage-spicy",
+    "title": "唐揚げ（スパイシー）",
+    "base_dish": "karaage",
+    "description": "唐辛子と山椒を効かせた大人のピリ辛唐揚げ。ビールが止まらない。",
+    "introduction": "定番の唐揚げに唐辛子と山椒のダブルパンチ。しびれる辛さがクセになるスパイシーバージョンです。おつまみにはもちろん、ご飯のおかずにも。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 340,
+    "protein_g": 25,
+    "fat_g": 20,
+    "carbs_g": 16,
+    "fiber_g": 1,
+    "sodium_mg": 700,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏もも肉を一口大に切り、醤油大さじ2、酒大さじ1、にんにく・生姜すりおろし、一味唐辛子小さじ1で20分漬ける。",
+        "tip": "辛さはお好みで調整を"
+      },
+      {
+        "step": 2,
+        "text": "片栗粉と薄力粉を1:1で混ぜ、漬けた鶏肉にまぶす。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "170度の油で4分揚げ、取り出して2分休ませてから180度で二度揚げ。",
+        "tip": "二度揚げで外はカリカリ中はジューシーに"
+      },
+      {
+        "step": 4,
+        "text": "揚げたてに山椒をたっぷり振りかけ、唐辛子の輪切りを散らして完成。",
+        "tip": "花椒（ホアジャオ）を使うとさらに本格的"
+      }
+    ],
+    "meta_title": "スパイシー唐揚げの作り方 | ピリ辛アレンジレシピ",
+    "meta_description": "唐辛子と山椒を効かせた大人のピリ辛唐揚げ。しびれる辛さがやみつきに。",
+    "keywords": [
+      "唐揚げ",
+      "スパイシー",
+      "辛い",
+      "おつまみ",
+      "山椒"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "山椒は揚げたてにかけることで、香りが最大限に立ちます。辛さが苦手な方は唐辛子を減らしてください。",
+    "tag_slugs": [
+      "spicy",
+      "deep-fry",
+      "crispy"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "400",
+        "unit": "g",
+        "preparation": "一口大に切る"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sake",
+        "name": "酒",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "すりおろし"
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "すりおろし"
+      },
+      {
+        "slug": "ichimi-togarashi",
+        "name": "一味唐辛子",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sansho",
+        "name": "山椒",
+        "quantity": "適量",
+        "unit": ""
+      },
+      {
+        "slug": "potato-starch",
+        "name": "片栗粉",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "flour",
+        "name": "薄力粉",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "frying-oil",
+        "name": "揚げ油",
+        "quantity": "適量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "mapo-tofu-mild",
+    "title": "麻婆豆腐（白い麻婆・塩味）",
+    "base_dish": "mapo-tofu",
+    "description": "豆板醤を使わない白い麻婆豆腐。鶏ガラスープの優しい味わい。",
+    "introduction": "辛くない、白い麻婆豆腐。鶏ガラベースのあんかけで豆腐を包み込む、子供も食べやすい一品。鶏ひき肉を使って、ヘルシーに仕上げました。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 220,
+    "protein_g": 18,
+    "fat_g": 12,
+    "carbs_g": 10,
+    "fiber_g": 1,
+    "sodium_mg": 600,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豆腐は2cm角に切り、塩少々を加えた湯で2分茹でてザルにあげる。",
+        "tip": "下茹ですると崩れにくく、余分な水分も抜ける"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにごま油を熱し、鶏ひき肉を炒める。火が通ったら長ねぎみじん切りを加える。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "鶏ガラスープ200ml、酒大さじ1、塩小さじ1/2を加え、豆腐を入れて3分煮る。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "水溶き片栗粉でとろみをつけ、仕上げにごま油を回しかける。",
+        "tip": "白こしょうを振ると風味が引き立つ"
+      }
+    ],
+    "meta_title": "白い麻婆豆腐の作り方 | 辛くないやさしい味",
+    "meta_description": "豆板醤不使用の白い麻婆豆腐。鶏ガラスープの優しい味わいで子供にも人気。",
+    "keywords": [
+      "麻婆豆腐",
+      "白麻婆",
+      "辛くない",
+      "子供向け",
+      "豆腐"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "仕上げにゆず皮を散らすと和風テイストに。豆板醤の代わりに柚子胡椒を少量加えるのもおすすめ。",
+    "tag_slugs": [
+      "light",
+      "umami",
+      "simmer",
+      "creamy"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "tofu",
+        "name": "絹ごし豆腐",
+        "quantity": "1",
+        "unit": "丁"
+      },
+      {
+        "slug": "chicken-mince",
+        "name": "鶏ひき肉",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "chicken-stock",
+        "name": "鶏ガラスープ",
+        "quantity": "200",
+        "unit": "ml"
+      },
+      {
+        "slug": "sake",
+        "name": "酒",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "potato-starch",
+        "name": "片栗粉",
+        "quantity": "大さじ1",
+        "unit": "",
+        "preparation": "水大さじ2で溶く"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "mapo-tofu-miso",
+    "title": "麻婆豆腐（和風味噌）",
+    "base_dish": "mapo-tofu",
+    "description": "味噌ベースの和風麻婆豆腐。ほのかな辛さとコクのある味わい。",
+    "introduction": "豆板醤の代わりに味噌を使った和風アレンジ。味噌のコクと甘みが豆腐と絡み、ご飯が進みます。辛さは一味唐辛子で調整できるので、好みに合わせて。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 20,
+    "fat_g": 15,
+    "carbs_g": 14,
+    "fiber_g": 2,
+    "sodium_mg": 750,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豆腐は2cm角に切る。味噌大さじ2、砂糖小さじ1、酒大さじ1を混ぜておく。",
+        "tip": "合わせ味噌（赤白ミックス）がおすすめ"
+      },
+      {
+        "step": 2,
+        "text": "フライパンにごま油を熱し、豚ひき肉を炒める。にんにくと生姜のみじん切りを加える。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "味噌ダレと水150mlを加え、豆腐を入れてひと煮立ちさせる。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "水溶き片栗粉でとろみをつけ、お好みで一味唐辛子と刻みねぎを散らす。",
+        "tip": "山椒を振ると本格的な風味に"
+      }
+    ],
+    "meta_title": "和風味噌麻婆豆腐の作り方 | コクうまアレンジ",
+    "meta_description": "味噌ベースの和風麻婆豆腐。味噌のコクと甘みでご飯が進む一品。",
+    "keywords": [
+      "麻婆豆腐",
+      "味噌",
+      "和風",
+      "アレンジ",
+      "豆腐"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "赤味噌を使うとよりコクが出ます。白味噌だけだと甘めに仕上がるので、お好みでブレンドしてください。",
+    "tag_slugs": [
+      "rich",
+      "umami",
+      "stir-fry"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "tofu",
+        "name": "木綿豆腐",
+        "quantity": "1",
+        "unit": "丁"
+      },
+      {
+        "slug": "pork-mince",
+        "name": "豚ひき肉",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "miso",
+        "name": "味噌",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sake",
+        "name": "酒",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "potato-starch",
+        "name": "片栗粉",
+        "quantity": "大さじ1",
+        "unit": "",
+        "preparation": "水大さじ2で溶く"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "刻み"
+      }
+    ]
+  },
+  {
+    "slug": "gyoza-sui",
+    "title": "餃子（水餃子）",
+    "base_dish": "gyoza",
+    "description": "つるんともちもちの水餃子。スープごと楽しむ優しい味わい。",
+    "introduction": "焼き餃子とは一味違う、もちもちの皮をスープとともに楽しむ水餃子。中国北方の家庭料理をベースに、日本人好みの味付けに仕上げました。",
+    "prep_time_minutes": 30,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 260,
+    "protein_g": 16,
+    "fat_g": 10,
+    "carbs_g": 28,
+    "fiber_g": 2,
+    "sodium_mg": 550,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚ひき肉、白菜みじん切り（塩もみして絞る）、にら、生姜、醤油大さじ1、ごま油小さじ1を混ぜてあんを作る。",
+        "tip": "白菜の水気はしっかり絞ること"
+      },
+      {
+        "step": 2,
+        "text": "餃子の皮にあんを包む。厚めの皮を使うともちもち感がアップ。",
+        "tip": "水餃子用の厚い皮がおすすめ"
+      },
+      {
+        "step": 3,
+        "text": "たっぷりの湯を沸かし、餃子を入れる。浮いてきたら水を差し、もう一度沸騰したら茹で上がり。",
+        "tip": "水差しを2回繰り返すとしっかり火が通る"
+      },
+      {
+        "step": 4,
+        "text": "鶏ガラスープにねぎ、ラー油を加えたつけダレで食べる。スープ餃子にしてもおいしい。",
+        "tip": null
+      }
+    ],
+    "meta_title": "水餃子の作り方 | もちもちつるんと美味しい",
+    "meta_description": "もちもちの皮が美味しい水餃子。スープと一緒に楽しむ優しい味わいのレシピ。",
+    "keywords": [
+      "餃子",
+      "水餃子",
+      "もちもち",
+      "中華",
+      "茹で餃子"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "皮を手作りすると格段に美味しくなります。強力粉と薄力粉を半々に混ぜ、熱湯でこねると弾力のある皮に。",
+    "tag_slugs": [
+      "umami",
+      "chewy",
+      "simmer"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-mince",
+        "name": "豚ひき肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "napa-cabbage",
+        "name": "白菜",
+        "quantity": "3",
+        "unit": "枚",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "nira",
+        "name": "にら",
+        "quantity": "1/2",
+        "unit": "束",
+        "preparation": "小口切り"
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "gyoza-wrapper-thick",
+        "name": "餃子の皮（厚め）",
+        "quantity": "30",
+        "unit": "枚"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "gyoza-age",
+    "title": "餃子（揚げ餃子）",
+    "base_dish": "gyoza",
+    "description": "カリッとサクサクの揚げ餃子。パーティーやおつまみにぴったり。",
+    "introduction": "外はカリッカリ、中はジューシーな揚げ餃子。焼き餃子より手軽で、大量に作れるのでパーティーにも最適。甘酢ダレとの相性も抜群です。",
+    "prep_time_minutes": 25,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 40,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 350,
+    "protein_g": 15,
+    "fat_g": 20,
+    "carbs_g": 28,
+    "fiber_g": 1,
+    "sodium_mg": 600,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚ひき肉、キャベツみじん切り（塩もみ）、にんにく、醤油大さじ1、ごま油小さじ1を混ぜてあんを作る。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "餃子の皮にあんを包む。端はしっかり閉じること。",
+        "tip": "油で揚げるので、口が開かないようしっかり留める"
+      },
+      {
+        "step": 3,
+        "text": "170度の油で3〜4分、きつね色になるまで揚げる。",
+        "tip": "一度にたくさん入れると温度が下がるので少量ずつ"
+      },
+      {
+        "step": 4,
+        "text": "酢、醤油、砂糖、ラー油を混ぜた甘酢ダレを添える。",
+        "tip": null
+      }
+    ],
+    "meta_title": "揚げ餃子の作り方 | カリカリサクサク",
+    "meta_description": "カリッとサクサクの揚げ餃子。パーティーやおつまみに最適な簡単レシピ。",
+    "keywords": [
+      "餃子",
+      "揚げ餃子",
+      "カリカリ",
+      "おつまみ",
+      "パーティー"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "揚げたてが一番おいしいので、食べる直前に揚げてください。残ったあんは肉味噌として使えます。",
+    "tag_slugs": [
+      "rich",
+      "deep-fry",
+      "crispy",
+      "party"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-mince",
+        "name": "豚ひき肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "cabbage",
+        "name": "キャベツ",
+        "quantity": "3",
+        "unit": "枚",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "gyoza-wrapper",
+        "name": "餃子の皮",
+        "quantity": "30",
+        "unit": "枚"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "frying-oil",
+        "name": "揚げ油",
+        "quantity": "適量",
+        "unit": ""
+      },
+      {
+        "slug": "vinegar",
+        "name": "酢",
+        "quantity": "大さじ2",
+        "unit": "",
+        "group_name": "タレ用"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": "",
+        "group_name": "タレ用"
+      }
+    ]
+  },
+  {
+    "slug": "chahan-kimchi",
+    "title": "炒飯（キムチ）",
+    "base_dish": "chahan",
+    "description": "キムチの辛さと旨みがクセになるピリ辛炒飯。パラパラに仕上げるコツ付き。",
+    "introduction": "キムチの発酵した旨みと辛さが絶妙な炒飯。豚バラとの相性は抜群で、ご飯もパラパラに仕上がります。冷蔵庫にあるキムチで手軽に作れる一品。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 450,
+    "protein_g": 18,
+    "fat_g": 15,
+    "carbs_g": 60,
+    "fiber_g": 2,
+    "sodium_mg": 800,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "キムチは食べやすい大きさに刻む。豚バラは1cm幅に切る。卵は溶いておく。",
+        "tip": "古いキムチのほうが酸味と旨みが強くて美味しい"
+      },
+      {
+        "step": 2,
+        "text": "強火でフライパンを熱し、ごま油を引いて豚バラを炒める。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "キムチを加えて1分炒め、ご飯を入れて強火でパラパラになるまで炒める。",
+        "tip": "ご飯は冷やご飯のほうがパラパラに仕上がる"
+      },
+      {
+        "step": 4,
+        "text": "溶き卵を回し入れ、全体を手早く混ぜる。醤油をフライパンの縁から回しかけて完成。",
+        "tip": "最後に韓国海苔を散らすと本格的"
+      }
+    ],
+    "meta_title": "キムチ炒飯の作り方 | パラパラ簡単レシピ",
+    "meta_description": "キムチと豚バラのピリ辛炒飯。パラパラに仕上げるコツ付きの簡単レシピ。",
+    "keywords": [
+      "チャーハン",
+      "キムチ",
+      "炒飯",
+      "簡単",
+      "時短"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "キムチの汁も一緒に加えると、味に深みが出ます。ごま油は最初と仕上げに二度使いがおすすめ。",
+    "tag_slugs": [
+      "spicy",
+      "stir-fry",
+      "quick"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "cooked-rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳",
+        "preparation": "冷やご飯推奨"
+      },
+      {
+        "slug": "kimchi",
+        "name": "キムチ",
+        "quantity": "100",
+        "unit": "g",
+        "preparation": "刻む"
+      },
+      {
+        "slug": "pork-belly",
+        "name": "豚バラ肉",
+        "quantity": "80",
+        "unit": "g",
+        "preparation": "1cm幅に切る"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "chahan-lettuce",
+    "title": "炒飯（レタス）",
+    "base_dish": "chahan",
+    "description": "シャキシャキレタスが爽やかな中華の定番。さっぱり軽い食べごたえ。",
+    "introduction": "香港式のレタス炒飯。シャキシャキのレタスが加わることで、いつもの炒飯がさっぱり軽やかに。仕上げに入れるのがポイントです。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 400,
+    "protein_g": 14,
+    "fat_g": 12,
+    "carbs_g": 58,
+    "fiber_g": 2,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "レタスは手でちぎる。チャーシューは5mm角に切る。卵は溶いておく。",
+        "tip": "レタスは大きめにちぎるとシャキシャキ感が残る"
+      },
+      {
+        "step": 2,
+        "text": "強火で熱したフライパンにサラダ油を引き、溶き卵を入れて半熟のうちにご飯を加える。",
+        "tip": "卵→ご飯の順が鉄則。卵がご飯をコーティングしてパラパラに"
+      },
+      {
+        "step": 3,
+        "text": "チャーシューを加え、塩小さじ1/2、鶏ガラ顆粒小さじ1、醤油小さじ1で味付け。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "火を止めてからレタスを加え、ざっくり混ぜる。余熱で軽くしんなりさせる程度でOK。",
+        "tip": "レタスは火を止めてから入れるのが最大のポイント"
+      }
+    ],
+    "meta_title": "レタス炒飯の作り方 | シャキシャキ爽やか",
+    "meta_description": "シャキシャキレタスが爽やかな香港式レタス炒飯。パラパラに仕上げる簡単レシピ。",
+    "keywords": [
+      "チャーハン",
+      "レタス",
+      "炒飯",
+      "香港",
+      "さっぱり"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "レタスの代わりに水菜でも美味しく仕上がります。オイスターソースを少し加えるとコクが増します。",
+    "tag_slugs": [
+      "light",
+      "stir-fry",
+      "quick"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "cooked-rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳"
+      },
+      {
+        "slug": "lettuce",
+        "name": "レタス",
+        "quantity": "3",
+        "unit": "枚",
+        "preparation": "手でちぎる"
+      },
+      {
+        "slug": "chashu",
+        "name": "チャーシュー",
+        "quantity": "80",
+        "unit": "g",
+        "preparation": "5mm角に切る"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "chicken-stock-powder",
+        "name": "鶏ガラスープの素",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "サラダ油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "oyakodon-cream",
+    "title": "親子丼（クリーム仕立て）",
+    "base_dish": "oyakodon",
+    "description": "生クリームを加えた洋風親子丼。まろやかで濃厚な味わい。",
+    "introduction": "和風だしに生クリームを加えた新感覚の親子丼。まろやかでコクのある味わいが新しい。いつもの親子丼がレストラン風に変身します。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 520,
+    "protein_g": 28,
+    "fat_g": 18,
+    "carbs_g": 60,
+    "fiber_g": 1,
+    "sodium_mg": 600,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "鶏もも肉は一口大に切る。玉ねぎは薄切りにする。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "小鍋にだし汁100ml、醤油大さじ1、みりん大さじ1を煮立て、玉ねぎと鶏肉を入れて3分煮る。",
+        "tip": "醤油は控えめに。クリームの風味を活かすため"
+      },
+      {
+        "step": 3,
+        "text": "生クリーム50mlを加えてひと煮立ちさせる。",
+        "tip": "沸騰させすぎると分離するので注意"
+      },
+      {
+        "step": 4,
+        "text": "溶き卵をまわし入れ、蓋をして30秒。半熟のうちにご飯の上に滑らせる。パセリを散らす。",
+        "tip": "卵は半熟がベスト"
+      }
+    ],
+    "meta_title": "クリーム親子丼の作り方 | 洋風アレンジレシピ",
+    "meta_description": "生クリームを加えた洋風親子丼。まろやかで濃厚なレストラン風の味わい。",
+    "keywords": [
+      "親子丼",
+      "クリーム",
+      "洋風",
+      "アレンジ",
+      "丼"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "生クリームの代わりに豆乳でもヘルシーに作れます。粉チーズを振りかけるとさらにコクが増します。",
+    "tag_slugs": [
+      "rich",
+      "creamy",
+      "simmer"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "chicken-thigh",
+        "name": "鶏もも肉",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": "一口大に切る"
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "3",
+        "unit": "個"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1/2",
+        "unit": "個",
+        "preparation": "薄切り"
+      },
+      {
+        "slug": "heavy-cream",
+        "name": "生クリーム",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "slug": "dashi-stock",
+        "name": "だし汁",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "soy-sauce",
+        "name": "醤油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "mirin",
+        "name": "みりん",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "cooked-rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳"
+      },
+      {
+        "slug": "parsley",
+        "name": "パセリ",
+        "quantity": "少々",
+        "unit": "",
+        "is_optional": true
+      }
+    ]
+  },
+  {
+    "slug": "tonjiru-goma",
+    "title": "豚汁（ごま味噌）",
+    "base_dish": "tonjiru",
+    "description": "練りごまを加えたコク深い豚汁。濃厚なごまの風味が体を温める。",
+    "introduction": "いつもの豚汁に練りごまをプラスするだけで、コクと深みが格段にアップ。担々麺を思わせるクリーミーな味わいが冬にぴったりです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 20,
+    "total_time_minutes": 35,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 260,
+    "protein_g": 16,
+    "fat_g": 14,
+    "carbs_g": 20,
+    "fiber_g": 4,
+    "sodium_mg": 780,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "豚バラ肉は3cm幅に切る。大根、人参はいちょう切り、ごぼうはささがき、こんにゃくは手でちぎる。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "ごま油で豚肉を炒め、色が変わったら野菜を全て加えて炒める。",
+        "tip": "ごま油で炒めることで香ばしさが増す"
+      },
+      {
+        "step": 3,
+        "text": "水600mlとだしの素を加え、アクを取りながら10分煮る。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "味噌大さじ3と練りごま大さじ2を溶き入れる。ひと煮立ちしたら火を止め、すりごまと刻みねぎを散らす。",
+        "tip": "練りごまは味噌と一緒に溶くと混ざりやすい"
+      }
+    ],
+    "meta_title": "ごま味噌豚汁の作り方 | 濃厚コク深い",
+    "meta_description": "練りごまを加えたコク深い豚汁。濃厚なごまの風味が体を温める冬にぴったりの一品。",
+    "keywords": [
+      "豚汁",
+      "ごま味噌",
+      "濃厚",
+      "冬",
+      "汁物"
+    ],
+    "cuisine": "和食",
+    "course": "スープ",
+    "tips": "仕上げにラー油を垂らすと担々麺風に。一味唐辛子もよく合います。",
+    "tag_slugs": [
+      "rich",
+      "umami",
+      "simmer"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "pork-belly",
+        "name": "豚バラ肉",
+        "quantity": "150",
+        "unit": "g",
+        "preparation": "3cm幅に切る"
+      },
+      {
+        "slug": "daikon",
+        "name": "大根",
+        "quantity": "5",
+        "unit": "cm",
+        "preparation": "いちょう切り"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "いちょう切り"
+      },
+      {
+        "slug": "gobo",
+        "name": "ごぼう",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "ささがき"
+      },
+      {
+        "slug": "konnyaku",
+        "name": "こんにゃく",
+        "quantity": "1/2",
+        "unit": "枚",
+        "preparation": "手でちぎる"
+      },
+      {
+        "slug": "miso",
+        "name": "味噌",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "neri-goma",
+        "name": "練りごま",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "dashi-powder",
+        "name": "だしの素",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "suri-goma",
+        "name": "すりごま",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "刻み"
+      }
+    ]
+  },
+  {
+    "slug": "carbonara-miso",
+    "title": "カルボナーラ（味噌クリーム）",
+    "base_dish": "carbonara",
+    "description": "味噌のコクをプラスした和風カルボナーラ。意外な組み合わせがクセになる。",
+    "introduction": "クラシックなカルボナーラに白味噌を加えた和洋折衷パスタ。味噌の発酵したコクがチーズと驚くほど合います。パスタ好きに新しい発見を。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 580,
+    "protein_g": 22,
+    "fat_g": 28,
+    "carbs_g": 58,
+    "fiber_g": 2,
+    "sodium_mg": 800,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵黄2個、パルミジャーノ30g、白味噌大さじ1、黒こしょうを混ぜてソースを作る。",
+        "tip": "白味噌は甘めのもの（西京味噌）がベスト"
+      },
+      {
+        "step": 2,
+        "text": "ベーコンをカリカリに焼き、取り出す。脂はフライパンに残す。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "パスタを茹でる。表示より1分短くアルデンテに。",
+        "tip": "茹で汁は取っておくこと"
+      },
+      {
+        "step": 4,
+        "text": "火を止めたフライパンに茹でたパスタを入れ、ソースを絡める。茹で汁で濃度を調整し、ベーコンを戻す。",
+        "tip": "絶対に火にかけたまま卵液を入れないこと。スクランブルエッグになる"
+      }
+    ],
+    "meta_title": "味噌カルボナーラの作り方 | 和風アレンジパスタ",
+    "meta_description": "白味噌を加えた和風カルボナーラ。味噌とチーズの発酵コクがクセになる新感覚パスタ。",
+    "keywords": [
+      "カルボナーラ",
+      "味噌",
+      "和風パスタ",
+      "アレンジ",
+      "パスタ"
+    ],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "味噌は入れすぎると塩辛くなるので大さじ1を目安に。物足りなければ少しずつ足してください。",
+    "tag_slugs": [
+      "rich",
+      "umami",
+      "creamy"
+    ],
+    "category_slug": "pasta",
+    "ingredients": [
+      {
+        "slug": "spaghetti",
+        "name": "スパゲッティ",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "bacon",
+        "name": "ベーコン",
+        "quantity": "80",
+        "unit": "g",
+        "preparation": "短冊切り"
+      },
+      {
+        "slug": "egg-yolk",
+        "name": "卵黄",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "parmigiano",
+        "name": "パルミジャーノ",
+        "quantity": "30",
+        "unit": "g",
+        "preparation": "すりおろし"
+      },
+      {
+        "slug": "shiro-miso",
+        "name": "白味噌",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "black-pepper",
+        "name": "黒こしょう",
+        "quantity": "適量",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "bibimbap-salmon",
+    "title": "ビビンバ（サーモン海鮮）",
+    "base_dish": "bibimbap",
+    "description": "新鮮なサーモンをのせた海鮮ビビンバ。コチュジャンダレで混ぜて召し上がれ。",
+    "introduction": "石焼きビビンバの具材をサーモンに変えた海鮮アレンジ。アボカドとの相性も抜群で、新しいビビンバの世界が広がります。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 480,
+    "protein_g": 26,
+    "fat_g": 16,
+    "carbs_g": 58,
+    "fiber_g": 3,
+    "sodium_mg": 700,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "サーモンは刺身用を1cm角に切る。アボカドも同じ大きさに切る。",
+        "tip": "サーモンは新鮮な刺身用を使うこと"
+      },
+      {
+        "step": 2,
+        "text": "ナムル3種を作る：もやし、ほうれん草、人参をそれぞれ茹でて、ごま油と塩で和える。",
+        "tip": "市販のナムルでも可"
+      },
+      {
+        "step": 3,
+        "text": "コチュジャン大さじ1、ごま油大さじ1、醤油小さじ1、砂糖小さじ1/2を混ぜてタレを作る。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "丼にご飯を盛り、ナムル、サーモン、アボカドを彩りよく並べる。中央に卵黄をのせ、タレを添える。",
+        "tip": "よく混ぜて食べるのが美味しいコツ"
+      }
+    ],
+    "meta_title": "サーモンビビンバの作り方 | 海鮮アレンジ",
+    "meta_description": "新鮮なサーモンとアボカドの海鮮ビビンバ。コチュジャンダレで混ぜて楽しむ新感覚レシピ。",
+    "keywords": [
+      "ビビンバ",
+      "サーモン",
+      "海鮮",
+      "アレンジ",
+      "韓国"
+    ],
+    "cuisine": "韓国料理",
+    "course": "メイン",
+    "tips": "わさび醤油を少し垂らすと和風テイストに。韓国海苔を散らすのもおすすめです。",
+    "tag_slugs": [
+      "light",
+      "sour",
+      "raw"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "salmon-sashimi",
+        "name": "サーモン（刺身用）",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "avocado",
+        "name": "アボカド",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "bean-sprouts",
+        "name": "もやし",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "spinach",
+        "name": "ほうれん草",
+        "quantity": "1/2",
+        "unit": "束"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "千切り"
+      },
+      {
+        "slug": "egg-yolk",
+        "name": "卵黄",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "cooked-rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳"
+      }
+    ]
+  },
+  {
+    "slug": "pudding-matcha",
+    "title": "プリン（抹茶）",
+    "base_dish": "pudding",
+    "description": "抹茶のほろ苦さとカスタードの甘さが絶妙なプリン。大人の味わい。",
+    "introduction": "良質な抹茶を使った和テイストのプリン。ほろ苦い抹茶とまろやかなカスタードのハーモニーが楽しめます。おもてなしデザートにも。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55,
+    "servings": 4,
+    "servings_unit": "個",
+    "difficulty": "medium",
+    "calories": 200,
+    "protein_g": 7,
+    "fat_g": 8,
+    "carbs_g": 26,
+    "fiber_g": 0,
+    "sodium_mg": 80,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "カラメル：砂糖大さじ3と水大さじ1を小鍋で加熱。茶色くなったら湯大さじ1を加え、プリン型に流す。",
+        "tip": "カラメルはすぐに固まるので手早く型に入れる"
+      },
+      {
+        "step": 2,
+        "text": "抹茶小さじ2を少量の牛乳でダマなく溶く。残りの牛乳250mlと砂糖50gを温めて合わせる。",
+        "tip": "抹茶は茶漉しで振るうとダマになりにくい"
+      },
+      {
+        "step": 3,
+        "text": "卵2個を溶きほぐし、抹茶牛乳を少しずつ加えて混ぜる。漉してプリン型に注ぐ。",
+        "tip": "必ず漉すこと。なめらかさが全然違う"
+      },
+      {
+        "step": 4,
+        "text": "バットにお湯を張り、150度のオーブンで35〜40分蒸し焼き。粗熱を取って冷蔵庫で3時間冷やす。",
+        "tip": "ゆすって中央がプルプル揺れる程度で取り出す"
+      }
+    ],
+    "meta_title": "抹茶プリンの作り方 | ほろ苦大人のデザート",
+    "meta_description": "抹茶のほろ苦さとカスタードの甘さが絶妙な和風プリン。おもてなしにも最適。",
+    "keywords": [
+      "プリン",
+      "抹茶",
+      "デザート",
+      "和風",
+      "スイーツ"
+    ],
+    "cuisine": "和食",
+    "course": "デザート",
+    "tips": "抹茶は製菓用ではなく、薄茶用の良質なものを使うと香りが段違いです。",
+    "tag_slugs": [
+      "sweet",
+      "creamy",
+      "entertaining"
+    ],
+    "category_slug": "dessert",
+    "ingredients": [
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "milk",
+        "name": "牛乳",
+        "quantity": "250",
+        "unit": "ml"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "50",
+        "unit": "g"
+      },
+      {
+        "slug": "matcha",
+        "name": "抹茶",
+        "quantity": "小さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖（カラメル用）",
+        "quantity": "大さじ3",
+        "unit": "",
+        "group_name": "カラメル用"
+      }
+    ]
+  },
+  {
+    "slug": "pudding-hojicha",
+    "title": "プリン（ほうじ茶）",
+    "base_dish": "pudding",
+    "description": "ほうじ茶の香ばしい香りが広がるプリン。やさしい甘さで癒される。",
+    "introduction": "ほうじ茶を牛乳で煮出して作る、香ばしい風味のプリン。抹茶よりも苦みが少なく、お茶の香りをまろやかに楽しめます。ほっとする味わいです。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 60,
+    "servings": 4,
+    "servings_unit": "個",
+    "difficulty": "medium",
+    "calories": 190,
+    "protein_g": 7,
+    "fat_g": 7,
+    "carbs_g": 25,
+    "fiber_g": 0,
+    "sodium_mg": 75,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "牛乳300mlにほうじ茶葉大さじ2を入れ、弱火で5分煮出す。茶漉しで濾す。",
+        "tip": "濃いめに煮出すのがコツ。プリンにすると風味が薄まるので"
+      },
+      {
+        "step": 2,
+        "text": "カラメルを作ってプリン型に流す。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "卵2個と砂糖40gを混ぜ、ほうじ茶牛乳を少しずつ加える。漉して型に注ぐ。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "150度のオーブンで湯煎焼き35分。冷蔵庫で3時間以上冷やす。",
+        "tip": "一晩冷やすと味がなじんでより美味しい"
+      }
+    ],
+    "meta_title": "ほうじ茶プリンの作り方 | 香ばしいやさしい味",
+    "meta_description": "ほうじ茶の香ばしい風味が広がるプリン。やさしい甘さで癒される和風デザート。",
+    "keywords": [
+      "プリン",
+      "ほうじ茶",
+      "デザート",
+      "和風",
+      "やさしい味"
+    ],
+    "cuisine": "和食",
+    "course": "デザート",
+    "tips": "ほうじ茶は焙煎度の高いものを選ぶと、より香ばしい風味が楽しめます。きな粉をかけても美味しいです。",
+    "tag_slugs": [
+      "sweet",
+      "creamy",
+      "entertaining"
+    ],
+    "category_slug": "dessert",
+    "ingredients": [
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "milk",
+        "name": "牛乳",
+        "quantity": "300",
+        "unit": "ml"
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "40",
+        "unit": "g"
+      },
+      {
+        "slug": "hojicha",
+        "name": "ほうじ茶葉",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖（カラメル用）",
+        "quantity": "大さじ3",
+        "unit": "",
+        "group_name": "カラメル用"
+      }
+    ]
+  },
+  {
+    "slug": "pot-au-feu-curry",
+    "title": "ポトフ（カレー風味）",
+    "base_dish": "pot-au-feu",
+    "description": "スパイスの香るポトフ。カレー粉を加えるだけで体がぽかぽか温まる。",
+    "introduction": "定番のポトフにカレー粉を加えたスパイシーアレンジ。体が芯から温まる冬にぴったりの一品。翌日はルーを足してカレーにリメイクも。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 18,
+    "fat_g": 12,
+    "carbs_g": 25,
+    "fiber_g": 5,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "ソーセージ、じゃがいも、人参、キャベツ、玉ねぎを大きめに切る。",
+        "tip": "野菜は大きめに切ると煮崩れしにくい"
+      },
+      {
+        "step": 2,
+        "text": "鍋にオリーブオイルを熱し、野菜を軽く炒める。カレー粉大さじ1を加えて香りを出す。",
+        "tip": "カレー粉は先に炒めて香りを立てるのがポイント"
+      },
+      {
+        "step": 3,
+        "text": "水800ml、コンソメ2個を入れ、アクを取りながら30分煮込む。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "ソーセージを加えて5分煮る。塩こしょうで味を調え、パセリを散らす。",
+        "tip": "ソーセージは最後に入れると食感が残る"
+      }
+    ],
+    "meta_title": "カレーポトフの作り方 | スパイシーアレンジ",
+    "meta_description": "カレー粉を加えたスパイシーなポトフ。体が芯から温まる冬にぴったりのレシピ。",
+    "keywords": [
+      "ポトフ",
+      "カレー",
+      "スープ",
+      "スパイシー",
+      "冬"
+    ],
+    "cuisine": "フレンチ",
+    "course": "スープ",
+    "tips": "翌日にカレールーを溶かせば、そのままカレーにリメイクできます。ウインナーの代わりに手羽元でも。",
+    "tag_slugs": [
+      "spicy",
+      "simmer",
+      "umami"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "sausage",
+        "name": "ソーセージ",
+        "quantity": "6",
+        "unit": "本"
+      },
+      {
+        "slug": "potato",
+        "name": "じゃがいも",
+        "quantity": "2",
+        "unit": "個",
+        "preparation": "半分に切る"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1",
+        "unit": "本",
+        "preparation": "大きめ乱切り"
+      },
+      {
+        "slug": "cabbage",
+        "name": "キャベツ",
+        "quantity": "1/4",
+        "unit": "個",
+        "preparation": "芯付きくし切り"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "くし切り"
+      },
+      {
+        "slug": "curry-powder",
+        "name": "カレー粉",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "consomme",
+        "name": "コンソメ",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "ebi-chili-mayo",
+    "title": "エビチリ（マヨネーズ）",
+    "base_dish": "ebi-chili",
+    "description": "エビマヨ風のクリーミーなエビチリ。辛さ控えめで子供にも人気。",
+    "introduction": "ケチャップベースの定番エビチリにマヨネーズを加えた、まろやかクリーミーバージョン。辛さが苦手な方や子供にも大人気の味わいです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 320,
+    "protein_g": 22,
+    "fat_g": 18,
+    "carbs_g": 16,
+    "fiber_g": 1,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "エビの殻を剥き背わたを取る。片栗粉と塩でもみ洗いし、水気を拭く。",
+        "tip": "片栗粉で洗うと臭みが取れる"
+      },
+      {
+        "step": 2,
+        "text": "ケチャップ大さじ2、マヨネーズ大さじ2、砂糖小さじ1、鶏ガラ小さじ1/2を混ぜてソースを作る。",
+        "tip": "マヨネーズは多めがクリーミーで美味しい"
+      },
+      {
+        "step": 3,
+        "text": "フライパンにごま油を熱し、にんにくと長ねぎを炒め、エビを加えて両面焼く。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "ソースを加えてエビに絡め、仕上げにレタスを敷いた皿に盛り付ける。",
+        "tip": "くるみを散らすとエビマヨ風になる"
+      }
+    ],
+    "meta_title": "エビマヨチリの作り方 | クリーミーアレンジ",
+    "meta_description": "マヨネーズ入りのクリーミーなエビチリ。辛さ控えめで子供にも人気のレシピ。",
+    "keywords": [
+      "エビチリ",
+      "エビマヨ",
+      "クリーミー",
+      "マヨネーズ",
+      "中華"
+    ],
+    "cuisine": "中華",
+    "course": "メイン",
+    "tips": "くるみやカシューナッツを砕いて散らすと食感のアクセントに。練乳を少し加えるとさらに甘めの味に。",
+    "tag_slugs": [
+      "sweet",
+      "rich",
+      "creamy",
+      "stir-fry"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "shrimp",
+        "name": "むきエビ",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "ketchup",
+        "name": "ケチャップ",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "mayonnaise",
+        "name": "マヨネーズ",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "chicken-stock-powder",
+        "name": "鶏ガラスープの素",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "1",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "1/3",
+        "unit": "本",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "lettuce",
+        "name": "レタス",
+        "quantity": "2",
+        "unit": "枚"
+      }
+    ]
+  },
+  {
+    "slug": "gapao-pork",
+    "title": "ガパオライス（豚肉スパイシー）",
+    "base_dish": "gapao",
+    "description": "豚ひき肉で作るスパイシーなガパオライス。バジルの香り高い一品。",
+    "introduction": "鶏ではなく豚ひき肉で作るパンチのあるガパオライス。豚の脂のコクとスパイスの刺激が絶妙。タイの屋台で食べるような本格的な味わいを目指しました。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 480,
+    "protein_g": 22,
+    "fat_g": 20,
+    "carbs_g": 52,
+    "fiber_g": 2,
+    "sodium_mg": 750,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "にんにく、唐辛子をみじん切りにする。バジルは葉を摘んでおく。",
+        "tip": "タイバジル（ホーリーバジル）が手に入ればベスト"
+      },
+      {
+        "step": 2,
+        "text": "強火でフライパンを熱し、にんにくと唐辛子を炒め、豚ひき肉を加えてほぐしながら炒める。",
+        "tip": "強火で一気に炒めるのがポイント"
+      },
+      {
+        "step": 3,
+        "text": "オイスターソース大さじ1、ナンプラー大さじ1、砂糖小さじ1を加え、全体に絡める。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "火を止めてバジルを加え、余熱でしんなりさせる。ご飯に盛り、目玉焼きをのせる。",
+        "tip": "目玉焼きの黄身は半熟に仕上げて、崩しながら食べる"
+      }
+    ],
+    "meta_title": "豚肉ガパオライスの作り方 | スパイシーアレンジ",
+    "meta_description": "豚ひき肉で作るスパイシーなガパオライス。バジルの香り高い本格タイ料理レシピ。",
+    "keywords": [
+      "ガパオライス",
+      "豚肉",
+      "タイ料理",
+      "スパイシー",
+      "バジル"
+    ],
+    "cuisine": "タイ料理",
+    "course": "メイン",
+    "tips": "辛さは唐辛子の量で調整。種を取ると辛さが和らぎます。レモンを絞るとさっぱりします。",
+    "tag_slugs": [
+      "spicy",
+      "stir-fry",
+      "quick"
+    ],
+    "category_slug": "rice",
+    "ingredients": [
+      {
+        "slug": "pork-mince",
+        "name": "豚ひき肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "2",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "chili-pepper",
+        "name": "唐辛子",
+        "quantity": "2",
+        "unit": "本",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "basil",
+        "name": "バジル",
+        "quantity": "1",
+        "unit": "パック"
+      },
+      {
+        "slug": "oyster-sauce",
+        "name": "オイスターソース",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "fish-sauce",
+        "name": "ナンプラー",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "2",
+        "unit": "個"
+      },
+      {
+        "slug": "cooked-rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳"
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "bolognese-bianco",
+    "title": "ボロネーゼ（白い・クリーム）",
+    "base_dish": "bolognese",
+    "description": "トマトを使わない白いボロネーゼ。白ワインとクリームの上品な味わい。",
+    "introduction": "イタリア・エミリア=ロマーニャ地方では実はトマトなしのボロネーゼも定番。白ワインで煮込み、仕上げに生クリームを加えた上品な一皿です。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 40,
+    "total_time_minutes": 55,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 580,
+    "protein_g": 25,
+    "fat_g": 28,
+    "carbs_g": 55,
+    "fiber_g": 3,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "玉ねぎ、人参、セロリをみじん切りにする（ソフリット）。",
+        "tip": "ソフリットは細かいほどソースが滑らかになる"
+      },
+      {
+        "step": 2,
+        "text": "オリーブオイルでソフリットをじっくり15分炒める。合いびき肉を加えて崩しながら炒める。",
+        "tip": "弱火でじっくり。甘みを引き出す"
+      },
+      {
+        "step": 3,
+        "text": "白ワイン100mlを加えてアルコールを飛ばし、ブイヨン100mlを加えて20分煮込む。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "生クリーム50mlを加えてひと煮立ち。茹でたパスタと和え、パルミジャーノを振る。",
+        "tip": "タリアテッレやフェットチーネがよく合う"
+      }
+    ],
+    "meta_title": "白いボロネーゼの作り方 | クリーム仕立て",
+    "meta_description": "トマトを使わない白いボロネーゼ。白ワインとクリームで仕上げる上品なパスタ。",
+    "keywords": [
+      "ボロネーゼ",
+      "白",
+      "クリーム",
+      "パスタ",
+      "イタリアン"
+    ],
+    "cuisine": "イタリアン",
+    "course": "メイン",
+    "tips": "ナツメグを少々加えると味に奥行きが出ます。パスタはタリアテッレがベストマッチ。",
+    "tag_slugs": [
+      "rich",
+      "creamy",
+      "umami",
+      "simmer"
+    ],
+    "category_slug": "pasta",
+    "ingredients": [
+      {
+        "slug": "pasta",
+        "name": "パスタ（タリアテッレ推奨）",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "ground-meat",
+        "name": "合いびき肉",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1/2",
+        "unit": "個",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "carrot",
+        "name": "人参",
+        "quantity": "1/3",
+        "unit": "本",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "celery",
+        "name": "セロリ",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "white-wine",
+        "name": "白ワイン",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "bouillon",
+        "name": "ブイヨン",
+        "quantity": "100",
+        "unit": "ml"
+      },
+      {
+        "slug": "heavy-cream",
+        "name": "生クリーム",
+        "quantity": "50",
+        "unit": "ml"
+      },
+      {
+        "slug": "parmigiano",
+        "name": "パルミジャーノ",
+        "quantity": "適量",
+        "unit": ""
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "大さじ2",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "kimchi-jjigae-seafood",
+    "title": "キムチチゲ（海鮮スンドゥブ風）",
+    "base_dish": "kimchi-jjigae",
+    "description": "アサリと豆腐を加えた海鮮キムチチゲ。魚介の旨みが溶け込んだ絶品。",
+    "introduction": "豚肉の代わりにアサリを使い、絹ごし豆腐をたっぷり入れたスンドゥブ風キムチチゲ。魚介の出汁とキムチの辛さが体を芯から温めます。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 200,
+    "protein_g": 16,
+    "fat_g": 8,
+    "carbs_g": 16,
+    "fiber_g": 3,
+    "sodium_mg": 800,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "アサリは砂抜きしておく。キムチは食べやすい大きさに切る。絹ごし豆腐は大きめに崩す。",
+        "tip": "アサリは塩水に1時間漬けて砂抜き"
+      },
+      {
+        "step": 2,
+        "text": "ごま油でキムチを炒め、水400mlとアサリを加えて煮る。",
+        "tip": "キムチを先に炒めると旨みが増す"
+      },
+      {
+        "step": 3,
+        "text": "アサリの口が開いたら、コチュジャン大さじ1、ナンプラー小さじ1を加え、豆腐を入れる。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "3分煮て、仕上げに卵を割り入れる。長ねぎの小口切りを散らす。",
+        "tip": "卵は半熟で食べるのが美味しい"
+      }
+    ],
+    "meta_title": "海鮮キムチチゲの作り方 | アサリのスンドゥブ風",
+    "meta_description": "アサリと豆腐のスンドゥブ風キムチチゲ。魚介の旨みとキムチの辛さが絶品。",
+    "keywords": [
+      "キムチチゲ",
+      "海鮮",
+      "スンドゥブ",
+      "アサリ",
+      "韓国料理"
+    ],
+    "cuisine": "韓国料理",
+    "course": "スープ",
+    "tips": "イカやエビを追加してもおいしい。ご飯を入れてクッパにするのもおすすめです。",
+    "tag_slugs": [
+      "spicy",
+      "umami",
+      "simmer"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "asari",
+        "name": "アサリ",
+        "quantity": "200",
+        "unit": "g",
+        "preparation": "砂抜き済み"
+      },
+      {
+        "slug": "tofu",
+        "name": "絹ごし豆腐",
+        "quantity": "1",
+        "unit": "丁"
+      },
+      {
+        "slug": "kimchi",
+        "name": "キムチ",
+        "quantity": "150",
+        "unit": "g"
+      },
+      {
+        "slug": "gochujang",
+        "name": "コチュジャン",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "fish-sauce",
+        "name": "ナンプラー",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "1",
+        "unit": "個"
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "1/2",
+        "unit": "本",
+        "preparation": "小口切り"
+      },
+      {
+        "slug": "sesame-oil",
+        "name": "ごま油",
+        "quantity": "大さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "ratatouille-gratin",
+    "title": "ラタトゥイユ（チーズグラタン）",
+    "base_dish": "ratatouille",
+    "description": "ラタトゥイユにチーズをのせて焼いたグラタン風。とろけるチーズが絶品。",
+    "introduction": "野菜たっぷりのラタトゥイユにたっぷりチーズをのせてオーブンで焼き上げた、ごちそうアレンジ。パンを添えれば立派なメインディッシュに。",
+    "prep_time_minutes": 20,
+    "cook_time_minutes": 35,
+    "total_time_minutes": 55,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 280,
+    "protein_g": 12,
+    "fat_g": 14,
+    "carbs_g": 25,
+    "fiber_g": 5,
+    "sodium_mg": 500,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "なす、ズッキーニ、パプリカ、玉ねぎを1cm角に切る。にんにくはみじん切り。",
+        "tip": null
+      },
+      {
+        "step": 2,
+        "text": "オリーブオイルでにんにくを炒め、硬い野菜から順に加えて炒める。",
+        "tip": "玉ねぎ→パプリカ→ズッキーニ→なすの順で"
+      },
+      {
+        "step": 3,
+        "text": "トマト缶、塩小さじ1、タイムを加え、蓋をして弱火で20分煮込む。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "耐熱皿に移し、モッツァレラとパルミジャーノをたっぷりかけ、220度のオーブンで10分焼く。",
+        "tip": "チーズに焦げ目がつくまで焼くのがポイント"
+      }
+    ],
+    "meta_title": "ラタトゥイユグラタンの作り方 | チーズとろける",
+    "meta_description": "野菜たっぷりラタトゥイユにチーズをのせて焼いたグラタン風アレンジ。",
+    "keywords": [
+      "ラタトゥイユ",
+      "グラタン",
+      "チーズ",
+      "野菜",
+      "フレンチ"
+    ],
+    "cuisine": "フレンチ",
+    "course": "メイン",
+    "tips": "余ったラタトゥイユのリメイクにも最適。パスタにかけても美味しいです。",
+    "tag_slugs": [
+      "rich",
+      "umami",
+      "simmer",
+      "entertaining"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "eggplant",
+        "name": "なす",
+        "quantity": "2",
+        "unit": "本",
+        "preparation": "1cm角に切る"
+      },
+      {
+        "slug": "zucchini",
+        "name": "ズッキーニ",
+        "quantity": "1",
+        "unit": "本",
+        "preparation": "1cm角に切る"
+      },
+      {
+        "slug": "bell-pepper",
+        "name": "パプリカ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "1cm角に切る"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "1cm角に切る"
+      },
+      {
+        "slug": "garlic",
+        "name": "にんにく",
+        "quantity": "2",
+        "unit": "片",
+        "preparation": "みじん切り"
+      },
+      {
+        "slug": "canned-tomato",
+        "name": "トマト缶",
+        "quantity": "1",
+        "unit": "缶"
+      },
+      {
+        "slug": "mozzarella",
+        "name": "モッツァレラ",
+        "quantity": "100",
+        "unit": "g"
+      },
+      {
+        "slug": "parmigiano",
+        "name": "パルミジャーノ",
+        "quantity": "30",
+        "unit": "g"
+      },
+      {
+        "slug": "olive-oil",
+        "name": "オリーブオイル",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "salt",
+        "name": "塩",
+        "quantity": "小さじ1",
+        "unit": ""
+      }
+    ]
+  },
+  {
+    "slug": "green-curry-shrimp",
+    "title": "グリーンカレー（海老）",
+    "base_dish": "green-curry",
+    "description": "プリプリのエビが主役のグリーンカレー。ココナッツミルクとの相性抜群。",
+    "introduction": "鶏肉の代わりにエビをたっぷり使ったグリーンカレー。エビの旨みがココナッツミルクに溶け込み、より上品な味わいに。おもてなしにも使えるワンランク上のカレーです。",
+    "prep_time_minutes": 15,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 30,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 450,
+    "protein_g": 24,
+    "fat_g": 22,
+    "carbs_g": 40,
+    "fiber_g": 3,
+    "sodium_mg": 700,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "エビの殻を剥き背わたを取る。なすは乱切り、パプリカは細切りにする。",
+        "tip": "エビの殻でだしを取ると本格的な味に"
+      },
+      {
+        "step": 2,
+        "text": "鍋にココナッツミルクの固形部分を入れて熱し、グリーンカレーペーストを加えて炒める。",
+        "tip": "缶の上部に固まっている部分を使う"
+      },
+      {
+        "step": 3,
+        "text": "残りのココナッツミルクとナンプラー大さじ1、砂糖小さじ1を加え、なすを入れて5分煮る。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "エビとパプリカを加えて3分煮る。バジルを加えて火を止める。ご飯に添えて完成。",
+        "tip": "エビは煮すぎると硬くなるので注意"
+      }
+    ],
+    "meta_title": "海老のグリーンカレーの作り方 | エビたっぷり",
+    "meta_description": "プリプリのエビが主役のグリーンカレー。ココナッツミルクに溶け込んだ海老の旨み。",
+    "keywords": [
+      "グリーンカレー",
+      "エビ",
+      "タイ料理",
+      "ココナッツ",
+      "カレー"
+    ],
+    "cuisine": "タイ料理",
+    "course": "メイン",
+    "tips": "エビの殻は捨てずに、ココナッツミルクで煮出してだしを取ると本格的な味になります。",
+    "tag_slugs": [
+      "spicy",
+      "rich",
+      "simmer"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "shrimp",
+        "name": "エビ（殻付き）",
+        "quantity": "200",
+        "unit": "g"
+      },
+      {
+        "slug": "coconut-milk",
+        "name": "ココナッツミルク",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "slug": "green-curry-paste",
+        "name": "グリーンカレーペースト",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "eggplant",
+        "name": "なす",
+        "quantity": "2",
+        "unit": "本",
+        "preparation": "乱切り"
+      },
+      {
+        "slug": "bell-pepper",
+        "name": "パプリカ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "細切り"
+      },
+      {
+        "slug": "fish-sauce",
+        "name": "ナンプラー",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "basil",
+        "name": "バジル",
+        "quantity": "適量",
+        "unit": ""
+      },
+      {
+        "slug": "cooked-rice",
+        "name": "ご飯",
+        "quantity": "2",
+        "unit": "膳"
+      }
+    ]
+  },
+  {
+    "slug": "misoshiru-nametake",
+    "title": "味噌汁（なめこと豆腐）",
+    "base_dish": "misoshiru",
+    "description": "とろっとしたなめこの食感が楽しい味噌汁。日本の朝食の定番。",
+    "introduction": "なめこのとろみと豆腐のやさしい食感が特徴の味噌汁。赤だしとの相性が特に良く、心と体をほっとさせてくれる一杯です。",
+    "prep_time_minutes": 5,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 15,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 60,
+    "protein_g": 5,
+    "fat_g": 2,
+    "carbs_g": 6,
+    "fiber_g": 2,
+    "sodium_mg": 500,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "なめこはザルに入れてさっと水洗いする。豆腐は1.5cm角に切る。",
+        "tip": "なめこは洗いすぎるとぬめりが落ちるので軽くでOK"
+      },
+      {
+        "step": 2,
+        "text": "だし汁400mlを沸かし、なめこを入れてひと煮立ちさせる。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "豆腐を加え、火を弱めて味噌大さじ2を溶き入れる。",
+        "tip": "味噌は沸騰させないこと。風味が飛ぶ"
+      },
+      {
+        "step": 4,
+        "text": "椀に盛り、刻みねぎを散らす。",
+        "tip": null
+      }
+    ],
+    "meta_title": "なめこの味噌汁の作り方 | とろとろ食感",
+    "meta_description": "なめこと豆腐の味噌汁。とろっとした食感が楽しい日本の朝食定番レシピ。",
+    "keywords": [
+      "味噌汁",
+      "なめこ",
+      "豆腐",
+      "和食",
+      "汁物"
+    ],
+    "cuisine": "和食",
+    "course": "スープ",
+    "tips": "赤だし（赤味噌）で作るとなめことの相性が抜群。三つ葉を添えても美味しいです。",
+    "tag_slugs": [
+      "umami",
+      "simmer",
+      "quick"
+    ],
+    "category_slug": "soup",
+    "ingredients": [
+      {
+        "slug": "nameko",
+        "name": "なめこ",
+        "quantity": "1",
+        "unit": "パック"
+      },
+      {
+        "slug": "tofu",
+        "name": "豆腐",
+        "quantity": "1/2",
+        "unit": "丁",
+        "preparation": "1.5cm角に切る"
+      },
+      {
+        "slug": "dashi-stock",
+        "name": "だし汁",
+        "quantity": "400",
+        "unit": "ml"
+      },
+      {
+        "slug": "miso",
+        "name": "味噌",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "long-onion",
+        "name": "長ねぎ",
+        "quantity": "少々",
+        "unit": "",
+        "preparation": "小口切り"
+      }
+    ]
+  },
+  {
+    "slug": "dashimaki-mentai",
+    "title": "だし巻き卵（明太子）",
+    "base_dish": "dashimaki",
+    "description": "ぷちぷち明太子入りのだし巻き卵。おつまみにもお弁当にも。",
+    "introduction": "定番のだし巻き卵に明太子を巻き込んだ贅沢アレンジ。切った断面がピンク色で見た目にも華やか。居酒屋の人気メニューをお家で。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 10,
+    "total_time_minutes": 20,
+    "servings": 2,
+    "servings_unit": "人前",
+    "difficulty": "medium",
+    "calories": 200,
+    "protein_g": 15,
+    "fat_g": 13,
+    "carbs_g": 3,
+    "fiber_g": 0,
+    "sodium_mg": 650,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "卵3個にだし汁大さじ3、薄口醤油小さじ1/2を混ぜる。明太子は薄皮から取り出す。",
+        "tip": "卵液は漉すとなめらかに焼ける"
+      },
+      {
+        "step": 2,
+        "text": "卵焼き器を中火で熱し油を引く。卵液の1/3を流し入れ、半熟のうちに明太子を中央にのせて巻く。",
+        "tip": "明太子は1回目だけに入れるとちょうどいい量になる"
+      },
+      {
+        "step": 3,
+        "text": "残りの卵液を2回に分けて焼き、巻いていく。",
+        "tip": "巻く前に都度油を薄く引くと焦げ付かない"
+      },
+      {
+        "step": 4,
+        "text": "巻きすで形を整え、2分ほど置いてから切り分ける。大葉を添えて盛り付ける。",
+        "tip": null
+      }
+    ],
+    "meta_title": "明太子だし巻き卵の作り方 | おつまみに最適",
+    "meta_description": "明太子入りのだし巻き卵。ぷちぷち食感が楽しい居酒屋風レシピ。",
+    "keywords": [
+      "だし巻き卵",
+      "明太子",
+      "おつまみ",
+      "卵焼き",
+      "和食"
+    ],
+    "cuisine": "和食",
+    "course": "副菜",
+    "tips": "辛子明太子を使うとピリ辛に。たらこでも同様に作れます。大根おろしを添えるとさっぱり。",
+    "tag_slugs": [
+      "umami",
+      "spicy",
+      "grill",
+      "bento"
+    ],
+    "category_slug": "side-dish",
+    "ingredients": [
+      {
+        "slug": "egg",
+        "name": "卵",
+        "quantity": "3",
+        "unit": "個"
+      },
+      {
+        "slug": "mentaiko",
+        "name": "明太子",
+        "quantity": "1",
+        "unit": "腹"
+      },
+      {
+        "slug": "dashi-stock",
+        "name": "だし汁",
+        "quantity": "大さじ3",
+        "unit": ""
+      },
+      {
+        "slug": "usukuchi-shoyu",
+        "name": "薄口醤油",
+        "quantity": "小さじ1/2",
+        "unit": ""
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "油",
+        "quantity": "適量",
+        "unit": ""
+      },
+      {
+        "slug": "shiso",
+        "name": "大葉",
+        "quantity": "2",
+        "unit": "枚",
+        "is_optional": true
+      }
+    ]
+  },
+  {
+    "slug": "shogayaki-miso",
+    "title": "豚の生姜焼き（味噌だれ）",
+    "base_dish": "shogayaki",
+    "description": "味噌だれで焼いたコク深い生姜焼き。ご飯との相性が最高。",
+    "introduction": "醤油だれの代わりに味噌だれで仕上げた生姜焼き。味噌のコクと生姜の爽やかさが調和して、ご飯が止まらない美味しさです。",
+    "prep_time_minutes": 10,
+    "cook_time_minutes": 15,
+    "total_time_minutes": 25,
+    "servings": 4,
+    "servings_unit": "人前",
+    "difficulty": "easy",
+    "calories": 330,
+    "protein_g": 25,
+    "fat_g": 18,
+    "carbs_g": 14,
+    "fiber_g": 1,
+    "sodium_mg": 720,
+    "instructions": [
+      {
+        "step": 1,
+        "text": "味噌大さじ2、みりん大さじ1、砂糖小さじ1、おろし生姜大さじ1を混ぜてタレを作る。",
+        "tip": "合わせ味噌がバランスよい。赤味噌単体だと辛めになる"
+      },
+      {
+        "step": 2,
+        "text": "豚肉を室温に戻し、軽く塩こしょうする。",
+        "tip": null
+      },
+      {
+        "step": 3,
+        "text": "フライパンに油を熱し、豚肉を中火で両面焼く。焼き色がついたら玉ねぎを加える。",
+        "tip": null
+      },
+      {
+        "step": 4,
+        "text": "味噌ダレを加えて全体に絡める。タレが煮詰まったら完成。千切りキャベツを添えて盛り付ける。",
+        "tip": "焦げやすいので火加減に注意"
+      }
+    ],
+    "meta_title": "味噌だれ生姜焼きの作り方 | コク深いアレンジ",
+    "meta_description": "味噌だれで仕上げたコク深い豚の生姜焼き。ご飯が止まらない美味しさ。",
+    "keywords": [
+      "生姜焼き",
+      "味噌",
+      "豚肉",
+      "アレンジ",
+      "和食"
+    ],
+    "cuisine": "和食",
+    "course": "メイン",
+    "tips": "味噌だれは焦げやすいので、中火〜弱火で手早く仕上げてください。",
+    "tag_slugs": [
+      "rich",
+      "umami",
+      "stir-fry"
+    ],
+    "category_slug": "main",
+    "ingredients": [
+      {
+        "slug": "pork-loin",
+        "name": "豚ロース肉",
+        "quantity": "300",
+        "unit": "g",
+        "preparation": "薄切り"
+      },
+      {
+        "slug": "onion",
+        "name": "玉ねぎ",
+        "quantity": "1",
+        "unit": "個",
+        "preparation": "薄切り"
+      },
+      {
+        "slug": "miso",
+        "name": "味噌",
+        "quantity": "大さじ2",
+        "unit": ""
+      },
+      {
+        "slug": "mirin",
+        "name": "みりん",
+        "quantity": "大さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "sugar",
+        "name": "砂糖",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "ginger",
+        "name": "生姜",
+        "quantity": "大さじ1",
+        "unit": "",
+        "preparation": "すりおろし"
+      },
+      {
+        "slug": "vegetable-oil",
+        "name": "油",
+        "quantity": "小さじ1",
+        "unit": ""
+      },
+      {
+        "slug": "cabbage",
+        "name": "キャベツ",
+        "quantity": "3",
+        "unit": "枚",
+        "preparation": "千切り"
+      }
+    ]
+  }
+]
