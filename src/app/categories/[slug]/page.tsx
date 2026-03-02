@@ -2,7 +2,7 @@ import { notFound } from 'next/navigation'
 import type { Metadata } from 'next'
 import { getCategoryBySlug } from '@/lib/queries/categories'
 import { getPublishedRecipes } from '@/lib/queries/recipes'
-import { RecipeGrid } from '@/components/recipe/recipe-grid'
+import { InfiniteRecipeGrid } from '@/components/recipe/infinite-recipe-grid'
 import { Breadcrumb } from '@/components/layout/breadcrumb'
 import { SITE } from '@/lib/constants/site'
 
@@ -32,7 +32,10 @@ export default async function CategoryDetailPage({ params }: PageProps) {
 
   if (!category) notFound()
 
-  const recipes = await getPublishedRecipes({ course: category.name, limit: 30 })
+  const PAGE_SIZE = 12
+  const recipes = await getPublishedRecipes({ course: category.name, limit: PAGE_SIZE + 1 })
+  const hasMore = recipes.length > PAGE_SIZE
+  const initialRecipes = hasMore ? recipes.slice(0, PAGE_SIZE) : recipes
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-6">
@@ -47,7 +50,12 @@ export default async function CategoryDetailPage({ params }: PageProps) {
         <p className="text-muted-foreground mb-8">{category.description}</p>
       )}
 
-      <RecipeGrid recipes={recipes} />
+      <InfiniteRecipeGrid
+        initialRecipes={initialRecipes}
+        initialHasMore={hasMore}
+        queryParams={{ course: category.name }}
+        pageSize={PAGE_SIZE}
+      />
     </div>
   )
 }
